@@ -14,11 +14,15 @@ You don't need to be technical to use it. Every record is a plain text page you 
 | `okf/atlas/controls/` | One page per control: what it means, and how every platform in this preview answers it |
 | `okf/atlas/AGENTS.md` and `okf/atlas/rules/` | The rules an AI agent follows when it reads these pages, and how the pages are made |
 | `okf/atlas/retrieval-index.json` | One line of facts per page (verdict, state, sources), so a program can search without reading every page |
-| `web/atlas-sample.json` and `app/` | The data file and browser code behind our Ask the Atlas questionnaire, which routes a question to the right records and checks every citation |
+| `web/atlas-sample.json` and `app/` | The data file and reference code for a sample viewer, our Ask the Atlas questionnaire, which routes a question to the right records and checks every citation. See [About the app folder](#about-the-app-folder) |
 | `examples/` | A simulated freshness pull request: what happens when a vendor page changes |
 | `docs/` | A diagram of how the research loop runs |
 
 The pages follow Open Knowledge Format v0.2 (credited in [NOTICE](NOTICE)), so people and agents read the same files.
+
+## About the app folder
+
+`app/atlas.js` and `app/atlas.css` are reference code, kept so you can see how the viewer reads `web/atlas-sample.json`, routes a concern to controls and checks each citation against its record. This repository has no page to run them in. The script was written for an earlier host page: it fetches the data from `/atlas/atlas-sample.json` and expects that page's element ids (such as `atlas-form`, `stack` and `trace`). To try it yourself, serve the JSON at that path and give your own page those ids. Nothing else in the preview depends on it.
 
 ## What the preview holds back
 
