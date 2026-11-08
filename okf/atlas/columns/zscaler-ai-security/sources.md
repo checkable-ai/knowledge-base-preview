@@ -11,6 +11,18 @@ tags:
   - "ai-usage-control"
   - "sources"
 sources:
+  - id: "confirm-76915fd8911f"
+    resource: "https://www.zscaler.com/products-and-solutions/ai-red-teaming"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-a2f82cacc425"
+    resource: "https://www.zscaler.com/products-and-solutions/ai-access-graph"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-c1b9f9f09b9b"
+    resource: "https://www.zscaler.com/blogs/product-insights/how-zscaler-secures-the-agentic-ai-era"
+    locator: "registry entry"
+    tier: null
   - id: "zscaler-ai-security-01"
     resource: "https://www.zscaler.com/products-and-solutions/ai-security"
     locator: "registry entry"
@@ -83,12 +95,56 @@ sources:
     resource: "https://docs.probe.splx.ai/llms-full.txt"
     locator: "registry entry"
     tier: 1
+  - id: "zscaler-ai-security-r18-01"
+    resource: "https://www.zscaler.com/products-and-solutions/ai-guard-for-users"
+    locator: "registry entry"
+    tier: 1
+  - id: "zscaler-ai-security-r18-02"
+    resource: "https://www.zscaler.com/blogs/product-insights/zscaler-ai-protect-raises-the-bar-for-ai-security"
+    locator: "registry entry"
+    tier: 2
+  - id: "zscaler-ai-security-r18-03"
+    resource: "https://www.zscaler.com/press/zscaler-unveils-new-product-innovations-secure-agentic-ai"
+    locator: "registry entry"
+    tier: 2
+  - id: "zscaler-ai-security-r18-04"
+    resource: "https://compliance.zscaler.com/"
+    locator: "registry entry"
+    tier: 1
+  - id: "zscaler-ai-security-r18-05"
+    resource: "https://www.zscaler.com/press/zscaler-completes-second-information-security-registered-assessors-program-irap-assessment"
+    locator: "registry entry"
+    tier: 2
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-10-14T18:00:00+10:00"
+  at: "2026-11-08T00:00:00+10:00"
 ---
 
 Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### confirm-76915fd8911f
+
+- Title: Quoted by the confirm agents
+- URL: https://www.zscaler.com/products-and-solutions/ai-red-teaming
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c7-10](c7-10.md)
+
+### confirm-a2f82cacc425
+
+- Title: Quoted by the confirm agents
+- URL: https://www.zscaler.com/products-and-solutions/ai-access-graph
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c5-5](c5-5.md)
+
+### confirm-c1b9f9f09b9b
+
+- Title: Quoted by the confirm agents
+- URL: https://www.zscaler.com/blogs/product-insights/how-zscaler-secures-the-agentic-ai-era
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c1-2](c1-2.md)
 
 ### zscaler-ai-security-01
 
@@ -233,3 +289,43 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 - Tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c7-10](c7-10.md)
+
+### zscaler-ai-security-r18-01
+
+- Title: AI Guard for Users
+- URL: https://www.zscaler.com/products-and-solutions/ai-guard-for-users
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### zscaler-ai-security-r18-02
+
+- Title: Zscaler AI Protect raises the bar for AI security
+- URL: https://www.zscaler.com/blogs/product-insights/zscaler-ai-protect-raises-the-bar-for-ai-security
+- Tier: 2
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### zscaler-ai-security-r18-03
+
+- Title: Zscaler unveils new product innovations for agentic AI
+- URL: https://www.zscaler.com/press/zscaler-unveils-new-product-innovations-secure-agentic-ai
+- Tier: 2
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### zscaler-ai-security-r18-04
+
+- Title: Zscaler Compliance Center
+- URL: https://compliance.zscaler.com/
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### zscaler-ai-security-r18-05
+
+- Title: Zscaler completes second IRAP assessment
+- URL: https://www.zscaler.com/press/zscaler-completes-second-information-security-registered-assessors-program-irap-assessment
+- Tier: 2
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)

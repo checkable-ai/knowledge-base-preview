@@ -11,6 +11,18 @@ tags:
   - "data-security"
   - "sources"
 sources:
+  - id: "confirm-137d628e65bf"
+    resource: "https://learn.microsoft.com/en-us/purview/dlp-microsoft365-copilot-location-learn-about"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-c75c232b13a2"
+    resource: "https://learn.microsoft.com/en-us/compliance/regulatory/offering-iso-27001"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-ff0be3b78458"
+    resource: "https://learn.microsoft.com/en-us/purview/data-security-posture-management-learn-about"
+    locator: "registry entry"
+    tier: null
   - id: "microsoft-purview-01"
     resource: "https://learn.microsoft.com/en-us/purview/ai-microsoft-purview"
     locator: "registry entry"
@@ -75,12 +87,60 @@ sources:
     resource: "https://learn.microsoft.com/en-us/purview/ai-azure-foundry"
     locator: "registry entry"
     tier: 1
+  - id: "microsoft-purview-r18-01"
+    resource: "https://learn.microsoft.com/en-us/purview/dlp-microsoft365-copilot-location-learn-about"
+    locator: "registry entry"
+    tier: 1
+  - id: "microsoft-purview-r18-02"
+    resource: "https://learn.microsoft.com/en-us/purview/ai-agents"
+    locator: "registry entry"
+    tier: 1
+  - id: "microsoft-purview-r18-a1"
+    resource: "https://learn.microsoft.com/en-us/compliance/regulatory/offering-irap-australia"
+    locator: "registry entry"
+    tier: 1
+  - id: "microsoft-purview-r18-a2"
+    resource: "https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-australia-irap"
+    locator: "registry entry"
+    tier: 1
+  - id: "microsoft-purview-r18-a3"
+    resource: "https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-soc-2"
+    locator: "registry entry"
+    tier: 1
+  - id: "microsoft-purview-r18-a4"
+    resource: "https://learn.microsoft.com/en-us/compliance/regulatory/offering-iso-42001"
+    locator: "registry entry"
+    tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-10-14T18:00:00+10:00"
+  at: "2026-11-08T00:00:00+10:00"
 ---
 
 Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### confirm-137d628e65bf
+
+- Title: Quoted by the confirm agents
+- URL: https://learn.microsoft.com/en-us/purview/dlp-microsoft365-copilot-location-learn-about
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c3-3](c3-3.md)
+
+### confirm-c75c232b13a2
+
+- Title: Quoted by the confirm agents
+- URL: https://learn.microsoft.com/en-us/compliance/regulatory/offering-iso-27001
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-13](c6-13.md)
+
+### confirm-ff0be3b78458
+
+- Title: Quoted by the confirm agents
+- URL: https://learn.microsoft.com/en-us/purview/data-security-posture-management-learn-about
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c7-8](c7-8.md)
 
 ### microsoft-purview-01
 
@@ -209,3 +269,51 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 - Tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md)
+
+### microsoft-purview-r18-01
+
+- Title: Microsoft Purview DLP for Microsoft 365 Copilot and Cowork
+- URL: https://learn.microsoft.com/en-us/purview/dlp-microsoft365-copilot-location-learn-about
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### microsoft-purview-r18-02
+
+- Title: Use Microsoft Purview to manage data security and compliance for AI agents
+- URL: https://learn.microsoft.com/en-us/purview/ai-agents
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### microsoft-purview-r18-a1
+
+- Title: Australian Government Information Security Registered Assessor Program (IRAP), Microsoft Compliance
+- URL: https://learn.microsoft.com/en-us/compliance/regulatory/offering-irap-australia
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### microsoft-purview-r18-a2
+
+- Title: Australia IRAP, Azure Compliance
+- URL: https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-australia-irap
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### microsoft-purview-r18-a3
+
+- Title: System and Organization Controls (SOC) 2 Type 2, Azure Compliance
+- URL: https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-soc-2
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### microsoft-purview-r18-a4
+
+- Title: ISO/IEC 42001:2023 Artificial Intelligence Management System Standards, Microsoft Compliance
+- URL: https://learn.microsoft.com/en-us/compliance/regulatory/offering-iso-42001
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)

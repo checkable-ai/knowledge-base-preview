@@ -11,6 +11,10 @@ tags:
   - "enterprise-agents"
   - "sources"
 sources:
+  - id: "confirm-02bba864fa43"
+    resource: "https://www.servicenow.com/docs/r/intelligent-experiences/aict-discovering-ai-assets.html"
+    locator: "registry entry"
+    tier: null
   - id: "servicenow-01"
     resource: "https://www.servicenow.com/docs/r/application-development/build-agent-governance.html"
     locator: "registry entry"
@@ -259,12 +263,48 @@ sources:
     resource: "https://www.servicenow.com/docs/r/intelligent-experiences/aict-planning-ai-strategy.html"
     locator: "registry entry"
     tier: 1
+  - id: "servicenow-r18-01"
+    resource: "https://www.servicenow.com/docs/r/intelligent-experiences/environment-capability-controls.html"
+    locator: "registry entry"
+    tier: 1
+  - id: "servicenow-r18-02"
+    resource: "https://www.servicenow.com/docs/r/intelligent-experiences/set-agent-limits-safeguards.html"
+    locator: "registry entry"
+    tier: 1
+  - id: "servicenow-r18-03"
+    resource: "https://www.servicenow.com/docs/r/intelligent-experiences/deactivate-aiw-new-d36240e62107.html"
+    locator: "registry entry"
+    tier: 1
+  - id: "servicenow-r18-04"
+    resource: "https://www.servicenow.com/docs/r/intelligent-experiences/turn-off-local-mcp-servers.html"
+    locator: "registry entry"
+    tier: 1
+  - id: "servicenow-r18-05"
+    resource: "https://www.servicenow.com/docs/r/application-development/build-agent-governance.html"
+    locator: "registry entry"
+    tier: 1
+  - id: "servicenow-r18-06"
+    resource: "https://www.servicenow.com/docs/r/intelligent-experiences/aict-landing.html"
+    locator: "registry entry"
+    tier: 1
+  - id: "servicenow-r18-07"
+    resource: "https://www.servicenow.com/docs/r/australia/intelligent-experiences/platform-now-assist-landing.html"
+    locator: "registry entry"
+    tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-10-14T18:00:00+10:00"
+  at: "2026-11-08T00:00:00+10:00"
 ---
 
 Every source the ServiceNow cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### confirm-02bba864fa43
+
+- Title: Quoted by the confirm agents
+- URL: https://www.servicenow.com/docs/r/intelligent-experiences/aict-discovering-ai-assets.html
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-5](c6-5.md)
 
 ### servicenow-01
 
@@ -761,3 +801,59 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 - Tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-5](c6-5.md)
+
+### servicenow-r18-01
+
+- Title: Environment and capability controls (Cowork)
+- URL: https://www.servicenow.com/docs/r/intelligent-experiences/environment-capability-controls.html
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### servicenow-r18-02
+
+- Title: Set agent limits and safeguards
+- URL: https://www.servicenow.com/docs/r/intelligent-experiences/set-agent-limits-safeguards.html
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### servicenow-r18-03
+
+- Title: Deactivate an AI specialist in AI Agent Studio
+- URL: https://www.servicenow.com/docs/r/intelligent-experiences/deactivate-aiw-new-d36240e62107.html
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### servicenow-r18-04
+
+- Title: Turn off local MCP servers
+- URL: https://www.servicenow.com/docs/r/intelligent-experiences/turn-off-local-mcp-servers.html
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### servicenow-r18-05
+
+- Title: Build Agent governance
+- URL: https://www.servicenow.com/docs/r/application-development/build-agent-governance.html
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### servicenow-r18-06
+
+- Title: AI Control Tower
+- URL: https://www.servicenow.com/docs/r/intelligent-experiences/aict-landing.html
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### servicenow-r18-07
+
+- Title: AI Admin Hub (Australia release)
+- URL: https://www.servicenow.com/docs/r/australia/intelligent-experiences/platform-now-assist-landing.html
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)

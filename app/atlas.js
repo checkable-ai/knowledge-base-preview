@@ -14,8 +14,8 @@
     'How do we detect and stop prompt injection attacks against our agents?',
     'What audit evidence will we have of what an agent did?',
   ];
-  const VERDICT = { supported: 'Supported', partial: 'Partial', 'not-addressed': 'Not addressed', unresolved: 'Unresolved' };
-  const RANK = { supported: 0, partial: 1, unresolved: 2, 'not-addressed': 3 };
+  const VERDICT = { covered: 'Covered', partial: 'Partly covered', 'not-covered': 'Not covered', 'out-of-scope': 'Out of scope', escalated: 'With our team' };
+  const RANK = { covered: 0, partial: 1, escalated: 2, 'not-covered': 3, 'out-of-scope': 4 };
   let D, byRecord, byControl, byPlatform, byGroup, runToken = 0;
 
   const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
@@ -33,7 +33,7 @@
     byPlatform = new Map(D.platforms.map(p => [p.id, p]));
     byGroup = new Map(D.groups.map(g => [g.id, g]));
     $('reserved-count').textContent = String((D.reserved || []).length);
-    $('atlas-scope').textContent = `This preview holds ${D.platforms.length} platforms and tools across ${D.controls.length} controls, ${D.records.length.toLocaleString('en-AU')} records in all. The full knowledge base is larger and stays private.`;
+    $('atlas-scope').textContent = `This edition holds ${D.platforms.length} platforms and tools across ${D.controls.length} controls, ${D.records.length.toLocaleString('en-AU')} records in all. The full knowledge base is available by enquiry.`;
     const m = $('maturity');
     for (const s of D.stages) m.append(new Option(`${s.id.toUpperCase()}: ${s.name}`, s.id));
     m.value = 'm2';
@@ -82,11 +82,11 @@
     for (const c of r.controls) {
       const own = stackIds.map(p => byRecord.get(`${p}--${c}`)).filter(Boolean);
       records.push(...own.map(x => ({ ...x, role: 'in_stack' })));
-      if (own.some(x => x.verdict === 'supported')) continue;
+      if (own.some(x => x.verdict === 'covered')) continue;
       const pool = D.platforms.filter(p => !stackIds.includes(p.id));
       const inGroups = pool.filter(p => r.groups.includes(p.group));
       const cands = (inGroups.length ? inGroups : pool).map(p => byRecord.get(`${p.id}--${c}`))
-        .filter(x => x && (x.verdict === 'supported' || x.verdict === 'partial'))
+        .filter(x => x && (x.verdict === 'covered' || x.verdict === 'partial'))
         .sort((a, b) => RANK[a.verdict] - RANK[b.verdict] || (b.basis === 'agent-verified') - (a.basis === 'agent-verified'));
       records.push(...cands.slice(0, 2).map(x => ({ ...x, role: 'alternative' })));
     }
@@ -100,14 +100,14 @@
       const own = records.filter(x => x.c === c && x.role === 'in_stack');
       const alts = records.filter(x => x.c === c && x.role === 'alternative');
       const names = v => own.filter(x => x.verdict === v).map(x => shortName(byPlatform.get(x.p).name));
-      const sup = names('supported'), par = names('partial');
+      const sup = names('covered'), par = names('partial');
       if (sup.length) parts.push(`${name}: your stack supports it through ${list(sup)}${par.length ? `, with ${list(par)} in part` : ''}.`);
       else if (par.length) parts.push(`${name}: your stack covers it only in part, through ${list(par)}.`);
       else parts.push(`${name}: nothing in your stack covers it${alts.length ? `. The sample points to ${list(alts.map(a => `${shortName(byPlatform.get(a.p).name)} (${VERDICT[a.verdict].toLowerCase()})`))}` : ''}.`);
-      const none = names('not-addressed').concat(names('unresolved'));
+      const none = names('not-covered').concat(names('out-of-scope'), names('escalated'));
       if (none.length && (sup.length || par.length)) parts[parts.length - 1] = parts[parts.length - 1].replace(/\.$/, `. ${list(none)} ${none.length > 1 ? 'do' : 'does'} not cover it.`);
       // The answer cites the records that carry it: covering records first, at most three per control, then alternatives.
-      const carrying = own.filter(x => x.verdict === 'supported' || x.verdict === 'partial').sort((a, b) => RANK[a.verdict] - RANK[b.verdict]).slice(0, 3);
+      const carrying = own.filter(x => x.verdict === 'covered' || x.verdict === 'partial').sort((a, b) => RANK[a.verdict] - RANK[b.verdict]).slice(0, 3);
       for (const x of [...carrying, ...alts]) {
         const url = x.sources[0] || '';
         claims.push({ text: `${shortName(byPlatform.get(x.p).name)}, ${name}: ${sentence(x.answer)}`, finding_id: x.id, source_url: url, record: x });
@@ -272,7 +272,7 @@
       for (const x of rs) {
         if (token !== runToken) return;
         T.light([`r:${x.id}`]); T.lightEdge(`c:${x.c}`, `r:${x.id}`);
-        log(`${x.role === 'alternative' ? 'No supported record in your stack, so it looked further: ' : 'Read '}<code>${esc(x.okf)}</code>: ${esc(VERDICT[x.verdict].toLowerCase())}, ${esc(x.basis.replace('-', ' '))}.`);
+        log(`${x.role === 'alternative' ? 'No covered record in your stack, so it looked further: ' : 'Read '}<code>${esc(x.okf)}</code>: ${esc(VERDICT[x.verdict].toLowerCase())}, ${esc(x.basis.replace('-', ' '))}.`);
         for (const u of (x.sources || []).slice(0, 2)) { T.light([`s:${u}`]); T.lightEdge(`r:${x.id}`, `s:${u}`); }
         await wait(170);
       }

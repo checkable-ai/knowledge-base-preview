@@ -1,292 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400" role="img" aria-labelledby="t d">
-<title id="t">Checkable AI knowledge base preview. Every AI vendor says its platform is secure. See what 27 of them document, control by control.</title>
-<desc id="d">A constellation of 27 AI platforms around 44 security controls in 7 areas. A thread joins a platform to a control wherever its documentation fully supports it, 187 threads in all, from the October 2026 research.</desc>
+<title id="t">Checkable AI knowledge base preview. Every AI vendor says its platform is secure. See what 116 of them document, control by control.</title>
+<desc id="d">A ring of 116 dots, one for each AI platform, inside a ring of 46 ticks, one for each security control. November 2026 edition.</desc>
 <rect width="1280" height="400" fill="#0e131a"/>
-<circle cx="1022" cy="204" r="230" fill="none" stroke="#ece7e4" stroke-width="1.5" opacity="0.09"/>
-<circle cx="1022" cy="204" r="300" fill="none" stroke="#ece7e4" stroke-width="1.5" opacity="0.09"/>
-<circle cx="1022" cy="204" r="370" fill="none" stroke="#ece7e4" stroke-width="1.5" opacity="0.09"/>
-<circle cx="1022" cy="204" r="440" fill="none" stroke="#ece7e4" stroke-width="1.5" opacity="0.09"/>
-<g fill="none" stroke="#8fd19e" stroke-width="1.3" opacity="0.3">
-<path d="M1022.0 44.0Q1043.9 157.4 1119.2 156.9"/>
-<path d="M1022.0 44.0Q1046.3 166.6 1129.8 197.8"/>
-<path d="M1022.0 44.0Q1046.3 169.5 1129.8 210.5"/>
-<path d="M1022.0 44.0Q1045.3 175.1 1125.3 235.4"/>
-<path d="M1022.0 44.0Q1044.3 177.7 1120.9 247.3"/>
-<path d="M1124.8 81.4Q1065.6 163.3 1113.0 145.8"/>
-<path d="M1124.8 81.4Q1067.0 165.8 1119.2 156.9"/>
-<path d="M1124.8 81.4Q1069.4 175.0 1129.8 197.8"/>
-<path d="M1124.8 81.4Q1069.4 177.9 1129.8 210.5"/>
-<path d="M1124.8 81.4Q1069.1 180.7 1128.3 223.1"/>
-<path d="M1124.8 81.4Q1068.4 183.5 1125.3 235.4"/>
-<path d="M1124.8 81.4Q1067.4 186.2 1120.9 247.3"/>
-<path d="M1124.8 81.4Q1066.1 188.7 1115.2 258.6"/>
-<path d="M1124.8 81.4Q1061.9 194.0 1096.7 282.0"/>
-<path d="M1124.8 81.4Q1059.8 195.8 1087.0 290.2"/>
-<path d="M1124.8 81.4Q1051.3 152.9 1049.2 99.5"/>
-<path d="M1124.8 81.4Q1054.0 153.8 1061.3 103.4"/>
-<path d="M1124.8 81.4Q1056.6 155.0 1072.8 108.7"/>
-<path d="M1124.8 81.4Q1059.0 156.5 1083.6 115.3"/>
-<path d="M1124.8 81.4Q1045.6 200.7 1023.8 312.0"/>
-<path d="M1124.8 81.4Q1039.9 200.1 998.7 309.5"/>
-<path d="M1124.8 81.4Q1021.6 170.2 917.6 176.5"/>
-<path d="M1124.8 81.4Q1022.5 167.5 921.5 164.4"/>
-<path d="M1168.9 140.6Q1075.5 176.6 1113.0 145.8"/>
-<path d="M1168.9 140.6Q1076.9 179.1 1119.2 156.9"/>
-<path d="M1168.9 140.6Q1079.3 188.4 1129.8 197.8"/>
-<path d="M1168.9 140.6Q1079.3 191.2 1129.8 210.5"/>
-<path d="M1168.9 140.6Q1079.0 194.0 1128.3 223.1"/>
-<path d="M1168.9 140.6Q1078.3 196.8 1125.3 235.4"/>
-<path d="M1168.9 140.6Q1077.3 199.5 1120.9 247.3"/>
-<path d="M1168.9 140.6Q1061.2 166.2 1049.2 99.5"/>
-<path d="M1168.9 140.6Q1063.9 167.1 1061.3 103.4"/>
-<path d="M1168.9 140.6Q1066.5 168.3 1072.8 108.7"/>
-<path d="M1168.9 140.6Q1068.9 169.8 1083.6 115.3"/>
-<path d="M1168.9 140.6Q1055.5 214.0 1023.8 312.0"/>
-<path d="M1168.9 140.6Q1049.8 213.5 998.7 309.5"/>
-<path d="M1168.9 140.6Q1033.6 178.3 926.8 152.9"/>
-<path d="M1168.9 140.6Q1038.9 171.6 950.3 123.3"/>
-<path d="M1168.9 140.6Q1043.6 168.3 971.0 108.8"/>
-<path d="M1175.3 249.9Q1075.3 198.9 1105.5 135.6"/>
-<path d="M1175.3 249.9Q1077.0 201.2 1113.0 145.8"/>
-<path d="M1175.3 249.9Q1078.4 203.7 1119.2 156.9"/>
-<path d="M1175.3 249.9Q1080.7 212.9 1129.8 197.8"/>
-<path d="M1175.3 249.9Q1080.7 215.8 1129.8 210.5"/>
-<path d="M1175.3 249.9Q1080.4 218.6 1128.3 223.1"/>
-<path d="M1175.3 249.9Q1078.8 224.1 1120.9 247.3"/>
-<path d="M1175.3 249.9Q1077.5 226.6 1115.2 258.6"/>
-<path d="M1175.3 249.9Q1073.3 231.9 1096.7 282.0"/>
-<path d="M1175.3 249.9Q1059.7 238.4 1036.5 311.0"/>
-<path d="M1175.3 249.9Q1054.1 238.5 1011.2 311.5"/>
-<path d="M905.6 313.8Q979.6 246.8 950.0 284.5"/>
-<path d="M905.6 313.8Q971.7 232.0 915.0 218.8"/>
-<path d="M1138.4 313.8Q1068.7 215.6 1113.0 145.8"/>
-<path d="M1138.4 313.8Q1072.4 230.2 1129.8 210.5"/>
-<path d="M1138.4 313.8Q1070.4 238.4 1120.9 247.3"/>
-<path d="M1138.4 313.8Q1065.0 246.3 1096.7 282.0"/>
-<path d="M1138.4 313.8Q1062.8 248.1 1087.0 290.2"/>
-<path d="M1138.4 313.8Q1059.6 207.3 1072.8 108.7"/>
-<path d="M1138.4 313.8Q1051.4 252.8 1036.5 311.0"/>
-<path d="M1138.4 313.8Q1024.7 234.8 917.5 231.2"/>
-<path d="M919.2 81.4Q1019.3 163.3 1113.0 145.8"/>
-<path d="M919.2 81.4Q1021.1 186.2 1120.9 247.3"/>
-<path d="M919.2 81.4Q1011.1 197.4 1076.5 297.2"/>
-<path d="M919.2 81.4Q993.6 200.1 998.7 309.5"/>
-<path d="M919.2 81.4Q982.7 194.5 950.0 284.5"/>
-<path d="M1160.6 284.0Q1077.4 220.6 1129.8 197.8"/>
-<path d="M1160.6 284.0Q1077.4 223.5 1129.8 210.5"/>
-<path d="M1160.6 284.0Q1076.4 229.1 1125.3 235.4"/>
-<path d="M1160.6 284.0Q1075.4 231.7 1120.9 247.3"/>
-<path d="M1150.3 108.5Q1071.3 169.4 1113.0 145.8"/>
-<path d="M1150.3 108.5Q1075.1 184.0 1129.8 210.5"/>
-<path d="M1150.3 108.5Q1074.8 186.8 1128.3 223.1"/>
-<path d="M1150.3 108.5Q1073.1 192.2 1120.9 247.3"/>
-<path d="M1150.3 108.5Q1071.8 194.8 1115.2 258.6"/>
-<path d="M1150.3 108.5Q1065.5 201.9 1087.0 290.2"/>
-<path d="M1150.3 108.5Q1051.3 206.8 1023.8 312.0"/>
-<path d="M1150.3 108.5Q1045.6 206.2 998.7 309.5"/>
-<path d="M1093.8 61.0Q1062.4 173.3 1129.8 210.5"/>
-<path d="M864.4 176.2Q1007.0 184.7 1113.0 145.8"/>
-<path d="M864.4 176.2Q1003.4 215.3 1096.7 282.0"/>
-<path d="M864.4 176.2Q1001.2 217.1 1087.0 290.2"/>
-<path d="M864.4 176.2Q998.8 218.7 1076.5 297.2"/>
-<path d="M864.4 176.2Q995.4 175.1 1061.3 103.4"/>
-<path d="M864.4 176.2Q998.0 176.3 1072.8 108.7"/>
-<path d="M864.4 176.2Q1000.4 177.8 1083.6 115.3"/>
-<path d="M893.7 108.5Q996.4 206.6 1036.5 311.0"/>
-<path d="M893.7 108.5Q993.5 206.8 1023.8 312.0"/>
-<path d="M862.3 213.3Q1006.5 193.0 1113.0 145.8"/>
-<path d="M862.3 213.3Q1010.3 207.6 1129.8 210.5"/>
-<path d="M862.3 213.3Q1002.9 223.6 1096.7 282.0"/>
-<path d="M862.3 213.3Q1000.7 225.5 1087.0 290.2"/>
-<path d="M862.3 213.3Q997.5 184.6 1072.8 108.7"/>
-<path d="M862.3 213.3Q980.8 229.8 998.7 309.5"/>
-<path d="M1179.6 176.2Q1077.9 184.7 1113.0 145.8"/>
-<path d="M1179.6 176.2Q1080.4 189.8 1124.0 168.6"/>
-<path d="M1179.6 176.2Q1081.7 196.4 1129.8 197.8"/>
-<path d="M1179.6 176.2Q1079.7 207.5 1120.9 247.3"/>
-<path d="M1179.6 176.2Q1072.1 217.1 1087.0 290.2"/>
-<path d="M1179.6 176.2Q1063.6 174.2 1049.2 99.5"/>
-<path d="M1179.6 176.2Q1068.9 176.3 1072.8 108.7"/>
-<path d="M1179.6 176.2Q1055.0 221.9 1011.2 311.5"/>
-<path d="M1179.6 176.2Q1034.0 191.6 917.6 176.5"/>
-<path d="M1179.6 176.2Q1051.3 174.2 994.5 99.5"/>
-<path d="M1179.6 176.2Q1039.3 181.6 941.3 132.2"/>
-<path d="M1179.6 176.2Q1041.3 179.6 950.3 123.3"/>
-<path d="M1179.6 176.2Q1046.0 176.3 971.0 108.8"/>
-<path d="M1076.7 354.4Q1054.8 224.7 1113.0 145.8"/>
-<path d="M1076.7 354.4Q1057.3 229.9 1124.0 168.6"/>
-<path d="M1076.7 354.4Q1040.4 214.3 1049.2 99.5"/>
-<path d="M1076.7 354.4Q1043.2 215.2 1061.3 103.4"/>
-<path d="M1076.7 354.4Q1045.7 216.4 1072.8 108.7"/>
-<path d="M1076.7 354.4Q1018.2 219.7 950.3 123.3"/>
-<path d="M934.1 337.7Q1014.5 255.1 1076.5 297.2"/>
-<path d="M934.1 337.7Q996.0 210.6 994.5 99.5"/>
-<path d="M934.1 337.7Q998.8 210.0 1007.0 97.1"/>
-<path d="M934.1 337.7Q980.8 222.6 926.8 152.9"/>
-<path d="M934.1 337.7Q978.1 237.4 915.0 218.8"/>
-<path d="M950.2 61.0Q1030.1 173.3 1129.8 210.5"/>
-<path d="M950.2 61.0Q1028.1 181.6 1120.9 247.3"/>
-<path d="M950.2 61.0Q1019.7 151.9 1083.6 115.3"/>
-<path d="M950.2 61.0Q985.9 185.7 933.3 265.5"/>
-<path d="M1040.6 362.9Q1046.7 226.7 1113.0 145.8"/>
-<path d="M1040.6 362.9Q1049.1 231.8 1124.0 168.6"/>
-<path d="M1040.6 362.9Q1032.3 216.2 1049.2 99.5"/>
-<path d="M1040.6 362.9Q1035.0 217.1 1061.3 103.4"/>
-<path d="M1040.6 362.9Q1037.6 218.3 1072.8 108.7"/>
-<path d="M1040.6 362.9Q1040.0 219.8 1083.6 115.3"/>
-<path d="M1040.6 362.9Q1018.2 262.7 986.5 306.0"/>
-<path d="M1040.6 362.9Q1010.0 221.6 950.3 123.3"/>
-<path d="M1040.6 362.9Q1002.1 243.1 915.0 218.8"/>
-<path d="M883.4 284.0Q967.3 215.8 917.6 176.5"/>
-<path d="M883.4 284.0Q987.4 197.9 1007.0 97.1"/>
-<path d="M883.4 284.0Q968.2 213.1 921.5 164.4"/>
-<path d="M883.4 284.0Q969.4 210.5 926.8 152.9"/>
-<path d="M883.4 284.0Q970.9 208.1 933.5 142.2"/>
-<path d="M883.4 284.0Q972.7 205.8 941.3 132.2"/>
-<path d="M883.4 284.0Q974.7 203.8 950.3 123.3"/>
-<path d="M883.4 284.0Q976.9 202.1 960.2 115.4"/>
-<path d="M883.4 284.0Q966.8 225.3 915.0 218.8"/>
-<path d="M1058.9 48.3Q1054.6 167.6 1129.8 197.8"/>
-<path d="M1058.9 48.3Q1054.6 170.4 1129.8 210.5"/>
-<path d="M1058.9 48.3Q1054.2 173.3 1128.3 223.1"/>
-<path d="M1058.9 48.3Q1053.6 176.0 1125.3 235.4"/>
-<path d="M1058.9 48.3Q1052.6 178.7 1120.9 247.3"/>
-<path d="M1058.9 48.3Q1039.1 146.3 1061.3 103.4"/>
-<path d="M1058.9 48.3Q1033.6 193.1 1036.5 311.0"/>
-<path d="M1058.9 48.3Q1030.7 193.3 1023.8 312.0"/>
-<path d="M1058.9 48.3Q1024.1 145.5 994.5 99.5"/>
-<path d="M868.7 249.9Q963.2 214.8 914.0 206.1"/>
-<path d="M1181.7 213.3Q1076.7 190.7 1105.5 135.6"/>
-<path d="M1181.7 213.3Q1080.9 198.1 1124.0 168.6"/>
-<path d="M1181.7 213.3Q1082.2 207.6 1129.8 210.5"/>
-<path d="M1181.7 213.3Q1080.2 215.8 1120.9 247.3"/>
-<path d="M1181.7 213.3Q1078.9 218.4 1115.2 258.6"/>
-<path d="M1181.7 213.3Q1055.5 230.3 1011.2 311.5"/>
-<path d="M1181.7 213.3Q1052.7 229.8 998.7 309.5"/>
-<path d="M1181.7 213.3Q1034.4 199.9 917.6 176.5"/>
-<path d="M1181.7 213.3Q1035.3 197.2 921.5 164.4"/>
-<path d="M1181.7 213.3Q1036.5 194.6 926.8 152.9"/>
-<path d="M1181.7 213.3Q1039.8 189.9 941.3 132.2"/>
-<path d="M1181.7 213.3Q1041.8 187.9 950.3 123.3"/>
-<path d="M1181.7 213.3Q1044.0 186.2 960.2 115.4"/>
-<path d="M1109.9 337.7Q1062.3 221.0 1113.0 145.8"/>
-<path d="M1109.9 337.7Q1064.7 226.1 1124.0 168.6"/>
-<path d="M1109.9 337.7Q1066.0 235.5 1129.8 210.5"/>
-<path d="M1109.9 337.7Q1065.7 238.4 1128.3 223.1"/>
-<path d="M1109.9 337.7Q1064.0 243.8 1120.9 247.3"/>
-<path d="M1109.9 337.7Q1058.6 251.6 1096.7 282.0"/>
-<path d="M1109.9 337.7Q1054.0 255.1 1076.5 297.2"/>
-<path d="M1109.9 337.7Q1053.2 212.6 1072.8 108.7"/>
-<path d="M1109.9 337.7Q1020.4 222.6 926.8 152.9"/>
-<path d="M1109.9 337.7Q1018.3 240.2 917.5 231.2"/>
-<path d="M875.1 140.6Q1009.4 176.6 1113.0 145.8"/>
-<path d="M875.1 140.6Q1013.2 188.4 1129.8 197.8"/>
-<path d="M875.1 140.6Q1013.2 191.2 1129.8 210.5"/>
-<path d="M875.1 140.6Q1011.2 199.5 1120.9 247.3"/>
-<path d="M875.1 140.6Q992.2 213.8 1036.5 311.0"/>
-<path d="M1003.4 362.9Q1009.8 262.7 986.5 306.0"/>
-<path d="M1003.4 362.9Q994.3 233.6 917.6 176.5"/>
-<path d="M1003.4 362.9Q996.4 228.3 926.8 152.9"/>
-<path d="M1003.4 362.9Q1001.6 257.9 950.0 284.5"/>
-<path d="M1003.4 362.9Q997.9 253.6 933.3 265.5"/>
-<path d="M1003.4 362.9Q993.7 243.1 915.0 218.8"/>
-<path d="M967.3 354.4Q1006.3 213.8 1007.0 97.1"/>
-<path d="M967.3 354.4Q988.3 226.3 926.8 152.9"/>
-<path d="M967.3 354.4Q985.4 238.3 914.0 206.1"/>
-<path d="M967.3 354.4Q985.6 241.1 915.0 218.8"/>
+<circle cx="1022" cy="204" r="230" fill="none" stroke="#2e3440" stroke-width="1.5" opacity="0.1"/>
+<g fill="none" stroke="#b0a7a2" stroke-width="2" opacity="0.7">
+<path d="M1212.0 204.0L1226.0 204.0"/>
+<path d="M1210.2 229.9L1224.1 231.8"/>
+<path d="M1205.0 255.3L1218.4 259.0"/>
+<path d="M1196.3 279.7L1209.1 285.3"/>
+<path d="M1184.3 302.7L1196.3 310.0"/>
+<path d="M1169.4 323.9L1180.2 332.7"/>
+<path d="M1151.7 342.9L1161.2 353.1"/>
+<path d="M1131.6 359.2L1139.6 370.7"/>
+<path d="M1109.4 372.7L1115.9 385.1"/>
+<path d="M1085.6 383.0L1090.3 396.2"/>
+<path d="M1060.7 390.0L1063.5 403.7"/>
+<path d="M1035.0 393.6L1035.9 407.5"/>
+<path d="M1009.0 393.6L1008.1 407.5"/>
+<path d="M983.3 390.0L980.5 403.7"/>
+<path d="M958.4 383.0L953.7 396.2"/>
+<path d="M934.6 372.7L928.1 385.1"/>
+<path d="M912.4 359.2L904.4 370.7"/>
+<path d="M892.3 342.9L882.8 353.1"/>
+<path d="M874.6 323.9L863.8 332.7"/>
+<path d="M859.7 302.7L847.7 310.0"/>
+<path d="M847.7 279.7L834.9 285.3"/>
+<path d="M839.0 255.3L825.6 259.0"/>
+<path d="M833.8 229.9L819.9 231.8"/>
+<path d="M832.0 204.0L818.0 204.0"/>
+<path d="M833.8 178.1L819.9 176.2"/>
+<path d="M839.0 152.7L825.6 149.0"/>
+<path d="M847.7 128.3L834.9 122.7"/>
+<path d="M859.7 105.3L847.7 98.0"/>
+<path d="M874.6 84.1L863.8 75.3"/>
+<path d="M892.3 65.1L882.8 54.9"/>
+<path d="M912.4 48.8L904.4 37.3"/>
+<path d="M934.6 35.3L928.1 22.9"/>
+<path d="M958.4 25.0L953.7 11.8"/>
+<path d="M983.3 18.0L980.5 4.3"/>
+<path d="M1009.0 14.4L1008.1 0.5"/>
+<path d="M1035.0 14.4L1035.9 0.5"/>
+<path d="M1060.7 18.0L1063.5 4.3"/>
+<path d="M1085.6 25.0L1090.3 11.8"/>
+<path d="M1109.4 35.3L1115.9 22.9"/>
+<path d="M1131.6 48.8L1139.6 37.3"/>
+<path d="M1151.7 65.1L1161.2 54.9"/>
+<path d="M1169.4 84.1L1180.2 75.3"/>
+<path d="M1184.3 105.3L1196.3 98.0"/>
+<path d="M1196.3 128.3L1209.1 122.7"/>
+<path d="M1205.0 152.7L1218.4 149.0"/>
+<path d="M1210.2 178.1L1224.1 176.2"/>
 </g>
-<path d="M1044.6 90.2A116 116 0 0 1 1093.6 112.8" fill="none" stroke="#b0a7a2" stroke-width="3" stroke-linecap="round"/>
-<path d="M1107.3 125.4A116 116 0 0 1 1133.6 172.4" fill="none" stroke="#b0a7a2" stroke-width="3" stroke-linecap="round"/>
-<path d="M1137.2 190.6A116 116 0 0 1 1118.5 268.4" fill="none" stroke="#b0a7a2" stroke-width="3" stroke-linecap="round"/>
-<path d="M1107.0 282.9A116 116 0 0 1 1062.1 312.8" fill="none" stroke="#b0a7a2" stroke-width="3" stroke-linecap="round"/>
-<path d="M1044.3 317.8A116 116 0 0 1 977.5 311.1" fill="none" stroke="#b0a7a2" stroke-width="3" stroke-linecap="round"/>
-<path d="M961.0 302.7A116 116 0 0 1 906.1 199.5" fill="none" stroke="#b0a7a2" stroke-width="3" stroke-linecap="round"/>
-<path d="M908.3 181.1A116 116 0 0 1 1026.2 88.1" fill="none" stroke="#b0a7a2" stroke-width="3" stroke-linecap="round"/>
-<circle cx="1048.2" cy="103.4" r="3.2" fill="#ece7e4"/>
-<circle cx="1059.8" cy="107.1" r="3.2" fill="#ece7e4"/>
-<circle cx="1070.9" cy="112.2" r="3.2" fill="#ece7e4"/>
-<circle cx="1081.3" cy="118.6" r="3.2" fill="#ece7e4"/>
-<circle cx="1102.4" cy="138.1" r="3.2" fill="#ece7e4"/>
-<circle cx="1109.6" cy="148.0" r="3.2" fill="#ece7e4"/>
-<circle cx="1115.6" cy="158.6" r="3.2" fill="#ece7e4"/>
-<circle cx="1120.2" cy="169.9" r="3.2" fill="#ece7e4"/>
-<circle cx="1125.8" cy="198.1" r="3.2" fill="#ece7e4"/>
-<circle cx="1125.8" cy="210.3" r="3.2" fill="#ece7e4"/>
-<circle cx="1124.4" cy="222.4" r="3.2" fill="#ece7e4"/>
-<circle cx="1121.5" cy="234.2" r="3.2" fill="#ece7e4"/>
-<circle cx="1117.3" cy="245.7" r="3.2" fill="#ece7e4"/>
-<circle cx="1111.7" cy="256.6" r="3.2" fill="#ece7e4"/>
-<circle cx="1093.9" cy="279.1" r="3.2" fill="#ece7e4"/>
-<circle cx="1084.6" cy="287.0" r="3.2" fill="#ece7e4"/>
-<circle cx="1074.5" cy="293.8" r="3.2" fill="#ece7e4"/>
-<circle cx="1063.6" cy="299.3" r="3.2" fill="#ece7e4"/>
-<circle cx="1035.9" cy="307.1" r="3.2" fill="#ece7e4"/>
-<circle cx="1023.8" cy="308.0" r="3.2" fill="#ece7e4"/>
-<circle cx="1011.6" cy="307.5" r="3.2" fill="#ece7e4"/>
-<circle cx="999.5" cy="305.5" r="3.2" fill="#ece7e4"/>
-<circle cx="987.8" cy="302.2" r="3.2" fill="#ece7e4"/>
-<circle cx="962.2" cy="289.1" r="3.2" fill="#ece7e4"/>
-<circle cx="952.7" cy="281.5" r="3.2" fill="#ece7e4"/>
-<circle cx="944.1" cy="272.9" r="3.2" fill="#ece7e4"/>
-<circle cx="936.5" cy="263.3" r="3.2" fill="#ece7e4"/>
-<circle cx="930.2" cy="252.9" r="3.2" fill="#ece7e4"/>
-<circle cx="925.1" cy="241.8" r="3.2" fill="#ece7e4"/>
-<circle cx="921.3" cy="230.2" r="3.2" fill="#ece7e4"/>
-<circle cx="919.0" cy="218.2" r="3.2" fill="#ece7e4"/>
-<circle cx="918.0" cy="206.0" r="3.2" fill="#ece7e4"/>
-<circle cx="921.4" cy="177.5" r="3.2" fill="#ece7e4"/>
-<circle cx="925.2" cy="165.9" r="3.2" fill="#ece7e4"/>
-<circle cx="930.4" cy="154.8" r="3.2" fill="#ece7e4"/>
-<circle cx="936.7" cy="144.4" r="3.2" fill="#ece7e4"/>
-<circle cx="944.3" cy="134.9" r="3.2" fill="#ece7e4"/>
-<circle cx="952.9" cy="126.3" r="3.2" fill="#ece7e4"/>
-<circle cx="962.5" cy="118.7" r="3.2" fill="#ece7e4"/>
-<circle cx="972.9" cy="112.3" r="3.2" fill="#ece7e4"/>
-<circle cx="984.0" cy="107.2" r="3.2" fill="#ece7e4"/>
-<circle cx="995.6" cy="103.4" r="3.2" fill="#ece7e4"/>
-<circle cx="1007.5" cy="101.0" r="3.2" fill="#ece7e4"/>
-<circle cx="1019.7" cy="100.0" r="3.2" fill="#ece7e4"/>
-<circle cx="1022.0" cy="36.0" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="1060.7" cy="40.5" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="1097.4" cy="53.9" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="1130.0" cy="75.3" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="1156.8" cy="103.7" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="1176.3" cy="137.5" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="1187.4" cy="174.8" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="1189.7" cy="213.8" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="1182.9" cy="252.2" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="1167.5" cy="288.0" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="1144.2" cy="319.3" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="1114.3" cy="344.4" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="1079.5" cy="361.9" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="1041.5" cy="370.9" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="1002.5" cy="370.9" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="964.5" cy="361.9" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="929.7" cy="344.4" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="899.8" cy="319.3" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="876.5" cy="288.0" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="861.1" cy="252.2" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="854.3" cy="213.8" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="856.6" cy="174.8" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="867.7" cy="137.5" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="887.2" cy="103.7" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="914.0" cy="75.3" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="946.6" cy="53.9" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="983.3" cy="40.5" r="8" fill="#151a22" stroke="#8fd19e" stroke-width="3"/>
-<circle cx="1022" cy="204" r="50" fill="#151a22" stroke="#2e3440" stroke-width="2"/>
-<g transform="translate(992 174) scale(0.94)" fill="none" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"><path d="M47.6 16.4A22 22 0 1 0 47.6 47.6" stroke="#ece7e4"/><path d="M26 31l9 9 22-26" stroke="#8fd19e"/></g>
-<g transform="translate(56 40) scale(0.9)" fill="none" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="1.0"><path d="M47.6 16.4A22 22 0 1 0 47.6 47.6" stroke="#ece7e4"/><path d="M26 31l9 9 22-26" stroke="#f1ac91"/></g>
-<text x="128" y="79" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#ece7e4">Checkable AI</text>
+<g fill="#8fd19e" opacity="0.85">
+<circle cx="1053.8" cy="204.0" r="3.4"/>
+<circle cx="993.2" cy="230.4" r="3.4"/>
+<circle cx="1025.8" cy="160.1" r="3.4"/>
+<circle cx="1051.2" cy="242.1" r="3.4"/>
+<circle cx="971.2" cy="195.0" r="3.4"/>
+<circle cx="1068.1" cy="174.7" r="3.4"/>
+<circle cx="1007.1" cy="259.5" r="3.4"/>
+<circle cx="994.3" cy="150.6" r="3.4"/>
+<circle cx="1080.8" cy="225.5" r="3.4"/>
+<circle cx="962.0" cy="228.8" r="3.4"/>
+<circle cx="1050.5" cy="143.2" r="3.4"/>
+<circle cx="1042.7" cy="270.1" r="3.4"/>
+<circle cx="960.4" cy="168.3" r="3.4"/>
+<circle cx="1093.5" cy="188.3" r="3.4"/>
+<circle cx="978.8" cy="265.4" r="3.4"/>
+<circle cx="1012.1" cy="127.8" r="3.4"/>
+<circle cx="1082.1" cy="254.6" r="3.4"/>
+<circle cx="941.8" cy="207.3" r="3.4"/>
+<circle cx="1080.1" cy="146.2" r="3.4"/>
+<circle cx="1018.1" cy="287.4" r="3.4"/>
+<circle cx="967.5" cy="138.7" r="3.4"/>
+<circle cx="1107.8" cy="215.5" r="3.4"/>
+<circle cx="949.7" cy="254.3" r="3.4"/>
+<circle cx="1041.6" cy="116.7" r="3.4"/>
+<circle cx="1067.2" cy="282.9" r="3.4"/>
+<circle cx="934.0" cy="175.9" r="3.4"/>
+<circle cx="1107.1" cy="164.7" r="3.4"/>
+<circle cx="985.3" cy="291.7" r="3.4"/>
+<circle cx="989.4" cy="113.3" r="3.4"/>
+<circle cx="1108.4" cy="249.4" r="3.4"/>
+<circle cx="926.4" cy="229.2" r="3.4"/>
+<circle cx="1076.2" cy="119.7" r="3.4"/>
+<circle cx="1039.2" cy="303.9" r="3.4"/>
+<circle cx="940.9" cy="141.2" r="3.4"/>
+<circle cx="1125.4" cy="195.4" r="3.4"/>
+<circle cx="950.7" cy="281.1" r="3.4"/>
+<circle cx="1022.5" cy="97.9" r="3.4"/>
+<circle cx="1094.1" cy="283.5" r="3.4"/>
+<circle cx="914.0" cy="194.0" r="3.4"/>
+<circle cx="1109.2" cy="137.8" r="3.4"/>
+<circle cx="1002.2" cy="312.8" r="3.4"/>
+<circle cx="962.5" cy="109.4" r="3.4"/>
+<circle cx="1130.8" cy="233.8" r="3.4"/>
+<circle cx="920.7" cy="256.0" r="3.4"/>
+<circle cx="1061.9" cy="96.3" r="3.4"/>
+<circle cx="1065.7" cy="311.4" r="3.4"/>
+<circle cx="916.3" cy="153.9" r="3.4"/>
+<circle cx="1134.7" cy="169.2" r="3.4"/>
+<circle cx="961.8" cy="306.7" r="3.4"/>
+<circle cx="996.8" cy="86.7" r="3.4"/>
+<circle cx="1120.6" cy="274.1" r="3.4"/>
+<circle cx="901.0" cy="219.1" r="3.4"/>
+<circle cx="1101.7" cy="110.4" r="3.4"/>
+<circle cx="1026.5" cy="327.8" r="3.4"/>
+<circle cx="934.4" cy="115.1" r="3.4"/>
+<circle cx="1147.6" cy="210.4" r="3.4"/>
+<circle cx="924.3" cy="284.7" r="3.4"/>
+<circle cx="1039.6" cy="77.6" r="3.4"/>
+<circle cx="1094.9" cy="309.9" r="3.4"/>
+<circle cx="895.9" cy="175.0" r="3.4"/>
+<circle cx="1135.4" cy="139.8" r="3.4"/>
+<circle cx="981.5" cy="328.8" r="3.4"/>
+<circle cx="967.2" cy="83.8" r="3.4"/>
+<circle cx="1144.4" cy="255.9" r="3.4"/>
+<circle cx="895.8" cy="248.7" r="3.4"/>
+<circle cx="1085.3" cy="85.1" r="3.4"/>
+<circle cx="1055.9" cy="335.3" r="3.4"/>
+<circle cx="907.6" cy="129.7" r="3.4"/>
+<circle cx="1157.4" cy="181.4" r="3.4"/>
+<circle cx="936.9" cy="312.8" r="3.4"/>
+<circle cx="1011.2" cy="65.5" r="3.4"/>
+<circle cx="1124.1" cy="299.4" r="3.4"/>
+<circle cx="881.4" cy="202.6" r="3.4"/>
+<circle cx="1127.2" cy="109.5" r="3.4"/>
+<circle cx="1008.2" cy="345.5" r="3.4"/>
+<circle cx="936.1" cy="89.7" r="3.4"/>
+<circle cx="1163.4" cy="230.4" r="3.4"/>
+<circle cx="899.2" cy="280.4" r="3.4"/>
+<circle cx="1061.1" cy="64.0" r="3.4"/>
+<circle cx="1088.1" cy="334.4" r="3.4"/>
+<circle cx="884.5" cy="152.2" r="3.4"/>
+<circle cx="1159.1" cy="149.0" r="3.4"/>
+<circle cx="957.7" cy="337.9" r="3.4"/>
+<circle cx="978.7" cy="61.1" r="3.4"/>
+<circle cx="1151.1" cy="280.5" r="3.4"/>
+<circle cx="874.4" cy="234.9" r="3.4"/>
+<circle cx="1110.4" cy="80.9" r="3.4"/>
+<circle cx="1040.1" cy="355.2" r="3.4"/>
+<circle cx="906.0" cy="104.3" r="3.4"/>
+<circle cx="1175.7" cy="199.1" r="3.4"/>
+<circle cx="911.4" cy="311.9" r="3.4"/>
+<circle cx="1030.7" cy="49.0" r="3.4"/>
+<circle cx="1120.7" cy="324.7" r="3.4"/>
+<circle cx="866.9" cy="181.6" r="3.4"/>
+<circle cx="1152.1" cy="115.4" r="3.4"/>
+<circle cx="985.8" cy="357.9" r="3.4"/>
+<circle cx="944.4" cy="65.4" r="3.4"/>
+<circle cx="1173.5" cy="254.0" r="3.4"/>
+<circle cx="875.9" cy="269.8" r="3.4"/>
+<circle cx="1085.6" cy="56.2" r="3.4"/>
+<circle cx="1075.2" cy="356.6" r="3.4"/>
+<circle cx="879.1" cy="127.1" r="3.4"/>
+<circle cx="1180.0" cy="164.0" r="3.4"/>
+<circle cx="932.1" cy="340.8" r="3.4"/>
+<circle cx="995.7" cy="41.7" r="3.4"/>
+<circle cx="1151.5" cy="306.3" r="3.4"/>
+<circle cx="856.7" cy="216.1" r="3.4"/>
+<circle cx="1136.2" cy="83.0" r="3.4"/>
+<circle cx="1019.6" cy="371.1" r="3.4"/>
+<circle cx="910.5" cy="78.7" r="3.4"/>
+<circle cx="1189.5" cy="221.2" r="3.4"/>
+<circle cx="886.3" cy="304.9" r="3.4"/>
+<circle cx="1054.0" cy="37.3" r="3.4"/>
+<circle cx="1111.3" cy="349.1" r="3.4"/>
+<circle cx="857.5" cy="157.2" r="3.4"/>
+<circle cx="1175.5" cy="127.1" r="3.4"/>
+</g>
+<text x="56" y="79" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#ece7e4">Checkable AI</text>
 <text x="56" y="160" font-family="Georgia, 'Times New Roman', serif" font-size="60" fill="#ece7e4">Knowledge base preview</text>
 <text x="56" y="212" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" fill="#b0a7a2">Every AI vendor says its platform is secure.</text>
-<text x="56" y="252" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="#ece7e4">See what 27 of them document, control by control.</text>
-<text x="56" y="340" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#8fd19e">27</text>
-<text x="122" y="338" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#b0a7a2">platforms</text>
-<path d="M252 302 V342" stroke="#2e3440" stroke-width="2"/>
-<text x="274" y="340" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#8fd19e">44</text>
-<text x="342" y="338" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#b0a7a2">controls</text>
-<path d="M460 302 V342" stroke="#2e3440" stroke-width="2"/>
-<text x="482" y="340" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#8fd19e">Oct 2026</text>
-<text x="706" y="338" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#b0a7a2">research</text>
+<text x="56" y="252" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="#ece7e4">See what 116 of them document, control by control.</text>
+<text x="56" y="340" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#8fd19e">116</text>
+<text x="130" y="338" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#b0a7a2">platforms</text>
+<text x="282" y="340" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#8fd19e">46</text>
+<text x="338" y="338" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#b0a7a2">controls</text>
+<text x="482" y="340" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#8fd19e">Nov 2026</text>
+<text x="690" y="338" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#b0a7a2">edition</text>
 </svg>

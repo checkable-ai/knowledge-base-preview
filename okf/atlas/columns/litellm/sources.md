@@ -11,6 +11,14 @@ tags:
   - "agent-frameworks"
   - "sources"
 sources:
+  - id: "confirm-68eb03934214"
+    resource: "https://docs.litellm.ai/docs/mcp"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-d9b316aac8bb"
+    resource: "https://docs.litellm.ai/docs/proxy/access_management/agents"
+    locator: "registry entry"
+    tier: null
   - id: "litellm-01"
     resource: "https://docs.litellm.ai/docs/proxy/virtual_keys"
     locator: "registry entry"
@@ -131,12 +139,56 @@ sources:
     resource: "https://docs.litellm.ai/docs/proxy/ai_hub"
     locator: "registry entry"
     tier: 1
+  - id: "litellm-r18-01"
+    resource: "https://docs.litellm.ai/docs/a2a_kill_switch"
+    locator: "registry entry"
+    tier: 1
+  - id: "litellm-r18-02"
+    resource: "https://docs.litellm.ai/docs/a2a_iteration_budgets"
+    locator: "registry entry"
+    tier: 1
+  - id: "litellm-r18-03"
+    resource: "https://docs.litellm.ai/docs/sandbox"
+    locator: "registry entry"
+    tier: 1
+  - id: "litellm-r18-04"
+    resource: "https://docs.litellm.ai/docs/harness/sandboxes"
+    locator: "registry entry"
+    tier: 1
+  - id: "litellm-r18-05"
+    resource: "https://docs.litellm.ai/docs/proxy/virtual_keys"
+    locator: "registry entry"
+    tier: 1
+  - id: "litellm-r18-06"
+    resource: "https://docs.litellm.ai/docs/enterprise/compliance"
+    locator: "registry entry"
+    tier: 1
+  - id: "litellm-r18-07"
+    resource: "https://docs.litellm.ai/docs/data_security"
+    locator: "registry entry"
+    tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-10-14T18:00:00+10:00"
+  at: "2026-11-08T00:00:00+10:00"
 ---
 
 Every source the LiteLLM cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### confirm-68eb03934214
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.litellm.ai/docs/mcp
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-5](c2-5.md)
+
+### confirm-d9b316aac8bb
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.litellm.ai/docs/proxy/access_management/agents
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c4-4](c4-4.md)
 
 ### litellm-01
 
@@ -377,3 +429,59 @@ Every source the LiteLLM cells cite, with its tier from the atlas source registe
 - Tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c5-5](c5-5.md), [c6-1](c6-1.md)
+
+### litellm-r18-01
+
+- Title: Agent Kill Switch
+- URL: https://docs.litellm.ai/docs/a2a_kill_switch
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### litellm-r18-02
+
+- Title: Agent Iteration Budgets
+- URL: https://docs.litellm.ai/docs/a2a_iteration_budgets
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### litellm-r18-03
+
+- Title: Sandbox / Code Execution
+- URL: https://docs.litellm.ai/docs/sandbox
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### litellm-r18-04
+
+- Title: Harness sandboxes
+- URL: https://docs.litellm.ai/docs/harness/sandboxes
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### litellm-r18-05
+
+- Title: Virtual Keys
+- URL: https://docs.litellm.ai/docs/proxy/virtual_keys
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### litellm-r18-06
+
+- Title: Compliance and SOC 2 Type II
+- URL: https://docs.litellm.ai/docs/enterprise/compliance
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### litellm-r18-07
+
+- Title: Data privacy and security
+- URL: https://docs.litellm.ai/docs/data_security
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
