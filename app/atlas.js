@@ -33,7 +33,7 @@
     byPlatform = new Map(D.platforms.map(p => [p.id, p]));
     byGroup = new Map(D.groups.map(g => [g.id, g]));
     $('reserved-count').textContent = String((D.reserved || []).length);
-    $('atlas-scope').textContent = `This page holds ${D.platforms.length} of the atlas's ${D.atlas_totals.platforms} platforms and tools, across all ${D.controls.length} controls: ${D.records.length} records out of ${D.atlas_totals.cells.toLocaleString('en-AU')} researched cells, so most of what the atlas knows is not here.`;
+    $('atlas-scope').textContent = `This preview holds ${D.platforms.length} platforms and tools across ${D.controls.length} controls, ${D.records.length.toLocaleString('en-AU')} records in all. The full knowledge base is larger and stays private.`;
     const m = $('maturity');
     for (const s of D.stages) m.append(new Option(`${s.id.toUpperCase()}: ${s.name}`, s.id));
     m.value = 'm2';
@@ -118,19 +118,6 @@
     return { summary: parts.join(' '), claims, gaps: gaps.slice(0, 4), steps: steps.slice(0, 3) };
   }
   const list = a => a.length < 2 ? a.join('') : a.slice(0, -1).join(', ') + ' and ' + a[a.length - 1];
-
-  function frame(maturity, stackIds) {
-    const stage = D.stages.find(s => s.id === maturity), pkg = D.packages.find(p => p.maturity_id === maturity);
-    const rows = pkg.related_offering_ids.map(id => D.offerings.find(o => o.id === id)).filter(Boolean).map(o => {
-      const n = { yes: 0, part: 0, no: 0 };
-      for (const c of o.controls) {
-        const v = stackIds.map(p => byRecord.get(`${p}--${c}`)?.verdict);
-        n[v.includes('supported') ? 'yes' : v.includes('partial') ? 'part' : 'no']++;
-      }
-      return { ...o, ...n };
-    });
-    return { stage, pkg, rows };
-  }
 
   // ---------- drawing ----------
   function drawEmpty() {
@@ -255,15 +242,6 @@
     return box;
   }
 
-  function frameBlock(f) {
-    const box = el('section', { class: 'frame' });
-    box.innerHTML = `<h3>Where you sit: ${esc(f.pkg.name)}</h3><p>${esc(f.stage.typical_situation)}. Planning focus: ${esc(f.stage.planning_focus.toLowerCase())}.</p>
-      <p><strong>Do not progress if:</strong> ${esc(f.pkg.do_not_progress_if)}</p>
-      <table><thead><tr><th>Engagement that fits</th><th>Minimum deliverable</th><th>Your stack covers</th></tr></thead><tbody>
-      ${f.rows.map(o => `<tr><td>${esc(o.name)}</td><td>${esc(o.deliverable)}</td><td>${o.yes} fully, ${o.part} in part, ${o.no} not</td></tr>`).join('')}</tbody></table>`;
-    return box;
-  }
-
   function showRecord(r) {
     const card = $('record-card'); const p = byPlatform.get(r.p), c = byControl.get(r.c);
     card.innerHTML = `<button type="button" class="close" aria-label="Close the record">×</button>
@@ -317,7 +295,6 @@
     const all = answers.flatMap(a => a.claims), passed = all.filter(c => c.check === 'pass').length;
     log(`Checked ${all.length} citations against the records they came from: ${passed} passed.`);
     routes.forEach((r, i) => $('answers').append(answerBlock(i, r, answers[i], false)));
-    $('answers').append(frameBlock(frame($('maturity').value, stackIds)));
   }
 
   async function runExample() {
@@ -331,7 +308,6 @@
     const all = ex.concerns.flatMap(c => c.claims), passed = all.filter(c => c.citation_check === 'pass').length;
     log(`Model-written run: ${esc(ex.models.router)} routed and ${esc(ex.models.answer)} answered, ${ex.usage.calls} calls, ${ex.usage.prompt_tokens.toLocaleString('en-AU')} tokens in. ${passed} of ${all.length} citations passed the check.`);
     ex.concerns.forEach((c, i) => $('answers').append(answerBlock(i, routes[i], { summary: c.summary, claims: c.claims, unknowns: c.unknowns, next_steps: c.next_steps }, true)));
-    $('answers').append(frameBlock(frame(ex.maturity, ex.stack)));
   }
 
   load().catch(err => { $('atlas-scope').textContent = 'The atlas sample could not be loaded. Reload the page to try again.'; console.error(err); });

@@ -32,7 +32,6 @@ The atlas store is the only source. Findings come from `knowledge/findings/`, so
 | Column | `columns/<platform>/profile.md` | Platform profile |
 | Sources a column cites | `columns/<platform>/sources.md` | Registry |
 | Control | `controls/<control>.md` | Control |
-| Atlas offering proposals | `registers/offering-controls.md` | Registry |
 | Rules and agent guide | `rules/ingestion.md`, `AGENTS.md` | Guide |
 
 Offering and Decision pages are refused. Offerings live in the kb-hub business tree and only the owner accepts them. Claims and products are rendered inside their finding and profile pages.
