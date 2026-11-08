@@ -57,7 +57,7 @@ flowchart LR
    not addressed or unresolved.
 2. **The evaluator checks the quote is on the page.** It fetches the cited page, keeps a copy, finds the passage and
    quotes it, then plain code confirms the quote really is there. Records that went through this carry the receipt in
-   an Evidence table. Every record names its basis in `eligibility_basis`, so you always know which kind you are
+   an Evidence table, and the `eligibility_basis` line, where it is set, tells you which kind of record you are
    reading.
 3. **One plain page per platform and control.** The answer, the products it covers, what the sources leave open, a
    next step and the sources with their trust tier. 27 platforms by 44 controls gives 1,188 pages.
@@ -123,7 +123,7 @@ The block at the top, between the two `---` lines, is the record's label. Three 
 
 - `verdict: "supported"` is the short answer. Other values are `partial`, `not-addressed` and `unresolved`.
 - `verification: "verified"` means the evaluator found a passage on the vendor's own page that backs the verdict.
-  `unverified` means the record rests on the researcher's cited sources and our reviewer's acceptance.
+  `unverified` means the record rests on the researcher's cited sources, without the evaluator's quote check.
 - `checked_on: "2026-10-09"` is the day the vendor's pages were read. Products change, so the date matters.
 
 The page below the label reads top to bottom:
@@ -151,8 +151,8 @@ the product is for or a real gap in it.
 - **Receipts.** Where the evaluator has run, it fetched the cited page, stored a copy, found the passage and quoted
   it, and plain code confirmed the quote is on that copy. The result is the Evidence table, and you can open the
   source and check it yourself.
-- **Review.** Records without an evaluator run were researched with cited sources and accepted by our reviewer for
-  this research set. Each record says which of the two it is, in `eligibility_basis`.
+- **Review.** Records without an evaluator run were researched with cited sources, and most were accepted by our
+  reviewer for this research set. Where `eligibility_basis` is set, it says which of the two a record is.
 - **What a verdict covers.** A verdict says what a vendor documents. It reads the vendor's public pages, so your own
   tenant, licence and settings are for you to confirm. Where a vendor documents nothing, the record says so. That is a
   finding about the documentation, not proof the feature is missing.
