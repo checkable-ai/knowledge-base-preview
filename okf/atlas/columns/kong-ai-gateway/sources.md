@@ -143,9 +143,17 @@ sources:
     resource: "https://developer.konghq.com/catalog-classic/"
     locator: "registry entry"
     tier: 1
+  - id: "kong-ai-gateway-r18-01"
+    resource: "https://developer.konghq.com/ai-gateway/use-access-controls-for-mcp-tools/"
+    locator: "registry entry"
+    tier: 1
+  - id: "kong-ai-gateway-r18-02"
+    resource: "https://trust.konghq.com"
+    locator: "registry entry"
+    tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-10-14T18:00:00+10:00"
+  at: "2026-11-08T00:00:00+10:00"
 ---
 
 Every source the Kong AI Gateway cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
@@ -413,3 +421,19 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 - Tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-3](c6-3.md)
+
+### kong-ai-gateway-r18-01
+
+- Title: Control MCP tool access with AI Consumer and AI Consumer Group ACLs
+- URL: https://developer.konghq.com/ai-gateway/use-access-controls-for-mcp-tools/
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### kong-ai-gateway-r18-02
+
+- Title: Kong Inc. Trust Center
+- URL: https://trust.konghq.com
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)

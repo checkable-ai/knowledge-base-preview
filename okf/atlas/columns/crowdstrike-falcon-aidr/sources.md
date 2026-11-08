@@ -111,9 +111,33 @@ sources:
     resource: "https://www.crowdstrike.com/en-us/services/ai-red-team-services/"
     locator: "registry entry"
     tier: 1
+  - id: "crowdstrike-falcon-aidr-r18-01"
+    resource: "https://aidr-docs.crowdstrike.com/docs/aidr/collectors/agentic"
+    locator: "registry entry"
+    tier: 1
+  - id: "crowdstrike-falcon-aidr-r18-02"
+    resource: "https://aidr-docs.crowdstrike.com/docs/aidr/collectors/agentic/claude-code"
+    locator: "registry entry"
+    tier: 1
+  - id: "crowdstrike-falcon-aidr-r18-03"
+    resource: "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-unveils-falcon-guardian-ai-agent-security"
+    locator: "registry entry"
+    tier: 2
+  - id: "crowdstrike-falcon-aidr-r18-04"
+    resource: "https://www.crowdstrike.com/en-us/why-crowdstrike/crowdstrike-compliance-certification/"
+    locator: "registry entry"
+    tier: 1
+  - id: "crowdstrike-falcon-aidr-r18-05"
+    resource: "https://www.crowdstrike.com/press-releases/crowdstrike-falcon-platform-recognized-by-global-governments-for-its-compliance-standards/"
+    locator: "registry entry"
+    tier: 2
+  - id: "crowdstrike-falcon-aidr-r18-06"
+    resource: "https://aidr-docs.crowdstrike.com/docs/aidr/get-started"
+    locator: "registry entry"
+    tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-10-14T18:00:00+10:00"
+  at: "2026-11-08T00:00:00+10:00"
 ---
 
 Every source the CrowdStrike Falcon (AIDR, Next-Gen SIEM, Identity) cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
@@ -317,3 +341,51 @@ Every source the CrowdStrike Falcon (AIDR, Next-Gen SIEM, Identity) cells cite, 
 - Tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-10](c7-10.md)
+
+### crowdstrike-falcon-aidr-r18-01
+
+- Title: AIDR agentic collectors
+- URL: https://aidr-docs.crowdstrike.com/docs/aidr/collectors/agentic
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### crowdstrike-falcon-aidr-r18-02
+
+- Title: AIDR Claude Code collector
+- URL: https://aidr-docs.crowdstrike.com/docs/aidr/collectors/agentic/claude-code
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### crowdstrike-falcon-aidr-r18-03
+
+- Title: CrowdStrike unveils Falcon Guardian
+- URL: https://www.crowdstrike.com/en-us/press-releases/crowdstrike-unveils-falcon-guardian-ai-agent-security
+- Tier: 2
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### crowdstrike-falcon-aidr-r18-04
+
+- Title: CrowdStrike compliance and certification
+- URL: https://www.crowdstrike.com/en-us/why-crowdstrike/crowdstrike-compliance-certification/
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### crowdstrike-falcon-aidr-r18-05
+
+- Title: CrowdStrike Falcon platform recognised by global governments
+- URL: https://www.crowdstrike.com/press-releases/crowdstrike-falcon-platform-recognized-by-global-governments-for-its-compliance-standards/
+- Tier: 2
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### crowdstrike-falcon-aidr-r18-06
+
+- Title: AIDR get started
+- URL: https://aidr-docs.crowdstrike.com/docs/aidr/get-started
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)

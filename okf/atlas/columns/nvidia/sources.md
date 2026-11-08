@@ -79,9 +79,25 @@ sources:
     resource: "https://docs.nvidia.com/nemo/agent-toolkit/latest/build-workflows/mcp-client.html"
     locator: "registry entry"
     tier: 1
+  - id: "nvidia-r18-01"
+    resource: "https://docs.nvidia.com/nemo/agent-toolkit/latest/components/functions/code-execution.html"
+    locator: "registry entry"
+    tier: 1
+  - id: "nvidia-r18-02"
+    resource: "https://docs.nvidia.com/openshell/latest/about/architecture.html"
+    locator: "registry entry"
+    tier: 1
+  - id: "nvidia-r18-03"
+    resource: "https://www.nvidia.com/en-us/ai-trust-center/security-compliance/"
+    locator: "registry entry"
+    tier: 1
+  - id: "nvidia-r18-04"
+    resource: "https://www.nvidia.com/en-us/ai-trust-center/"
+    locator: "registry entry"
+    tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-10-14T18:00:00+10:00"
+  at: "2026-11-08T00:00:00+10:00"
 ---
 
 Every source the NVIDIA AI Enterprise cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
@@ -221,3 +237,35 @@ Every source the NVIDIA AI Enterprise cells cite, with its tier from the atlas s
 - Tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c2-5](c2-5.md), [c3-2](c3-2.md)
+
+### nvidia-r18-01
+
+- Title: Code Execution (NeMo Agent Toolkit)
+- URL: https://docs.nvidia.com/nemo/agent-toolkit/latest/components/functions/code-execution.html
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### nvidia-r18-02
+
+- Title: How OpenShell works
+- URL: https://docs.nvidia.com/openshell/latest/about/architecture.html
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### nvidia-r18-03
+
+- Title: Security compliance (NVIDIA AI Trust Center)
+- URL: https://www.nvidia.com/en-us/ai-trust-center/security-compliance/
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### nvidia-r18-04
+
+- Title: NVIDIA AI Trust Center
+- URL: https://www.nvidia.com/en-us/ai-trust-center/
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)

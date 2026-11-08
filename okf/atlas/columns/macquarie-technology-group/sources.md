@@ -47,9 +47,25 @@ sources:
     resource: "https://www.macquariecloudservices.com/cyber-security/managed-soc/"
     locator: "registry entry"
     tier: 1
+  - id: "macquarie-technology-group-r18-01"
+    resource: "https://www.macquariecloudservices.com/data-ai/launch-ai/"
+    locator: "registry entry"
+    tier: 1
+  - id: "macquarie-technology-group-r18-02"
+    resource: "https://www.macquariegovernment.com/why-us/certifications-and-accreditations-irap/"
+    locator: "registry entry"
+    tier: 1
+  - id: "macquarie-technology-group-r18-04"
+    resource: "https://www.macquariecloudservices.com/why-us/compliance/"
+    locator: "registry entry"
+    tier: 1
+  - id: "macquarie-technology-group-r18-05"
+    resource: "https://www.hostingcertification.gov.au/certified-service-providers"
+    locator: "registry entry"
+    tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-10-14T18:00:00+10:00"
+  at: "2026-11-08T00:00:00+10:00"
 ---
 
 Every source the Macquarie Technology Group (Macquarie Government and Cloud Services) cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
@@ -125,3 +141,35 @@ Every source the Macquarie Technology Group (Macquarie Government and Cloud Serv
 - Tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c7-2](c7-2.md)
+
+### macquarie-technology-group-r18-01
+
+- Title: Launch AI
+- URL: https://www.macquariecloudservices.com/data-ai/launch-ai/
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### macquarie-technology-group-r18-02
+
+- Title: Certifications and accreditations: IRAP
+- URL: https://www.macquariegovernment.com/why-us/certifications-and-accreditations-irap/
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### macquarie-technology-group-r18-04
+
+- Title: Compliance
+- URL: https://www.macquariecloudservices.com/why-us/compliance/
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### macquarie-technology-group-r18-05
+
+- Title: Hosting Certification Framework: Certified Service Providers
+- URL: https://www.hostingcertification.gov.au/certified-service-providers
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)

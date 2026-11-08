@@ -18,6 +18,7 @@ Column in the Observability and evaluation group.
 * [Agent In-Session Memory](c2-4.md)
 * [Harness](c2-5.md)
 * [Agent Persistent Memory](c2-6.md)
+* [Execution Containment & Kill Switch](c2-7.md)
 * [Model Gateway](c3-1.md)
 * [Tool Gateway](c3-2.md)
 * [Data Gateway](c3-3.md)
@@ -48,3 +49,4 @@ Column in the Observability and evaluation group.
 * [Data Lifecycle Governance](c6-10.md)
 * [Assurance & Compliance Evidence](c6-11.md)
 * [Third-Party Governance](c6-12.md)
+* [Independent Assurance & Authorisation](c6-13.md)

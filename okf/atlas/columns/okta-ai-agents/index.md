@@ -18,6 +18,7 @@ Column in the Identity, access and secrets group.
 * [Agent In-Session Memory](c2-4.md)
 * [Harness](c2-5.md)
 * [Agent Persistent Memory](c2-6.md)
+* [Execution Containment & Kill Switch](c2-7.md)
 * [Model Gateway](c3-1.md)
 * [Tool Gateway](c3-2.md)
 * [Data Gateway](c3-3.md)

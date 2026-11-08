@@ -11,6 +11,10 @@ tags:
   - "workflow-automation"
   - "sources"
 sources:
+  - id: "confirm-0144259666f1"
+    resource: "https://docs.uipath.com/delegate/standalone/latest/user-guide/security-settings"
+    locator: "registry entry"
+    tier: null
   - id: "uipath-01"
     resource: "https://docs.uipath.com/agents/automation-cloud/latest/user-guide/agents-governance"
     locator: "registry entry"
@@ -155,12 +159,40 @@ sources:
     resource: "https://docs.uipath.com/agents/automation-cloud/latest/user-guide/agent-score"
     locator: "registry entry"
     tier: 1
+  - id: "uipath-r18-01"
+    resource: "https://docs.uipath.com/agents/automation-cloud/latest/user-guide/mcp-servers-compliance"
+    locator: "registry entry"
+    tier: 1
+  - id: "uipath-r18-02"
+    resource: "https://docs.uipath.com/orchestrator/automation-cloud/latest/user-guide/job-states"
+    locator: "registry entry"
+    tier: 1
+  - id: "uipath-r18-03"
+    resource: "https://docs.uipath.com/delegate/standalone/latest/user-guide/local-security-configuration"
+    locator: "registry entry"
+    tier: 1
+  - id: "uipath-r18-04"
+    resource: "https://www.uipath.com/legal/trust-and-security/irap"
+    locator: "registry entry"
+    tier: 1
+  - id: "uipath-r18-05"
+    resource: "https://www.uipath.com/platform/agentic-automation/foundation/security-governance"
+    locator: "registry entry"
+    tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-10-14T18:00:00+10:00"
+  at: "2026-11-08T00:00:00+10:00"
 ---
 
 Every source the UiPath Agentic Automation cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### confirm-0144259666f1
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.uipath.com/delegate/standalone/latest/user-guide/security-settings
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c1-1](c1-1.md)
 
 ### uipath-01
 
@@ -449,3 +481,43 @@ Every source the UiPath Agentic Automation cells cite, with its tier from the at
 - Tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md)
+
+### uipath-r18-01
+
+- Title: MCP servers compliance guidelines
+- URL: https://docs.uipath.com/agents/automation-cloud/latest/user-guide/mcp-servers-compliance
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### uipath-r18-02
+
+- Title: Job states
+- URL: https://docs.uipath.com/orchestrator/automation-cloud/latest/user-guide/job-states
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### uipath-r18-03
+
+- Title: Delegate local security configuration
+- URL: https://docs.uipath.com/delegate/standalone/latest/user-guide/local-security-configuration
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### uipath-r18-04
+
+- Title: UiPath Trust and Security, IRAP
+- URL: https://www.uipath.com/legal/trust-and-security/irap
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### uipath-r18-05
+
+- Title: Security and governance for agentic automation
+- URL: https://www.uipath.com/platform/agentic-automation/foundation/security-governance
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)

@@ -11,6 +11,18 @@ tags:
   - "ai-security"
   - "sources"
 sources:
+  - id: "confirm-424829efda60"
+    resource: "https://www.wiz.io/blog/wiz-blue-agent"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-a7ae92e34056"
+    resource: "https://www.wiz.io/trust-center"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-d4a5f1631fc7"
+    resource: "https://www.wiz.io/blog/wiz-service-catalog-updates"
+    locator: "registry entry"
+    tier: null
   - id: "wiz-01"
     resource: "https://www.wiz.io/solutions/ai-spm"
     locator: "registry entry"
@@ -85,10 +97,34 @@ sources:
     tier: 2
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-10-14T18:00:00+10:00"
+  at: "2026-11-08T00:00:00+10:00"
 ---
 
 Every source the Wiz cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### confirm-424829efda60
+
+- Title: Quoted by the confirm agents
+- URL: https://www.wiz.io/blog/wiz-blue-agent
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c5-1](c5-1.md)
+
+### confirm-a7ae92e34056
+
+- Title: Quoted by the confirm agents
+- URL: https://www.wiz.io/trust-center
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-13](c6-13.md)
+
+### confirm-d4a5f1631fc7
+
+- Title: Quoted by the confirm agents
+- URL: https://www.wiz.io/blog/wiz-service-catalog-updates
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-6](c6-6.md)
 
 ### wiz-01
 

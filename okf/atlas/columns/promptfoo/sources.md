@@ -11,6 +11,10 @@ tags:
   - "red-team"
   - "sources"
 sources:
+  - id: "confirm-11cebb23a051"
+    resource: "https://www.promptfoo.dev/blog/SOC2-compliance/"
+    locator: "registry entry"
+    tier: null
   - id: "promptfoo-01"
     resource: "https://www.promptfoo.dev/docs/red-team/"
     locator: "registry entry"
@@ -79,12 +83,36 @@ sources:
     resource: "https://www.promptfoo.dev/docs/red-team/plugins/mcp/"
     locator: "registry entry"
     tier: 1
+  - id: "promptfoo-r18-01"
+    resource: "https://www.promptfoo.dev/mcp/"
+    locator: "registry entry"
+    tier: 1
+  - id: "promptfoo-r18-02"
+    resource: "https://www.promptfoo.dev/docs/guides/sandboxed-code-evals/"
+    locator: "registry entry"
+    tier: 1
+  - id: "promptfoo-r18-03"
+    resource: "https://trust.promptfoo.dev/"
+    locator: "registry entry"
+    tier: 1
+  - id: "promptfoo-r18-04"
+    resource: "https://www.promptfoo.dev/security/"
+    locator: "registry entry"
+    tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-10-14T18:00:00+10:00"
+  at: "2026-11-08T00:00:00+10:00"
 ---
 
 Every source the Promptfoo cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### confirm-11cebb23a051
+
+- Title: Quoted by the confirm agents
+- URL: https://www.promptfoo.dev/blog/SOC2-compliance/
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-13](c6-13.md)
 
 ### promptfoo-01
 
@@ -221,3 +249,35 @@ Every source the Promptfoo cells cite, with its tier from the atlas source regis
 - Tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-6](c7-6.md)
+
+### promptfoo-r18-01
+
+- Title: Promptfoo MCP Proxy
+- URL: https://www.promptfoo.dev/mcp/
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### promptfoo-r18-02
+
+- Title: Promptfoo guide: Sandboxed code evals
+- URL: https://www.promptfoo.dev/docs/guides/sandboxed-code-evals/
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### promptfoo-r18-03
+
+- Title: Promptfoo Trust Center
+- URL: https://trust.promptfoo.dev/
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### promptfoo-r18-04
+
+- Title: Promptfoo security page
+- URL: https://www.promptfoo.dev/security/
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)

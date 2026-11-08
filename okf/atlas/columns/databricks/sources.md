@@ -11,6 +11,26 @@ tags:
   - "data-ai-platforms"
   - "sources"
 sources:
+  - id: "confirm-0020a67176b5"
+    resource: "https://docs.databricks.com/aws/en/agents/deploy/agent-server"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-005f988d7adb"
+    resource: "https://docs.databricks.com/aws/en/dev-tools/databricks-apps/permissions"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-bd5a00e815c3"
+    resource: "https://docs.databricks.com/aws/en/agents/custom-agents/model-serving/agent-authentication-model-serving"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-cc16b0ea01a1"
+    resource: "https://docs.databricks.com/aws/en/mlflow3/genai/tracing/observe-with-traces/analyze-traces"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-e0f19d9e0322"
+    resource: "https://docs.databricks.com/aws/en/data-governance/unity-catalog/service-policies/"
+    locator: "registry entry"
+    tier: null
   - id: "databricks-01"
     resource: "https://docs.databricks.com/aws/en/agents/custom-agents/agent-authentication"
     locator: "registry entry"
@@ -235,12 +255,92 @@ sources:
     resource: "https://learn.microsoft.com/en-us/azure/databricks/security/network/serverless-network-security/network-policies"
     locator: "registry entry"
     tier: 1
+  - id: "databricks-r18-01"
+    resource: "https://docs.databricks.com/aws/en/compute/serverless/sandbox"
+    locator: "registry entry"
+    tier: 1
+  - id: "databricks-r18-02"
+    resource: "https://docs.databricks.com/aws/en/agents/deploy/agent-runtime"
+    locator: "registry entry"
+    tier: 1
+  - id: "databricks-r18-03"
+    resource: "https://docs.databricks.com/aws/en/agents/deploy/"
+    locator: "registry entry"
+    tier: 1
+  - id: "databricks-r18-04"
+    resource: "https://docs.databricks.com/aws/en/dev-tools/databricks-apps/networking"
+    locator: "registry entry"
+    tier: 1
+  - id: "databricks-r18-05"
+    resource: "https://www.databricks.com/trust/compliance/irap"
+    locator: "registry entry"
+    tier: 1
+  - id: "databricks-r18-06"
+    resource: "https://www.databricks.com/sites/default/files/2026-02/Databricks-IRAP-2025-Assessment-Letter-v1.1.pdf"
+    locator: "registry entry"
+    tier: 1
+  - id: "databricks-r18-07"
+    resource: "https://docs.databricks.com/aws/en/security/privacy/irap"
+    locator: "registry entry"
+    tier: 1
+  - id: "databricks-r18-08"
+    resource: "https://www.databricks.com/trust/compliance"
+    locator: "registry entry"
+    tier: 1
+  - id: "databricks-r18-09"
+    resource: "https://www.databricks.com/trust/compliance/soc"
+    locator: "registry entry"
+    tier: 1
+  - id: "databricks-r18-10"
+    resource: "https://docs.databricks.com/aws/en/security/privacy/security-profile"
+    locator: "registry entry"
+    tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-10-14T18:00:00+10:00"
+  at: "2026-11-08T00:00:00+10:00"
 ---
 
 Every source the Databricks cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### confirm-0020a67176b5
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.databricks.com/aws/en/agents/deploy/agent-server
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c1-2](c1-2.md)
+
+### confirm-005f988d7adb
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.databricks.com/aws/en/dev-tools/databricks-apps/permissions
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c1-4](c1-4.md)
+
+### confirm-bd5a00e815c3
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.databricks.com/aws/en/agents/custom-agents/model-serving/agent-authentication-model-serving
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c4-2](c4-2.md)
+
+### confirm-cc16b0ea01a1
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.databricks.com/aws/en/mlflow3/genai/tracing/observe-with-traces/analyze-traces
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c5-2](c5-2.md)
+
+### confirm-e0f19d9e0322
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.databricks.com/aws/en/data-governance/unity-catalog/service-policies/
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c3-2](c3-2.md)
 
 ### databricks-01
 
@@ -689,3 +789,83 @@ Every source the Databricks cells cite, with its tier from the atlas source regi
 - Tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-3](c2-3.md)
+
+### databricks-r18-01
+
+- Title: Databricks Sandbox
+- URL: https://docs.databricks.com/aws/en/compute/serverless/sandbox
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### databricks-r18-02
+
+- Title: Agent Runtime
+- URL: https://docs.databricks.com/aws/en/agents/deploy/agent-runtime
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### databricks-r18-03
+
+- Title: Deploy agents on Databricks
+- URL: https://docs.databricks.com/aws/en/agents/deploy/
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### databricks-r18-04
+
+- Title: Networking for Databricks Apps
+- URL: https://docs.databricks.com/aws/en/dev-tools/databricks-apps/networking
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### databricks-r18-05
+
+- Title: IRAP, Databricks Security and Trust Center
+- URL: https://www.databricks.com/trust/compliance/irap
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### databricks-r18-06
+
+- Title: Databricks ACSC Cloud Security Assessment, Letter of Assessment
+- URL: https://www.databricks.com/sites/default/files/2026-02/Databricks-IRAP-2025-Assessment-Letter-v1.1.pdf
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### databricks-r18-07
+
+- Title: Infosec Registered Assessors Program (IRAP)
+- URL: https://docs.databricks.com/aws/en/security/privacy/irap
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### databricks-r18-08
+
+- Title: Compliance, Databricks Security and Trust Center
+- URL: https://www.databricks.com/trust/compliance
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### databricks-r18-09
+
+- Title: SOC, Databricks Security and Trust Center
+- URL: https://www.databricks.com/trust/compliance/soc
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### databricks-r18-10
+
+- Title: Compliance security profile
+- URL: https://docs.databricks.com/aws/en/security/privacy/security-profile
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)

@@ -11,6 +11,30 @@ tags:
   - "enterprise-agents"
   - "sources"
 sources:
+  - id: "confirm-2f4192cc278a"
+    resource: "https://learn.microsoft.com/en-us/microsoft-copilot-studio/faq-code-interpreter"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-6655e5cdd71b"
+    resource: "https://learn.microsoft.com/en-us/microsoft-copilot-studio/agents-experience/publication-channels-mcp-agent-to-agent"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-cb2aee83ee14"
+    resource: "https://learn.microsoft.com/en-us/microsoft-agent-365/admin/agent-requests?view=o365-worldwide"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-ec888edd996a"
+    resource: "https://learn.microsoft.com/en-us/microsoft-copilot-studio/authoring-select-agent-model"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-ed7e3898cce7"
+    resource: "https://learn.microsoft.com/en-us/microsoft-copilot-studio/analytics-agent-evaluation-rest-api"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-f78e7104a225"
+    resource: "https://learn.microsoft.com/en-us/dynamics365/get-started/security"
+    locator: "registry entry"
+    tier: null
   - id: "microsoft-copilot-studio-01"
     resource: "https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-use-entra-agent-identities"
     locator: "registry entry"
@@ -139,12 +163,84 @@ sources:
     resource: "https://learn.microsoft.com/en-us/power-automate/guidance/coding-guidelines/error-handling"
     locator: "registry entry"
     tier: 1
+  - id: "microsoft-copilot-studio-r18-01"
+    resource: "https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-api-quarantine"
+    locator: "registry entry"
+    tier: 1
+  - id: "microsoft-copilot-studio-r18-02"
+    resource: "https://learn.microsoft.com/en-us/microsoft-copilot-studio/harnesses-overview"
+    locator: "registry entry"
+    tier: 1
+  - id: "microsoft-copilot-studio-r18-03"
+    resource: "https://learn.microsoft.com/en-us/defender-xdr/security-for-ai/ai-agent-real-time-protection"
+    locator: "registry entry"
+    tier: 1
+  - id: "microsoft-copilot-studio-r18-04"
+    resource: "https://learn.microsoft.com/en-us/microsoft-365/admin/manage/agent-actions"
+    locator: "registry entry"
+    tier: 1
+  - id: "microsoft-copilot-studio-r18-05"
+    resource: "https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-certification"
+    locator: "registry entry"
+    tier: 1
+  - id: "microsoft-copilot-studio-r18-06"
+    resource: "https://learn.microsoft.com/en-us/compliance/regulatory/offering-irap-australia"
+    locator: "registry entry"
+    tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-10-14T18:00:00+10:00"
+  at: "2026-11-08T00:00:00+10:00"
 ---
 
 Every source the Microsoft Copilot Studio cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### confirm-2f4192cc278a
+
+- Title: Quoted by the confirm agents
+- URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/faq-code-interpreter
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-3](c2-3.md)
+
+### confirm-6655e5cdd71b
+
+- Title: Quoted by the confirm agents
+- URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/agents-experience/publication-channels-mcp-agent-to-agent
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c4-4](c4-4.md)
+
+### confirm-cb2aee83ee14
+
+- Title: Quoted by the confirm agents
+- URL: https://learn.microsoft.com/en-us/microsoft-agent-365/admin/agent-requests?view=o365-worldwide
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-2](c6-2.md)
+
+### confirm-ec888edd996a
+
+- Title: Quoted by the confirm agents
+- URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/authoring-select-agent-model
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-8](c6-8.md)
+
+### confirm-ed7e3898cce7
+
+- Title: Quoted by the confirm agents
+- URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/analytics-agent-evaluation-rest-api
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c5-2](c5-2.md)
+
+### confirm-f78e7104a225
+
+- Title: Quoted by the confirm agents
+- URL: https://learn.microsoft.com/en-us/dynamics365/get-started/security
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c7-4](c7-4.md)
 
 ### microsoft-copilot-studio-01
 
@@ -401,3 +497,51 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the atl
 - Tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md)
+
+### microsoft-copilot-studio-r18-01
+
+- Title: Use the Power Platform API to quarantine agents
+- URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-api-quarantine
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### microsoft-copilot-studio-r18-02
+
+- Title: Harnesses in Copilot Studio
+- URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/harnesses-overview
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### microsoft-copilot-studio-r18-03
+
+- Title: Protect AI agents in real time using Microsoft Defender
+- URL: https://learn.microsoft.com/en-us/defender-xdr/security-for-ai/ai-agent-real-time-protection
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### microsoft-copilot-studio-r18-04
+
+- Title: Governance and lifecycle actions for agents in the Microsoft 365 admin center
+- URL: https://learn.microsoft.com/en-us/microsoft-365/admin/manage/agent-actions
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### microsoft-copilot-studio-r18-05
+
+- Title: Review ISO, SOC and HIPAA compliance - Copilot Studio
+- URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-certification
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### microsoft-copilot-studio-r18-06
+
+- Title: Australian Government IRAP - Microsoft Compliance
+- URL: https://learn.microsoft.com/en-us/compliance/regulatory/offering-irap-australia
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)

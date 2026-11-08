@@ -11,6 +11,22 @@ tags:
   - "identity"
   - "sources"
 sources:
+  - id: "confirm-030f53b240d7"
+    resource: "https://learn.microsoft.com/en-us/entra/agent-id/agent-owners-sponsors-managers"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-27129af659a3"
+    resource: "https://learn.microsoft.com/en-us/entra/global-secure-access/concept-shadow-ai-discovery"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-42bc01e23e96"
+    resource: "https://learn.microsoft.com/en-us/entra/agent-id/what-are-agent-identities"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-6c471177ffbd"
+    resource: "https://learn.microsoft.com/en-us/entra/agent-id/agent-on-behalf-of-oauth-flow"
+    locator: "registry entry"
+    tier: null
   - id: "microsoft-entra-agent-id-01"
     resource: "https://learn.microsoft.com/en-us/entra/agent-id/identity-platform/what-is-agent-id"
     locator: "registry entry"
@@ -95,12 +111,72 @@ sources:
     resource: "https://learn.microsoft.com/en-us/entra/agent-id/best-practices-agent-id"
     locator: "registry entry"
     tier: 1
+  - id: "microsoft-entra-agent-id-r18-01"
+    resource: "https://learn.microsoft.com/en-us/entra/agent-id/disable-agent-identities"
+    locator: "registry entry"
+    tier: 1
+  - id: "microsoft-entra-agent-id-r18-02"
+    resource: "https://learn.microsoft.com/en-us/entra/agent-id/concept-agent-identity-deletion"
+    locator: "registry entry"
+    tier: 1
+  - id: "microsoft-entra-agent-id-r18-03"
+    resource: "https://learn.microsoft.com/en-us/entra/global-secure-access/concept-secure-web-ai-gateway-agents"
+    locator: "registry entry"
+    tier: 1
+  - id: "microsoft-entra-agent-id-r18-a1"
+    resource: "https://learn.microsoft.com/en-us/compliance/regulatory/offering-irap-australia"
+    locator: "registry entry"
+    tier: 1
+  - id: "microsoft-entra-agent-id-r18-a2"
+    resource: "https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-australia-irap"
+    locator: "registry entry"
+    tier: 1
+  - id: "microsoft-entra-agent-id-r18-a3"
+    resource: "https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-soc-2"
+    locator: "registry entry"
+    tier: 1
+  - id: "microsoft-entra-agent-id-r18-a4"
+    resource: "https://learn.microsoft.com/en-us/compliance/regulatory/offering-iso-42001"
+    locator: "registry entry"
+    tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-10-14T18:00:00+10:00"
+  at: "2026-11-08T00:00:00+10:00"
 ---
 
 Every source the Microsoft Entra Agent ID cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### confirm-030f53b240d7
+
+- Title: Quoted by the confirm agents
+- URL: https://learn.microsoft.com/en-us/entra/agent-id/agent-owners-sponsors-managers
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c1-4](c1-4.md)
+
+### confirm-27129af659a3
+
+- Title: Quoted by the confirm agents
+- URL: https://learn.microsoft.com/en-us/entra/global-secure-access/concept-shadow-ai-discovery
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c7-9](c7-9.md)
+
+### confirm-42bc01e23e96
+
+- Title: Quoted by the confirm agents
+- URL: https://learn.microsoft.com/en-us/entra/agent-id/what-are-agent-identities
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c4-4](c4-4.md)
+
+### confirm-6c471177ffbd
+
+- Title: Quoted by the confirm agents
+- URL: https://learn.microsoft.com/en-us/entra/agent-id/agent-on-behalf-of-oauth-flow
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c4-2](c4-2.md)
 
 ### microsoft-entra-agent-id-01
 
@@ -269,3 +345,59 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the atl
 - Tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md), [c6-11](c6-11.md), [c6-2](c6-2.md), [c6-8](c6-8.md), [c7-2](c7-2.md)
+
+### microsoft-entra-agent-id-r18-01
+
+- Title: Disable agent identities in your tenant
+- URL: https://learn.microsoft.com/en-us/entra/agent-id/disable-agent-identities
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### microsoft-entra-agent-id-r18-02
+
+- Title: Learn how agent identity deletion works
+- URL: https://learn.microsoft.com/en-us/entra/agent-id/concept-agent-identity-deletion
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### microsoft-entra-agent-id-r18-03
+
+- Title: Learn about Secure Web and AI Gateway for Microsoft Copilot Studio agents
+- URL: https://learn.microsoft.com/en-us/entra/global-secure-access/concept-secure-web-ai-gateway-agents
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### microsoft-entra-agent-id-r18-a1
+
+- Title: Australian Government Information Security Registered Assessor Program (IRAP), Microsoft Compliance
+- URL: https://learn.microsoft.com/en-us/compliance/regulatory/offering-irap-australia
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### microsoft-entra-agent-id-r18-a2
+
+- Title: Australia IRAP, Azure Compliance
+- URL: https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-australia-irap
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### microsoft-entra-agent-id-r18-a3
+
+- Title: System and Organization Controls (SOC) 2 Type 2, Azure Compliance
+- URL: https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-soc-2
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### microsoft-entra-agent-id-r18-a4
+
+- Title: ISO/IEC 42001:2023 Artificial Intelligence Management System Standards, Microsoft Compliance
+- URL: https://learn.microsoft.com/en-us/compliance/regulatory/offering-iso-42001
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)

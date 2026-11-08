@@ -14,6 +14,7 @@
 * [c2-4 Agent In-Session Memory](c2-4.md)
 * [c2-5 Harness](c2-5.md)
 * [c2-6 Agent Persistent Memory](c2-6.md)
+* [c2-7 Execution Containment & Kill Switch](c2-7.md)
 * [c3-1 Model Gateway](c3-1.md)
 * [c3-2 Tool Gateway](c3-2.md)
 * [c3-3 Data Gateway](c3-3.md)
@@ -44,3 +45,4 @@
 * [c6-10 Data Lifecycle Governance](c6-10.md)
 * [c6-11 Assurance & Compliance Evidence](c6-11.md)
 * [c6-12 Third-Party Governance](c6-12.md)
+* [c6-13 Independent Assurance & Authorisation](c6-13.md)

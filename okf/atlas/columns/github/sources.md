@@ -11,6 +11,38 @@ tags:
   - "coding-agents"
   - "sources"
 sources:
+  - id: "confirm-00088f988efe"
+    resource: "https://docs.github.com/en/enterprise-cloud@latest/admin/data-residency/github-copilot-with-data-residency"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-073ae72bc3bb"
+    resource: "https://docs.github.com/en/copilot/concepts/copilot-surfaces/copilot-cli"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-107f8398da2d"
+    resource: "https://docs.github.com/en/copilot/concepts/customizations/mcp"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-2b78f55b9c5a"
+    resource: "https://docs.github.com/en/copilot/concepts/customizations/hooks"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-2c7aab143498"
+    resource: "https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-enterprise/manage-agents/prepare-for-custom-agents"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-35852f415d7b"
+    resource: "https://docs.github.com/en/copilot/concepts/prompting-and-context/copilot-memory"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-68f6f66c07ac"
+    resource: "https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/agent-loop"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-e0f08fbb5fd2"
+    resource: "https://docs.github.com/en/copilot/how-tos/copilot-on-github/use-copilot-agents/manage-and-track-agents"
+    locator: "registry entry"
+    tier: null
   - id: "gh-audit"
     resource: "https://docs.github.com/en/copilot/reference/enterprise-administrators/agentic-audit-log-events"
     locator: "registry entry"
@@ -95,6 +127,30 @@ sources:
     resource: "https://docs.github.com/en/copilot/how-tos/copilot-on-github/use-copilot-agents/manage-and-track-agents"
     locator: "registry entry"
     tier: 1
+  - id: "github-r18-01"
+    resource: "https://docs.github.com/en/copilot/how-tos/copilot-on-github/customize-copilot/customize-the-firewall"
+    locator: "registry entry"
+    tier: 1
+  - id: "github-r18-02"
+    resource: "https://docs.github.com/en/copilot/how-tos/copilot-on-github/use-copilot-agents/manage-and-track-agents"
+    locator: "registry entry"
+    tier: 1
+  - id: "github-r18-03"
+    resource: "https://docs.github.com/en/copilot/concepts/agents/cloud-agent/risks-and-mitigations"
+    locator: "registry entry"
+    tier: 1
+  - id: "github-r18-04"
+    resource: "https://docs.github.com/en/enterprise-cloud@latest/organizations/keeping-your-organization-secure/managing-security-settings-for-your-organization/accessing-compliance-reports-for-your-organization"
+    locator: "registry entry"
+    tier: 1
+  - id: "github-r18-05"
+    resource: "https://github.blog/changelog/2024-12-06-the-latest-github-and-github-copilot-soc-reports-are-now-available/"
+    locator: "registry entry"
+    tier: 2
+  - id: "github-r18-06"
+    resource: "https://github.blog/changelog/2026-04-13-copilot-data-residency-in-us-eu-and-fedramp-compliance-now-available"
+    locator: "registry entry"
+    tier: 2
   - id: "owasp"
     resource: "https://genai.owasp.org/llm-top-10/"
     locator: "registry entry"
@@ -105,10 +161,74 @@ sources:
     tier: 4
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-10-14T18:00:00+10:00"
+  at: "2026-11-08T00:00:00+10:00"
 ---
 
 Every source the GitHub Copilot cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### confirm-00088f988efe
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.github.com/en/enterprise-cloud@latest/admin/data-residency/github-copilot-with-data-residency
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-10](c6-10.md)
+
+### confirm-073ae72bc3bb
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.github.com/en/copilot/concepts/copilot-surfaces/copilot-cli
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c1-3](c1-3.md)
+
+### confirm-107f8398da2d
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.github.com/en/copilot/concepts/customizations/mcp
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c1-2](c1-2.md)
+
+### confirm-2b78f55b9c5a
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.github.com/en/copilot/concepts/customizations/hooks
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c3-2](c3-2.md)
+
+### confirm-2c7aab143498
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-enterprise/manage-agents/prepare-for-custom-agents
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c1-4](c1-4.md)
+
+### confirm-35852f415d7b
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.github.com/en/copilot/concepts/prompting-and-context/copilot-memory
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-6](c2-6.md)
+
+### confirm-68f6f66c07ac
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/agent-loop
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-5](c2-5.md)
+
+### confirm-e0f08fbb5fd2
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.github.com/en/copilot/how-tos/copilot-on-github/use-copilot-agents/manage-and-track-agents
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-1](c2-1.md)
 
 ### gh-audit
 
@@ -277,6 +397,54 @@ Every source the GitHub Copilot cells cite, with its tier from the atlas source 
 - Tier: 1
 - Checked: 2026-10-07
 - Cited by: [c2-4](c2-4.md), [c5-1](c5-1.md), [c5-2](c5-2.md), [c6-11](c6-11.md), [c6-5](c6-5.md)
+
+### github-r18-01
+
+- Title: Customizing or disabling the firewall for GitHub Copilot
+- URL: https://docs.github.com/en/copilot/how-tos/copilot-on-github/customize-copilot/customize-the-firewall
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### github-r18-02
+
+- Title: Managing agent sessions
+- URL: https://docs.github.com/en/copilot/how-tos/copilot-on-github/use-copilot-agents/manage-and-track-agents
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### github-r18-03
+
+- Title: Risks and mitigations for GitHub Copilot cloud agent
+- URL: https://docs.github.com/en/copilot/concepts/agents/cloud-agent/risks-and-mitigations
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### github-r18-04
+
+- Title: Accessing compliance reports for your organization
+- URL: https://docs.github.com/en/enterprise-cloud@latest/organizations/keeping-your-organization-secure/managing-security-settings-for-your-organization/accessing-compliance-reports-for-your-organization
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### github-r18-05
+
+- Title: The latest GitHub and GitHub Copilot SOC reports are now available
+- URL: https://github.blog/changelog/2024-12-06-the-latest-github-and-github-copilot-soc-reports-are-now-available/
+- Tier: 2
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### github-r18-06
+
+- Title: Copilot data residency in US + EU and FedRAMP compliance now available
+- URL: https://github.blog/changelog/2026-04-13-copilot-data-residency-in-us-eu-and-fedramp-compliance-now-available
+- Tier: 2
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
 
 ### owasp
 

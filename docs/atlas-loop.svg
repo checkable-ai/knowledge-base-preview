@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="t d">
   <title id="t">How the Offerings Atlas runs</title>
-  <desc id="d">Researcher agents fill a matrix of platforms by controls. This preview holds 27 platforms by 44 controls. An evaluator fetches each cited page, stores it by hash, has a model pick a verbatim passage and checks the passage is really on the page. A curator writes verified records into an OKF tree with frontmatter, chunks and an eligibility rule. A questionnaire routes a client's concerns to controls and answers them from eligible records with checked citations. A freshness agent hashes source sections and queues rechecks, or raises a pull request with an approver chain in an enterprise tree. Every model call goes through a local gateway that runs Claude and Codex headless.</desc>
+  <desc id="d">Researcher agents fill a matrix of platforms by controls. This edition holds 116 platforms by 46 controls. An evaluator fetches each cited page, stores it by hash, has a model pick a verbatim passage and checks the passage is really on the page. A curator writes verified records into an OKF tree with frontmatter, chunks and an eligibility rule. A questionnaire routes a client's concerns to controls and answers them from eligible records with checked citations. A freshness agent hashes source sections and queues rechecks, or raises a pull request with an approver chain in an enterprise tree. Every model call goes through a local gateway that runs Claude and Codex headless.</desc>
   <defs>
     <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
       <path d="M0 1L9 5L0 9" fill="none" stroke="#263d35" stroke-width="1.4" stroke-opacity=".7"/>
@@ -45,8 +45,8 @@
   <circle class="dot" cx="88" cy="196" r="3"/><circle class="dot" cx="176" cy="200" r="2.4"/><circle class="dot" cx="96" cy="286" r="2.2"/>
   <text class="tag" x="62" y="318">RESEARCHER AGENTS</text>
   <text class="label" x="62" y="340">A controls matrix</text>
-  <text class="sub" x="62" y="360">This preview: 27 platforms</text>
-  <text class="sub" x="62" y="378">by 44 controls</text>
+  <text class="sub" x="62" y="360">This edition: 116 platforms</text>
+  <text class="sub" x="62" y="378">by 46 controls</text>
 
   <!-- 2 evaluator -->
   <circle class="orbit" cx="404" cy="240" r="46"/>

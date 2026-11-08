@@ -151,9 +151,21 @@ sources:
     resource: "https://huggingface.co/docs/hub/agents-skills"
     locator: "registry entry"
     tier: 1
+  - id: "hugging-face-r18-01"
+    resource: "https://huggingface.co/docs/huggingface_hub/en/concepts/sandbox"
+    locator: "registry entry"
+    tier: 1
+  - id: "hugging-face-r18-02"
+    resource: "https://huggingface.co/docs/hub/security"
+    locator: "registry entry"
+    tier: 1
+  - id: "hugging-face-r18-03"
+    resource: "https://huggingface.co/docs/hub/storage-regions"
+    locator: "registry entry"
+    tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-10-14T18:00:00+10:00"
+  at: "2026-11-08T00:00:00+10:00"
 ---
 
 Every source the Hugging Face Hub and Enterprise Hub cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
@@ -437,3 +449,27 @@ Every source the Hugging Face Hub and Enterprise Hub cells cite, with its tier f
 - Tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-5](c7-5.md)
+
+### hugging-face-r18-01
+
+- Title: Sandboxes under the hood
+- URL: https://huggingface.co/docs/huggingface_hub/en/concepts/sandbox
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### hugging-face-r18-02
+
+- Title: Hub security
+- URL: https://huggingface.co/docs/hub/security
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### hugging-face-r18-03
+
+- Title: Storage Regions on the Hub
+- URL: https://huggingface.co/docs/hub/storage-regions
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)

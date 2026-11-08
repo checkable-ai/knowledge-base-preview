@@ -11,12 +11,40 @@ tags:
   - "data-retrieval"
   - "sources"
 sources:
+  - id: "confirm-013d012aad83"
+    resource: "https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/chat"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-11168bffa033"
+    resource: "https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/glossary"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-2fedc9e79322"
+    resource: "https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/collect-traces"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-47046095740e"
+    resource: "https://www.elastic.co/docs/explore-analyze/ai-features/elastic-agent-builder"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-519bfbbcb688"
+    resource: "https://www.elastic.co/docs/reference/ingest-processor/htmlstrip-processor"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-6bd04f5e6fed"
+    resource: "https://www.elastic.co/docs/reference/integrations/osquery_manager"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-7536f68d067c"
+    resource: "https://www.elastic.co/docs/explore-analyze/workflows/authoring-techniques/pass-data-handle-errors"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-a7392043246b"
+    resource: "https://www.elastic.co/security-labs/threat-command/elastic-advances-llm-security"
+    locator: "registry entry"
+    tier: null
   - id: "elastic-01"
     resource: "https://www.elastic.co/docs/deploy-manage/users-roles/cluster-or-deployment-auth/controlling-access-at-document-field-level"
-    locator: "registry entry"
-    tier: 1
-  - id: "elastic-02"
-    resource: "https://www.elastic.co/docs/solutions/observability/applications/llm-observability"
     locator: "registry entry"
     tier: 1
   - id: "elastic-03"
@@ -35,20 +63,12 @@ sources:
     resource: "https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/tools/mcp-tools"
     locator: "registry entry"
     tier: 1
-  - id: "elastic-07"
-    resource: "https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/monitor-usage"
-    locator: "registry entry"
-    tier: 1
   - id: "elastic-08"
     resource: "https://www.elastic.co/security-labs/elastic-advances-llm-security"
     locator: "registry entry"
     tier: 4
   - id: "elastic-09"
     resource: "https://www.elastic.co/docs/solutions/security/ai/ai-assistant"
-    locator: "registry entry"
-    tier: 1
-  - id: "elastic-10"
-    resource: "https://www.elastic.co/docs/deploy-manage/security/logging-configuration/security-event-audit-logging"
     locator: "registry entry"
     tier: 1
   - id: "elastic-11"
@@ -65,10 +85,6 @@ sources:
     tier: 1
   - id: "elastic-14"
     resource: "https://www.elastic.co/docs/explore-analyze/elastic-inference/inference-api"
-    locator: "registry entry"
-    tier: 1
-  - id: "elastic-15"
-    resource: "https://www.elastic.co/docs/explore-analyze/machine-learning/anomaly-detection"
     locator: "registry entry"
     tier: 1
   - id: "elastic-16"
@@ -119,12 +135,120 @@ sources:
     resource: "https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/mcp-server"
     locator: "registry entry"
     tier: 1
+  - id: "elastic-r18-01"
+    resource: "https://www.elastic.co/trust"
+    locator: "registry entry"
+    tier: 1
+  - id: "elastic-r18-02"
+    resource: "https://www.elastic.co/blog/achieving-irap-protected-level-assessment-elastic-cloud"
+    locator: "registry entry"
+    tier: 2
+  - id: "elastic-r18-03"
+    resource: "https://www.elastic.co/blog/elastic-cloud-serverless-achieves-major-compliance-certifications"
+    locator: "registry entry"
+    tier: 2
+  - id: "elastic-r18-04"
+    resource: "https://www.elastic.co/docs/solutions/security/endpoint-response-actions/isolate-host"
+    locator: "registry entry"
+    tier: 1
+  - id: "elastic-r18-05"
+    resource: "https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-security-invalidate-api-key"
+    locator: "registry entry"
+    tier: 1
+  - id: "elastic-r18-06"
+    resource: "https://www.elastic.co/docs/solutions/observability/applications/llm-observability"
+    locator: "registry entry"
+    tier: 1
+  - id: "elastic-r18-07"
+    resource: "https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/collect-traces"
+    locator: "registry entry"
+    tier: 1
+  - id: "elastic-r18-08"
+    resource: "https://www.elastic.co/observability-labs/blog/llm-agentic-ai-observability-amazon-bedrock-agentcore"
+    locator: "registry entry"
+    tier: 2
+  - id: "elastic-r18-09"
+    resource: "https://www.elastic.co/observability-labs/blog/ai-agent-observability-audit-trail"
+    locator: "registry entry"
+    tier: 2
+  - id: "elastic-r18-10"
+    resource: "https://www.elastic.co/docs/explore-analyze/machine-learning/anomaly-detection"
+    locator: "registry entry"
+    tier: 1
+  - id: "elastic-r18-11"
+    resource: "https://www.elastic.co/docs/deploy-manage/security/logging-configuration/security-event-audit-logging"
+    locator: "registry entry"
+    tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-10-14T18:00:00+10:00"
+  at: "2026-11-08T00:00:00+10:00"
 ---
 
 Every source the Elastic cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### confirm-013d012aad83
+
+- Title: Quoted by the confirm agents
+- URL: https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/chat
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c5-1](c5-1.md)
+
+### confirm-11168bffa033
+
+- Title: Quoted by the confirm agents
+- URL: https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/glossary
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-6](c2-6.md)
+
+### confirm-2fedc9e79322
+
+- Title: Quoted by the confirm agents
+- URL: https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/collect-traces
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c5-4](c5-4.md)
+
+### confirm-47046095740e
+
+- Title: Quoted by the confirm agents
+- URL: https://www.elastic.co/docs/explore-analyze/ai-features/elastic-agent-builder
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-5](c2-5.md)
+
+### confirm-519bfbbcb688
+
+- Title: Quoted by the confirm agents
+- URL: https://www.elastic.co/docs/reference/ingest-processor/htmlstrip-processor
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c7-8](c7-8.md)
+
+### confirm-6bd04f5e6fed
+
+- Title: Quoted by the confirm agents
+- URL: https://www.elastic.co/docs/reference/integrations/osquery_manager
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c7-9](c7-9.md)
+
+### confirm-7536f68d067c
+
+- Title: Quoted by the confirm agents
+- URL: https://www.elastic.co/docs/explore-analyze/workflows/authoring-techniques/pass-data-handle-errors
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-1](c2-1.md)
+
+### confirm-a7392043246b
+
+- Title: Quoted by the confirm agents
+- URL: https://www.elastic.co/security-labs/threat-command/elastic-advances-llm-security
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c7-2](c7-2.md)
 
 ### elastic-01
 
@@ -133,14 +257,6 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 - Tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-3](c3-3.md), [c7-8](c7-8.md)
-
-### elastic-02
-
-- Title: LLM and agentic AI observability
-- URL: https://www.elastic.co/docs/solutions/observability/applications/llm-observability
-- Tier: 1
-- Checked: 2026-10-09
-- Cited by: [c5-1](c5-1.md), [c5-3](c5-3.md), [c5-4](c5-4.md)
 
 ### elastic-03
 
@@ -174,21 +290,13 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c3-2](c3-2.md)
 
-### elastic-07
-
-- Title: Agent Builder monitor usage
-- URL: https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/monitor-usage
-- Tier: 1
-- Checked: 2026-10-09
-- Cited by: [c5-1](c5-1.md), [c5-3](c5-3.md)
-
 ### elastic-08
 
 - Title: Elastic Advances LLM Security with Standardized Fields and Integrations
 - URL: https://www.elastic.co/security-labs/elastic-advances-llm-security
 - Tier: 4
 - Checked: 2026-10-09
-- Cited by: [c5-2](c5-2.md), [c7-2](c7-2.md)
+- Cited by: [c7-2](c7-2.md)
 
 ### elastic-09
 
@@ -197,14 +305,6 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 - Tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c2-6](c2-6.md), [c3-3](c3-3.md), [c7-2](c7-2.md)
-
-### elastic-10
-
-- Title: Security event audit logging
-- URL: https://www.elastic.co/docs/deploy-manage/security/logging-configuration/security-event-audit-logging
-- Tier: 1
-- Checked: 2026-10-09
-- Cited by: [c7-1](c7-1.md)
 
 ### elastic-11
 
@@ -237,14 +337,6 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 - Tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-1](c6-1.md)
-
-### elastic-15
-
-- Title: Anomaly detection with machine learning
-- URL: https://www.elastic.co/docs/explore-analyze/machine-learning/anomaly-detection
-- Tier: 1
-- Checked: 2026-10-09
-- Cited by: [c5-2](c5-2.md), [c5-4](c5-4.md)
 
 ### elastic-16
 
@@ -341,3 +433,91 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 - Tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md)
+
+### elastic-r18-01
+
+- Title: Trust Center
+- URL: https://www.elastic.co/trust
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### elastic-r18-02
+
+- Title: IRAP Protected Level assessment for Elastic Cloud achieved
+- URL: https://www.elastic.co/blog/achieving-irap-protected-level-assessment-elastic-cloud
+- Tier: 2
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### elastic-r18-03
+
+- Title: Elastic Cloud Serverless achieves major compliance certifications
+- URL: https://www.elastic.co/blog/elastic-cloud-serverless-achieves-major-compliance-certifications
+- Tier: 2
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### elastic-r18-04
+
+- Title: Isolate a host
+- URL: https://www.elastic.co/docs/solutions/security/endpoint-response-actions/isolate-host
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### elastic-r18-05
+
+- Title: Invalidate API key API
+- URL: https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-security-invalidate-api-key
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### elastic-r18-06
+
+- Title: LLM and agentic AI observability
+- URL: https://www.elastic.co/docs/solutions/observability/applications/llm-observability
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c5-1](c5-1.md), [c5-2](c5-2.md), [c5-3](c5-3.md), [c5-4](c5-4.md)
+
+### elastic-r18-07
+
+- Title: Collect Agent Builder traces
+- URL: https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/collect-traces
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c5-1](c5-1.md), [c5-3](c5-3.md), [c7-1](c7-1.md)
+
+### elastic-r18-08
+
+- Title: Troubleshooting your Agents and Amazon Bedrock AgentCore with Elastic Observability
+- URL: https://www.elastic.co/observability-labs/blog/llm-agentic-ai-observability-amazon-bedrock-agentcore
+- Tier: 2
+- Checked: 2026-10-18
+- Cited by: [c5-2](c5-2.md), [c5-4](c5-4.md)
+
+### elastic-r18-09
+
+- Title: Observability and audit trails for Agent Builder in Elastic
+- URL: https://www.elastic.co/observability-labs/blog/ai-agent-observability-audit-trail
+- Tier: 2
+- Checked: 2026-10-18
+- Cited by: [c7-1](c7-1.md)
+
+### elastic-r18-10
+
+- Title: Anomaly detection
+- URL: https://www.elastic.co/docs/explore-analyze/machine-learning/anomaly-detection
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c5-2](c5-2.md), [c5-4](c5-4.md)
+
+### elastic-r18-11
+
+- Title: Security event audit logging
+- URL: https://www.elastic.co/docs/deploy-manage/security/logging-configuration/security-event-audit-logging
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c7-1](c7-1.md)

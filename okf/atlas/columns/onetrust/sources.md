@@ -11,6 +11,10 @@ tags:
   - "ai-governance"
   - "sources"
 sources:
+  - id: "confirm-3941f56f89b1"
+    resource: "https://www.onetrust.com/blog/third-party-risk-management/"
+    locator: "registry entry"
+    tier: null
   - id: "onetrust-01"
     resource: "https://www.onetrust.com/solutions/ai-governance/"
     locator: "registry entry"
@@ -47,12 +51,32 @@ sources:
     resource: "https://www.onetrust.com/solutions/eu-ai-act-compliance/"
     locator: "registry entry"
     tier: 1
+  - id: "onetrust-r18-01"
+    resource: "https://www.onetrust.com/solutions/ai-governance/runtime-controls/"
+    locator: "registry entry"
+    tier: 1
+  - id: "onetrust-r18-02"
+    resource: "https://www.onetrust.com/news/onetrust-introduces-corie-to-govern-ai-agents-at-machine-speed/"
+    locator: "registry entry"
+    tier: 2
+  - id: "onetrust-r18-03"
+    resource: "https://www.onetrust.com/trust/"
+    locator: "registry entry"
+    tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-10-14T18:00:00+10:00"
+  at: "2026-11-08T00:00:00+10:00"
 ---
 
 Every source the OneTrust AI Governance cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### confirm-3941f56f89b1
+
+- Title: Quoted by the confirm agents
+- URL: https://www.onetrust.com/blog/third-party-risk-management/
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-12](c6-12.md)
 
 ### onetrust-01
 
@@ -125,3 +149,27 @@ Every source the OneTrust AI Governance cells cite, with its tier from the atlas
 - Tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c6-7](c6-7.md)
+
+### onetrust-r18-01
+
+- Title: OneTrust AI Governance: Runtime controls
+- URL: https://www.onetrust.com/solutions/ai-governance/runtime-controls/
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### onetrust-r18-02
+
+- Title: OneTrust introduces CORIE to govern AI agents at machine speed
+- URL: https://www.onetrust.com/news/onetrust-introduces-corie-to-govern-ai-agents-at-machine-speed/
+- Tier: 2
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### onetrust-r18-03
+
+- Title: OneTrust Trust Center
+- URL: https://www.onetrust.com/trust/
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)

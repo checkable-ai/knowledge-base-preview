@@ -36,7 +36,7 @@ fieldset.stack, fieldset.concerns { border: 0; padding: 0; margin: 0; }
 .trace .n-control circle { fill: var(--cream); }
 .trace .n-record circle { fill: #274931; stroke: #274931; }
 .trace .n-record.v-partial circle { fill: #8C6A2A; stroke: #8C6A2A; }
-.trace .n-record.v-not-addressed circle, .trace .n-record.v-unresolved circle { fill: var(--cream); stroke: var(--rim); }
+.trace .n-record.v-not-covered circle, .trace .n-record.v-out-of-scope circle, .trace .n-record.v-escalated circle { fill: var(--cream); stroke: var(--rim); }
 .trace .n-alt circle { fill: var(--cream); stroke: #274931; stroke-dasharray: 2 2; }
 .trace .n-source circle { fill: var(--rim); stroke: none; }
 .trace .ring { fill: none; stroke: var(--accent); stroke-width: 1.6; }
@@ -64,9 +64,9 @@ fieldset.stack, fieldset.concerns { border: 0; padding: 0; margin: 0; }
 .claims li.alt { background: #F7F3E8; }
 .claim-meta { display: flex; flex-wrap: wrap; gap: .3rem .5rem; margin-top: .35rem; font-size: 12px; color: var(--quiet); align-items: center; }
 .tag { display: inline-block; padding: 1px 7px; border-radius: 999px; border: 1px solid var(--rule); font-size: 11.5px; font-weight: 600; }
-.tag.supported { background: #DCE7DA; border-color: #A9C4AA; color: #1F4A2A; }
+.tag.covered { background: #DCE7DA; border-color: #A9C4AA; color: #1F4A2A; }
 .tag.partial { background: #F4E7C4; border-color: #DCC27F; color: #5E4610; }
-.tag.not-addressed, .tag.unresolved { background: #F0E3DE; border-color: #DCC0B9; color: #6E3426; }
+.tag.not-covered, .tag.out-of-scope, .tag.escalated { background: #F0E3DE; border-color: #DCC0B9; color: #6E3426; }
 .tag.verified { background: #274931; border-color: #274931; color: #fff; }
 .tag.pass { color: #1F4A2A; }
 .tag.fail { color: var(--accent); border-color: var(--accent); }

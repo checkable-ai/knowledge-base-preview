@@ -107,9 +107,25 @@ sources:
     resource: "https://langfuse.com/docs/api-and-data-platform/features/mcp-server"
     locator: "registry entry"
     tier: 1
+  - id: "langfuse-r18-01"
+    resource: "https://langfuse.com/security"
+    locator: "registry entry"
+    tier: 1
+  - id: "langfuse-r18-02"
+    resource: "https://langfuse.com/security/soc2"
+    locator: "registry entry"
+    tier: 1
+  - id: "langfuse-r18-03"
+    resource: "https://langfuse.com/self-hosting/configuration/hardening"
+    locator: "registry entry"
+    tier: 1
+  - id: "langfuse-r18-04"
+    resource: "https://langfuse.com/docs/administration/rbac"
+    locator: "registry entry"
+    tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-10-14T18:00:00+10:00"
+  at: "2026-11-08T00:00:00+10:00"
 ---
 
 Every source the Langfuse cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
@@ -305,3 +321,35 @@ Every source the Langfuse cells cite, with its tier from the atlas source regist
 - Tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-5](c7-5.md)
+
+### langfuse-r18-01
+
+- Title: Security and compliance overview
+- URL: https://langfuse.com/security
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### langfuse-r18-02
+
+- Title: SOC 2 Type II
+- URL: https://langfuse.com/security/soc2
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### langfuse-r18-03
+
+- Title: Hardening self-hosted deployments
+- URL: https://langfuse.com/self-hosting/configuration/hardening
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md), [c6-13](c6-13.md)
+
+### langfuse-r18-04
+
+- Title: Access control (RBAC)
+- URL: https://langfuse.com/docs/administration/rbac
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)

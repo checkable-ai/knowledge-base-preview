@@ -10,10 +10,454 @@ verification: "not applicable"
 tags:
   - "frontier-ai"
   - "sources"
-sources: []
+sources:
+  - id: "an-admin"
+    resource: "https://platform.claude.com/docs/en/manage-claude/admin-api"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-budgets"
+    resource: "https://platform.claude.com/docs/en/managed-agents/budgets"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-code-mcp"
+    resource: "https://code.claude.com/docs/en/mcp"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-code-perm"
+    resource: "https://code.claude.com/docs/en/permissions"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-code-sandbox"
+    resource: "https://code.claude.com/docs/en/sandboxing"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-compliance"
+    resource: "https://platform.claude.com/docs/en/manage-claude/compliance-api"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-custom"
+    resource: "https://platform.claude.com/docs/en/managed-agents/self-hosted-sandboxes-custom-tools"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-data"
+    resource: "https://platform.claude.com/docs/en/manage-claude/api-and-data-retention"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-env"
+    resource: "https://platform.claude.com/docs/en/managed-agents/environments"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-evals"
+    resource: "https://platform.claude.com/docs/en/test-and-evaluate/develop-tests"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-events"
+    resource: "https://platform.claude.com/docs/en/managed-agents/events-and-streaming"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-gateway"
+    resource: "https://code.claude.com/docs/en/llm-gateway"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-managed"
+    resource: "https://platform.claude.com/docs/en/managed-agents/overview"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-mcp"
+    resource: "https://platform.claude.com/docs/en/managed-agents/mcp-connector"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-memory"
+    resource: "https://platform.claude.com/docs/en/managed-agents/memory"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-models"
+    resource: "https://platform.claude.com/docs/en/models/overview"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-monitor"
+    resource: "https://code.claude.com/docs/en/monitoring-usage"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-multi"
+    resource: "https://platform.claude.com/docs/en/managed-agents/multiagent-orchestration"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-permissions"
+    resource: "https://platform.claude.com/docs/en/managed-agents/permission-policies"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-sdk"
+    resource: "https://code.claude.com/docs/en/agent-sdk/overview"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-self"
+    resource: "https://platform.claude.com/docs/en/managed-agents/self-hosted-sandboxes-security"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-settings"
+    resource: "https://code.claude.com/docs/en/managed-settings"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-vault"
+    resource: "https://platform.claude.com/docs/en/managed-agents/vaults"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-versions"
+    resource: "https://platform.claude.com/docs/en/managed-agents/agent-setup"
+    locator: "registry entry"
+    tier: 1
+  - id: "an-wif"
+    resource: "https://platform.claude.com/docs/en/manage-claude/workload-identity-federation"
+    locator: "registry entry"
+    tier: 1
+  - id: "anthropic-r18-01"
+    resource: "https://code.claude.com/docs/en/sandboxing"
+    locator: "registry entry"
+    tier: 1
+  - id: "anthropic-r18-02"
+    resource: "https://platform.claude.com/docs/en/managed-agents/environments.md"
+    locator: "registry entry"
+    tier: 1
+  - id: "anthropic-r18-03"
+    resource: "https://platform.claude.com/docs/en/managed-agents/cloud-sandboxes-reference.md"
+    locator: "registry entry"
+    tier: 1
+  - id: "anthropic-r18-04"
+    resource: "https://platform.claude.com/docs/en/managed-agents/session-operations.md"
+    locator: "registry entry"
+    tier: 1
+  - id: "anthropic-r18-05"
+    resource: "https://privacy.claude.com/en/articles/10015870-what-certifications-has-anthropic-obtained"
+    locator: "registry entry"
+    tier: 1
+  - id: "confirm-030c4de89b55"
+    resource: "https://support.claude.com/en/articles/15927065-get-started-with-skill-and-plugin-scanning"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-86972328a911"
+    resource: "https://platform.claude.com/docs/en/manage-claude/data-residency"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-8fd92cde1455"
+    resource: "https://code.claude.com/docs/en/claude-apps-gateway-config"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-bbee5602d1e6"
+    resource: "https://platform.claude.com/docs/en/managed-agents/agent-setup"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-cac6fb3d4c3c"
+    resource: "https://platform.claude.com/docs/en/managed-agents/permission-policies"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-dc0e6ba55835"
+    resource: "https://code.claude.com/docs/en/desktop"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-e98c27229211"
+    resource: "https://platform.claude.com/docs/en/managed-agents/overview"
+    locator: "registry entry"
+    tier: null
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-10-14T18:00:00+10:00"
+  at: "2026-11-08T00:00:00+10:00"
 ---
 
-This column cites 25 vendor pages (all tier 1). The page links and locators stay in our private knowledge base, and the full stack review uses them. Ask about it at https://checkableai.com/enquire/
+Every source the Anthropic cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### an-admin
+
+- Title: Claude Admin API
+- URL: https://platform.claude.com/docs/en/manage-claude/admin-api
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c1-4](c1-4.md), [c4-1](c4-1.md), [c6-1](c6-1.md), [c6-6](c6-6.md), [c7-9](c7-9.md)
+
+### an-budgets
+
+- Title: Managed Agent budgets
+- URL: https://platform.claude.com/docs/en/managed-agents/budgets
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c5-3](c5-3.md)
+
+### an-code-mcp
+
+- Title: Claude Code MCP
+- URL: https://code.claude.com/docs/en/mcp
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c3-2](c3-2.md), [c6-12](c6-12.md), [c7-6](c7-6.md)
+
+### an-code-perm
+
+- Title: Claude Code permissions
+- URL: https://code.claude.com/docs/en/permissions
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c1-1](c1-1.md), [c7-5](c7-5.md)
+
+### an-code-sandbox
+
+- Title: Claude Code sandboxing
+- URL: https://code.claude.com/docs/en/sandboxing
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c1-1](c1-1.md)
+
+### an-compliance
+
+- Title: Claude Compliance API
+- URL: https://platform.claude.com/docs/en/manage-claude/compliance-api
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c6-11](c6-11.md), [c6-3](c6-3.md), [c7-1](c7-1.md)
+
+### an-custom
+
+- Title: Self-hosted custom tools
+- URL: https://platform.claude.com/docs/en/managed-agents/self-hosted-sandboxes-custom-tools
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c1-2](c1-2.md), [c7-6](c7-6.md)
+
+### an-data
+
+- Title: Claude API data retention
+- URL: https://platform.claude.com/docs/en/manage-claude/api-and-data-retention
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c6-10](c6-10.md), [c7-8](c7-8.md)
+
+### an-env
+
+- Title: Managed Agent environments
+- URL: https://platform.claude.com/docs/en/managed-agents/environments
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c2-3](c2-3.md), [c5-5](c5-5.md), [c7-4](c7-4.md)
+
+### an-evals
+
+- Title: Claude evaluation guide
+- URL: https://platform.claude.com/docs/en/test-and-evaluate/develop-tests
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c5-1](c5-1.md), [c6-7](c6-7.md), [c7-10](c7-10.md), [c7-3](c7-3.md)
+
+### an-events
+
+- Title: Managed Agent events
+- URL: https://platform.claude.com/docs/en/managed-agents/events-and-streaming
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c2-4](c2-4.md), [c5-2](c5-2.md), [c5-5](c5-5.md), [c6-11](c6-11.md)
+
+### an-gateway
+
+- Title: Claude Code LLM gateways
+- URL: https://code.claude.com/docs/en/llm-gateway
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c3-1](c3-1.md)
+
+### an-managed
+
+- Title: Managed Agents overview
+- URL: https://platform.claude.com/docs/en/managed-agents/overview
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c2-1](c2-1.md), [c2-5](c2-5.md), [c6-1](c6-1.md)
+
+### an-mcp
+
+- Title: Managed Agent MCP connector
+- URL: https://platform.claude.com/docs/en/managed-agents/mcp-connector
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c3-2](c3-2.md), [c3-4](c3-4.md), [c4-3](c4-3.md)
+
+### an-memory
+
+- Title: Managed Agent memory
+- URL: https://platform.claude.com/docs/en/managed-agents/memory
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c2-6](c2-6.md), [c3-3](c3-3.md), [c6-10](c6-10.md), [c7-8](c7-8.md)
+
+### an-models
+
+- Title: Claude models
+- URL: https://platform.claude.com/docs/en/models/overview
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c2-2](c2-2.md), [c7-3](c7-3.md)
+
+### an-monitor
+
+- Title: Claude Code monitoring
+- URL: https://code.claude.com/docs/en/monitoring-usage
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c5-2](c5-2.md), [c5-4](c5-4.md), [c6-3](c6-3.md), [c7-2](c7-2.md)
+
+### an-multi
+
+- Title: Managed multiagent orchestration
+- URL: https://platform.claude.com/docs/en/managed-agents/multiagent-orchestration
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c2-1](c2-1.md), [c3-4](c3-4.md), [c4-4](c4-4.md)
+
+### an-permissions
+
+- Title: Managed Agent permission policies
+- URL: https://platform.claude.com/docs/en/managed-agents/permission-policies
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c1-2](c1-2.md), [c1-3](c1-3.md), [c5-1](c5-1.md), [c6-4](c6-4.md), [c6-8](c6-8.md), [c6-9](c6-9.md), [c7-5](c7-5.md)
+
+### an-sdk
+
+- Title: Claude Agent SDK
+- URL: https://code.claude.com/docs/en/agent-sdk/overview
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c2-5](c2-5.md)
+
+### an-self
+
+- Title: Self-hosted sandbox security
+- URL: https://platform.claude.com/docs/en/managed-agents/self-hosted-sandboxes-security
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c2-3](c2-3.md), [c5-4](c5-4.md), [c6-7](c6-7.md), [c7-10](c7-10.md), [c7-4](c7-4.md)
+
+### an-settings
+
+- Title: Claude Code managed settings
+- URL: https://code.claude.com/docs/en/managed-settings
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c6-2](c6-2.md), [c6-4](c6-4.md), [c6-9](c6-9.md), [c7-9](c7-9.md)
+
+### an-vault
+
+- Title: Managed Agent vaults
+- URL: https://platform.claude.com/docs/en/managed-agents/vaults
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c3-3](c3-3.md), [c4-2](c4-2.md), [c4-3](c4-3.md), [c6-12](c6-12.md)
+
+### an-versions
+
+- Title: Managed Agent setup
+- URL: https://platform.claude.com/docs/en/managed-agents/agent-setup
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c6-2](c6-2.md), [c6-5](c6-5.md), [c6-8](c6-8.md)
+
+### an-wif
+
+- Title: Claude workload identity federation
+- URL: https://platform.claude.com/docs/en/manage-claude/workload-identity-federation
+- Tier: 1
+- Checked: 2026-10-07
+- Cited by: [c4-1](c4-1.md)
+
+### anthropic-r18-01
+
+- Title: Claude Code sandboxing
+- URL: https://code.claude.com/docs/en/sandboxing
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### anthropic-r18-02
+
+- Title: Claude Managed Agents cloud environment setup
+- URL: https://platform.claude.com/docs/en/managed-agents/environments.md
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### anthropic-r18-03
+
+- Title: Claude Managed Agents cloud sandbox reference
+- URL: https://platform.claude.com/docs/en/managed-agents/cloud-sandboxes-reference.md
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### anthropic-r18-04
+
+- Title: Claude Managed Agents session operations
+- URL: https://platform.claude.com/docs/en/managed-agents/session-operations.md
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c2-7](c2-7.md)
+
+### anthropic-r18-05
+
+- Title: What certifications has Anthropic obtained?
+- URL: https://privacy.claude.com/en/articles/10015870-what-certifications-has-anthropic-obtained
+- Tier: 1
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)
+
+### confirm-030c4de89b55
+
+- Title: Quoted by the confirm agents
+- URL: https://support.claude.com/en/articles/15927065-get-started-with-skill-and-plugin-scanning
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c7-5](c7-5.md)
+
+### confirm-86972328a911
+
+- Title: Quoted by the confirm agents
+- URL: https://platform.claude.com/docs/en/manage-claude/data-residency
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-10](c6-10.md)
+
+### confirm-8fd92cde1455
+
+- Title: Quoted by the confirm agents
+- URL: https://code.claude.com/docs/en/claude-apps-gateway-config
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c3-1](c3-1.md)
+
+### confirm-bbee5602d1e6
+
+- Title: Quoted by the confirm agents
+- URL: https://platform.claude.com/docs/en/managed-agents/agent-setup
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c1-4](c1-4.md)
+
+### confirm-cac6fb3d4c3c
+
+- Title: Quoted by the confirm agents
+- URL: https://platform.claude.com/docs/en/managed-agents/permission-policies
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c3-2](c3-2.md)
+
+### confirm-dc0e6ba55835
+
+- Title: Quoted by the confirm agents
+- URL: https://code.claude.com/docs/en/desktop
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c5-1](c5-1.md)
+
+### confirm-e98c27229211
+
+- Title: Quoted by the confirm agents
+- URL: https://platform.claude.com/docs/en/managed-agents/overview
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-4](c2-4.md)
