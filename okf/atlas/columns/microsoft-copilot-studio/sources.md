@@ -198,7 +198,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/faq-code-interpreter
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-3](c2-3.md)
 
@@ -206,7 +206,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/agents-experience/publication-channels-mcp-agent-to-agent
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c4-4](c4-4.md)
 
@@ -214,7 +214,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/microsoft-agent-365/admin/agent-requests?view=o365-worldwide
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-2](c6-2.md)
 
@@ -222,7 +222,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/authoring-select-agent-model
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-8](c6-8.md)
 
@@ -230,7 +230,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/analytics-agent-evaluation-rest-api
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-2](c5-2.md)
 
@@ -238,7 +238,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/dynamics365/get-started/security
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-4](c7-4.md)
 
@@ -246,7 +246,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Manage Entra Agent IDs
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-use-entra-agent-identities
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md)
 
@@ -254,7 +254,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: App registration, agent identities, and authentication
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/govern-agents-identities-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-4](c1-4.md), [c4-1](c4-1.md), [c4-2](c4-2.md), [c5-5](c5-5.md), [c6-6](c6-6.md)
 
@@ -262,7 +262,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Configure user authentication
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/configuration-end-user-authentication
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -270,7 +270,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Configure data policies for agents
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-data-loss-prevention
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c3-3](c3-3.md), [c3-4](c3-4.md), [c6-3](c6-3.md), [c6-4](c6-4.md), [c7-8](c7-8.md)
 
@@ -278,7 +278,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Security and governance
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/security-and-governance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c6-2](c6-2.md), [c6-4](c6-4.md), [c6-8](c6-8.md), [c7-2](c7-2.md), [c7-4](c7-4.md), [c7-5](c7-5.md), [c7-8](c7-8.md)
 
@@ -286,7 +286,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Harnesses in Copilot Studio
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/harnesses-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-3](c2-3.md), [c2-5](c2-5.md)
 
@@ -294,7 +294,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Memory (preview)
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/agents-experience/memory-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-6](c2-6.md)
 
@@ -302,7 +302,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Agent runtime protection status
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/security-agent-runtime-view
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c6-3](c6-3.md)
 
@@ -310,7 +310,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: View Copilot Studio audit logs in Purview
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-logging-copilot-studio
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md), [c6-10](c6-10.md), [c6-8](c6-8.md), [c7-1](c7-1.md)
 
@@ -318,7 +318,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Automatic security scan in Copilot Studio
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/security-scan
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md), [c7-5](c7-5.md)
 
@@ -326,7 +326,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Add other agents overview
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/authoring-add-other-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c3-4](c3-4.md), [c4-4](c4-4.md)
 
@@ -334,7 +334,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Add tools to custom agents
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/add-tools-custom-agent
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c4-3](c4-3.md)
 
@@ -342,7 +342,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Connect to an agent over the Agent2Agent (A2A) protocol
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/add-agent-agent-to-agent
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-4](c3-4.md), [c4-4](c4-4.md), [c6-12](c6-12.md)
 
@@ -350,7 +350,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Automate web and desktop apps with computer use
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/computer-use
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c1-3](c1-3.md), [c4-2](c4-2.md), [c7-4](c7-4.md)
 
@@ -358,7 +358,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Enable external threat detection and protection for Copilot Studio custom agents (preview)
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/external-security-provider
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-2](c3-2.md)
 
@@ -366,7 +366,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Select a primary AI model for your agent
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/authoring-select-agent-model
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-12](c6-12.md)
 
@@ -374,7 +374,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Multistage and AI approvals in agent flows
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/flows-advanced-approvals
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c5-1](c5-1.md)
 
@@ -382,7 +382,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Microsoft Copilot Studio Agent inventory schema
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-agent-inventory
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-5](c2-5.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-2](c6-2.md), [c6-6](c6-6.md), [c7-9](c7-9.md)
 
@@ -390,7 +390,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Monitor time and cost savings for agents
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/analytics-cost-savings
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md)
 
@@ -398,7 +398,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Choose evaluation methods
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/analytics-agent-evaluation-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md)
 
@@ -406,7 +406,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Manage Copilot Credits and capacity for Copilot Studio
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/manage-copilot-studio-copilot-credits-capacity
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c3-1](c3-1.md), [c5-3](c5-3.md)
 
@@ -414,7 +414,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Establish an Application Lifecycle Management (ALM) strategy
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/alm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -422,7 +422,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Geographic data residency in Copilot Studio
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/geo-data-residency
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md)
 
@@ -430,7 +430,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Use the Power Platform API to quarantine agents
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-api-quarantine
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c6-5](c6-5.md)
 
@@ -438,7 +438,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Review ISO, SOC, and HIPAA compliance
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-certification
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md)
 
@@ -446,7 +446,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Protect AI agents in real time using Microsoft Defender
 - URL: https://learn.microsoft.com/en-us/defender-xdr/security-for-ai/ai-agent-real-time-protection
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md)
 
@@ -454,7 +454,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Detect and investigate threats to AI agents using Microsoft Defender (Preview)
 - URL: https://learn.microsoft.com/en-us/defender-xdr/security-for-ai/ai-agent-detection-protection
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c7-2](c7-2.md)
 
@@ -462,7 +462,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Extend your agent with Model Context Protocol
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/agent-extend-action-mcp
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-5](c7-5.md)
 
@@ -470,7 +470,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Configure where computer use runs
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/configure-where-computer-use-runs
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-3](c2-3.md), [c7-4](c7-4.md)
 
@@ -478,7 +478,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Understand downloaded conversation transcripts from Power Apps
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/analytics-transcripts-powerapps
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c6-10](c6-10.md)
 
@@ -486,7 +486,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Agent-level telemetry with Application Insights
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/advanced-bot-framework-composer-capture-telemetry
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-4](c5-4.md)
 
@@ -494,7 +494,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Employ robust error handling (Power Automate)
 - URL: https://learn.microsoft.com/en-us/power-automate/guidance/coding-guidelines/error-handling
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md)
 
@@ -502,7 +502,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Use the Power Platform API to quarantine agents
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-api-quarantine
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -510,7 +510,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Harnesses in Copilot Studio
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/harnesses-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -518,7 +518,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Protect AI agents in real time using Microsoft Defender
 - URL: https://learn.microsoft.com/en-us/defender-xdr/security-for-ai/ai-agent-real-time-protection
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -526,7 +526,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Governance and lifecycle actions for agents in the Microsoft 365 admin center
 - URL: https://learn.microsoft.com/en-us/microsoft-365/admin/manage/agent-actions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -534,7 +534,7 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Review ISO, SOC and HIPAA compliance - Copilot Studio
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-certification
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -542,6 +542,6 @@ Every source the Microsoft Copilot Studio cells cite, with its tier from the kno
 
 - Title: Australian Government IRAP - Microsoft Compliance
 - URL: https://learn.microsoft.com/en-us/compliance/regulatory/offering-irap-australia
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

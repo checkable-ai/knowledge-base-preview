@@ -230,7 +230,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.openclaw.ai/clawhub/security-audits.md
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-5](c7-5.md)
 
@@ -238,7 +238,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Quoted by the confirm agents
 - URL: https://docs-enterprise.openclaw.org/reference/agents/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-4](c1-4.md)
 
@@ -246,7 +246,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.openclaw.ai/gateway/security/tool-permissions.md
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-3](c1-3.md), [c2-5](c2-5.md)
 
@@ -254,7 +254,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.openclaw.ai/gateway/sandboxing
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-7](c2-7.md)
 
@@ -262,7 +262,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.openclaw.ai/plugins/reference/policy
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-3](c6-3.md)
 
@@ -270,7 +270,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Quoted by the confirm agents
 - URL: https://docs-enterprise.openclaw.org/guides/topics/agent/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-5](c6-5.md)
 
@@ -278,7 +278,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.openclaw.ai/tools/lobster
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-1](c5-1.md)
 
@@ -286,7 +286,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.openclaw.ai/cli/mcp/transports
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c4-3](c4-3.md)
 
@@ -294,7 +294,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.openclaw.ai/gateway/health
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-4](c5-4.md)
 
@@ -302,7 +302,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.openclaw.ai/concepts/models
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-2](c2-2.md)
 
@@ -310,7 +310,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.openclaw.ai/cli/policy.md
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-6](c6-6.md)
 
@@ -318,7 +318,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.openclaw.ai/clawhub/security-audits
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-6](c7-6.md)
 
@@ -326,7 +326,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.openclaw.ai/gateway/secrets/secret-store-and-egress
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c4-2](c4-2.md)
 
@@ -334,7 +334,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.openclaw.ai/providers/clawrouter
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-1](c3-1.md)
 
@@ -342,7 +342,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Security (trust model, safe defaults and hardening)
 - URL: https://docs.openclaw.ai/gateway/security.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-3](c6-3.md), [c6-7](c6-7.md), [c7-4](c7-4.md), [c7-9](c7-9.md)
 
@@ -350,7 +350,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Security trust model
 - URL: https://docs.openclaw.ai/gateway/security/trust-model.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-1](c1-1.md), [c1-3](c1-3.md), [c2-4](c2-4.md), [c3-4](c3-4.md), [c6-2](c6-2.md), [c6-6](c6-6.md), [c7-9](c7-9.md)
 
@@ -358,7 +358,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Tool and agent permissions
 - URL: https://docs.openclaw.ai/gateway/security/tool-permissions.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-2](c1-2.md), [c1-4](c1-4.md), [c2-1](c2-1.md), [c4-3](c4-3.md)
 
@@ -366,7 +366,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Prompt injection
 - URL: https://docs.openclaw.ai/gateway/security/prompt-injection.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-2](c3-2.md), [c3-3](c3-3.md), [c7-3](c7-3.md)
 
@@ -374,7 +374,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Sandboxing
 - URL: https://docs.openclaw.ai/gateway/sandboxing.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-1](c1-1.md), [c2-3](c2-3.md), [c2-5](c2-5.md), [c2-7](c2-7.md), [c3-2](c3-2.md), [c5-5](c5-5.md)
 
@@ -382,7 +382,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Session permission modes
 - URL: https://docs.openclaw.ai/gateway/permission-modes.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-1](c1-1.md), [c1-3](c1-3.md), [c2-5](c2-5.md)
 
@@ -390,7 +390,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Operator scopes
 - URL: https://docs.openclaw.ai/gateway/operator-scopes.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-2](c1-2.md), [c1-4](c1-4.md)
 
@@ -398,7 +398,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Audit history
 - URL: https://docs.openclaw.ai/gateway/audit.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-1](c2-1.md), [c4-1](c4-1.md), [c5-2](c5-2.md), [c6-11](c6-11.md), [c7-1](c7-1.md)
 
@@ -406,7 +406,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Approvals CLI
 - URL: https://docs.openclaw.ai/cli/approvals.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-3](c1-3.md), [c5-1](c5-1.md), [c6-6](c6-6.md), [c6-8](c6-8.md), [c6-9](c6-9.md)
 
@@ -414,7 +414,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: ClawHub Security Audits
 - URL: https://docs.openclaw.ai/clawhub/security-audits.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-7](c6-7.md), [c7-6](c7-6.md)
 
@@ -422,7 +422,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Install plugins
 - URL: https://docs.openclaw.ai/cli/plugins/install.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-12](c6-12.md), [c6-2](c6-2.md), [c6-8](c6-8.md), [c6-9](c6-9.md), [c7-6](c7-6.md)
 
@@ -430,7 +430,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Policy CLI
 - URL: https://docs.openclaw.ai/cli/policy.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-1](c6-1.md), [c6-11](c6-11.md), [c6-3](c6-3.md), [c6-4](c6-4.md), [c7-4](c7-4.md)
 
@@ -438,7 +438,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Shared secret store and egress proxy
 - URL: https://docs.openclaw.ai/gateway/secrets/secret-store-and-egress.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-2](c4-2.md)
 
@@ -446,7 +446,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Memory provenance and deletion
 - URL: https://docs.openclaw.ai/concepts/memory-provenance.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-6](c2-6.md), [c7-8](c7-8.md)
 
@@ -454,7 +454,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: A2A channel
 - URL: https://docs.openclaw.ai/channels/a2a.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-4](c3-4.md), [c4-4](c4-4.md)
 
@@ -462,7 +462,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Multi-agent routing
 - URL: https://docs.openclaw.ai/concepts/multi-agent.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-1](c3-1.md), [c4-1](c4-1.md)
 
@@ -470,7 +470,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Cloud worker security model
 - URL: https://docs.openclaw.ai/gateway/cloud-workers/security-model.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-1](c2-1.md), [c3-2](c3-2.md)
 
@@ -478,7 +478,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Operator incident response
 - URL: https://docs.openclaw.ai/gateway/security/operator-incident-response.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-7](c2-7.md), [c7-2](c7-2.md)
 
@@ -486,7 +486,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Security advisories (openclaw/openclaw on GitHub)
 - URL: https://github.com/openclaw/openclaw/security/advisories
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c7-5](c7-5.md)
 
@@ -494,7 +494,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Security policy (SECURITY.md on GitHub)
 - URL: https://github.com/openclaw/openclaw/security/policy
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-13](c6-13.md), [c7-10](c7-10.md)
 
@@ -502,7 +502,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Formal verification (security models)
 - URL: https://docs.openclaw.ai/security/formal-verification.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c7-4](c7-4.md)
 
@@ -510,7 +510,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: OpenTelemetry privacy and trace context
 - URL: https://docs.openclaw.ai/gateway/opentelemetry/privacy-and-trace-context.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c7-2](c7-2.md)
 
@@ -518,7 +518,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Usage tracking
 - URL: https://docs.openclaw.ai/concepts/usage-tracking.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md), [c5-3](c5-3.md)
 
@@ -526,7 +526,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Dependency locking
 - URL: https://docs.openclaw.ai/gateway/security/dependency-locking.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c7-5](c7-5.md)
 
@@ -534,7 +534,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Skills CLI
 - URL: https://docs.openclaw.ai/cli/skills.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-12](c6-12.md), [c7-6](c7-6.md)
 
@@ -542,7 +542,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Browser control risks
 - URL: https://docs.openclaw.ai/gateway/security/browser-control.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-7](c2-7.md), [c3-2](c3-2.md)
 
@@ -550,7 +550,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Configuration: agent sessions
 - URL: https://docs.openclaw.ai/gateway/config-agents/sessions.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-4](c2-4.md), [c5-1](c5-1.md), [c6-10](c6-10.md)
 
@@ -558,7 +558,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Secrets, storage, and logs
 - URL: https://docs.openclaw.ai/gateway/security/secrets-and-storage.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-4](c2-4.md), [c3-3](c3-3.md), [c4-2](c4-2.md), [c7-8](c7-8.md)
 
@@ -566,7 +566,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Query a running Gateway
 - URL: https://docs.openclaw.ai/cli/gateway/query.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-4](c5-4.md)
 
@@ -574,7 +574,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Agents CLI
 - URL: https://docs.openclaw.ai/cli/agents.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-4](c1-4.md), [c4-1](c4-1.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-5](c6-5.md)
 
@@ -582,7 +582,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Configuration: audit, logging, diagnostics, and telemetry
 - URL: https://docs.openclaw.ai/gateway/config-observability.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-4](c5-4.md), [c6-10](c6-10.md), [c7-1](c7-1.md)
 
@@ -590,7 +590,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Memory overview
 - URL: https://docs.openclaw.ai/concepts/memory.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-6](c2-6.md), [c3-3](c3-3.md)
 
@@ -598,7 +598,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: How ClawHub works
 - URL: https://docs.openclaw.ai/clawhub/how-it-works.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-2](c6-2.md)
 
@@ -606,7 +606,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Scheduled and maintenance workflows
 - URL: https://docs.openclaw.ai/ci/scheduled-workflows.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-2](c5-2.md), [c7-10](c7-10.md), [c7-5](c7-5.md)
 
@@ -614,7 +614,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: How an update runs
 - URL: https://docs.openclaw.ai/cli/update/how-updates-run.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -622,7 +622,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: Manage saved MCP servers
 - URL: https://docs.openclaw.ai/cli/mcp/registry.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-3](c4-3.md), [c6-12](c6-12.md)
 
@@ -630,7 +630,7 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: OpenClaw GitHub repository README
 - URL: https://github.com/openclaw/openclaw
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-2](c2-2.md), [c2-5](c2-5.md), [c6-10](c6-10.md), [c6-13](c6-13.md), [c7-3](c7-3.md)
 
@@ -638,6 +638,6 @@ Every source the OpenClaw cells cite, with its tier from the knowledge base's so
 
 - Title: OpenClaw Enterprise
 - URL: https://openclaw.ai/enterprise
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-13](c6-13.md)

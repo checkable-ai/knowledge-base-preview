@@ -162,7 +162,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: Quoted by the confirm agents
 - URL: https://developers.openai.com/api/docs/guides/agents/sandboxes
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-6](c2-6.md)
 
@@ -170,7 +170,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: Quoted by the confirm agents
 - URL: https://developers.openai.com/api/docs/guides/data-residency
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-2](c2-2.md)
 
@@ -178,7 +178,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: Quoted by the confirm agents
 - URL: https://trust.openai.com/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-13](c6-13.md)
 
@@ -186,7 +186,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: Quoted by the confirm agents
 - URL: https://developers.openai.com/api/docs/guides/safety-checks/misalignment-monitoring
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-2](c5-2.md)
 
@@ -194,7 +194,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: Quoted by the confirm agents
 - URL: https://developers.openai.com/api/reference/resources/beta/subresources/agents/methods/list
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-1](c6-1.md)
 
@@ -202,7 +202,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: OpenAI Admin APIs
 - URL: https://developers.openai.com/api/docs/guides/admin-apis
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c5-3](c5-3.md), [c6-1](c6-1.md), [c6-11](c6-11.md), [c6-3](c6-3.md), [c7-1](c7-1.md), [c7-9](c7-9.md)
 
@@ -210,7 +210,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: OpenAI agent runtime comparison
 - URL: https://developers.openai.com/api/docs/guides/agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c2-1](c2-1.md), [c3-4](c3-4.md), [c4-4](c4-4.md)
 
@@ -218,7 +218,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: Agents SDK guardrails and human review
 - URL: https://developers.openai.com/api/docs/guides/agents/guardrails-approvals
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-3](c1-3.md), [c3-4](c3-4.md), [c5-1](c5-1.md), [c6-2](c6-2.md), [c6-9](c6-9.md), [c7-5](c7-5.md)
 
@@ -226,7 +226,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: Agents API architecture
 - URL: https://developers.openai.com/api/docs/guides/agents-api/architecture
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-4](c1-4.md), [c2-3](c2-3.md), [c2-5](c2-5.md)
 
@@ -234,7 +234,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: Agents API computer use
 - URL: https://developers.openai.com/api/docs/guides/agents-api/tools/computer-use
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-3](c1-3.md)
 
@@ -242,7 +242,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: OpenAI project controls
 - URL: https://developers.openai.com/api/docs/guides/terraform/project-controls
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-2](c1-2.md), [c1-4](c1-4.md), [c3-1](c3-1.md), [c6-2](c6-2.md), [c6-4](c6-4.md), [c6-5](c6-5.md), [c6-8](c6-8.md), [c6-9](c6-9.md)
 
@@ -250,7 +250,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: OpenAI API data controls
 - URL: https://developers.openai.com/api/docs/guides/your-data
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c2-6](c2-6.md), [c3-3](c3-3.md), [c6-10](c6-10.md), [c6-12](c6-12.md), [c7-8](c7-8.md)
 
@@ -258,7 +258,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: OpenAI agent evaluation
 - URL: https://developers.openai.com/api/docs/guides/agent-evals
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c5-2](c5-2.md), [c6-3](c6-3.md), [c6-7](c6-7.md), [c7-3](c7-3.md)
 
@@ -266,7 +266,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: OpenAI workload identity federation
 - URL: https://developers.openai.com/api/docs/guides/workload-identity-federation
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c4-1](c4-1.md), [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -274,7 +274,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: OpenAI-hosted sandboxes
 - URL: https://developers.openai.com/api/docs/guides/agents-api/environments/openai-hosted
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-1](c1-1.md), [c2-3](c2-3.md), [c5-4](c5-4.md)
 
@@ -282,7 +282,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: Agents API MCP connections
 - URL: https://developers.openai.com/api/docs/guides/agents-api/tools/mcp
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c3-2](c3-2.md), [c5-5](c5-5.md), [c6-12](c6-12.md), [c7-6](c7-6.md)
 
@@ -290,7 +290,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: OpenAI model catalogue
 - URL: https://developers.openai.com/api/docs/models
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c2-2](c2-2.md), [c7-3](c7-3.md)
 
@@ -298,7 +298,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: OpenAI platform RBAC
 - URL: https://developers.openai.com/api/docs/guides/rbac
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-2](c1-2.md), [c3-3](c3-3.md), [c4-1](c4-1.md), [c6-4](c6-4.md), [c6-6](c6-6.md)
 
@@ -306,7 +306,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: OpenAI red teaming
 - URL: https://developers.openai.com/api/docs/guides/red-teaming
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c6-7](c6-7.md), [c7-10](c7-10.md)
 
@@ -314,7 +314,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: Responses MCP tools
 - URL: https://developers.openai.com/api/docs/guides/tools-connectors-mcp
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c4-3](c4-3.md), [c7-6](c7-6.md)
 
@@ -322,7 +322,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: Agents API sandbox security
 - URL: https://developers.openai.com/api/docs/guides/agents-api/environments/security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-1](c1-1.md), [c7-4](c7-4.md), [c7-5](c7-5.md)
 
@@ -330,7 +330,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: OpenAI Agents SDK
 - URL: https://developers.openai.com/api/docs/guides/agents/sdk
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c2-5](c2-5.md), [c6-8](c6-8.md)
 
@@ -338,7 +338,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: Agents API session management
 - URL: https://developers.openai.com/api/docs/guides/agents-api/sessions/manage
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c2-4](c2-4.md), [c2-6](c2-6.md), [c6-1](c6-1.md), [c6-10](c6-10.md), [c6-5](c6-5.md)
 
@@ -346,7 +346,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: Responses conversation state
 - URL: https://developers.openai.com/api/docs/guides/conversation-state
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c2-4](c2-4.md), [c7-8](c7-8.md)
 
@@ -354,7 +354,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: Agents API tracing
 - URL: https://developers.openai.com/api/docs/guides/agents-api/tracing
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c5-4](c5-4.md), [c5-5](c5-5.md), [c6-11](c6-11.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -362,7 +362,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: Agents API observability and usage
 - URL: https://developers.openai.com/api/docs/guides/agents-api/observability
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c5-3](c5-3.md)
 
@@ -370,7 +370,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: Agents API Vaults
 - URL: https://developers.openai.com/api/docs/guides/agents-api/tools/vaults
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c4-2](c4-2.md)
 
@@ -378,7 +378,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: Codex sandboxing
 - URL: https://developers.openai.com/codex/sandboxing
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -386,7 +386,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: Codex cloud internet access
 - URL: https://developers.openai.com/codex/cloud/internet-access
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -394,7 +394,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: Agents API environment security
 - URL: https://developers.openai.com/api/docs/guides/agents-api/environments/security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -402,7 +402,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: OpenAI-hosted environments
 - URL: https://developers.openai.com/api/docs/guides/agents-api/environments/openai-hosted
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -410,7 +410,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: Environment lifecycle
 - URL: https://developers.openai.com/api/docs/guides/agents-api/environments/lifecycle
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -418,7 +418,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: Background mode
 - URL: https://developers.openai.com/api/docs/guides/background
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -426,7 +426,7 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: Security and privacy
 - URL: https://openai.com/security-and-privacy/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -434,6 +434,6 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 
 - Title: Product compliance status
 - URL: https://openai.com/product-compliance-status/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

@@ -114,7 +114,7 @@ Every source the Heidi Health AI Care Partner cells cite, with its tier from the
 
 - Title: Quoted by the confirm agents
 - URL: https://www.heidihealth.com/llms.txt
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-5](c2-5.md)
 
@@ -122,7 +122,7 @@ Every source the Heidi Health AI Care Partner cells cite, with its tier from the
 
 - Title: Quoted by the confirm agents
 - URL: https://www.heidihealth.com/en-au/blog/heidi-ii-is-here
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-2](c1-2.md)
 
@@ -130,7 +130,7 @@ Every source the Heidi Health AI Care Partner cells cite, with its tier from the
 
 - Title: Quoted by the confirm agents
 - URL: https://support.heidihealth.com/en/articles/16995206-getting-started-with-heidi-home
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-1](c5-1.md)
 
@@ -138,7 +138,7 @@ Every source the Heidi Health AI Care Partner cells cite, with its tier from the
 
 - Title: Heidi llms.txt overview
 - URL: https://www.heidihealth.com/llms.txt
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c2-2](c2-2.md), [c2-6](c2-6.md), [c5-1](c5-1.md), [c6-11](c6-11.md)
 
@@ -146,7 +146,7 @@ Every source the Heidi Health AI Care Partner cells cite, with its tier from the
 
 - Title: Heidi II is here (launch post, 29 September 2026)
 - URL: https://www.heidihealth.com/blog/heidi-ii-is-here
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-17
 - Cited by: [c1-2](c1-2.md), [c2-1](c2-1.md)
 
@@ -154,7 +154,7 @@ Every source the Heidi Health AI Care Partner cells cite, with its tier from the
 
 - Title: Getting Started with Heidi Home
 - URL: https://support.heidihealth.com/en/articles/16995206-getting-started-with-heidi-home
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c1-3](c1-3.md), [c2-5](c2-5.md)
 
@@ -162,7 +162,7 @@ Every source the Heidi Health AI Care Partner cells cite, with its tier from the
 
 - Title: Routines
 - URL: https://support.heidihealth.com/en/articles/17211762-routines
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c2-1](c2-1.md)
 
@@ -170,7 +170,7 @@ Every source the Heidi Health AI Care Partner cells cite, with its tier from the
 
 - Title: Approving actions
 - URL: https://support.heidihealth.com/en/articles/17212197-approving-actions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c1-1](c1-1.md), [c1-2](c1-2.md), [c1-3](c1-3.md), [c7-1](c7-1.md)
 
@@ -178,7 +178,7 @@ Every source the Heidi Health AI Care Partner cells cite, with its tier from the
 
 - Title: Connectors
 - URL: https://support.heidihealth.com/en/articles/17212228-connectors
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c1-1](c1-1.md), [c1-2](c1-2.md), [c2-3](c2-3.md), [c2-5](c2-5.md), [c4-2](c4-2.md), [c4-3](c4-3.md), [c5-1](c5-1.md), [c5-5](c5-5.md), [c7-1](c7-1.md)
 
@@ -186,7 +186,7 @@ Every source the Heidi Health AI Care Partner cells cite, with its tier from the
 
 - Title: Getting Started with Heidi II
 - URL: https://support.heidihealth.com/en/articles/14648425-getting-started-with-heidi-ii
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c1-4](c1-4.md), [c2-1](c2-1.md), [c2-6](c2-6.md)
 
@@ -194,7 +194,7 @@ Every source the Heidi Health AI Care Partner cells cite, with its tier from the
 
 - Title: Data management
 - URL: https://support.heidihealth.com/en/articles/17240261-data-management
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c2-4](c2-4.md), [c6-10](c6-10.md)
 
@@ -202,7 +202,7 @@ Every source the Heidi Health AI Care Partner cells cite, with its tier from the
 
 - Title: How Heidi protects your data
 - URL: https://support.heidihealth.com/en/articles/14648423-how-heidi-protects-your-data
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c2-2](c2-2.md), [c6-11](c6-11.md), [c7-1](c7-1.md)
 
@@ -210,7 +210,7 @@ Every source the Heidi Health AI Care Partner cells cite, with its tier from the
 
 - Title: Data and Security at Heidi Health
 - URL: https://support.heidihealth.com/en/articles/8885107-data-security-at-heidi-health
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c2-4](c2-4.md)
 
@@ -218,7 +218,7 @@ Every source the Heidi Health AI Care Partner cells cite, with its tier from the
 
 - Title: Admins: organisation settings and provisioning
 - URL: https://support.heidihealth.com/en/articles/14648705-admins-organisation-settings-and-provisioning
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c1-4](c1-4.md), [c6-10](c6-10.md)
 
@@ -226,7 +226,7 @@ Every source the Heidi Health AI Care Partner cells cite, with its tier from the
 
 - Title: Log out your organisation's members remotely
 - URL: https://support.heidihealth.com/en/articles/15528181-log-out-your-organisation-s-members-remotely
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c1-4](c1-4.md)
 
@@ -234,7 +234,7 @@ Every source the Heidi Health AI Care Partner cells cite, with its tier from the
 
 - Title: How do usage limits work on Clinician and Practice seats
 - URL: https://support.heidihealth.com/en/articles/17020377-how-do-usage-limits-work-on-clinician-and-practice-seats
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c5-3](c5-3.md)
 
@@ -242,7 +242,7 @@ Every source the Heidi Health AI Care Partner cells cite, with its tier from the
 
 - Title: Australian Privacy Principles compliance
 - URL: https://www.heidihealth.com/compliance/app
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c6-10](c6-10.md)
 
@@ -250,7 +250,7 @@ Every source the Heidi Health AI Care Partner cells cite, with its tier from the
 
 - Title: Heidi for Enterprise
 - URL: https://www.heidihealth.com/solutions/enterprise
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c5-3](c5-3.md)
 
@@ -258,7 +258,7 @@ Every source the Heidi Health AI Care Partner cells cite, with its tier from the
 
 - Title: Heidi II is here
 - URL: https://www.heidihealth.com/blog/heidi-ii-is-here
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -266,7 +266,7 @@ Every source the Heidi Health AI Care Partner cells cite, with its tier from the
 
 - Title: Heidi compliance FAQs
 - URL: https://www.heidihealth.com/en-au/blog/heidi-compliance-lightning-faqs
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -274,7 +274,7 @@ Every source the Heidi Health AI Care Partner cells cite, with its tier from the
 
 - Title: Heidi AI is an ISO 27001-Certified Clinical AI Company
 - URL: https://www.heidihealth.com/en-au/blog/iso-27001-certification
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -282,7 +282,7 @@ Every source the Heidi Health AI Care Partner cells cite, with its tier from the
 
 - Title: Heidi ISO 42001 certification
 - URL: https://www.heidihealth.com/blog/iso-42001-certification
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -290,6 +290,6 @@ Every source the Heidi Health AI Care Partner cells cite, with its tier from the
 
 - Title: Heidi APP compliance
 - URL: https://www.heidihealth.com/compliance/app
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

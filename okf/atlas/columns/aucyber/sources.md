@@ -102,7 +102,7 @@ Every source the AUCyber managed AI and sovereign cloud cells cite, with its tie
 
 - Title: Managed AI Services
 - URL: https://aucyber.com.au/managed-ai-services
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c5-4](c5-4.md), [c6-5](c6-5.md), [c6-7](c6-7.md), [c6-8](c6-8.md)
 
@@ -110,7 +110,7 @@ Every source the AUCyber managed AI and sovereign cloud cells cite, with its tie
 
 - Title: AI Visibility and Protection: Prompt by SentinelOne
 - URL: https://aucyber.com.au/prompt-by-sentinelone
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-3](c3-3.md), [c7-9](c7-9.md)
 
@@ -118,7 +118,7 @@ Every source the AUCyber managed AI and sovereign cloud cells cite, with its tie
 
 - Title: Managed Cybersecurity
 - URL: https://aucyber.com.au/managed-cybersecurity
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-2](c7-2.md), [c7-9](c7-9.md)
 
@@ -126,7 +126,7 @@ Every source the AUCyber managed AI and sovereign cloud cells cite, with its tie
 
 - Title: Managed Cloud services
 - URL: https://aucyber.com.au/cloud-services
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-3](c2-3.md)
 
@@ -134,7 +134,7 @@ Every source the AUCyber managed AI and sovereign cloud cells cite, with its tie
 
 - Title: Security and Governance
 - URL: https://docs.aucyber.com.au/latest/Platform_Overview/Security/security_and_governance/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md), [c6-11](c6-11.md), [c7-2](c7-2.md), [c7-4](c7-4.md)
 
@@ -142,7 +142,7 @@ Every source the AUCyber managed AI and sovereign cloud cells cite, with its tie
 
 - Title: AUCloud IRAP Assessment letter, December 2022
 - URL: https://docs.aucyber.com.au/latest/Platform_Overview/Security/assets/AUCloud_IRAP_Letter_December_2022.pdf
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c7-4](c7-4.md)
 
@@ -150,7 +150,7 @@ Every source the AUCyber managed AI and sovereign cloud cells cite, with its tie
 
 - Title: DTA Certificate of Hosting Certification, AUCloud
 - URL: https://docs.aucyber.com.au/latest/Platform_Overview/Security/assets/AUCloud_%28Sovereign%20Cloud%20Australia%29_Certificate_of_Hosting_Certification.pdf
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md)
 
@@ -158,7 +158,7 @@ Every source the AUCyber managed AI and sovereign cloud cells cite, with its tie
 
 - Title: Shared Responsibility Model
 - URL: https://docs.aucyber.com.au/latest/Platform_Overview/Security/shared_service_model/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-3](c2-3.md)
 
@@ -166,7 +166,7 @@ Every source the AUCyber managed AI and sovereign cloud cells cite, with its tie
 
 - Title: Sovereign Cloud Environment CRISP
 - URL: https://docs.aucyber.com.au/latest/Platform_Overview/Security/CRISP/Community_Rules_Information_Security_Policy_%28CRISP%29/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md), [c6-8](c6-8.md)
 
@@ -174,7 +174,7 @@ Every source the AUCyber managed AI and sovereign cloud cells cite, with its tie
 
 - Title: Portal User Management (for admins)
 - URL: https://docs.aucyber.com.au/latest/Platform_Overview/portal-new/portal-users-mgmt/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md)
 
@@ -182,7 +182,7 @@ Every source the AUCyber managed AI and sovereign cloud cells cite, with its tie
 
 - Title: Create a VMware Cloud Director API token
 - URL: https://docs.aucyber.com.au/latest/Platform_Services/Compute/using-the-api-new/create_vcd_api_token/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -190,7 +190,7 @@ Every source the AUCyber managed AI and sovereign cloud cells cite, with its tie
 
 - Title: Limiting bucket access to specific access keys
 - URL: https://docs.aucyber.com.au/latest/Platform_Services/Object_Storage/limiting_bucket_access_to_specific_access_keys/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -198,7 +198,7 @@ Every source the AUCyber managed AI and sovereign cloud cells cite, with its tie
 
 - Title: Create an Isolated VDC Network
 - URL: https://docs.aucyber.com.au/latest/Platform_Services/Compute/NSX-T_Networks/create_an_isolated_vdc_network/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-3](c2-3.md)
 
@@ -206,7 +206,7 @@ Every source the AUCyber managed AI and sovereign cloud cells cite, with its tie
 
 - Title: Security and governance
 - URL: https://docs.aucyber.com.au/latest/Platform_Overview/Security/security_and_governance/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -214,7 +214,7 @@ Every source the AUCyber managed AI and sovereign cloud cells cite, with its tie
 
 - Title: AUCloud IRAP letter, December 2022
 - URL: https://docs.aucyber.com.au/latest/Platform_Overview/Security/assets/AUCloud_IRAP_Letter_December_2022.pdf
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -222,7 +222,7 @@ Every source the AUCyber managed AI and sovereign cloud cells cite, with its tie
 
 - Title: Certificate of Hosting Certification
 - URL: https://docs.aucyber.com.au/latest/Platform_Overview/Security/assets/AUCloud_%28Sovereign%20Cloud%20Australia%29_Certificate_of_Hosting_Certification.pdf
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -230,7 +230,7 @@ Every source the AUCyber managed AI and sovereign cloud cells cite, with its tie
 
 - Title: DTA Hosting Certification Framework certified service providers
 - URL: https://www.hostingcertification.gov.au/certified-service-providers
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -238,7 +238,7 @@ Every source the AUCyber managed AI and sovereign cloud cells cite, with its tie
 
 - Title: Edge Services Gateway
 - URL: https://docs.aucyber.com.au/latest/Platform_Services/Compute/NSX-T_Networks/edge_services_gateway/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -246,7 +246,7 @@ Every source the AUCyber managed AI and sovereign cloud cells cite, with its tie
 
 - Title: Create an isolated VDC network
 - URL: https://docs.aucyber.com.au/latest/Platform_Services/Compute/NSX-T_Networks/create_an_isolated_vdc_network/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -254,6 +254,6 @@ Every source the AUCyber managed AI and sovereign cloud cells cite, with its tie
 
 - Title: Managed AI Services
 - URL: https://aucyber.com.au/managed-ai-services
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)

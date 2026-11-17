@@ -82,7 +82,7 @@ Every source the TechnologyOne Plus cells cite, with its tier from the knowledge
 
 - Title: Quoted by the confirm agents
 - URL: https://www.technology1.com/resources/media-releases/technologyone-builds-trust-at-scale-with-global-ai-management-standard-iso-42001
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-13](c6-13.md)
 
@@ -90,7 +90,7 @@ Every source the TechnologyOne Plus cells cite, with its tier from the knowledge
 
 - Title: Plus product page and FAQ
 - URL: https://www.technology1.com/products/plus
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c1-2](c1-2.md), [c1-4](c1-4.md), [c2-1](c2-1.md), [c2-5](c2-5.md), [c6-10](c6-10.md), [c6-11](c6-11.md)
 
@@ -98,7 +98,7 @@ Every source the TechnologyOne Plus cells cite, with its tier from the knowledge
 
 - Title: What is Plus and how does it work
 - URL: https://www.technology1.com/resources/articles/what-is-plus-and-how-does-it-work
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c2-1](c2-1.md), [c2-5](c2-5.md), [c2-6](c2-6.md), [c3-1](c3-1.md), [c5-3](c5-3.md)
 
@@ -106,7 +106,7 @@ Every source the TechnologyOne Plus cells cite, with its tier from the knowledge
 
 - Title: AI-enabled products
 - URL: https://www.technology1.com/resources/articles/ai-enabled-products
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c5-1](c5-1.md), [c5-3](c5-3.md)
 
@@ -114,7 +114,7 @@ Every source the TechnologyOne Plus cells cite, with its tier from the knowledge
 
 - Title: SaaS+ Security
 - URL: https://www.technology1.com/saas-plus/security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c6-10](c6-10.md), [c6-11](c6-11.md), [c7-4](c7-4.md)
 
@@ -122,7 +122,7 @@ Every source the TechnologyOne Plus cells cite, with its tier from the knowledge
 
 - Title: Policy: Artificial Intelligence and Machine Learning (July 2026)
 - URL: https://www.technology1.com/__data/assets/pdf_file/0011/295229/TechnologyOne_AI-Policy.pdf
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c1-2](c1-2.md), [c1-4](c1-4.md), [c2-2](c2-2.md), [c3-1](c3-1.md), [c5-1](c5-1.md), [c5-2](c5-2.md), [c7-4](c7-4.md)
 
@@ -130,7 +130,7 @@ Every source the TechnologyOne Plus cells cite, with its tier from the knowledge
 
 - Title: TechnologyOne builds trust at scale with global AI Management Standard ISO 42001
 - URL: https://www.technology1.com/resources/media-releases/technologyone-builds-trust-at-scale-with-global-ai-management-standard-iso-42001
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-17
 - Cited by: [c6-11](c6-11.md)
 
@@ -138,7 +138,7 @@ Every source the TechnologyOne Plus cells cite, with its tier from the knowledge
 
 - Title: TechnologyOne unleashes game-changing AI revolution in Enterprise Software
 - URL: https://www.technology1.com/resources/media-releases/technologyone-unleashes-game-changing-ai-revolution-in-enterprise-software
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-17
 - Cited by: [c2-6](c2-6.md)
 
@@ -146,7 +146,7 @@ Every source the TechnologyOne Plus cells cite, with its tier from the knowledge
 
 - Title: TechnologyOne Guide for students
 - URL: https://www.technology1.com/products/guide/guide-for-students
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c5-2](c5-2.md)
 
@@ -154,7 +154,7 @@ Every source the TechnologyOne Plus cells cite, with its tier from the knowledge
 
 - Title: TechnologyOne Plus product page and FAQ
 - URL: https://www.technology1.com/products/plus
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md), [c4-3](c4-3.md)
 
@@ -162,7 +162,7 @@ Every source the TechnologyOne Plus cells cite, with its tier from the knowledge
 
 - Title: What is Plus and how does it work
 - URL: https://www.technology1.com/resources/articles/what-is-plus-and-how-does-it-work
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c3-3](c3-3.md)
 
@@ -170,7 +170,7 @@ Every source the TechnologyOne Plus cells cite, with its tier from the knowledge
 
 - Title: Payroll product page
 - URL: https://www.technology1.com/products/payroll
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md), [c3-3](c3-3.md), [c4-3](c4-3.md), [c7-1](c7-1.md)
 
@@ -178,7 +178,7 @@ Every source the TechnologyOne Plus cells cite, with its tier from the knowledge
 
 - Title: SaaS+ Security
 - URL: https://www.technology1.com/saas-plus/security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md), [c3-3](c3-3.md), [c6-13](c6-13.md)
 
@@ -186,7 +186,7 @@ Every source the TechnologyOne Plus cells cite, with its tier from the knowledge
 
 - Title: New software release: 2026A
 - URL: https://www.technology1.com/saas-plus/software-releases/2026a
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -194,6 +194,6 @@ Every source the TechnologyOne Plus cells cite, with its tier from the knowledge
 
 - Title: Human Resources product page
 - URL: https://www.technology1.com/products/human-resources
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c7-1](c7-1.md)

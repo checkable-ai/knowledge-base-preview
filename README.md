@@ -25,13 +25,23 @@ pages. This repository puts 139 AI platforms and tools next to the same 46 secur
 each answer, drawn from the vendor's own documentation.
 
 > [!NOTE]
-> **Edition: November 2026.** The live [AI Stack Check](https://checkableai.com/stack-check/) is updated daily. The full knowledge base is available by enquiry.
+> **Edition: November 2026.** We recheck a core set of platforms daily. Every other platform is checked on demand. Each answer shows the date it was last checked. The live [AI Stack Check](https://checkableai.com/stack-check/) shows that date on every answer. The full knowledge base is available by enquiry.
 
 A verdict says what a vendor documents in public. It is not a test of your own tenant, licence or settings, so those
-are for you to confirm. Every record is drawn from the vendor's own public documentation and checked by our agents
-before it is published: an evaluator finds the quoted passage on the vendor's page, or two model families agree on the
-verdict. A record marked `review: approved` has also been accepted by a person, and one marked `review: pending` waits
-for that review.
+are for you to confirm. Every record is drawn from the vendor's own public documentation, and its label says how far
+it has been checked:
+
+- `verification: "verified"` with `review: "approved"`: the agents checked the verdict, and a person at Checkable AI
+  accepted it.
+- `verification: "agent-checked"` with `review: "pending"`: the agents checked the verdict the same way, and no person
+  has accepted it yet.
+- `verification: "contested"` with the verdict `escalated`: the agents did not agree, so it is not an answer yet. We
+  settle it.
+
+The agents check a `covered` or `partial` verdict by finding the quoted passage on the vendor's own page, or by two
+model families agreeing on it. A `not-covered` or `out-of-scope` verdict often has no passage to quote, because the
+vendor's documentation does not mention the control. There the check is that the documentation was read and two
+model families agreed it does not document the control, as at the date shown.
 
 > [!TIP]
 > Start with [`okf/atlas/columns/wiz/c6-1.md`](okf/atlas/columns/wiz/c6-1.md). It answers one question, whether Wiz
@@ -42,19 +52,19 @@ for that review.
 
 This repository is free to read, copy and build on. It covers 139 platforms, from model makers and coding agents to
 cloud, identity, security and governance tools, which is enough to see how every record is made and to compare the
-platforms you use. The full knowledge base is available by enquiry, and our team reviews your stack against it after a
+platforms you use. The full knowledge base is available by enquiry, and we review your stack against it after a
 short assessment. **[Make an enquiry](https://checkableai.com/enquire/)** and tell us which AI tools you use.
 
 | | This edition | Full knowledge base, by enquiry |
 |---|---|---|
 | Platforms and tools | 139 | Every platform in this edition and many more |
 | Findings | 6,393 records, November 2026 edition | Findings for every platform researched so far, each with the evidence behind its answer |
-| Kept current | A new edition each month | The platforms we maintain are rechecked on the routine's schedule, and every other platform shows the date it was last checked |
-| Review | You read the records yourself | Our team reviews your stack against the whole base after a short assessment |
+| Kept current | A snapshot, dated November 2026. Each record shows the date it was last checked | We recheck a core set of platforms daily. Every other platform is checked on demand. Each answer shows the date it was last checked. |
+| Review | You read the records yourself | We review your stack against the whole base after a short assessment |
 
 > [!IMPORTANT]
-> Keeping the full knowledge base current takes ongoing research, compute for the trust checks and our team
-> reviewing the findings, so the full stack review is a paid service.
+> Keeping the full knowledge base current takes ongoing research, compute for the trust checks and our own review
+> of the findings, so the full stack review is a paid service.
 
 ## Where this fits
 
@@ -84,7 +94,7 @@ Open any page under `okf/atlas/columns/`. The block at the top, between the two 
 Three lines matter most:
 
 - `verdict: "covered"` is the short answer. The other values are `partial`, `not-covered` and `out-of-scope`, and
-  `escalated` marks a finding that is with our team for a decision.
+  `escalated` marks a finding the agents did not agree on, which we settle.
 - `checked_on` is the day the vendor's pages were read. Products change, so the date matters.
 - `agent_eligible` says whether an agent may retrieve the page on the edition date. Every page stays open to read.
 

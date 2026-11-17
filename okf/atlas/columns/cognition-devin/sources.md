@@ -198,7 +198,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Security at Cognition
 - URL: https://docs.devin.ai/admin/security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c2-4](c2-4.md), [c5-4](c5-4.md), [c6-10](c6-10.md), [c6-11](c6-11.md)
 
@@ -206,7 +206,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Enterprise security
 - URL: https://docs.devin.ai/enterprise/security-access/security/enterprise-security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md), [c6-10](c6-10.md)
 
@@ -214,7 +214,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Secrets and Site Cookies
 - URL: https://docs.devin.ai/product-guides/secrets
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -222,7 +222,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Security Profiles
 - URL: https://docs.devin.ai/product-guides/security-profiles
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-3](c1-3.md), [c2-3](c2-3.md), [c3-2](c3-2.md), [c3-3](c3-3.md), [c4-4](c4-4.md), [c5-5](c5-5.md), [c6-4](c6-4.md)
 
@@ -230,7 +230,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Usage policies: per-user ACU limits
 - URL: https://docs.devin.ai/enterprise/features/usage-policies
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c5-2](c5-2.md), [c5-3](c5-3.md), [c6-3](c6-3.md), [c6-9](c6-9.md)
 
@@ -238,7 +238,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: AI Guardrails
 - URL: https://docs.devin.ai/enterprise/features/ai-guardrails
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-3](c3-3.md), [c5-2](c5-2.md), [c6-3](c6-3.md), [c7-2](c7-2.md)
 
@@ -246,7 +246,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Custom Roles and RBAC
 - URL: https://docs.devin.ai/enterprise/security-access/custom-roles
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c4-3](c4-3.md)
 
@@ -254,7 +254,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: List Audit Logs (API v3)
 - URL: https://docs.devin.ai/api-reference/v3/audit-logs/enterprise-audit-logs
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-8](c6-8.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -262,7 +262,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Enterprise Deployment
 - URL: https://docs.devin.ai/enterprise/deployment/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c2-3](c2-3.md), [c7-4](c7-4.md)
 
@@ -270,7 +270,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Customer Managed Keys
 - URL: https://docs.devin.ai/enterprise/security-access/security/customer-managed-keys
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md), [c7-4](c7-4.md)
 
@@ -278,7 +278,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Cloud Authentication with OIDC
 - URL: https://docs.devin.ai/product-guides/oidc
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -286,7 +286,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Set up your plugin ecosystem
 - URL: https://docs.devin.ai/product-guides/plugin-ecosystem
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-2](c6-2.md), [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -294,7 +294,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Devin app deployments
 - URL: https://docs.devin.ai/product-guides/deployment-capabilities
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md)
 
@@ -302,7 +302,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Personal Access Tokens
 - URL: https://docs.devin.ai/api-reference/personal-access-tokens
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c6-1](c6-1.md), [c6-2](c6-2.md), [c6-3](c6-3.md), [c6-6](c6-6.md)
 
@@ -310,7 +310,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Devin Desktop admin controls reference
 - URL: https://docs.devin.ai/desktop/controls
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c2-2](c2-2.md), [c2-5](c2-5.md), [c3-1](c3-1.md), [c3-2](c3-2.md), [c4-4](c4-4.md), [c6-12](c6-12.md), [c6-8](c6-8.md), [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -318,7 +318,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Devin Local Agent
 - URL: https://docs.devin.ai/desktop/devin-local
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c1-3](c1-3.md), [c2-5](c2-5.md), [c5-3](c5-3.md)
 
@@ -326,7 +326,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Devin CLI permissions
 - URL: https://docs.devin.ai/cli/reference/permissions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c3-3](c3-3.md)
 
@@ -334,7 +334,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Cascade Hooks
 - URL: https://docs.devin.ai/desktop/cascade/hooks
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md)
 
@@ -342,7 +342,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Devin CLI Hooks
 - URL: https://docs.devin.ai/cli/extensibility/hooks/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c7-2](c7-2.md)
 
@@ -350,7 +350,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Memories and Rules (Cascade)
 - URL: https://docs.devin.ai/desktop/cascade/memories
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-6](c2-6.md), [c6-4](c6-4.md)
 
@@ -358,7 +358,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Devin Memory and Dreaming
 - URL: https://docs.devin.ai/product-guides/memory
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-6](c2-6.md), [c6-10](c6-10.md)
 
@@ -366,7 +366,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Advanced Capabilities (Managed Devins)
 - URL: https://docs.devin.ai/work-with-devin/advanced-capabilities
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c2-1](c2-1.md), [c4-4](c4-4.md)
 
@@ -374,7 +374,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Subagents (Devin CLI)
 - URL: https://docs.devin.ai/cli/subagents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md)
 
@@ -382,7 +382,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Devin Outposts: self-hosted infrastructure
 - URL: https://docs.devin.ai/cloud/outposts/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-3](c2-3.md)
 
@@ -390,7 +390,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Automations
 - URL: https://docs.devin.ai/product-guides/automations
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md)
 
@@ -398,7 +398,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Devin Review
 - URL: https://docs.devin.ai/work-with-devin/devin-review
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md)
 
@@ -406,7 +406,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Session Insights
 - URL: https://docs.devin.ai/product-guides/session-insights
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md)
 
@@ -414,7 +414,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Usage (billing)
 - URL: https://docs.devin.ai/admin/billing/usage
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c5-3](c5-3.md)
 
@@ -422,7 +422,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: SCIM Setup
 - URL: https://docs.devin.ai/enterprise/security-access/scim
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md)
 
@@ -430,7 +430,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: API Authentication
 - URL: https://docs.devin.ai/api-reference/authentication
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-1](c4-1.md), [c4-3](c4-3.md), [c6-6](c6-6.md)
 
@@ -438,7 +438,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Devin GitHub integration
 - URL: https://docs.devin.ai/integrations/gh
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c5-1](c5-1.md)
 
@@ -446,7 +446,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Devin environment rollout health
 - URL: https://docs.devin.ai/enterprise/environment-management/rollout
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-4](c5-4.md)
 
@@ -454,7 +454,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Models (Devin CLI)
 - URL: https://docs.devin.ai/cli/models
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-8](c6-8.md)
 
@@ -462,7 +462,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Cognition Security (Security Exhibit)
 - URL: https://cognition.com/legal/security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c6-12](c6-12.md)
 
@@ -470,7 +470,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Cognition Trust Center
 - URL: https://trust.cognition.ai/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c7-4](c7-4.md)
 
@@ -478,7 +478,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Security Profiles
 - URL: https://docs.devin.ai/product-guides/security-profiles
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -486,7 +486,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Sandbox (Devin CLI)
 - URL: https://docs.devin.ai/cli/sandbox
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -494,7 +494,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Terminate Session (API v3)
 - URL: https://docs.devin.ai/api-reference/v3/sessions/delete-organizations-sessions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -502,7 +502,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Enterprise Deployment
 - URL: https://docs.devin.ai/enterprise/deployment/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -510,7 +510,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Security at Cognition
 - URL: https://docs.devin.ai/admin/security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -518,7 +518,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Cognition Trust Center
 - URL: https://trust.cognition.ai/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -526,7 +526,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Compliance and Availability (federal)
 - URL: https://docs.devin.ai/federal/compliance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -534,7 +534,7 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.devin.ai/enterprise/features/usage-policies.md
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-3](c5-3.md)
 
@@ -542,6 +542,6 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the know
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.devin.ai/desktop/devin-local/overview
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-3](c1-3.md)

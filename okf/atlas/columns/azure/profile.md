@@ -33,7 +33,8 @@ Column group: Cloud platforms. Facts are agent-run. Cells listed as eligible are
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 5 |
+| verified | 41 |
 
 ## Products
 
@@ -49,9 +50,9 @@ Column group: Cloud platforms. Facts are agent-run. Cells listed as eligible are
 | [Credential Brokerage](c4-2.md) | Identity | covered | verified | yes |
 | [Delegation (OBO)](c4-3.md) | Identity | covered | verified | yes |
 | [A2A](c4-4.md) | Identity | covered | verified | yes |
-| [Agent Local Scopes](c1-1.md) | Authorisation | not-covered | verified | yes |
+| [Agent Local Scopes](c1-1.md) | Authorisation | not-covered | agent-checked | yes |
 | [Agent Remote Scopes](c1-2.md) | Authorisation | covered | verified | yes |
-| [Human Approval](c1-3.md) | Authorisation | covered | verified | yes |
+| [Human Approval](c1-3.md) | Authorisation | covered | agent-checked | yes |
 | [Agent Provisioning](c1-4.md) | Authorisation | covered | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | covered | verified | yes |
 | [Inference](c2-2.md) | Runtime | covered | verified | yes |
@@ -69,17 +70,17 @@ Column group: Cloud platforms. Facts are agent-run. Cells listed as eligible are
 | [Cost & Yield](c5-3.md) | Observability & Explainability | not-covered | verified | yes |
 | [Infrastructure](c5-4.md) | Observability & Explainability | covered | verified | yes |
 | [Connectivity](c5-5.md) | Observability & Explainability | covered | verified | yes |
-| [Administrative Audit](c7-1.md) | Agentic MLSecOps | covered | verified | yes |
+| [Administrative Audit](c7-1.md) | Agentic MLSecOps | covered | agent-checked | yes |
 | [SOC Telemetry](c7-2.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Model Assurance](c7-3.md) | Agentic MLSecOps | not-covered | verified | yes |
-| [Runtime Assurance](c7-4.md) | Agentic MLSecOps | partial | verified | yes |
+| [Runtime Assurance](c7-4.md) | Agentic MLSecOps | partial | agent-checked | yes |
 | [First-Party Tool Assurance](c7-5.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Third-Party Tool Assurance](c7-6.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | covered | verified | yes |
 | [AI Discovery](c7-9.md) | Agentic MLSecOps | covered | verified | yes |
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | partial | verified | yes |
 | [Asset Registries & Inventory](c6-1.md) | Governance | covered | verified | yes |
-| [Registration & Approval Workflows](c6-2.md) | Governance | not-covered | verified | yes |
+| [Registration & Approval Workflows](c6-2.md) | Governance | not-covered | agent-checked | yes |
 | [Posture & Reporting](c6-3.md) | Governance | covered | verified | yes |
 | [Policy Management](c6-4.md) | Governance | not-covered | verified | yes |
 | [AI Lifecycle Management](c6-5.md) | Governance | not-covered | verified | yes |

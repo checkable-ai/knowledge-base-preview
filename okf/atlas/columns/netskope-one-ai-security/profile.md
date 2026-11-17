@@ -33,7 +33,8 @@ Column group: AI usage control (SASE, browser, DLP). Facts are agent-run. Cells 
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 1 |
+| verified | 45 |
 
 ## Products
 
@@ -50,7 +51,7 @@ Column group: AI usage control (SASE, browser, DLP). Facts are agent-run. Cells 
 | Control | Category | Verdict | State | Agent-eligible |
 | --- | --- | --- | --- | --- |
 | [Agent ID](c4-1.md) | Identity | not-covered | verified | yes |
-| [Credential Brokerage](c4-2.md) | Identity | not-covered | verified | yes |
+| [Credential Brokerage](c4-2.md) | Identity | not-covered | agent-checked | yes |
 | [Delegation (OBO)](c4-3.md) | Identity | not-covered | verified | yes |
 | [A2A](c4-4.md) | Identity | not-covered | verified | yes |
 | [Agent Local Scopes](c1-1.md) | Authorisation | out-of-scope | verified | yes |

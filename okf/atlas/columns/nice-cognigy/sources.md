@@ -190,7 +190,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Quoted by the confirm agents
 - URL: https://www.cognigy.com/news/datev-cognigy.ai-compliant-voice-bots
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-13](c6-13.md)
 
@@ -198,7 +198,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: AI Agent Node
 - URL: https://docs.cognigy.com/ai/agents/develop/node-reference/ai/ai-agent
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c1-2](c1-2.md), [c2-1](c2-1.md), [c2-4](c2-4.md), [c2-5](c2-5.md), [c2-6](c2-6.md), [c3-2](c3-2.md), [c3-3](c3-3.md), [c3-4](c3-4.md), [c4-2](c4-2.md), [c4-4](c4-4.md), [c7-8](c7-8.md)
 
@@ -206,7 +206,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Manage AI Agents
 - URL: https://docs.cognigy.com/ai/agents/develop/manage-ai-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c4-1](c4-1.md), [c6-1](c6-1.md)
 
@@ -214,7 +214,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Connections
 - URL: https://docs.cognigy.com/ai/platform-features/connections
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c4-2](c4-2.md)
 
@@ -222,7 +222,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: A2A Server Endpoint
 - URL: https://docs.cognigy.com/ai/agents/deploy/endpoint-reference/a2a-server
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c3-4](c3-4.md), [c4-4](c4-4.md)
 
@@ -230,7 +230,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: MCP Server Endpoint
 - URL: https://docs.cognigy.com/ai/agents/deploy/endpoint-reference/mcp-server
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c4-3](c4-3.md)
 
@@ -238,7 +238,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Access Control
 - URL: https://docs.cognigy.com/ai/administer/access/admin-center/access-control
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c1-4](c1-4.md)
 
@@ -246,7 +246,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Members
 - URL: https://docs.cognigy.com/ai/administer/access/members
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c1-4](c1-4.md)
 
@@ -254,7 +254,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Audit Events
 - URL: https://docs.cognigy.com/ai/administer/access/admin-center/audit-events
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c1-4](c1-4.md), [c6-8](c6-8.md), [c7-1](c7-1.md)
 
@@ -262,7 +262,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Snapshots
 - URL: https://docs.cognigy.com/ai/agents/deploy/snapshots
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c4-1](c4-1.md), [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -270,7 +270,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Packages
 - URL: https://docs.cognigy.com/ai/platform-features/packages
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c6-1](c6-1.md), [c6-5](c6-5.md)
 
@@ -278,7 +278,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: AI Agent Memory
 - URL: https://docs.cognigy.com/ai/agents/develop/ai-agent-memory/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c2-4](c2-4.md)
 
@@ -286,7 +286,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Profile
 - URL: https://docs.cognigy.com/ai/agents/develop/ai-agent-memory/profile
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c2-6](c2-6.md)
 
@@ -294,7 +294,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Session Management
 - URL: https://docs.cognigy.com/ai/agents/deploy/endpoints/session-management
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c2-4](c2-4.md)
 
@@ -302,7 +302,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Large Language Models (LLMs)
 - URL: https://docs.cognigy.com/ai/agents/develop/gen-ai-and-llms/llms
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c2-1](c2-1.md), [c2-2](c2-2.md)
 
@@ -310,7 +310,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: LLM Fallback
 - URL: https://docs.cognigy.com/ai/agents/develop/gen-ai-and-llms/fallback
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c2-1](c2-1.md), [c2-2](c2-2.md)
 
@@ -318,7 +318,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Global Large Language Models
 - URL: https://docs.cognigy.com/ai/administer/access/admin-center/global-resources/global-llms
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c3-1](c3-1.md), [c6-1](c6-1.md)
 
@@ -326,7 +326,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Large Language Model Session Token Counter
 - URL: https://docs.cognigy.com/ai/agents/develop/gen-ai-and-llms/llm-session-token-counter
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c5-3](c5-3.md)
 
@@ -334,7 +334,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Data Redaction
 - URL: https://docs.cognigy.com/ai/platform-features/data-redaction
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c3-3](c3-3.md)
 
@@ -342,7 +342,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Data Protection and Analytics
 - URL: https://docs.cognigy.com/ai/agents/deploy/endpoints/data-protection-and-analytics
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c3-1](c3-1.md), [c3-3](c3-3.md), [c6-10](c6-10.md), [c7-2](c7-2.md)
 
@@ -350,7 +350,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Data Expiration in Cognigy
 - URL: https://docs.cognigy.com/ai/agents/analyze/data-expiration
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c2-6](c2-6.md), [c6-10](c6-10.md), [c7-8](c7-8.md)
 
@@ -358,7 +358,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Simulator
 - URL: https://docs.cognigy.com/ai/agents/test/simulator/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c5-2](c5-2.md)
 
@@ -366,7 +366,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Playbooks
 - URL: https://docs.cognigy.com/ai/agents/test/playbooks
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c5-2](c5-2.md)
 
@@ -374,7 +374,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Logs
 - URL: https://docs.cognigy.com/ai/agents/test/logs
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -382,7 +382,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Extensions
 - URL: https://docs.cognigy.com/ai/for-developers/extensions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c2-3](c2-3.md)
 
@@ -390,7 +390,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Functions
 - URL: https://docs.cognigy.com/ai/for-developers/functions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c2-3](c2-3.md)
 
@@ -398,7 +398,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Cognigy Architecture
 - URL: https://docs.cognigy.com/ai/administer/installation/architecture
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c2-3](c2-3.md), [c6-5](c6-5.md), [c7-4](c7-4.md)
 
@@ -406,7 +406,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Handover Providers
 - URL: https://docs.cognigy.com/ai/escalate/handovers
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c5-1](c5-1.md)
 
@@ -414,7 +414,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: AI Agent Handover Node
 - URL: https://docs.cognigy.com/ai/agents/develop/node-reference/ai/ai-agent-handover
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c2-1](c2-1.md)
 
@@ -422,7 +422,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: What's AI Ops Center?
 - URL: https://docs.cognigy.com/ops-center/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c5-4](c5-4.md)
 
@@ -430,7 +430,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Manage Alerts
 - URL: https://docs.cognigy.com/ops-center/manage/alerts
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c5-4](c5-4.md)
 
@@ -438,7 +438,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Cognigy Insights
 - URL: https://docs.cognigy.com/insights/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c5-3](c5-3.md), [c7-2](c7-2.md)
 
@@ -446,7 +446,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: IP Address Ranges for SaaS
 - URL: https://docs.cognigy.com/ai/administer/installation/ip-ranges-shared-environments
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c3-2](c3-2.md), [c6-10](c6-10.md)
 
@@ -454,7 +454,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Get Token Node
 - URL: https://docs.cognigy.com/ai/agents/develop/node-reference/service/get-token
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c4-3](c4-3.md)
 
@@ -462,7 +462,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: NiCE Trust Center
 - URL: https://www.nice.com/company/trust-center
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c6-11](c6-11.md), [c7-4](c7-4.md)
 
@@ -470,7 +470,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Generative AI
 - URL: https://docs.cognigy.com/ai/agents/develop/gen-ai-and-llms/generative-ai
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c2-2](c2-2.md)
 
@@ -478,7 +478,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: AI Agent node reference
 - URL: https://docs.cognigy.com/ai/agents/develop/node-reference/ai/ai-agent
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -486,7 +486,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Extensions
 - URL: https://docs.cognigy.com/ai/for-developers/extensions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -494,7 +494,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: MCP server endpoint
 - URL: https://docs.cognigy.com/ai/agents/deploy/endpoint-reference/mcp-server
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -502,7 +502,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: A2A server endpoint
 - URL: https://docs.cognigy.com/ai/agents/deploy/endpoint-reference/a2a-server
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -510,7 +510,7 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: Snapshots
 - URL: https://docs.cognigy.com/ai/agents/deploy/snapshots
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -518,6 +518,6 @@ Every source the NiCE Cognigy cells cite, with its tier from the knowledge base'
 
 - Title: NiCE Trust Center
 - URL: https://www.nice.com/company/trust-center
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

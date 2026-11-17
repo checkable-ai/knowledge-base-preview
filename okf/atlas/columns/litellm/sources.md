@@ -178,7 +178,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.litellm.ai/docs/mcp
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-5](c2-5.md)
 
@@ -186,7 +186,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.litellm.ai/docs/proxy/access_management/agents
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c4-4](c4-4.md)
 
@@ -194,7 +194,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Virtual Keys
 - URL: https://docs.litellm.ai/docs/proxy/virtual_keys
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-2](c4-2.md), [c6-6](c6-6.md)
 
@@ -202,7 +202,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Enterprise
 - URL: https://docs.litellm.ai/docs/enterprise
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-3](c3-3.md), [c4-2](c4-2.md), [c6-11](c6-11.md)
 
@@ -210,7 +210,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: MCP Overview
 - URL: https://docs.litellm.ai/docs/mcp
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c3-2](c3-2.md), [c7-6](c7-6.md)
 
@@ -218,7 +218,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: MCP Permission Management
 - URL: https://docs.litellm.ai/docs/mcp_control
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c5-5](c5-5.md), [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -226,7 +226,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Guardrails Quick Start
 - URL: https://docs.litellm.ai/docs/proxy/guardrails/quick_start
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -234,7 +234,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Audit Logs
 - URL: https://docs.litellm.ai/docs/proxy/multiple_admins
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c6-8](c6-8.md), [c7-1](c7-1.md)
 
@@ -242,7 +242,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Agent Gateway (A2A Protocol) Overview
 - URL: https://docs.litellm.ai/docs/a2a
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c3-4](c3-4.md), [c4-1](c4-1.md), [c4-3](c4-3.md), [c4-4](c4-4.md), [c5-3](c5-3.md), [c7-1](c7-1.md)
 
@@ -250,7 +250,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Secret Managers Overview
 - URL: https://docs.litellm.ai/docs/secret_managers/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -258,7 +258,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: OIDC / JWT-based Auth
 - URL: https://docs.litellm.ai/docs/proxy/token_auth
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c4-3](c4-3.md)
 
@@ -266,7 +266,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Prometheus Metrics
 - URL: https://docs.litellm.ai/docs/proxy/prometheus
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-4](c5-4.md), [c6-3](c6-3.md)
 
@@ -274,7 +274,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Fallbacks, Retries, Timeouts, Cooldowns
 - URL: https://docs.litellm.ai/docs/proxy/reliability
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-2](c2-2.md), [c6-10](c6-10.md)
 
@@ -282,7 +282,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: MCP Server Submissions
 - URL: https://docs.litellm.ai/docs/mcp_server_submissions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-12](c6-12.md), [c6-2](c6-2.md), [c7-5](c7-5.md)
 
@@ -290,7 +290,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Prompt Injection Detection
 - URL: https://docs.litellm.ai/docs/proxy/guardrails/prompt_injection
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -298,7 +298,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Agent Kill Switch
 - URL: https://docs.litellm.ai/docs/a2a_kill_switch
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md)
 
@@ -306,7 +306,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Agent Iteration Budgets
 - URL: https://docs.litellm.ai/docs/a2a_iteration_budgets
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md)
 
@@ -314,7 +314,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: MCP OBO Auth
 - URL: https://docs.litellm.ai/docs/mcp_obo_auth
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md)
 
@@ -322,7 +322,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: MCP Guardrails
 - URL: https://docs.litellm.ai/docs/mcp_guardrail
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -330,7 +330,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: PII, PHI Masking - Presidio
 - URL: https://docs.litellm.ai/docs/proxy/guardrails/pii_masking_v2
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md)
 
@@ -338,7 +338,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Logging
 - URL: https://docs.litellm.ai/docs/proxy/logging
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md), [c7-2](c7-2.md)
 
@@ -346,7 +346,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Alerting
 - URL: https://docs.litellm.ai/docs/proxy/alerting
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md), [c5-4](c5-4.md), [c7-2](c7-2.md)
 
@@ -354,7 +354,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Role-based Access Controls
 - URL: https://docs.litellm.ai/docs/proxy/access_control
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md)
 
@@ -362,7 +362,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Model Management
 - URL: https://docs.litellm.ai/docs/proxy/model_management
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-1](c6-1.md), [c6-12](c6-12.md), [c6-6](c6-6.md), [c6-8](c6-8.md)
 
@@ -370,7 +370,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Guardrail Policies
 - URL: https://docs.litellm.ai/docs/proxy/guardrails/guardrail_policies
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-3](c6-3.md), [c6-4](c6-4.md)
 
@@ -378,7 +378,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Tool Policies
 - URL: https://docs.litellm.ai/docs/proxy/tool_policies
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c5-5](c5-5.md), [c6-1](c6-1.md)
 
@@ -386,7 +386,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Budgets, Rate Limits
 - URL: https://docs.litellm.ai/docs/proxy/users
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -394,7 +394,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Spend Tracking
 - URL: https://docs.litellm.ai/docs/proxy/cost_tracking
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md)
 
@@ -402,7 +402,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Agent Permission Management
 - URL: https://docs.litellm.ai/docs/a2a_agent_permissions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-4](c3-4.md), [c4-4](c4-4.md)
 
@@ -410,7 +410,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: LiteLLM AI Gateway Prompt Management
 - URL: https://docs.litellm.ai/docs/proxy/litellm_prompt_management
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-8](c6-8.md)
 
@@ -418,7 +418,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Spend Logs Deletion
 - URL: https://docs.litellm.ai/docs/proxy/spend_logs_deletion
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md)
 
@@ -426,7 +426,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: AI Hub
 - URL: https://docs.litellm.ai/docs/proxy/ai_hub
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c5-5](c5-5.md), [c6-1](c6-1.md)
 
@@ -434,7 +434,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Agent Kill Switch
 - URL: https://docs.litellm.ai/docs/a2a_kill_switch
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -442,7 +442,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Agent Iteration Budgets
 - URL: https://docs.litellm.ai/docs/a2a_iteration_budgets
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -450,7 +450,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Sandbox / Code Execution
 - URL: https://docs.litellm.ai/docs/sandbox
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -458,7 +458,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Harness sandboxes
 - URL: https://docs.litellm.ai/docs/harness/sandboxes
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -466,7 +466,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Virtual Keys
 - URL: https://docs.litellm.ai/docs/proxy/virtual_keys
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -474,7 +474,7 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Compliance and SOC 2 Type II
 - URL: https://docs.litellm.ai/docs/enterprise/compliance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -482,6 +482,6 @@ Every source the LiteLLM cells cite, with its tier from the knowledge base's sou
 
 - Title: Data privacy and security
 - URL: https://docs.litellm.ai/docs/data_security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

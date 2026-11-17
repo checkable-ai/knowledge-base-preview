@@ -33,7 +33,8 @@ Column group: Red teaming and testing. Facts are agent-run. Cells listed as elig
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 1 |
+| verified | 45 |
 
 ## Products
 
@@ -79,7 +80,7 @@ Column group: Red teaming and testing. Facts are agent-run. Cells listed as elig
 | [Third-Party Tool Assurance](c7-6.md) | Agentic MLSecOps | out-of-scope | verified | yes |
 | [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | out-of-scope | verified | yes |
 | [AI Discovery](c7-9.md) | Agentic MLSecOps | out-of-scope | verified | yes |
-| [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | covered | verified | yes |
+| [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | covered | agent-checked | yes |
 | [Asset Registries & Inventory](c6-1.md) | Governance | out-of-scope | verified | yes |
 | [Registration & Approval Workflows](c6-2.md) | Governance | out-of-scope | verified | yes |
 | [Posture & Reporting](c6-3.md) | Governance | not-covered | verified | yes |

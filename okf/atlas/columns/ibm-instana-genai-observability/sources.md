@@ -66,7 +66,7 @@ Every source the IBM Instana GenAI Observability cells cite, with its tier from 
 
 - Title: IBM Instana Generative AI Observability product page
 - URL: https://www.ibm.com/products/instana/generative-ai-observability
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c5-4](c5-4.md), [c5-5](c5-5.md)
 
@@ -74,7 +74,7 @@ Every source the IBM Instana GenAI Observability cells cite, with its tier from 
 
 - Title: Cost calculation
 - URL: https://www.ibm.com/docs/en/instana-observability/saas?topic=features-cost-calculation
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c5-3](c5-3.md)
 
@@ -82,7 +82,7 @@ Every source the IBM Instana GenAI Observability cells cite, with its tier from 
 
 - Title: AI evaluation in Instana
 - URL: https://www.ibm.com/docs/en/instana-observability/saas?topic=features-ai-evaluation-in-instana
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c5-2](c5-2.md)
 
@@ -90,7 +90,7 @@ Every source the IBM Instana GenAI Observability cells cite, with its tier from 
 
 - Title: Model Context Protocol (MCP)
 - URL: https://www.ibm.com/docs/en/instana-observability/saas?topic=technologies-model-context-protocol-mcp
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c5-5](c5-5.md)
 
@@ -98,7 +98,7 @@ Every source the IBM Instana GenAI Observability cells cite, with its tier from 
 
 - Title: Smart Alerts for Gen AI Observability
 - URL: https://www.ibm.com/docs/en/instana-observability/saas?topic=guides-smart-alerts-gen-ai-observability
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c5-2](c5-2.md), [c5-3](c5-3.md), [c5-4](c5-4.md)
 
@@ -106,7 +106,7 @@ Every source the IBM Instana GenAI Observability cells cite, with its tier from 
 
 - Title: Viewing Telemetry data
 - URL: https://www.ibm.com/docs/en/instana-observability/saas?topic=guides-viewing-telemetry-data
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c7-1](c7-1.md)
 
@@ -114,7 +114,7 @@ Every source the IBM Instana GenAI Observability cells cite, with its tier from 
 
 - Title: AI agent frameworks
 - URL: https://www.ibm.com/docs/en/instana-observability/saas?topic=technologies-ai-agent-frameworks
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c7-1](c7-1.md)
 
@@ -122,7 +122,7 @@ Every source the IBM Instana GenAI Observability cells cite, with its tier from 
 
 - Title: Monitoring GPU
 - URL: https://www.ibm.com/docs/en/instana-observability/saas?topic=hosting-monitoring-gpu
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c5-4](c5-4.md)
 
@@ -130,7 +130,7 @@ Every source the IBM Instana GenAI Observability cells cite, with its tier from 
 
 - Title: Application perspectives
 - URL: https://www.ibm.com/docs/en/instana-observability/saas?topic=capabilities-application-perspectives
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c5-5](c5-5.md)
 
@@ -138,7 +138,7 @@ Every source the IBM Instana GenAI Observability cells cite, with its tier from 
 
 - Title: IBM Instana generative AI observability
 - URL: https://www.ibm.com/products/instana/generative-ai-observability
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -146,6 +146,6 @@ Every source the IBM Instana GenAI Observability cells cite, with its tier from 
 
 - Title: IBM Instana pricing
 - URL: https://www.ibm.com/products/instana/pricing
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

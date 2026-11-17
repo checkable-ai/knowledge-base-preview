@@ -150,7 +150,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.paloaltonetworks.com/prisma-airs/ai-gateway/ai-gateway-overview
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md)
 
@@ -158,7 +158,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.paloaltonetworks.com/prisma-airs/ai-gateway/ai-gateway-integrations
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c4-4](c4-4.md)
 
@@ -166,7 +166,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.paloaltonetworks.com/prisma-airs/ai-inventory/agent-discovery/view-enterprise-agents
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-1](c6-1.md)
 
@@ -174,7 +174,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.paloaltonetworks.com/prisma-airs/ai-inventory/agent-discovery
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-5](c5-5.md), [c6-3](c6-3.md), [c7-9](c7-9.md)
 
@@ -182,7 +182,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: Prisma AIRS Platform Architecture
 - URL: https://docs.paloaltonetworks.com/prisma-airs/getting-started/prisma-airs-platform-architecture
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c3-4](c3-4.md), [c4-4](c4-4.md), [c7-4](c7-4.md)
 
@@ -190,7 +190,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: Prisma AIRS AI Runtime API
 - URL: https://pan.dev/prisma-airs/api/airuntimesecurity/airuntimesecurityapi/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md)
 
@@ -198,7 +198,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: Defend: Create and Configure API Security Profile
 - URL: https://docs.paloaltonetworks.com/prisma-airs/ai-runtime-security/airs-api/api-intercept-create-configure-security-profile
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-3](c3-3.md), [c5-2](c5-2.md), [c5-4](c5-4.md), [c6-4](c6-4.md), [c6-9](c6-9.md)
 
@@ -206,7 +206,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: Detect MCP Threats
 - URL: https://docs.paloaltonetworks.com/prisma-airs/ai-runtime-security/airs-vm-firewall/detect-mcp-threats
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c4-2](c4-2.md), [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -214,7 +214,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: Understanding the Prisma AIRS MCP Server
 - URL: https://docs.paloaltonetworks.com/ai-runtime-security/activation-and-onboarding/prisma-airs-mcp-server-for-centralized-ai-agent-security/understanding-the-prisma-airs-mcp-server
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md)
 
@@ -222,7 +222,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: AI Gateway Overview
 - URL: https://docs.paloaltonetworks.com/content/techdocs/en_US/prisma-airs/ai-gateway/ai-gateway-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md), [c4-2](c4-2.md), [c6-12](c6-12.md)
 
@@ -230,7 +230,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: Manage Gateway API Keys
 - URL: https://docs.paloaltonetworks.com/prisma-airs/ai-gateway/ai-gateway-configs/manage-gateway-api-keys
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c4-2](c4-2.md)
 
@@ -238,7 +238,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: AI Gateway Routing Configurations
 - URL: https://docs.paloaltonetworks.com/ai-runtime-security/administration/configure-ai-gateway
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-4](c6-4.md), [c6-8](c6-8.md)
 
@@ -246,7 +246,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: AI Gateway Observability
 - URL: https://docs.paloaltonetworks.com/prisma-airs/ai-gateway/ai-gateway-observability
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md), [c5-4](c5-4.md)
 
@@ -254,7 +254,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: View AI Gateway Logs
 - URL: https://docs.paloaltonetworks.com/prisma-airs/ai-gateway/ai-gateway-observability/view-ai-gateway-logs
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md), [c6-10](c6-10.md), [c7-1](c7-1.md)
 
@@ -262,7 +262,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: Understanding Model Security Rules
 - URL: https://docs.paloaltonetworks.com/ai-runtime-security/ai-model-security/model-security-to-secure-your-ai-models/understanding-ai-model-security-rules
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-12](c6-12.md), [c6-2](c6-2.md), [c7-3](c7-3.md), [c7-6](c7-6.md)
 
@@ -270,7 +270,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: AI Supply Chain Security
 - URL: https://docs.paloaltonetworks.com/ai-runtime-security/ai-model-security/ai-supply-chain-security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-2](c6-2.md), [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -278,7 +278,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: AI Red Teaming Scans
 - URL: https://docs.paloaltonetworks.com/prisma-airs/ai-red-teaming/identify-ai-system-risks-with-ai-red-teaming/get-started-with-prisma-airs-ai-red-teaming/scans
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c6-11](c6-11.md), [c6-7](c6-7.md), [c7-10](c7-10.md)
 
@@ -286,7 +286,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: Agent Discovery
 - URL: https://docs.paloaltonetworks.com/ai-runtime-security/administration/agent-discovery
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-3](c6-3.md), [c7-8](c7-8.md), [c7-9](c7-9.md)
 
@@ -294,7 +294,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: AI Traffic and Application Visibility
 - URL: https://docs.paloaltonetworks.com/prisma-airs/ai-inventory/ai-traffic-and-application-visibility
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md), [c7-9](c7-9.md)
 
@@ -302,7 +302,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: Prisma AIRS Integration with Cortex AES for AI Coding Agent Security
 - URL: https://docs.paloaltonetworks.com/prisma-airs/ai-runtime-security/airs-api/prisma-airs-integration-with-cortex-aes
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c7-2](c7-2.md)
 
@@ -310,7 +310,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: New Features - Prisma AIRS - August 2026
 - URL: https://docs.paloaltonetworks.com/ai-runtime-security/new-features/by-date/prisma-airs/august-2026
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-10](c6-10.md), [c6-11](c6-11.md), [c6-3](c6-3.md), [c6-9](c6-9.md), [c7-1](c7-1.md), [c7-3](c7-3.md), [c7-5](c7-5.md), [c7-8](c7-8.md), [c7-9](c7-9.md)
 
@@ -318,7 +318,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: New Features - Prisma AIRS - September 2026
 - URL: https://docs.paloaltonetworks.com/prisma-airs/new-features/by-date/prisma-airs/september-2026
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c7-10](c7-10.md), [c7-4](c7-4.md)
 
@@ -326,7 +326,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: New Features - Prisma AIRS - July 2026
 - URL: https://docs.paloaltonetworks.com/prisma-airs/new-features/by-date/prisma-airs/july-2026
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c6-4](c6-4.md), [c7-10](c7-10.md), [c7-3](c7-3.md)
 
@@ -334,7 +334,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: New Features - Prisma AIRS - February 2026
 - URL: https://docs.paloaltonetworks.com/prisma-airs/new-features/by-date/prisma-airs/february-2026
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c6-3](c6-3.md), [c6-7](c6-7.md), [c7-2](c7-2.md)
 
@@ -342,7 +342,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: Onboard SaaS Agents
 - URL: https://docs.paloaltonetworks.com/prisma-airs/ai-agent-identity/saas-agent-security-overview/onboard-saas-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md)
 
@@ -350,7 +350,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: Prisma AIRS features introduced in September 2026
 - URL: https://docs.paloaltonetworks.com/prisma-airs/new-features/by-date/prisma-airs/september-2026
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -358,7 +358,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: Prisma AIRS integration with Cortex AES
 - URL: https://docs.paloaltonetworks.com/prisma-airs/ai-runtime-security/airs-api/prisma-airs-integration-with-cortex-aes
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -366,7 +366,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: Prisma AIRS platform architecture
 - URL: https://docs.paloaltonetworks.com/prisma-airs/getting-started/prisma-airs-platform-architecture
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -374,7 +374,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: Palo Alto Networks Trust Center: Certifications
 - URL: https://www.paloaltonetworks.com/legal-notices/trust-center/certifications
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -382,7 +382,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: Palo Alto Networks Trust Center: IRAP
 - URL: https://www.paloaltonetworks.com/legal-notices/trust-center/irap
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -390,7 +390,7 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: Palo Alto Networks Trust Center: ISO 27000 series
 - URL: https://www.paloaltonetworks.com/legal-notices/trust-center/iso-27000-series
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -398,6 +398,6 @@ Every source the Palo Alto Networks Prisma AIRS cells cite, with its tier from t
 
 - Title: Palo Alto Networks Trust Center: SOC 2+
 - URL: https://www.paloaltonetworks.com/legal-notices/trust-center/soc
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

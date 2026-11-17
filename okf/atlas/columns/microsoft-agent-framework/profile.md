@@ -34,7 +34,8 @@ Column group: Agent frameworks. Facts are agent-run. Cells listed as eligible ar
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 1 |
+| verified | 45 |
 
 ## Products
 
@@ -54,7 +55,7 @@ Column group: Agent frameworks. Facts are agent-run. Cells listed as eligible ar
 | [Agent ID](c4-1.md) | Identity | covered | verified | yes |
 | [Credential Brokerage](c4-2.md) | Identity | not-covered | verified | yes |
 | [Delegation (OBO)](c4-3.md) | Identity | covered | verified | yes |
-| [A2A](c4-4.md) | Identity | not-covered | verified | yes |
+| [A2A](c4-4.md) | Identity | not-covered | agent-checked | yes |
 | [Agent Local Scopes](c1-1.md) | Authorisation | covered | verified | yes |
 | [Agent Remote Scopes](c1-2.md) | Authorisation | covered | verified | yes |
 | [Human Approval](c1-3.md) | Authorisation | covered | verified | yes |

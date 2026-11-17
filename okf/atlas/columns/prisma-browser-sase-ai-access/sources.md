@@ -86,7 +86,7 @@ Every source the Prisma Browser and Prisma SASE AI Access Security cells cite, w
 
 - Title: Prisma Browser Administration (PDF, last revised 10 March 2026)
 - URL: https://docs.paloaltonetworks.com/content/dam/techdocs/en_US/pdf/prisma-browser/prisma-browser-administration.pdf
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c1-1](c1-1.md), [c1-2](c1-2.md), [c1-3](c1-3.md), [c3-1](c3-1.md), [c3-2](c3-2.md), [c3-3](c3-3.md), [c6-1](c6-1.md), [c6-4](c6-4.md), [c6-8](c6-8.md), [c6-9](c6-9.md), [c7-1](c7-1.md), [c7-2](c7-2.md), [c7-5](c7-5.md), [c7-6](c7-6.md), [c7-9](c7-9.md)
 
@@ -94,7 +94,7 @@ Every source the Prisma Browser and Prisma SASE AI Access Security cells cite, w
 
 - Title: Manage Prisma Browser Policy Rules
 - URL: https://docs.paloaltonetworks.com/prisma-browser/administration/manage-prisma-browser-policy-rules
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c1-1](c1-1.md)
 
@@ -102,7 +102,7 @@ Every source the Prisma Browser and Prisma SASE AI Access Security cells cite, w
 
 - Title: Introducing AI Access Security
 - URL: https://docs.paloaltonetworks.com/ai-access-security/getting-started/introducing-ai-access-security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c3-2](c3-2.md), [c3-3](c3-3.md), [c6-12](c6-12.md), [c6-7](c6-7.md), [c7-9](c7-9.md)
 
@@ -110,7 +110,7 @@ Every source the Prisma Browser and Prisma SASE AI Access Security cells cite, w
 
 - Title: Discover Risks Posed by GenAI Apps
 - URL: https://docs.paloaltonetworks.com/ai-access-security/administration/discover-risks-posed-by-genai-apps
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c6-3](c6-3.md), [c7-6](c7-6.md), [c7-9](c7-9.md)
 
@@ -118,7 +118,7 @@ Every source the Prisma Browser and Prisma SASE AI Access Security cells cite, w
 
 - Title: Create Custom Security Policy Rules to Control GenAI Access
 - URL: https://docs.paloaltonetworks.com/ai-access-security/administration/create-custom-security-policy-rules-to-control-genai-access
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c1-2](c1-2.md), [c3-1](c3-1.md)
 
@@ -126,7 +126,7 @@ Every source the Prisma Browser and Prisma SASE AI Access Security cells cite, w
 
 - Title: Tag GenAI Apps
 - URL: https://docs.paloaltonetworks.com/ai-access-security/administration/tag-genai-apps
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c6-1](c6-1.md), [c6-12](c6-12.md), [c6-2](c6-2.md)
 
@@ -134,7 +134,7 @@ Every source the Prisma Browser and Prisma SASE AI Access Security cells cite, w
 
 - Title: Generate an AI Access Security Report
 - URL: https://docs.paloaltonetworks.com/ai-access-security/administration/generate-an-ai-access-security-report
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c6-3](c6-3.md)
 
@@ -142,7 +142,7 @@ Every source the Prisma Browser and Prisma SASE AI Access Security cells cite, w
 
 - Title: GenAI Prompt Analysis
 - URL: https://docs.paloaltonetworks.com/ai-access-security/administration/genai-prompt-analysis
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c7-2](c7-2.md)
 
@@ -150,7 +150,7 @@ Every source the Prisma Browser and Prisma SASE AI Access Security cells cite, w
 
 - Title: AI Access Security new features, August 2026
 - URL: https://docs.paloaltonetworks.com/ai-access-security/new-features/by-date/ai-access-security/august-2026
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-17
 - Cited by: [c7-1](c7-1.md)
 
@@ -158,7 +158,7 @@ Every source the Prisma Browser and Prisma SASE AI Access Security cells cite, w
 
 - Title: Prisma Browser: Where Agentic AI Meets Enterprise-Grade Security (blog, 23 March 2026)
 - URL: https://www.paloaltonetworks.com/blog/sase/prisma-browser-where-agentic-ai-meets-enterprise-grade-security
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-17
 - Cited by: [c1-1](c1-1.md), [c1-3](c1-3.md), [c7-1](c7-1.md)
 
@@ -166,7 +166,7 @@ Every source the Prisma Browser and Prisma SASE AI Access Security cells cite, w
 
 - Title: Palo Alto Networks press release on Prisma Browser for agentic AI, 23 March 2026
 - URL: https://www.paloaltonetworks.com/company/press/2026/palo-alto-networks-unveils-the-industry-s-most-secure-browser-built-for-agentic-ai
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-17
 - Cited by: [c3-1](c3-1.md)
 
@@ -174,7 +174,7 @@ Every source the Prisma Browser and Prisma SASE AI Access Security cells cite, w
 
 - Title: Prisma Browser: Where Agentic AI Meets Enterprise-Grade Security
 - URL: https://www.paloaltonetworks.com/blog/sase/prisma-browser-where-agentic-ai-meets-enterprise-grade-security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -182,7 +182,7 @@ Every source the Prisma Browser and Prisma SASE AI Access Security cells cite, w
 
 - Title: Prisma Browser Administration (PDF)
 - URL: https://docs.paloaltonetworks.com/content/dam/techdocs/en_US/pdf/prisma-browser/prisma-browser-administration.pdf
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -190,7 +190,7 @@ Every source the Prisma Browser and Prisma SASE AI Access Security cells cite, w
 
 - Title: Palo Alto Networks Trust Center: Compliance
 - URL: https://www.paloaltonetworks.com/legal-notices/trust-center/compliance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -198,7 +198,7 @@ Every source the Prisma Browser and Prisma SASE AI Access Security cells cite, w
 
 - Title: Palo Alto Networks Trust Center: IRAP
 - URL: https://www.paloaltonetworks.com/legal-notices/trust-center/irap
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -206,6 +206,6 @@ Every source the Prisma Browser and Prisma SASE AI Access Security cells cite, w
 
 - Title: Palo Alto Networks Trust Center: ISO 27000 series
 - URL: https://www.paloaltonetworks.com/legal-notices/trust-center/iso-27000-series
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

@@ -222,7 +222,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Quoted by the confirm agents
 - URL: https://dev.meta.ai/docs/muse-code/configuration.md
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-4](c2-4.md)
 
@@ -230,7 +230,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Quoted by the confirm agents
 - URL: https://dev.meta.ai/docs/muse-code/session-messaging
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-4](c3-4.md)
 
@@ -238,7 +238,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Quoted by the confirm agents
 - URL: https://dev.meta.ai/docs/models
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-2](c2-2.md)
 
@@ -246,7 +246,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Quoted by the confirm agents
 - URL: https://dev.meta.ai/docs/muse-code/permissions.md
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-5](c2-5.md)
 
@@ -254,7 +254,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Quoted by the confirm agents
 - URL: https://dev.meta.ai/docs/muse-code/agents
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-2](c1-2.md)
 
@@ -262,7 +262,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Authentication
 - URL: https://dev.meta.ai/docs/authentication.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-2](c4-2.md)
 
@@ -270,7 +270,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Pricing and rate limits
 - URL: https://dev.meta.ai/docs/pricing-rate-limits.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md), [c5-4](c5-4.md), [c6-10](c6-10.md)
 
@@ -278,7 +278,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Models
 - URL: https://dev.meta.ai/docs/models.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-8](c6-8.md)
 
@@ -286,7 +286,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Muse Code: Permissions and safety
 - URL: https://dev.meta.ai/docs/muse-code/permissions.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c1-2](c1-2.md), [c1-3](c1-3.md), [c2-3](c2-3.md), [c3-2](c3-2.md), [c6-2](c6-2.md)
 
@@ -294,7 +294,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Muse Code: Configuration and context
 - URL: https://dev.meta.ai/docs/muse-code/configuration.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-6](c2-6.md), [c6-4](c6-4.md)
 
@@ -302,7 +302,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Muse Code: Extending and automating
 - URL: https://dev.meta.ai/docs/muse-code/extending.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c2-5](c2-5.md), [c4-2](c4-2.md), [c4-3](c4-3.md), [c5-5](c5-5.md), [c6-4](c6-4.md), [c7-2](c7-2.md), [c7-6](c7-6.md)
 
@@ -310,7 +310,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Muse Code: Run multi-agent workflows
 - URL: https://dev.meta.ai/docs/muse-code/workflows.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c6-8](c6-8.md)
 
@@ -318,7 +318,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Muse Code: Authentication and billing
 - URL: https://dev.meta.ai/docs/muse-code/auth.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md)
 
@@ -326,7 +326,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Muse Code: Coordinate sessions with messages
 - URL: https://dev.meta.ai/docs/muse-code/session-messaging.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-4](c3-4.md), [c4-1](c4-1.md), [c4-4](c4-4.md)
 
@@ -334,7 +334,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Muse Code: Working with the agent
 - URL: https://dev.meta.ai/docs/muse-code/interactive.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c2-5](c2-5.md), [c5-1](c5-1.md)
 
@@ -342,7 +342,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Responses API
 - URL: https://dev.meta.ai/docs/protocols/responses.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-4](c2-4.md), [c4-3](c4-3.md), [c6-10](c6-10.md)
 
@@ -350,7 +350,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Does Model API support Zero Data Retention (ZDR)?
 - URL: https://dev.meta.ai/help/policies-and-privacy/zero-data-retention
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md)
 
@@ -358,7 +358,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: How do I track my API usage?
 - URL: https://dev.meta.ai/help/usage-and-limits/api-usage
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md)
 
@@ -366,7 +366,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: How do I set a spend limit alert?
 - URL: https://dev.meta.ai/help/billing/spend-limit-alert
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c5-3](c5-3.md)
 
@@ -374,7 +374,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Meta Model API Terms of Service
 - URL: https://dev.meta.ai/legal/terms-of-service
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md), [c6-11](c6-11.md), [c6-12](c6-12.md), [c7-4](c7-4.md)
 
@@ -382,7 +382,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: How do I sign up or log in with a managed account?
 - URL: https://dev.meta.ai/help/accounts-and-login/managed-account
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md)
 
@@ -390,7 +390,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Is Llama available on Meta Model API?
 - URL: https://dev.meta.ai/help/about-model-api/llama-and-model-api
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-12](c6-12.md)
 
@@ -398,7 +398,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: How do I create an API key?
 - URL: https://dev.meta.ai/help/api-keys/create-api-key
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c4-1](c4-1.md)
 
@@ -406,7 +406,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Muse Glimmer: Get the model
 - URL: https://dev.meta.ai/docs/muse-glimmer/get-the-model.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-3](c7-3.md)
 
@@ -414,7 +414,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: LlamaFirewall directory and README
 - URL: https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c5-2](c5-2.md), [c7-5](c7-5.md)
 
@@ -422,7 +422,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Llama Protections
 - URL: https://dev.meta.ai/llama/llama-protections/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md)
 
@@ -430,7 +430,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Llama Guard 4 model card
 - URL: https://dev.meta.ai/llama/docs/model-cards-and-prompt-formats/llama-guard-4/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md)
 
@@ -438,7 +438,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Llama deployment: Security in production
 - URL: https://dev.meta.ai/llama/docs/deployment/security-in-production/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-3](c3-3.md), [c7-2](c7-2.md), [c7-3](c7-3.md)
 
@@ -446,7 +446,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Cookbook: Immutable guardrails
 - URL: https://dev.meta.ai/docs/cookbook/immutable-guardrails.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c5-1](c5-1.md)
 
@@ -454,7 +454,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Cookbook: Audit and resume agent sessions
 - URL: https://dev.meta.ai/docs/cookbook/audit-agent-sessions.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c4-2](c4-2.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -462,7 +462,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Cookbook: Staged approvals
 - URL: https://dev.meta.ai/docs/cookbook/staged-approvals.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md)
 
@@ -470,7 +470,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Cookbook: Contained execution
 - URL: https://dev.meta.ai/docs/cookbook/contained-execution.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-3](c2-3.md), [c7-4](c7-4.md)
 
@@ -478,7 +478,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Tool calling
 - URL: https://dev.meta.ai/docs/tool-calling.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md)
 
@@ -486,7 +486,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Meta AI Connectors
 - URL: https://dev.meta.ai/products/connectors
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md)
 
@@ -494,7 +494,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Muse Code changelog
 - URL: https://dev.meta.ai/docs/muse-code/changelog.md
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c2-3](c2-3.md), [c2-6](c2-6.md), [c5-5](c5-5.md), [c6-12](c6-12.md), [c6-2](c6-2.md), [c6-8](c6-8.md), [c7-4](c7-4.md), [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -502,7 +502,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Muse-Glimmer-30B model card
 - URL: https://huggingface.co/meta-models/Muse-Glimmer-30B
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-3](c7-3.md)
 
@@ -510,7 +510,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: CybersecurityBenchmarks (CyberSecEval) README
 - URL: https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c7-10](c7-10.md)
 
@@ -518,7 +518,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Llama Prompt Guard 2 model card
 - URL: https://dev.meta.ai/llama/docs/model-cards-and-prompt-formats/prompt-guard/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -526,7 +526,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: SensitiveDocClassification (ClassifyIt) README
 - URL: https://github.com/meta-llama/PurpleLlama/tree/main/SensitiveDocClassification
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md)
 
@@ -534,7 +534,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Llama 4 Community License Agreement
 - URL: https://dev.meta.ai/llama/llama4/license/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-12](c6-12.md)
 
@@ -542,7 +542,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Status API reference
 - URL: https://dev.meta.ai/docs/api-reference/status.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-4](c5-4.md)
 
@@ -550,7 +550,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Meta Model API help centre index
 - URL: https://dev.meta.ai/help
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md)
 
@@ -558,7 +558,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Muse Code permissions and safety
 - URL: https://dev.meta.ai/docs/muse-code/permissions.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -566,7 +566,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Contained execution
 - URL: https://dev.meta.ai/docs/cookbook/contained-execution.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -574,7 +574,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Audit and resume agent sessions
 - URL: https://dev.meta.ai/docs/cookbook/audit-agent-sessions.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -582,7 +582,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Cancel a response
 - URL: https://dev.meta.ai/docs/api-reference/responses/cancel-response.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -590,7 +590,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Meta Model API terms of service
 - URL: https://dev.meta.ai/legal/terms-of-service
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -598,7 +598,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Meta Data Security Terms
 - URL: https://www.facebook.com/legal/terms/data_security_terms
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -606,7 +606,7 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Meta Model API Help Center
 - URL: https://dev.meta.ai/help
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -614,6 +614,6 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 
 - Title: Certified Service Providers - Hosting Certification Framework
 - URL: https://www.hostingcertification.gov.au/certified-service-providers
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

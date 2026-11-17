@@ -330,7 +330,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.databricks.com/aws/en/agents/deploy/agent-server
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-2](c1-2.md)
 
@@ -338,7 +338,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.databricks.com/aws/en/dev-tools/databricks-apps/permissions
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-4](c1-4.md)
 
@@ -346,7 +346,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.databricks.com/aws/en/ai-gateway/agent-services
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-1](c6-1.md)
 
@@ -354,7 +354,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.databricks.com/aws/en/omnigent/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-1](c1-1.md)
 
@@ -362,7 +362,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.databricks.com/aws/en/machine-learning/model-serving/monitor-diagnose-endpoints
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-4](c5-4.md)
 
@@ -370,7 +370,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.databricks.com/aws/en/data-governance/unity-catalog/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-8](c7-8.md)
 
@@ -378,7 +378,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.databricks.com/aws/en/data-governance/unity-catalog/access-control/permissions-concepts
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-6](c6-6.md)
 
@@ -386,7 +386,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.databricks.com/aws/en/agents/deploy
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-5](c2-5.md)
 
@@ -394,7 +394,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.databricks.com/aws/en/agents/custom-agents/model-serving/agent-authentication-model-serving
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c4-2](c4-2.md)
 
@@ -402,7 +402,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.databricks.com/aws/en/mlflow3/genai/tracing/observe-with-traces/analyze-traces
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-2](c5-2.md)
 
@@ -410,7 +410,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.databricks.com/aws/en/data-governance/unity-catalog/service-policies/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-2](c3-2.md)
 
@@ -418,7 +418,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Agent authentication (Agent Bricks)
 - URL: https://docs.databricks.com/aws/en/agents/custom-agents/agent-authentication
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c4-3](c4-3.md)
 
@@ -426,7 +426,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: AI governance with Unity Gateway
 - URL: https://docs.databricks.com/aws/en/ai-gateway/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md)
 
@@ -434,7 +434,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Agent Runtime
 - URL: https://docs.databricks.com/aws/en/agents/deploy/agent-runtime
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-1](c4-1.md), [c6-5](c6-5.md)
 
@@ -442,7 +442,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: DurableAgentServer
 - URL: https://docs.databricks.com/aws/en/agents/deploy/agent-server
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-5](c2-5.md), [c4-3](c4-3.md)
 
@@ -450,7 +450,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: What is Agent Bricks?
 - URL: https://docs.databricks.com/aws/en/agents/concepts/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-5](c2-5.md)
 
@@ -458,7 +458,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Databricks Sandbox
 - URL: https://docs.databricks.com/aws/en/compute/serverless/sandbox
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c2-3](c2-3.md)
 
@@ -466,7 +466,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Managed agent memory
 - URL: https://docs.databricks.com/aws/en/agents/agent-memory/managed-memory
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-6](c2-6.md)
 
@@ -474,7 +474,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Managed agent sessions
 - URL: https://docs.databricks.com/aws/en/agents/agent-memory/managed-sessions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md)
 
@@ -482,7 +482,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Apply rate limits (Unity Gateway)
 - URL: https://docs.databricks.com/aws/en/ai-gateway/rate-limits
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -490,7 +490,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Service policies for AI securables
 - URL: https://docs.databricks.com/aws/en/data-governance/unity-catalog/service-policies/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c3-1](c3-1.md), [c3-3](c3-3.md), [c3-4](c3-4.md), [c6-4](c6-4.md), [c7-5](c7-5.md)
 
@@ -498,7 +498,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Unity Gateway inference tables
 - URL: https://docs.databricks.com/aws/en/ai-gateway/inference-tables
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md)
 
@@ -506,7 +506,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Create and attach a service policy
 - URL: https://docs.databricks.com/aws/en/data-governance/unity-catalog/service-policies/create-service-policy
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-3](c1-3.md), [c6-4](c6-4.md)
 
@@ -514,7 +514,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Tutorial: Control a coding agent's GitHub MCP access
 - URL: https://docs.databricks.com/aws/en/ai-gateway/govern-coding-agent-tutorial
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c7-5](c7-5.md)
 
@@ -522,7 +522,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Govern models and MCPs with GRANT policies
 - URL: https://docs.databricks.com/aws/en/ai-gateway/govern-access-to-models-with-grant-policies
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-12](c6-12.md), [c6-2](c6-2.md)
 
@@ -530,7 +530,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: AI governance guide
 - URL: https://docs.databricks.com/aws/en/ai-gateway/ai-governance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c6-1](c6-1.md)
 
@@ -538,7 +538,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Skills support in Unity Gateway
 - URL: https://docs.databricks.com/aws/en/agents/uc-skills/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-6](c7-6.md)
 
@@ -546,7 +546,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Manage budgets for Unity Gateway
 - URL: https://docs.databricks.com/aws/en/ai-gateway/budgets
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -554,7 +554,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Govern an MCP
 - URL: https://docs.databricks.com/aws/en/ai-gateway/govern-mcp-service
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c6-6](c6-6.md), [c7-1](c7-1.md)
 
@@ -562,7 +562,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Audit log system table reference
 - URL: https://docs.databricks.com/aws/en/admin/system-tables/audit-logs
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md)
 
@@ -570,7 +570,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Track model usage (Unity Gateway)
 - URL: https://docs.databricks.com/aws/en/ai-gateway/usage-tracking
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c5-3](c5-3.md), [c7-9](c7-9.md)
 
@@ -578,7 +578,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Evaluate and monitor GenAI apps
 - URL: https://docs.databricks.com/aws/en/mlflow3/genai/eval-monitor/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md)
 
@@ -586,7 +586,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: What is serverless egress control? (AWS)
 - URL: https://docs.databricks.com/aws/en/security/network/serverless-network-security/network-policies
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-3](c2-3.md), [c7-5](c7-5.md)
 
@@ -594,7 +594,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Production monitoring
 - URL: https://docs.databricks.com/aws/en/mlflow3/genai/eval-monitor/production-monitoring
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md)
 
@@ -602,7 +602,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Human feedback (MLflow)
 - URL: https://docs.databricks.com/aws/en/mlflow3/genai/human-feedback/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md)
 
@@ -610,7 +610,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Agent Bricks CLI
 - URL: https://docs.databricks.com/aws/en/agents/custom-agents/agent-bricks-cli
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c1-4](c1-4.md), [c2-5](c2-5.md), [c4-3](c4-3.md)
 
@@ -618,7 +618,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Manage model lifecycle in Unity Catalog
 - URL: https://docs.databricks.com/aws/en/machine-learning/manage-model-lifecycle/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c6-5](c6-5.md), [c6-6](c6-6.md), [c7-3](c7-3.md)
 
@@ -626,7 +626,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: MLflow 3 deployment jobs
 - URL: https://docs.databricks.com/aws/en/mlflow/deployment-job
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-2](c6-2.md)
 
@@ -634,7 +634,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Prompt Registry
 - URL: https://docs.databricks.com/aws/en/mlflow3/genai/prompt-version-mgmt/prompt-registry/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-8](c6-8.md)
 
@@ -642,7 +642,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Mosaic AI Model Serving
 - URL: https://docs.databricks.com/aws/en/machine-learning/model-serving/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c5-4](c5-4.md)
 
@@ -650,7 +650,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Model Serving limits and regions
 - URL: https://docs.databricks.com/aws/en/machine-learning/model-serving/model-serving-limits
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c7-3](c7-3.md), [c7-4](c7-4.md)
 
@@ -658,7 +658,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Databricks Designated Services
 - URL: https://docs.databricks.com/aws/en/resources/designated-services
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md)
 
@@ -666,7 +666,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: HTTP connections
 - URL: https://docs.databricks.com/aws/en/query-federation/http
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -674,7 +674,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Data classification
 - URL: https://docs.databricks.com/aws/en/data-governance/unity-catalog/data-classification
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c7-8](c7-8.md)
 
@@ -682,7 +682,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Compliance security profile
 - URL: https://docs.databricks.com/aws/en/security/privacy/security-profile
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c7-4](c7-4.md)
 
@@ -690,7 +690,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Enhanced security monitoring
 - URL: https://docs.databricks.com/aws/en/security/privacy/enhanced-security-monitoring
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-2](c7-2.md), [c7-4](c7-4.md)
 
@@ -698,7 +698,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Supervisor Agent
 - URL: https://docs.databricks.com/aws/en/agents/agent-bricks/multi-agent-supervisor
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c2-1](c2-1.md), [c4-4](c4-4.md)
 
@@ -706,7 +706,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Analyze Unity Gateway cost
 - URL: https://docs.databricks.com/aws/en/ai-gateway/cost-observability
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md), [c6-3](c6-3.md)
 
@@ -714,7 +714,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: MCP authentication and networking
 - URL: https://docs.databricks.com/aws/en/agents/mcp-tools/authentication-networking
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md)
 
@@ -722,7 +722,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Register an external MCP server
 - URL: https://docs.databricks.com/aws/en/ai-gateway/register-mcp-service
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md), [c6-1](c6-1.md), [c7-6](c7-6.md)
 
@@ -730,7 +730,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Unity Gateway observability overview
 - URL: https://docs.databricks.com/aws/en/ai-gateway/observability
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md), [c5-4](c5-4.md), [c5-5](c5-5.md)
 
@@ -738,7 +738,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Data lineage in Unity Catalog
 - URL: https://docs.databricks.com/aws/en/data-governance/unity-catalog/data-lineage
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md)
 
@@ -746,7 +746,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Security Analysis Tool (SAT) README
 - URL: https://github.com/databricks-industry-solutions/security-analysis-tool
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-3](c6-3.md)
 
@@ -754,7 +754,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Deploy agents on Databricks
 - URL: https://docs.databricks.com/aws/en/agents/deploy/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md)
 
@@ -762,7 +762,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: AI Search
 - URL: https://docs.databricks.com/aws/en/ai-search/ai-search
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c7-8](c7-8.md)
 
@@ -770,7 +770,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Attribute-based access control in Unity Catalog
 - URL: https://docs.databricks.com/aws/en/data-governance/unity-catalog/abac/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c7-8](c7-8.md)
 
@@ -778,7 +778,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Deploy an agent to Model Serving (legacy)
 - URL: https://docs.databricks.com/aws/en/agents/custom-agents/model-serving/deploy-agent
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md), [c6-8](c6-8.md)
 
@@ -786,7 +786,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Service principals
 - URL: https://docs.databricks.com/aws/en/admin/users-groups/service-principals
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md)
 
@@ -794,7 +794,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: OAuth machine-to-machine authentication
 - URL: https://docs.databricks.com/aws/en/dev-tools/auth/oauth-m2m
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -802,7 +802,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Databricks Apps networking
 - URL: https://docs.databricks.com/aws/en/dev-tools/databricks-apps/networking
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-3](c2-3.md)
 
@@ -810,7 +810,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Store OpenTelemetry traces in Unity Catalog
 - URL: https://docs.databricks.com/aws/en/mlflow3/genai/tracing/trace-unity-catalog
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md)
 
@@ -818,7 +818,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Outbound network access events system table
 - URL: https://docs.databricks.com/aws/en/admin/system-tables/network
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-2](c7-2.md)
 
@@ -826,7 +826,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Govern and redact traces in Unity Catalog
 - URL: https://docs.databricks.com/aws/en/mlflow3/genai/tracing/govern-redact
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md), [c7-2](c7-2.md)
 
@@ -834,7 +834,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Legacy agent offerings
 - URL: https://docs.databricks.com/aws/en/agents/legacy/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md)
 
@@ -842,7 +842,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Multi-agent apps
 - URL: https://docs.databricks.com/aws/en/agents/custom-agents/multi-agent-apps
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-4](c3-4.md), [c4-4](c4-4.md)
 
@@ -850,7 +850,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Features with limited regional availability (AWS)
 - URL: https://docs.databricks.com/aws/en/resources/feature-region-support
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md)
 
@@ -858,7 +858,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: What is serverless egress control? (Azure Databricks)
 - URL: https://learn.microsoft.com/en-us/azure/databricks/security/network/serverless-network-security/network-policies
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-3](c2-3.md)
 
@@ -866,7 +866,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Databricks Sandbox
 - URL: https://docs.databricks.com/aws/en/compute/serverless/sandbox
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -874,7 +874,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Agent Runtime
 - URL: https://docs.databricks.com/aws/en/agents/deploy/agent-runtime
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -882,7 +882,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Deploy agents on Databricks
 - URL: https://docs.databricks.com/aws/en/agents/deploy/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -890,7 +890,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Networking for Databricks Apps
 - URL: https://docs.databricks.com/aws/en/dev-tools/databricks-apps/networking
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -898,7 +898,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: IRAP, Databricks Security and Trust Center
 - URL: https://www.databricks.com/trust/compliance/irap
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -906,7 +906,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Databricks ACSC Cloud Security Assessment, Letter of Assessment
 - URL: https://www.databricks.com/sites/default/files/2026-02/Databricks-IRAP-2025-Assessment-Letter-v1.1.pdf
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -914,7 +914,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Infosec Registered Assessors Program (IRAP)
 - URL: https://docs.databricks.com/aws/en/security/privacy/irap
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -922,7 +922,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Compliance, Databricks Security and Trust Center
 - URL: https://www.databricks.com/trust/compliance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -930,7 +930,7 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: SOC, Databricks Security and Trust Center
 - URL: https://www.databricks.com/trust/compliance/soc
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -938,6 +938,6 @@ Every source the Databricks cells cite, with its tier from the knowledge base's 
 
 - Title: Compliance security profile
 - URL: https://docs.databricks.com/aws/en/security/privacy/security-profile
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

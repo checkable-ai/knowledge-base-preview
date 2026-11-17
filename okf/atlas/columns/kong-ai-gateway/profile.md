@@ -32,7 +32,8 @@ Column group: AI and MCP gateways. Facts are agent-run. Cells listed as eligible
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 3 |
+| verified | 43 |
 
 ## Products
 
@@ -54,12 +55,12 @@ Column group: AI and MCP gateways. Facts are agent-run. Cells listed as eligible
 | [Agent Remote Scopes](c1-2.md) | Authorisation | covered | verified | yes |
 | [Human Approval](c1-3.md) | Authorisation | not-covered | verified | yes |
 | [Agent Provisioning](c1-4.md) | Authorisation | covered | verified | yes |
-| [Agent Orchestration](c2-1.md) | Runtime | not-covered | verified | yes |
+| [Agent Orchestration](c2-1.md) | Runtime | not-covered | agent-checked | yes |
 | [Inference](c2-2.md) | Runtime | covered | verified | yes |
-| [Execution Environment](c2-3.md) | Runtime | not-covered | verified | yes |
+| [Execution Environment](c2-3.md) | Runtime | not-covered | agent-checked | yes |
 | [Agent In-Session Memory](c2-4.md) | Runtime | not-covered | verified | yes |
 | [Harness](c2-5.md) | Runtime | not-covered | verified | yes |
-| [Agent Persistent Memory](c2-6.md) | Runtime | not-covered | verified | yes |
+| [Agent Persistent Memory](c2-6.md) | Runtime | not-covered | agent-checked | yes |
 | [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | verified | yes |
 | [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | covered | verified | yes |
 | [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | covered | verified | yes |

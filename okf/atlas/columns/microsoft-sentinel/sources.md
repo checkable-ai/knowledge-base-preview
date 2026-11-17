@@ -134,7 +134,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/entra/global-secure-access/how-to-sentinel-integration
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-9](c7-9.md)
 
@@ -142,7 +142,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: What is Microsoft Sentinel SIEM?
 - URL: https://learn.microsoft.com/en-us/azure/sentinel/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c6-3](c6-3.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -150,7 +150,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: Use Microsoft Purview to manage data security and compliance for Microsoft Agent 365
 - URL: https://learn.microsoft.com/en-us/purview/ai-agent-365
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md)
 
@@ -158,7 +158,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: What is Microsoft Sentinel's support for MCP?
 - URL: https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-5](c2-5.md)
 
@@ -166,7 +166,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: Find your Microsoft Sentinel data connector
 - URL: https://learn.microsoft.com/en-us/azure/sentinel/data-connectors-reference
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c5-2](c5-2.md), [c7-2](c7-2.md)
 
@@ -174,7 +174,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: Secure your Azure Monitor deployment
 - URL: https://learn.microsoft.com/en-us/azure/azure-monitor/fundamentals/best-practices-security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c6-10](c6-10.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -182,7 +182,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: Microsoft Sentinel data lake overview
 - URL: https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-lake-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md), [c7-8](c7-8.md)
 
@@ -190,7 +190,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: Advanced threat detection with User and Entity Behavior Analytics (UEBA) in Microsoft Sentinel
 - URL: https://learn.microsoft.com/en-us/azure/sentinel/identify-threats-with-entity-behavior-analytics
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c5-2](c5-2.md), [c6-7](c6-7.md)
 
@@ -198,7 +198,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: Automate threat response with playbooks in Microsoft Sentinel
 - URL: https://learn.microsoft.com/en-us/azure/sentinel/automation/automate-responses-with-playbooks
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -206,7 +206,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: Recommended Microsoft Sentinel playbook use cases, templates, and examples
 - URL: https://learn.microsoft.com/en-us/azure/sentinel/automation/playbook-recommendations
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md)
 
@@ -214,7 +214,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: Get started with Microsoft Sentinel MCP server
 - URL: https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-get-started
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c4-3](c4-3.md)
 
@@ -222,7 +222,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: Agent creation tool collection in Microsoft Sentinel MCP server
 - URL: https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-agent-creation-tool
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md)
 
@@ -230,7 +230,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: Roles and permissions in the Microsoft Sentinel platform
 - URL: https://learn.microsoft.com/en-us/azure/sentinel/roles
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-3](c3-3.md)
 
@@ -238,7 +238,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: Optimize security operations (SOC optimization)
 - URL: https://learn.microsoft.com/en-us/azure/sentinel/soc-optimization/soc-optimization-access
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md), [c6-3](c6-3.md)
 
@@ -246,7 +246,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: Deploy custom content from your repository
 - URL: https://learn.microsoft.com/en-us/azure/sentinel/ci-cd
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-8](c6-8.md)
 
@@ -254,7 +254,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: Application card for Microsoft Sentinel MCP server
 - URL: https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-application-card
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c2-4](c2-4.md), [c3-1](c3-1.md), [c3-2](c3-2.md), [c4-3](c4-3.md), [c5-1](c5-1.md), [c7-5](c7-5.md)
 
@@ -262,7 +262,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: Audit log for Microsoft Sentinel data lake and graph in Microsoft Purview portal
 - URL: https://learn.microsoft.com/en-us/azure/sentinel/datalake/auditing-lake-activities
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md)
 
@@ -270,7 +270,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: Geographical availability and data residency in Microsoft Sentinel
 - URL: https://learn.microsoft.com/en-us/azure/sentinel/geographical-availability-data-residency
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md)
 
@@ -278,7 +278,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: Create and use custom Microsoft Sentinel MCP tools
 - URL: https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-create-custom-tool
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-3](c3-3.md)
 
@@ -286,7 +286,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: Detect and investigate threats to AI agents using Microsoft Defender (Preview)
 - URL: https://learn.microsoft.com/en-us/defender-xdr/security-for-ai/ai-agent-detection-protection
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c5-5](c5-5.md), [c6-1](c6-1.md)
 
@@ -294,7 +294,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: Stream data from Microsoft Defender XDR to Microsoft Sentinel
 - URL: https://learn.microsoft.com/en-us/azure/sentinel/connect-microsoft-365-defender
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c7-2](c7-2.md), [c7-4](c7-4.md), [c7-9](c7-9.md)
 
@@ -302,7 +302,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: What is Microsoft Sentinel graph?
 - URL: https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-graph-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md)
 
@@ -310,7 +310,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: Automate threat response with playbooks in Microsoft Sentinel
 - URL: https://learn.microsoft.com/en-us/azure/sentinel/automation/automate-responses-with-playbooks
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -318,7 +318,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: Detect and investigate threats to AI agents using Microsoft Defender (Preview)
 - URL: https://learn.microsoft.com/en-us/defender-xdr/security-for-ai/ai-agent-detection-protection
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -326,7 +326,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: Australian Government Information Security Registered Assessor Program (IRAP), Microsoft Compliance
 - URL: https://learn.microsoft.com/en-us/compliance/regulatory/offering-irap-australia
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -334,7 +334,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: Australia IRAP, Azure Compliance
 - URL: https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-australia-irap
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -342,7 +342,7 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: System and Organization Controls (SOC) 2 Type 2, Azure Compliance
 - URL: https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-soc-2
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -350,6 +350,6 @@ Every source the Microsoft Sentinel cells cite, with its tier from the knowledge
 
 - Title: ISO/IEC 42001:2023 Artificial Intelligence Management System Standards, Microsoft Compliance
 - URL: https://learn.microsoft.com/en-us/compliance/regulatory/offering-iso-42001
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

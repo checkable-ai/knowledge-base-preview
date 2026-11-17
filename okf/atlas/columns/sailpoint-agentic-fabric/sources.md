@@ -138,7 +138,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Quoted by the confirm agents
 - URL: https://documentation.sailpoint.com/saas/help/policy_center/gateway_access.html
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md)
 
@@ -146,7 +146,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Quoted by the confirm agents
 - URL: https://documentation.sailpoint.com/saas/help/policy_center/endpoint_agent_authz.html
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-1](c1-1.md)
 
@@ -154,7 +154,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: SailPoint Entro: Agentic AI Security
 - URL: https://www.sailpoint.com/products/agentic-ai-security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md)
 
@@ -162,7 +162,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: SailPoint Agentic Fabric (documentation overview)
 - URL: https://documentation.sailpoint.com/saas/help/agentic_fabric/index.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md)
 
@@ -170,7 +170,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Getting Started with Agentic Fabric
 - URL: https://documentation.sailpoint.com/saas/help/agentic_fabric/onboarding/getting_started.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-12](c6-12.md)
 
@@ -178,7 +178,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Managing Agents
 - URL: https://documentation.sailpoint.com/saas/help/agentic_fabric/nhi/agent_registry.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-3](c1-3.md), [c1-4](c1-4.md), [c4-1](c4-1.md), [c5-5](c5-5.md), [c6-3](c6-3.md), [c6-5](c6-5.md), [c6-6](c6-6.md), [c6-8](c6-8.md), [c7-1](c7-1.md)
 
@@ -186,7 +186,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Managing MCP Servers
 - URL: https://documentation.sailpoint.com/saas/help/agentic_fabric/nhi/mcp_servers.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c7-5](c7-5.md)
 
@@ -194,7 +194,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Managing Credentials
 - URL: https://documentation.sailpoint.com/saas/help/agentic_fabric/nhi/credentials.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md), [c6-6](c6-6.md)
 
@@ -202,7 +202,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Managing Audit and Compliance Reports
 - URL: https://documentation.sailpoint.com/saas/help/agentic_fabric/audit_compliance.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c6-11](c6-11.md), [c6-3](c6-3.md), [c6-7](c6-7.md), [c7-1](c7-1.md), [c7-5](c7-5.md)
 
@@ -210,7 +210,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Managing Approval Settings for Agent Requests
 - URL: https://documentation.sailpoint.com/saas/help/requests/config_agent_approvals.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c1-4](c1-4.md), [c6-2](c6-2.md), [c6-8](c6-8.md)
 
@@ -218,7 +218,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Connecting Sources
 - URL: https://documentation.sailpoint.com/saas/help/agentic_fabric/onboarding/sources.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-9](c7-9.md)
 
@@ -226,7 +226,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Connecting EDR and SIEM Platforms
 - URL: https://documentation.sailpoint.com/saas/help/agentic_fabric/onboarding/siem_connection.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c7-2](c7-2.md)
 
@@ -234,7 +234,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Managing AI Agents (Agent Identity Security)
 - URL: https://documentation.sailpoint.com/saas/help/agent/agent_mgmt.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-1](c4-1.md), [c5-5](c5-5.md), [c6-5](c6-5.md), [c6-6](c6-6.md), [c7-1](c7-1.md)
 
@@ -242,7 +242,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Managing Business Apps
 - URL: https://documentation.sailpoint.com/saas/help/agentic_fabric/business_apps.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-12](c6-12.md), [c6-2](c6-2.md), [c7-9](c7-9.md)
 
@@ -250,7 +250,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Configuring Endpoint Agents
 - URL: https://documentation.sailpoint.com/saas/help/agentic_fabric/onboarding/sensors/endpoint_sensor.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-9](c7-9.md)
 
@@ -258,7 +258,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Configuring the Browser Extension Sensor
 - URL: https://documentation.sailpoint.com/saas/help/agentic_fabric/onboarding/sensors/browser_sensor/index.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-9](c7-9.md)
 
@@ -266,7 +266,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Agentic Fabric Protect
 - URL: https://www.sailpoint.com/products/agentic-fabric/protect
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c5-2](c5-2.md), [c6-7](c6-7.md), [c7-2](c7-2.md)
 
@@ -274,7 +274,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Agentic Fabric Govern
 - URL: https://www.sailpoint.com/products/agentic-fabric/govern
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -282,7 +282,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Agentic Fabric Discover
 - URL: https://www.sailpoint.com/products/agentic-fabric/discover
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-5](c7-5.md)
 
@@ -290,7 +290,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Configuring Just-In-Time Access
 - URL: https://documentation.sailpoint.com/saas/help/access/jit_access_provisioning.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c4-2](c4-2.md)
 
@@ -298,7 +298,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Access Requests for Machine Identities
 - URL: https://documentation.sailpoint.com/saas/help/requests/requests_for_machine_identities.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md)
 
@@ -306,7 +306,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Managing Non-Human Accounts
 - URL: https://documentation.sailpoint.com/saas/help/agentic_fabric/nhi/non_human_accounts.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -314,7 +314,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Identity Graph
 - URL: https://documentation.sailpoint.com/saas/help/identity_graph/index.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md)
 
@@ -322,7 +322,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Agentic Fabric Protect
 - URL: https://www.sailpoint.com/products/agentic-fabric/protect
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -330,7 +330,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Agentic Fabric documentation index
 - URL: https://documentation.sailpoint.com/saas/help/agentic_fabric/index.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -338,7 +338,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Managing Gateway Access Policies
 - URL: https://documentation.sailpoint.com/saas/help/policy_center/gateway_access.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -346,7 +346,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: Managing Endpoint Agent AuthZ Policies
 - URL: https://documentation.sailpoint.com/saas/help/policy_center/endpoint_agent_authz.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -354,7 +354,7 @@ Every source the SailPoint Agentic Fabric cells cite, with its tier from the kno
 
 - Title: SailPoint Trust Center
 - URL: https://www.sailpoint.com/why-us/trust
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 

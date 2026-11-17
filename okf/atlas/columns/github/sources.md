@@ -174,7 +174,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.github.com/en/copilot/concepts/copilot-surfaces/copilot-cli
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-3](c1-3.md)
 
@@ -182,7 +182,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.github.com/en/copilot/concepts/customizations/mcp
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-2](c1-2.md)
 
@@ -190,7 +190,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.github.com/en/copilot/concepts/customizations/hooks
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-2](c3-2.md)
 
@@ -198,7 +198,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-enterprise/manage-agents/prepare-for-custom-agents
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-4](c1-4.md)
 
@@ -206,7 +206,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.github.com/en/copilot/concepts/prompting-and-context/copilot-memory
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-6](c2-6.md)
 
@@ -214,7 +214,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/agent-loop
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-5](c2-5.md)
 
@@ -222,7 +222,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.github.com/en/copilot/concepts/security-governance-and-network-settings/session-data
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-10](c6-10.md)
 
@@ -230,7 +230,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.github.com/en/copilot/how-tos/copilot-on-github/use-copilot-agents/manage-and-track-agents
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-1](c2-1.md)
 
@@ -238,7 +238,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.github.com/en/copilot/how-tos/cloud-and-local-sandboxes/configuring-local-sandbox-settings
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-7](c2-7.md)
 
@@ -246,7 +246,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Copilot agent audit events
 - URL: https://docs.github.com/en/copilot/reference/enterprise-administrators/agentic-audit-log-events
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c4-1](c4-1.md), [c6-11](c6-11.md), [c6-3](c6-3.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -254,7 +254,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Copilot billing
 - URL: https://docs.github.com/en/billing/concepts/product-billing/github-copilot-billing
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c5-3](c5-3.md)
 
@@ -262,7 +262,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Copilot budgets
 - URL: https://docs.github.com/en/copilot/concepts/billing-and-usage/organizations-and-enterprises/budgets
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c5-3](c5-3.md)
 
@@ -270,7 +270,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Copilot on GitHub.com
 - URL: https://docs.github.com/en/copilot/concepts/copilot-surfaces/copilot-on-github
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c2-1](c2-1.md), [c2-4](c2-4.md), [c6-10](c6-10.md)
 
@@ -278,7 +278,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Copilot custom agent configuration
 - URL: https://docs.github.com/en/copilot/reference/custom-agents-configuration
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c2-1](c2-1.md), [c2-5](c2-5.md), [c3-2](c3-2.md), [c3-4](c3-4.md), [c4-4](c4-4.md), [c6-1](c6-1.md), [c6-2](c6-2.md), [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -286,7 +286,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Copilot managed settings deployment
 - URL: https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-enterprise/use-managed-settings/deploy-managed-settings
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-4](c1-4.md), [c6-4](c6-4.md)
 
@@ -294,7 +294,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Copilot firewall configuration
 - URL: https://docs.github.com/en/copilot/how-tos/copilot-on-github/customize-copilot/customize-the-firewall
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c5-5](c5-5.md), [c7-6](c7-6.md)
 
@@ -302,7 +302,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Copilot cloud agent guardrails
 - URL: https://docs.github.com/en/copilot/tutorials/cloud-agent/build-guardrails
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c2-3](c2-3.md), [c5-4](c5-4.md), [c6-2](c6-2.md), [c6-7](c6-7.md), [c6-8](c6-8.md), [c7-4](c7-4.md)
 
@@ -310,7 +310,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Copilot hooks
 - URL: https://docs.github.com/en/copilot/reference/hooks-reference
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c7-5](c7-5.md)
 
@@ -318,7 +318,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Enterprise agent management
 - URL: https://docs.github.com/en/copilot/concepts/enterprise/agent-management
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-4](c1-4.md), [c6-1](c6-1.md), [c6-12](c6-12.md), [c6-3](c6-3.md), [c6-6](c6-6.md), [c7-1](c7-1.md), [c7-9](c7-9.md)
 
@@ -326,7 +326,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Copilot cloud agent MCP
 - URL: https://docs.github.com/en/copilot/concepts/agents/cloud-agent/mcp-and-cloud-agent
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c3-3](c3-3.md), [c4-3](c4-3.md), [c6-12](c6-12.md), [c7-6](c7-6.md)
 
@@ -334,7 +334,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Copilot Memory
 - URL: https://docs.github.com/en/copilot/concepts/agents/copilot-memory
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c2-6](c2-6.md), [c3-3](c3-3.md), [c6-10](c6-10.md), [c7-8](c7-8.md)
 
@@ -342,7 +342,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Copilot supported models
 - URL: https://docs.github.com/en/copilot/reference/ai-models/supported-models
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md), [c7-3](c7-3.md)
 
@@ -350,7 +350,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Copilot OpenTelemetry
 - URL: https://docs.github.com/en/copilot/concepts/enterprise/opentelemetry
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c5-2](c5-2.md), [c5-4](c5-4.md), [c6-10](c6-10.md), [c7-2](c7-2.md)
 
@@ -358,7 +358,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Copilot CLI tool permissions
 - URL: https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/allowing-tools
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-1](c1-1.md), [c1-3](c1-3.md), [c7-5](c7-5.md)
 
@@ -366,7 +366,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Copilot enterprise managed settings
 - URL: https://docs.github.com/en/copilot/reference/enterprise-administrators/enterprise-managed-settings
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-2](c1-2.md), [c3-1](c3-1.md), [c6-4](c6-4.md), [c6-9](c6-9.md)
 
@@ -374,7 +374,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Copilot local sandbox settings
 - URL: https://docs.github.com/en/copilot/how-tos/cloud-and-local-sandboxes/configuring-local-sandbox-settings
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-1](c1-1.md), [c2-3](c2-3.md), [c4-2](c4-2.md), [c6-9](c6-9.md), [c7-4](c7-4.md)
 
@@ -382,7 +382,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Copilot SDK
 - URL: https://docs.github.com/en/copilot/how-tos/copilot-sdk
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c2-5](c2-5.md), [c3-4](c3-4.md), [c4-4](c4-4.md), [c7-10](c7-10.md)
 
@@ -390,7 +390,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Copilot cloud agent secrets
 - URL: https://docs.github.com/en/copilot/how-tos/copilot-on-github/customize-copilot/customize-cloud-agent/configure-secrets-and-variables
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c4-2](c4-2.md), [c7-8](c7-8.md)
 
@@ -398,7 +398,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Copilot cloud agent risks and mitigations
 - URL: https://docs.github.com/en/copilot/concepts/security-governance-and-network-settings/risks-and-mitigations
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-3](c1-3.md), [c4-1](c4-1.md), [c5-1](c5-1.md), [c6-6](c6-6.md)
 
@@ -406,7 +406,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Managing Copilot agent sessions
 - URL: https://docs.github.com/en/copilot/how-tos/copilot-on-github/use-copilot-agents/manage-and-track-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c2-4](c2-4.md), [c5-1](c5-1.md), [c5-2](c5-2.md), [c6-11](c6-11.md), [c6-5](c6-5.md)
 
@@ -414,7 +414,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Customizing or disabling the firewall for GitHub Copilot
 - URL: https://docs.github.com/en/copilot/how-tos/copilot-on-github/customize-copilot/customize-the-firewall
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -422,7 +422,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Managing agent sessions
 - URL: https://docs.github.com/en/copilot/how-tos/copilot-on-github/use-copilot-agents/manage-and-track-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -430,7 +430,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Risks and mitigations for GitHub Copilot cloud agent
 - URL: https://docs.github.com/en/copilot/concepts/agents/cloud-agent/risks-and-mitigations
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -438,7 +438,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Accessing compliance reports for your organization
 - URL: https://docs.github.com/en/enterprise-cloud@latest/organizations/keeping-your-organization-secure/managing-security-settings-for-your-organization/accessing-compliance-reports-for-your-organization
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -446,7 +446,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: The latest GitHub and GitHub Copilot SOC reports are now available
 - URL: https://github.blog/changelog/2024-12-06-the-latest-github-and-github-copilot-soc-reports-are-now-available/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -454,7 +454,7 @@ Every source the GitHub Copilot cells cite, with its tier from the knowledge bas
 
 - Title: Copilot data residency in US + EU and FedRAMP compliance now available
 - URL: https://github.blog/changelog/2026-04-13-copilot-data-residency-in-us-eu-and-fedramp-compliance-now-available
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 

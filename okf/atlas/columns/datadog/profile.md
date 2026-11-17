@@ -34,7 +34,8 @@ Column group: Observability and evaluation. Facts are agent-run. Cells listed as
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 5 |
+| verified | 41 |
 
 ## Products
 
@@ -61,21 +62,21 @@ Column group: Observability and evaluation. Facts are agent-run. Cells listed as
 | [Human Approval](c1-3.md) | Authorisation | not-covered | verified | yes |
 | [Agent Provisioning](c1-4.md) | Authorisation | out-of-scope | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | not-covered | verified | yes |
-| [Inference](c2-2.md) | Runtime | out-of-scope | verified | yes |
+| [Inference](c2-2.md) | Runtime | out-of-scope | agent-checked | yes |
 | [Execution Environment](c2-3.md) | Runtime | out-of-scope | verified | yes |
 | [Agent In-Session Memory](c2-4.md) | Runtime | out-of-scope | verified | yes |
-| [Harness](c2-5.md) | Runtime | out-of-scope | verified | yes |
+| [Harness](c2-5.md) | Runtime | out-of-scope | agent-checked | yes |
 | [Agent Persistent Memory](c2-6.md) | Runtime | out-of-scope | verified | yes |
 | [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | verified | yes |
-| [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
+| [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | not-covered | agent-checked | yes |
 | [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [HITL](c5-1.md) | Observability & Explainability | covered | verified | yes |
-| [Behavioural](c5-2.md) | Observability & Explainability | covered | verified | yes |
+| [Behavioural](c5-2.md) | Observability & Explainability | covered | agent-checked | yes |
 | [Cost & Yield](c5-3.md) | Observability & Explainability | partial | verified | yes |
 | [Infrastructure](c5-4.md) | Observability & Explainability | covered | verified | yes |
-| [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |
+| [Connectivity](c5-5.md) | Observability & Explainability | not-covered | agent-checked | yes |
 | [Administrative Audit](c7-1.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [SOC Telemetry](c7-2.md) | Agentic MLSecOps | covered | verified | yes |
 | [Model Assurance](c7-3.md) | Agentic MLSecOps | out-of-scope | verified | yes |

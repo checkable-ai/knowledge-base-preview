@@ -230,7 +230,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.glean.com/administration/protect/sensitive-findings/about
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-8](c7-8.md)
 
@@ -238,7 +238,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.glean.com/agents/concepts/agents-draft-version
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-8](c6-8.md)
 
@@ -246,7 +246,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Quoted by the confirm agents
 - URL: https://www.glean.com/platform/security
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-13](c6-13.md)
 
@@ -254,7 +254,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Agent access policies
 - URL: https://docs.glean.com/administration/protect/ai-security/agent-access-policies
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c3-3](c3-3.md)
 
@@ -262,7 +262,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Agent identity overview
 - URL: https://docs.glean.com/administration/agent-identity/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-1](c4-1.md), [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -270,7 +270,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Review and publish changes to shared agents
 - URL: https://docs.glean.com/administration/managing-agents/review-and-publish-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c6-2](c6-2.md)
 
@@ -278,7 +278,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Independent agents
 - URL: https://docs.glean.com/administration/managing-agents/independent-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md)
 
@@ -286,7 +286,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Agent Sandbox and Programmatic Tool Calling
 - URL: https://docs.glean.com/security/agent-sandbox-ptc
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c2-3](c2-3.md), [c2-4](c2-4.md), [c2-5](c2-5.md), [c6-10](c6-10.md), [c7-1](c7-1.md), [c7-4](c7-4.md)
 
@@ -294,7 +294,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Admin audit logs
 - URL: https://docs.glean.com/administration/management/audit-logs/admin-audit-logs
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md)
 
@@ -302,7 +302,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: AI Security overview
 - URL: https://docs.glean.com/administration/protect/ai-security/introduction
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -310,7 +310,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: About Protect and Protect+
 - URL: https://docs.glean.com/administration/protect/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-3](c6-3.md), [c7-8](c7-8.md)
 
@@ -318,7 +318,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Findings dashboard
 - URL: https://docs.glean.com/administration/protect/ai-security/findings-dashboard
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md), [c6-3](c6-3.md), [c7-2](c7-2.md)
 
@@ -326,7 +326,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Human in the loop experience for tools
 - URL: https://docs.glean.com/tools/human-in-the-loop-experience-for-tools
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c5-1](c5-1.md)
 
@@ -334,7 +334,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Tools overview
 - URL: https://docs.glean.com/tools/tools-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c2-5](c2-5.md), [c4-3](c4-3.md)
 
@@ -342,7 +342,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: MCP security overview
 - URL: https://docs.glean.com/administration/platform/mcp/security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -350,7 +350,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Glean MCP Gateway
 - URL: https://docs.glean.com/administration/platform/mcp/mcp-gateway
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c7-6](c7-6.md)
 
@@ -358,7 +358,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: LLMs in Glean
 - URL: https://docs.glean.com/administration/llms
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md)
 
@@ -366,7 +366,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Exclude or restrict models
 - URL: https://docs.glean.com/administration/model-exclusion
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c6-1](c6-1.md), [c6-12](c6-12.md)
 
@@ -374,7 +374,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: LLM insights
 - URL: https://docs.glean.com/administration/insights/llm-insights
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md), [c5-4](c5-4.md)
 
@@ -382,7 +382,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Agents insights
 - URL: https://docs.glean.com/administration/insights/agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md), [c5-3](c5-3.md), [c5-4](c5-4.md)
 
@@ -390,7 +390,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Memory in Glean agents
 - URL: https://docs.glean.com/agents/concepts/memory
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-4](c2-4.md)
 
@@ -398,7 +398,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Chat history
 - URL: https://docs.glean.com/administration/assistant/configuration/chat-history
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c2-6](c2-6.md), [c6-10](c6-10.md)
 
@@ -406,7 +406,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Memory and personalization
 - URL: https://docs.glean.com/administration/assistant/configuration/memory-personalization
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-6](c2-6.md)
 
@@ -414,7 +414,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Execution limits
 - URL: https://docs.glean.com/agents/concepts/execution-limits
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md)
 
@@ -422,7 +422,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Managing role-based access for tools
 - URL: https://docs.glean.com/administration/tools/managing-tools/managing-role-based-access-tools
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md)
 
@@ -430,7 +430,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Agent access
 - URL: https://docs.glean.com/administration/managing-agents/agent-access
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-1](c4-1.md), [c6-1](c6-1.md), [c6-6](c6-6.md)
 
@@ -438,7 +438,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Secure configuration
 - URL: https://docs.glean.com/security/secure-configuration
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c7-8](c7-8.md)
 
@@ -446,7 +446,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Glean Customer Event logs data dictionary
 - URL: https://docs.glean.com/administration/gce-logs/data-dictionary
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md)
 
@@ -454,7 +454,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Glean governance product page
 - URL: https://www.glean.com/product/governance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-2](c7-2.md), [c7-5](c7-5.md)
 
@@ -462,7 +462,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: A2A host
 - URL: https://docs.glean.com/administration/platform/a2a-host
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c3-4](c3-4.md), [c4-2](c4-2.md), [c4-4](c4-4.md)
 
@@ -470,7 +470,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Expose agents over A2A
 - URL: https://docs.glean.com/administration/platform/expose-agents-over-a2a
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-4](c3-4.md), [c4-4](c4-4.md)
 
@@ -478,7 +478,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: AI security policies and examples
 - URL: https://docs.glean.com/administration/protect/ai-security/policies-and-examples
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-6](c7-6.md)
 
@@ -486,7 +486,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: About sensitive findings
 - URL: https://docs.glean.com/administration/protect/sensitive-findings/about
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md)
 
@@ -494,7 +494,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Configuring AI security policies
 - URL: https://docs.glean.com/administration/protect/ai-security/configuring-policies
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c5-2](c5-2.md), [c6-4](c6-4.md)
 
@@ -502,7 +502,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Untrusted URL monitoring
 - URL: https://docs.glean.com/administration/protect/ai-security/untrusted-url-monitoring
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md)
 
@@ -510,7 +510,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Restricted topics
 - URL: https://docs.glean.com/administration/protect/ai-security/restricted-topics
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-4](c6-4.md)
 
@@ -518,7 +518,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Run without user confirmation
 - URL: https://docs.glean.com/administration/tools/managing-tools/run-without-user-confirmation
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md)
 
@@ -526,7 +526,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: About deployment
 - URL: https://docs.glean.com/get-started/prepare/about-deployment
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md)
 
@@ -534,7 +534,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Secure development lifecycle
 - URL: https://docs.glean.com/security/architecture/sdlc
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c7-4](c7-4.md), [c7-5](c7-5.md)
 
@@ -542,7 +542,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Manage drafts, versions and rollbacks
 - URL: https://docs.glean.com/agents/agent-development-lifecycle/manage-drafts-versions-and-rollbacks
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -550,7 +550,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Connect remote MCP servers to Glean
 - URL: https://docs.glean.com/administration/tools/connect-remote-mcp-servers-to-glean
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-12](c6-12.md), [c6-2](c6-2.md), [c7-5](c7-5.md)
 
@@ -558,7 +558,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Glean legal, security and compliance
 - URL: https://glean.com/legal
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md)
 
@@ -566,7 +566,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Model deprecation
 - URL: https://docs.glean.com/administration/model-deprecation
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-8](c6-8.md)
 
@@ -574,7 +574,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: MCP insights
 - URL: https://docs.glean.com/administration/insights/mcp-insights
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md)
 
@@ -582,7 +582,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Govern, monitor, and maintain agents
 - URL: https://docs.glean.com/agents/agent-development-lifecycle/govern-monitor-and-maintain-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c6-5](c6-5.md), [c6-6](c6-6.md)
 
@@ -590,7 +590,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: How to Deploy AI Agents With Confidence: Introducing AWARE and New Glean Protect Capabilities
 - URL: https://glean.com/blog/agentic-security-aware
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c7-2](c7-2.md)
 
@@ -598,7 +598,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Agent sandbox and programmatic tool calling
 - URL: https://docs.glean.com/security/agent-sandbox-ptc
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -606,7 +606,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Independent agents
 - URL: https://docs.glean.com/administration/managing-agents/independent-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -614,7 +614,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Agent execution limits
 - URL: https://docs.glean.com/agents/concepts/execution-limits
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -622,7 +622,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: MCP Security, Data Flow, and Permissions
 - URL: https://docs.glean.com/administration/platform/mcp/security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -630,7 +630,7 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Glean security
 - URL: https://www.glean.com/security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -638,6 +638,6 @@ Every source the Glean cells cite, with its tier from the knowledge base's sourc
 
 - Title: Is IRAP certification a must-have for enterprise AI in Australia? (13 September 2026)
 - URL: https://www.glean.com/perspectives/is-irap-certification-a-must-have-for-enterprise-ai-in-australia
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

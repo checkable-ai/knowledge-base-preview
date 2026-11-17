@@ -138,7 +138,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Quoted by the confirm agents
 - URL: https://www.zoom.com/en/blog/zoomtopia2026-ai-governance-zoom-workplace/?cms_guid=false
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-3](c3-3.md)
 
@@ -146,7 +146,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Quoted by the confirm agents
 - URL: https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0085380
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-3](c1-3.md)
 
@@ -154,7 +154,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Quoted by the confirm agents
 - URL: https://www.zoom.com/en/products/ai-assistant/features/agent-builder/?cms_guid=false
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-4](c1-4.md)
 
@@ -162,7 +162,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Quoted by the confirm agents
 - URL: https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0085693
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-5](c5-5.md)
 
@@ -170,7 +170,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Zoom AI whitepaper: Administrative Controls
 - URL: https://library.zoom.com/ai/ai-whitepaper/administrative-controls.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c5-1](c5-1.md), [c6-10](c6-10.md)
 
@@ -178,7 +178,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Zoom AI whitepaper: Models, Processing, Storage, and Usage
 - URL: https://library.zoom.com/ai/ai-whitepaper/models-processing-storage-and-usage.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md), [c6-10](c6-10.md), [c6-12](c6-12.md), [c6-8](c6-8.md), [c7-3](c7-3.md)
 
@@ -186,7 +186,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Zoom AI whitepaper: Data Governance and Privacy
 - URL: https://library.zoom.com/ai/ai-whitepaper/data-governance-and-privacy.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md), [c6-11](c6-11.md), [c7-8](c7-8.md)
 
@@ -194,7 +194,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Zoom AI whitepaper: Security Framework
 - URL: https://library.zoom.com/ai/ai-whitepaper/security-framework.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c7-3](c7-3.md), [c7-4](c7-4.md), [c7-5](c7-5.md)
 
@@ -202,7 +202,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Zoom AI whitepaper: ZoomMate
 - URL: https://library.zoom.com/ai/ai-whitepaper/zoommate.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-3](c1-3.md), [c2-1](c2-1.md), [c2-3](c2-3.md), [c2-4](c2-4.md), [c2-5](c2-5.md), [c2-6](c2-6.md), [c3-1](c3-1.md), [c3-2](c3-2.md), [c3-3](c3-3.md), [c4-3](c4-3.md), [c5-3](c5-3.md), [c6-8](c6-8.md), [c7-4](c7-4.md), [c7-8](c7-8.md)
 
@@ -210,7 +210,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Zoom AI whitepaper: User Transparency and Notice
 - URL: https://library.zoom.com/ai/ai-whitepaper/user-transparency-and-notice.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md)
 
@@ -218,7 +218,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Creating and managing custom agents (KB0081887)
 - URL: https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0081887
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-4](c1-4.md), [c2-5](c2-5.md), [c3-2](c3-2.md), [c4-1](c4-1.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-2](c6-2.md), [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -226,7 +226,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Custom AI Companion (KB0079498)
 - URL: https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0079498
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md)
 
@@ -234,7 +234,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Zoom as MCP Client
 - URL: https://developers.zoom.us/docs/mcp/delete-mcp-client/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c6-1](c6-1.md)
 
@@ -242,7 +242,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Requiring authorization for meetings joined outside of an app's account
 - URL: https://developers.zoom.us/changelog/meeting-sdk/requiring-authorization-for-meetings-joined-outside-of-an-apps-account/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c7-9](c7-9.md)
 
@@ -250,7 +250,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Unified build flow for the Zoom App Marketplace
 - URL: https://www.zoom.com/en/blog/unified-build-flow-zoom-app-marketplace/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c5-5](c5-5.md), [c6-12](c6-12.md), [c6-2](c6-2.md), [c7-5](c7-5.md), [c7-9](c7-9.md)
 
@@ -258,7 +258,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: End user authorization
 - URL: https://developers.zoom.us/docs/integrations/end-user-auth/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-2](c6-2.md)
 
@@ -266,7 +266,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Zoom AI whitepaper (index and disclaimer)
 - URL: https://library.zoom.com/zoom-workplace/artificial-intelligence/artificial-intelligence-bluepaper/security-and-compliance/zoom-ai-companion
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -274,7 +274,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Zoom's newest AI innovations help make analytics more accessible
 - URL: https://news.zoom.com/zooms-newest-ai-innovations-help-make-analytics-more-accessible-and-customer-experience-more-impactful/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md)
 
@@ -282,7 +282,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Zoom AI whitepaper: Zoom AI Features
 - URL: https://library.zoom.com/ai/ai-whitepaper/zoom-ai-features.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c2-4](c2-4.md), [c5-1](c5-1.md)
 
@@ -290,7 +290,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: ZoomMate (AI whitepaper)
 - URL: https://library.zoom.com/ai/ai-whitepaper/zoommate.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md), [c4-4](c4-4.md)
 
@@ -298,7 +298,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Administrative controls (AI whitepaper)
 - URL: https://library.zoom.com/ai/ai-whitepaper/administrative-controls.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -306,7 +306,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Creating and managing custom agents
 - URL: https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0081887
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md), [c5-2](c5-2.md), [c7-1](c7-1.md)
 
@@ -314,7 +314,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Zoom IRAP
 - URL: https://www.zoom.com/en/trust/legal-compliance/irap/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -322,7 +322,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Security framework (AI whitepaper)
 - URL: https://library.zoom.com/ai/ai-whitepaper/security-framework.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md), [c7-2](c7-2.md)
 
@@ -330,7 +330,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Zoom completes IRAP assessment
 - URL: https://www.zoom.com/en/blog/zoom-completes-irap-assessment/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -338,7 +338,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Connect to Zoom MCP servers
 - URL: https://developers.zoom.us/docs/mcp/servers/connect-to-zoom-mcp-servers/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c4-2](c4-2.md)
 
@@ -346,7 +346,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Zoom announces support for Google Cloud's A2A protocol
 - URL: https://news.zoom.com/zoom-google-a2a-protocol/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c4-4](c4-4.md)
 
@@ -354,7 +354,7 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: APIs (AI whitepaper)
 - URL: https://library.zoom.com/ai/ai-whitepaper/apis.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -362,6 +362,6 @@ Every source the Zoom AI Companion cells cite, with its tier from the knowledge 
 
 - Title: Data governance and privacy (AI whitepaper)
 - URL: https://library.zoom.com/ai/ai-whitepaper/data-governance-and-privacy.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c7-1](c7-1.md)

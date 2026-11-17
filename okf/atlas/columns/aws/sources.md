@@ -230,7 +230,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Audit Manager evidence
 - URL: https://docs.aws.amazon.com/audit-manager/latest/userguide/concepts.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c6-11](c6-11.md), [c6-9](c6-9.md)
 
@@ -238,7 +238,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: SageMaker Model Cards
 - URL: https://docs.aws.amazon.com/sagemaker/latest/dg/model-cards.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c6-11](c6-11.md), [c6-6](c6-6.md), [c6-7](c6-7.md), [c7-3](c7-3.md)
 
@@ -246,7 +246,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Bedrock user confirmation
 - URL: https://docs.aws.amazon.com/bedrock/latest/userguide/agents-userconfirmation.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-3](c1-3.md)
 
@@ -254,7 +254,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: AgentCore data protection
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/data-protection.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c7-8](c7-8.md)
 
@@ -262,7 +262,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: AgentCore Evaluations
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/evaluations.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c5-2](c5-2.md), [c7-10](c7-10.md)
 
@@ -270,7 +270,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Bedrock evaluations
 - URL: https://docs.aws.amazon.com/bedrock/latest/userguide/evaluation.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c5-1](c5-1.md)
 
@@ -278,7 +278,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: AgentCore Gateway
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c3-1](c3-1.md), [c3-2](c3-2.md), [c3-4](c3-4.md), [c4-2](c4-2.md), [c5-5](c5-5.md)
 
@@ -286,7 +286,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: GuardDuty Runtime Monitoring
 - URL: https://docs.aws.amazon.com/guardduty/latest/ug/runtime-monitoring.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c7-2](c7-2.md), [c7-4](c7-4.md)
 
@@ -294,7 +294,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Bedrock Guardrails
 - URL: https://docs.aws.amazon.com/bedrock/latest/userguide/guardrails-how.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c3-3](c3-3.md), [c7-10](c7-10.md)
 
@@ -302,7 +302,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: AgentCore Harness
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/harness.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c2-1](c2-1.md), [c2-5](c2-5.md)
 
@@ -310,7 +310,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: AgentCore Identity
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/identity.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c4-1](c4-1.md), [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -318,7 +318,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Inspector ECR scanning
 - URL: https://docs.aws.amazon.com/inspector/latest/user/scanning-ecr.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c6-12](c6-12.md), [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -326,7 +326,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Bedrock Knowledge Bases
 - URL: https://docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c3-3](c3-3.md), [c7-8](c7-8.md)
 
@@ -334,7 +334,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: AgentCore Memory
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/memory.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c2-4](c2-4.md), [c2-6](c2-6.md), [c7-8](c7-8.md)
 
@@ -342,7 +342,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: SageMaker Model Registry
 - URL: https://docs.aws.amazon.com/sagemaker/latest/dg/model-registry-models.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c6-1](c6-1.md), [c6-5](c6-5.md), [c6-8](c6-8.md), [c7-3](c7-3.md)
 
@@ -350,7 +350,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Bedrock supported models
 - URL: https://docs.aws.amazon.com/bedrock/latest/userguide/models-supported.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c2-2](c2-2.md)
 
@@ -358,7 +358,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: AgentCore Observability
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/observability.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c5-3](c5-3.md), [c5-4](c5-4.md), [c5-5](c5-5.md), [c6-3](c6-3.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -366,7 +366,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: AgentCore Policy
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c6-4](c6-4.md), [c6-9](c6-9.md)
 
@@ -374,7 +374,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Security Hub AgentCore controls
 - URL: https://docs.aws.amazon.com/securityhub/latest/userguide/bedrockagentcore-controls.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c6-3](c6-3.md), [c7-9](c7-9.md)
 
@@ -382,7 +382,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: IRAP compliance
 - URL: https://aws.amazon.com/compliance/irap/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -390,7 +390,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: 2026 Phase 1a IRAP report is now available on AWS Artifact for Australian customers
 - URL: https://aws.amazon.com/blogs/security/2026-phase-1a-irap-report-is-now-available-on-aws-artifact-for-australian-customers/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -398,7 +398,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: AWS services in scope by compliance program: IRAP
 - URL: https://aws.amazon.com/compliance/services-in-scope/IRAP/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -406,7 +406,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: ISO 42001 Artificial Intelligence Management System
 - URL: https://aws.amazon.com/compliance/iso-42001-faqs/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -414,7 +414,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: SOC FAQs
 - URL: https://aws.amazon.com/compliance/soc-faqs/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -422,7 +422,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Use isolated sessions for agents
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-sessions.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -430,7 +430,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: StopRuntimeSession API reference
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/APIReference/API_StopRuntimeSession.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -438,7 +438,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Configure Amazon Bedrock AgentCore Runtime and tools for VPC
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/agentcore-vpc.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -446,7 +446,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: AgentCore Code Interpreter resource and session management
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/code-interpreter-resource-session-management.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -454,7 +454,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: AgentCore Code Interpreter
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/code-interpreter-tool.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -462,7 +462,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Supported Regions and models for inference profiles
 - URL: https://docs.aws.amazon.com/bedrock/latest/userguide/inference-profiles-support.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-10](c6-10.md)
 
@@ -470,7 +470,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Run generative AI inference with Amazon Bedrock in Asia Pacific (New Zealand)
 - URL: https://aws.amazon.com/blogs/machine-learning/run-generative-ai-inference-with-amazon-bedrock-in-asia-pacific-new-zealand/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c6-10](c6-10.md)
 
@@ -478,7 +478,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Cross-region inference in AgentCore Memory, Policy and Evaluations
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/cross-region-inference.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-10](c6-10.md)
 
@@ -486,7 +486,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: AgentCore Memory
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/memory.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-10](c6-10.md)
 
@@ -494,7 +494,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: AgentCore data protection
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/data-protection.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-10](c6-10.md)
 
@@ -502,7 +502,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Australian Government Announces Top Secret Cloud (National Intelligence Community)
 - URL: https://www.intelligence.gov.au/news/top-secret-cloud
-- Tier: 3
+- Source tier: 3
 - Checked: 2026-10-18
 - Cited by: [c6-10](c6-10.md), [c6-13](c6-13.md)
 
@@ -510,7 +510,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: AWS Agent Registry
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/registry.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-4](c1-4.md), [c6-1](c6-1.md), [c6-12](c6-12.md), [c6-2](c6-2.md), [c6-5](c6-5.md), [c6-6](c6-6.md), [c6-8](c6-8.md), [c7-6](c7-6.md), [c7-9](c7-9.md)
 
@@ -518,7 +518,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: AgentCore resource policies
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/resource-based-policies.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-2](c1-2.md), [c2-6](c2-6.md)
 
@@ -526,7 +526,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Bedrock return control
 - URL: https://docs.aws.amazon.com/bedrock/latest/userguide/agents-returncontrol.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-3](c1-3.md), [c5-1](c5-1.md)
 
@@ -534,7 +534,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: AgentCore Runtime
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/agents-tools-runtime.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-1](c1-1.md), [c1-4](c1-4.md), [c2-3](c2-3.md), [c3-4](c3-4.md), [c4-4](c4-4.md), [c7-4](c7-4.md)
 
@@ -542,7 +542,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: AgentCore Runtime security
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-security-best-practices.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-1](c1-1.md), [c7-1](c7-1.md), [c7-4](c7-4.md), [c7-5](c7-5.md)
 
@@ -550,7 +550,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.aws.amazon.com/audit-manager/latest/userguide/what-is.html
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-11](c6-11.md)
 
@@ -558,7 +558,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.aws.amazon.com/securityagent/latest/userguide/security-guidance.html
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-10](c7-10.md)
 
@@ -566,7 +566,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.aws.amazon.com/bedrock/latest/userguide/agents-userconfirmation.html
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-1](c5-1.md)
 
@@ -574,7 +574,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Quoted by the confirm agents
 - URL: https://aws.amazon.com/documentation-overview/lake-formation/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-8](c7-8.md)
 
@@ -582,7 +582,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-rate-limits.html
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-1](c3-1.md)
 
@@ -590,7 +590,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.aws.amazon.com/bedrock/latest/userguide/data-retention.html
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-2](c2-2.md)
 
@@ -598,7 +598,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/example-policies-guardrails.html
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-3](c3-3.md)
 
@@ -606,7 +606,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/resource-based-policies.html
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-4](c3-4.md), [c4-4](c4-4.md)
 
@@ -614,7 +614,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.aws.amazon.com/imagebuilder/latest/userguide/ib-stig.html
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-4](c7-4.md)
 
@@ -622,7 +622,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/registry-organizations.html
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-9](c7-9.md)
 
@@ -630,7 +630,7 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/harness-tools.html
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-1](c1-1.md)
 
@@ -638,6 +638,6 @@ Every source the AWS cells cite, with its tier from the knowledge base's source 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/long-term-record-ttl.html
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-10](c6-10.md)

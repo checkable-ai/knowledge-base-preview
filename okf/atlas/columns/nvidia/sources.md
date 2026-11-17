@@ -106,7 +106,7 @@ Every source the NVIDIA AI Enterprise cells cite, with its tier from the knowled
 
 - Title: Model Signature Verification (NIM for LLMs)
 - URL: https://docs.nvidia.com/nim/large-language-models/latest/reference/model-signature-verification.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-8](c6-8.md), [c7-3](c7-3.md)
 
@@ -114,7 +114,7 @@ Every source the NVIDIA AI Enterprise cells cite, with its tier from the knowled
 
 - Title: Securely Deploy AI Models with NVIDIA NIM
 - URL: https://developer.nvidia.com/blog/securely-deploy-ai-models-with-nvidia-nim/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md), [c6-11](c6-11.md), [c7-3](c7-3.md), [c7-4](c7-4.md)
 
@@ -122,7 +122,7 @@ Every source the NVIDIA AI Enterprise cells cite, with its tier from the knowled
 
 - Title: MCP Authentication for the NVIDIA NeMo Agent Toolkit
 - URL: https://docs.nvidia.com/nemo/agent-toolkit/1.8/components/auth/mcp-auth/index.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c2-4](c2-4.md), [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -130,7 +130,7 @@ Every source the NVIDIA AI Enterprise cells cite, with its tier from the knowled
 
 - Title: Agent-to-Agent (A2A) Authentication for NeMo Agent Toolkit
 - URL: https://docs.nvidia.com/nemo/agent-toolkit/latest/components/auth/a2a-auth.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-4](c3-4.md), [c4-2](c4-2.md), [c4-4](c4-4.md)
 
@@ -138,7 +138,7 @@ Every source the NVIDIA AI Enterprise cells cite, with its tier from the knowled
 
 - Title: Code Execution (NeMo Agent Toolkit)
 - URL: https://docs.nvidia.com/nemo/agent-toolkit/latest/components/functions/code-execution.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c2-3](c2-3.md)
 
@@ -146,7 +146,7 @@ Every source the NVIDIA AI Enterprise cells cite, with its tier from the knowled
 
 - Title: Interactive Workflows (NeMo Agent Toolkit)
 - URL: https://docs.nvidia.com/nemo/agent-toolkit/latest/build-workflows/advanced/interactive-workflows.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c5-1](c5-1.md)
 
@@ -154,7 +154,7 @@ Every source the NVIDIA AI Enterprise cells cite, with its tier from the knowled
 
 - Title: Middleware (NeMo Agent Toolkit)
 - URL: https://docs.nvidia.com/nemo/agent-toolkit/latest/build-workflows/advanced/middleware.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-5](c2-5.md), [c3-2](c3-2.md)
 
@@ -162,7 +162,7 @@ Every source the NVIDIA AI Enterprise cells cite, with its tier from the knowled
 
 - Title: Observe Workflows (NeMo Agent Toolkit)
 - URL: https://docs.nvidia.com/nemo/agent-toolkit/latest/run-workflows/observe/observe.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c5-1](c5-1.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -170,7 +170,7 @@ Every source the NVIDIA AI Enterprise cells cite, with its tier from the knowled
 
 - Title: Memory (NeMo Agent Toolkit)
 - URL: https://docs.nvidia.com/nemo/agent-toolkit/latest/build-workflows/memory.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c2-6](c2-6.md)
 
@@ -178,7 +178,7 @@ Every source the NVIDIA AI Enterprise cells cite, with its tier from the knowled
 
 - Title: Profiling and Performance Monitoring (NeMo Agent Toolkit)
 - URL: https://docs.nvidia.com/nemo/agent-toolkit/latest/improve-workflows/profiler.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c5-3](c5-3.md), [c5-4](c5-4.md)
 
@@ -186,7 +186,7 @@ Every source the NVIDIA AI Enterprise cells cite, with its tier from the knowled
 
 - Title: Evaluate Workflows (NeMo Agent Toolkit)
 - URL: https://docs.nvidia.com/nemo/agent-toolkit/latest/improve-workflows/evaluate.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md)
 
@@ -194,7 +194,7 @@ Every source the NVIDIA AI Enterprise cells cite, with its tier from the knowled
 
 - Title: Security Considerations (NeMo Agent Toolkit)
 - URL: https://docs.nvidia.com/nemo/agent-toolkit/latest/resources/security-considerations.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c4-3](c4-3.md)
 
@@ -202,7 +202,7 @@ Every source the NVIDIA AI Enterprise cells cite, with its tier from the knowled
 
 - Title: NeMo Guardrails documentation
 - URL: https://docs.nvidia.com/nemo/guardrails/latest/index.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-2](c3-2.md), [c3-3](c3-3.md)
 
@@ -210,7 +210,7 @@ Every source the NVIDIA AI Enterprise cells cite, with its tier from the knowled
 
 - Title: NeMo Guardrails GitHub README
 - URL: https://github.com/NVIDIA/NeMo-Guardrails
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-3](c3-3.md), [c7-1](c7-1.md)
 
@@ -218,7 +218,7 @@ Every source the NVIDIA AI Enterprise cells cite, with its tier from the knowled
 
 - Title: NVIDIA AI Enterprise Release Branches
 - URL: https://docs.nvidia.com/ai-enterprise/planning-resource/release-branches/latest/index.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c6-8](c6-8.md), [c7-4](c7-4.md)
 
@@ -226,7 +226,7 @@ Every source the NVIDIA AI Enterprise cells cite, with its tier from the knowled
 
 - Title: NVIDIA NIM Operator
 - URL: https://docs.nvidia.com/nim-operator/latest/index.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c2-3](c2-3.md), [c5-4](c5-4.md), [c6-8](c6-8.md)
 
@@ -234,7 +234,7 @@ Every source the NVIDIA AI Enterprise cells cite, with its tier from the knowled
 
 - Title: MCP Client (NeMo Agent Toolkit)
 - URL: https://docs.nvidia.com/nemo/agent-toolkit/latest/build-workflows/mcp-client.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c2-5](c2-5.md), [c3-2](c3-2.md)
 
@@ -242,7 +242,7 @@ Every source the NVIDIA AI Enterprise cells cite, with its tier from the knowled
 
 - Title: Code Execution (NeMo Agent Toolkit)
 - URL: https://docs.nvidia.com/nemo/agent-toolkit/latest/components/functions/code-execution.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -250,7 +250,7 @@ Every source the NVIDIA AI Enterprise cells cite, with its tier from the knowled
 
 - Title: How OpenShell works
 - URL: https://docs.nvidia.com/openshell/latest/about/architecture.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -258,7 +258,7 @@ Every source the NVIDIA AI Enterprise cells cite, with its tier from the knowled
 
 - Title: Security compliance (NVIDIA AI Trust Center)
 - URL: https://www.nvidia.com/en-us/ai-trust-center/security-compliance/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -266,6 +266,6 @@ Every source the NVIDIA AI Enterprise cells cite, with its tier from the knowled
 
 - Title: NVIDIA AI Trust Center
 - URL: https://www.nvidia.com/en-us/ai-trust-center/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

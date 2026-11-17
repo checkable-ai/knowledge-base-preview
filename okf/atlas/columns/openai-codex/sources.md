@@ -174,7 +174,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.chatgpt.com/docs/hooks
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-2](c3-2.md)
 
@@ -182,7 +182,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Codex admin rollout guide
 - URL: https://learn.chatgpt.com/docs/enterprise/admin-setup
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md)
 
@@ -190,7 +190,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Managed configuration and requirements.toml
 - URL: https://learn.chatgpt.com/docs/enterprise/managed-configuration
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c1-2](c1-2.md), [c2-2](c2-2.md), [c3-2](c3-2.md), [c3-3](c3-3.md), [c6-12](c6-12.md), [c7-6](c7-6.md)
 
@@ -198,7 +198,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Agent Security
 - URL: https://learn.chatgpt.com/docs/enterprise/agent-security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c2-5](c2-5.md), [c3-2](c3-2.md), [c6-4](c6-4.md), [c6-8](c6-8.md)
 
@@ -206,7 +206,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Agent approvals and security
 - URL: https://learn.chatgpt.com/docs/agent-approvals-security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c1-3](c1-3.md), [c2-3](c2-3.md), [c5-2](c5-2.md), [c7-4](c7-4.md)
 
@@ -214,7 +214,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Roles and workspace permissions
 - URL: https://learn.chatgpt.com/docs/enterprise/roles-and-workspace-permissions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-3](c4-3.md)
 
@@ -222,7 +222,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Cloud environments
 - URL: https://learn.chatgpt.com/docs/environments/cloud-environments
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-3](c2-3.md), [c2-4](c2-4.md), [c4-2](c4-2.md), [c7-4](c7-4.md)
 
@@ -230,7 +230,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Compliance API
 - URL: https://learn.chatgpt.com/docs/enterprise/compliance-api
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -238,7 +238,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Access tokens
 - URL: https://learn.chatgpt.com/docs/enterprise/access-tokens
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c4-2](c4-2.md), [c4-3](c4-3.md), [c6-6](c6-6.md)
 
@@ -246,7 +246,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Service accounts
 - URL: https://learn.chatgpt.com/docs/enterprise/service-accounts
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-1](c4-1.md), [c6-6](c6-6.md)
 
@@ -254,7 +254,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Plugin controls (apps and connectors)
 - URL: https://learn.chatgpt.com/docs/enterprise/apps-and-connectors
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c6-1](c6-1.md), [c6-12](c6-12.md), [c6-2](c6-2.md)
 
@@ -262,7 +262,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Roll out a gateway
 - URL: https://learn.chatgpt.com/docs/enterprise/roll-out-a-gateway
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md)
 
@@ -270,7 +270,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Prisma AIRS
 - URL: https://learn.chatgpt.com/docs/enterprise/prisma-airs
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-3](c3-3.md)
 
@@ -278,7 +278,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Governance
 - URL: https://learn.chatgpt.com/docs/enterprise/governance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md)
 
@@ -286,7 +286,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: ChatGPT usage limits and spend controls
 - URL: https://learn.chatgpt.com/docs/enterprise/usage-limits
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md)
 
@@ -294,7 +294,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Analytics API
 - URL: https://learn.chatgpt.com/docs/enterprise/analytics-api
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md)
 
@@ -302,7 +302,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Local computer access for Work Cloud and dots
 - URL: https://learn.chatgpt.com/docs/enterprise/cloud-local-access
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-4](c5-4.md), [c6-10](c6-10.md)
 
@@ -310,7 +310,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Subagents
 - URL: https://learn.chatgpt.com/docs/agent-configuration/subagents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md)
 
@@ -318,7 +318,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Memories
 - URL: https://learn.chatgpt.com/docs/customization/memories
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-6](c2-6.md)
 
@@ -326,7 +326,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Hooks
 - URL: https://learn.chatgpt.com/docs/hooks
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c2-5](c2-5.md), [c7-5](c7-5.md)
 
@@ -334,7 +334,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Model Context Protocol
 - URL: https://learn.chatgpt.com/docs/extend/mcp
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md)
 
@@ -342,7 +342,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Auto-review
 - URL: https://learn.chatgpt.com/docs/sandboxing/auto-review
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c3-2](c3-2.md), [c5-2](c5-2.md)
 
@@ -350,7 +350,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Advanced configuration
 - URL: https://learn.chatgpt.com/docs/config-file/config-advanced
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c5-4](c5-4.md), [c7-2](c7-2.md)
 
@@ -358,7 +358,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Workspace model availability
 - URL: https://learn.chatgpt.com/docs/enterprise/workspace-model-availability
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md)
 
@@ -366,7 +366,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: User lifecycle management
 - URL: https://learn.chatgpt.com/docs/enterprise/user-lifecycle
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c6-1](c6-1.md)
 
@@ -374,7 +374,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Codex Security
 - URL: https://learn.chatgpt.com/docs/security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-5](c7-5.md)
 
@@ -382,7 +382,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Code review
 - URL: https://learn.chatgpt.com/docs/code-review
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md)
 
@@ -390,7 +390,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Plugin management
 - URL: https://learn.chatgpt.com/docs/enterprise/plugin-management
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-2](c6-2.md), [c7-6](c7-6.md)
 
@@ -398,7 +398,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Manage app updates
 - URL: https://learn.chatgpt.com/docs/enterprise/manage-app-updates
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-8](c6-8.md)
 
@@ -406,7 +406,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Codex Cloud (Legacy): internet access
 - URL: https://learn.chatgpt.com/docs/cloud/internet-access
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c5-1](c5-1.md)
 
@@ -414,7 +414,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Agent approvals and security
 - URL: https://learn.chatgpt.com/docs/agent-approvals-security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -422,7 +422,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Agent Security
 - URL: https://learn.chatgpt.com/docs/enterprise/agent-security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -430,7 +430,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: User lifecycle
 - URL: https://learn.chatgpt.com/docs/enterprise/user-lifecycle
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -438,7 +438,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Access tokens
 - URL: https://learn.chatgpt.com/docs/enterprise/access-tokens
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -446,7 +446,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Developer commands
 - URL: https://learn.chatgpt.com/docs/developer-commands.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -454,7 +454,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Work admin FAQ
 - URL: https://learn.chatgpt.com/docs/enterprise/work-admin-faq.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -462,7 +462,7 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: OpenAI Trust Portal
 - URL: https://trust.openai.com/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -470,6 +470,6 @@ Every source the OpenAI Codex cells cite, with its tier from the knowledge base'
 
 - Title: Product compliance status
 - URL: https://openai.com/product-compliance-status/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

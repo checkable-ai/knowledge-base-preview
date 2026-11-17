@@ -174,7 +174,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Quoted by the confirm agents
 - URL: https://help.genesys.cloud/articles/set-up-tools-for-an-agentic-virtual-agent/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-2](c3-2.md)
 
@@ -182,7 +182,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: AI Studio permissions
 - URL: https://help.genesys.cloud/378859
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-1](c4-1.md)
 
@@ -190,7 +190,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Create an agentic virtual agent
 - URL: https://help.genesys.cloud/409064
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c5-5](c5-5.md), [c6-2](c6-2.md)
 
@@ -198,7 +198,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Agentic virtual agents overview
 - URL: https://help.genesys.cloud/409108
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-2](c2-2.md), [c5-3](c5-3.md)
 
@@ -206,7 +206,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Set guardrails for an agentic virtual agent
 - URL: https://help.genesys.cloud/408935
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-2](c3-2.md)
 
@@ -214,7 +214,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Set up tools for an agentic virtual agent
 - URL: https://help.genesys.cloud/408957
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-3](c1-3.md), [c2-1](c2-1.md), [c3-2](c3-2.md), [c4-2](c4-2.md)
 
@@ -222,7 +222,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Configure A2A connections for an agentic virtual agent
 - URL: https://help.genesys.cloud/articles/configure-a2a-connections-for-an-agentic-virtual-agent/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c3-4](c3-4.md), [c4-4](c4-4.md), [c5-5](c5-5.md)
 
@@ -230,7 +230,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Configure the External A2A Server integration
 - URL: https://help.genesys.cloud/426754
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md), [c4-4](c4-4.md), [c6-12](c6-12.md)
 
@@ -238,7 +238,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: About external agentic integrations
 - URL: https://help.genesys.cloud/articles/about-external-agentic-integrations/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-4](c4-4.md)
 
@@ -246,7 +246,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Transition to the latest agentic virtual agent model
 - URL: https://help.genesys.cloud/425106
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -254,7 +254,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Test and troubleshoot agentic virtual agents
 - URL: https://help.genesys.cloud/409104
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-5](c2-5.md), [c5-1](c5-1.md), [c5-2](c5-2.md), [c5-4](c5-4.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -262,7 +262,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Configure the start and exit behavior of an agentic virtual agent
 - URL: https://help.genesys.cloud/409057
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-4](c2-4.md), [c5-1](c5-1.md)
 
@@ -270,7 +270,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Connect an agentic virtual agent to knowledge
 - URL: https://help.genesys.cloud/409012
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c7-8](c7-8.md)
 
@@ -278,7 +278,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: View and manage agentic virtual agents
 - URL: https://help.genesys.cloud/articles/manage-an-agentic-virtual-agent/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c6-1](c6-1.md)
 
@@ -286,7 +286,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Agentic virtual agents public APIs
 - URL: https://help.genesys.cloud/427881
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-5](c2-5.md), [c4-1](c4-1.md), [c6-1](c6-1.md)
 
@@ -294,7 +294,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: genesys-ava-skills README (purecloudlabs)
 - URL: https://github.com/purecloudlabs/genesys-ava-skills
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c6-5](c6-5.md)
 
@@ -302,7 +302,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Write and publish guides
 - URL: https://help.genesys.cloud/379241
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-2](c6-2.md), [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -310,7 +310,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Connect guides to external services with data actions
 - URL: https://help.genesys.cloud/376765
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md)
 
@@ -318,7 +318,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: How does Genesys Cloud Copilot ensure trust and control?
 - URL: https://help.genesys.cloud/faqs/how-does-genesys-cloud-copilot-ensure-trust-and-control/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-3](c1-3.md), [c4-3](c4-3.md), [c5-1](c5-1.md)
 
@@ -326,7 +326,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: About Genesys Cloud Copilot
 - URL: https://help.genesys.cloud/articles/about-genesys-cloud-copilot/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md)
 
@@ -334,7 +334,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Configure Genesys Cloud Copilot
 - URL: https://help.genesys.cloud/426624
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c6-1](c6-1.md), [c7-1](c7-1.md)
 
@@ -342,7 +342,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Genesys Cloud audit manager AI agent
 - URL: https://help.genesys.cloud/418357
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-2](c7-2.md)
 
@@ -350,7 +350,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: About the Audit Viewer
 - URL: https://help.genesys.cloud/articles/about-the-audit-log-viewer/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md)
 
@@ -358,7 +358,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: FAQs: Security
 - URL: https://help.genesys.cloud/faqs/category/security/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md), [c6-12](c6-12.md), [c7-3](c7-3.md), [c7-8](c7-8.md)
 
@@ -366,7 +366,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: How does Genesys Cloud handle credentials?
 - URL: https://help.genesys.cloud/faqs/how-does-genesys-cloud-handle-credentials/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -374,7 +374,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Create an OAuth client
 - URL: https://help.genesys.cloud/articles/create-an-oauth-client/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md)
 
@@ -382,7 +382,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Supported security, privacy, and AI standards
 - URL: https://help.genesys.cloud/articles/supported-security-standards/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c7-3](c7-3.md), [c7-4](c7-4.md)
 
@@ -390,7 +390,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Retention period for analytics data and recording
 - URL: https://help.genesys.cloud/articles/retention-period-for-analytics-data-and-recording/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c6-10](c6-10.md), [c7-1](c7-1.md)
 
@@ -398,7 +398,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: AI token billing
 - URL: https://help.genesys.cloud/articles/ai-token-billing/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c5-3](c5-3.md)
 
@@ -406,7 +406,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: View bot and digital bot metrics in the Optimization dashboard
 - URL: https://help.genesys.cloud/311798
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c5-3](c5-3.md)
 
@@ -414,7 +414,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: View previous versions of a flow
 - URL: https://help.genesys.cloud/articles/view-version-history-call-flow/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-8](c6-8.md)
 
@@ -422,7 +422,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Genesys Cloud AI Studio configuration for Copilot AI agents (announcement)
 - URL: https://help.genesys.cloud/announcements/genesys-cloud/copilot-administrators-can-manage-ai-agents-in-ai-studio/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c6-2](c6-2.md)
 
@@ -430,7 +430,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Supported security, privacy, and AI standards
 - URL: https://help.genesys.cloud/articles/supported-security-standards/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -438,7 +438,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Genesys Cloud CX can now be operated to IRAP PROTECTED level (13 December 2023)
 - URL: https://www.genesys.com/en-sg/company/newsroom/announcements/genesys-cloud-cx-can-now-be-operated-to-irap-protected-level-to-optimise-customer-experience-for-australian-government-agencies
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -446,7 +446,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: IRAP-assessed cloud contact centre solution
 - URL: https://www.genesys.com/en-sg/irap
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -454,7 +454,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Copilot: administrators can manage AI agents in AI Studio (announced 13 July 2026)
 - URL: https://help.genesys.cloud/announcements/genesys-cloud/copilot-administrators-can-manage-ai-agents-in-ai-studio/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -462,7 +462,7 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: How does Genesys Cloud Copilot ensure trust and control?
 - URL: https://help.genesys.cloud/faqs/how-does-genesys-cloud-copilot-ensure-trust-and-control/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -470,6 +470,6 @@ Every source the Genesys Cloud AI cells cite, with its tier from the knowledge b
 
 - Title: Manage an agentic virtual agent
 - URL: https://help.genesys.cloud/articles/manage-an-agentic-virtual-agent/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)

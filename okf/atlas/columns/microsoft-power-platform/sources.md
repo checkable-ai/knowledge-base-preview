@@ -182,7 +182,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/monitoring/monitoring-overview
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-4](c5-4.md)
 
@@ -190,7 +190,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/power-automate/desktop-flows/hosted-machine-groups
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-3](c2-3.md)
 
@@ -198,7 +198,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/wp-data-loss-prevention
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-3](c3-3.md)
 
@@ -206,7 +206,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/power-automate/guidance/coding-guidelines/error-handling
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-1](c2-1.md)
 
@@ -214,7 +214,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/compliance/regulatory/offering-iso-27001
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-13](c6-13.md)
 
@@ -222,7 +222,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/power-automate/prevent-data-loss
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-1](c1-1.md)
 
@@ -230,7 +230,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/advanced-connector-policies
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-5](c7-5.md)
 
@@ -238,7 +238,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Microsoft Power Platform admin documentation
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-1](c4-1.md), [c7-10](c7-10.md)
 
@@ -246,7 +246,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Managed environments overview
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/managed-environment-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-1](c1-1.md), [c2-3](c2-3.md), [c3-3](c3-3.md), [c5-4](c5-4.md), [c7-5](c7-5.md), [c7-8](c7-8.md)
 
@@ -254,7 +254,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Data policies
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/wp-data-loss-prevention
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-7](c2-7.md), [c3-4](c3-4.md), [c4-2](c4-2.md), [c4-4](c4-4.md), [c6-12](c6-12.md), [c7-6](c7-6.md)
 
@@ -262,7 +262,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Microsoft Power Platform security and governance documentation
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-1](c4-1.md)
 
@@ -270,7 +270,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Copilot in Power Apps overview
 - URL: https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/ai-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-2](c2-2.md), [c2-4](c2-4.md), [c2-5](c2-5.md), [c2-7](c2-7.md)
 
@@ -278,7 +278,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Create your first cloud flow using Copilot
 - URL: https://learn.microsoft.com/en-us/power-automate/create-cloud-flow-using-copilot
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-3](c1-3.md), [c2-1](c2-1.md), [c2-5](c2-5.md), [c5-1](c5-1.md)
 
@@ -286,7 +286,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: View Power Platform administrative logs using auditing solutions in Microsoft Purview
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/activity-logging-auditing/activity-logs-power-platform-admin
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-4](c6-4.md), [c6-8](c6-8.md), [c7-1](c7-1.md), [c7-5](c7-5.md)
 
@@ -294,7 +294,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Environments overview
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/environments-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-3](c2-3.md), [c6-10](c6-10.md)
 
@@ -302,7 +302,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: FAQ for Copilot data security and privacy in Dynamics 365 and Power Platform
 - URL: https://learn.microsoft.com/en-us/power-platform/faqs-copilot-data-security-privacy
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-2](c2-2.md), [c2-4](c2-4.md), [c2-6](c2-6.md), [c3-1](c3-1.md), [c3-3](c3-3.md), [c4-3](c4-3.md), [c5-1](c5-1.md), [c7-10](c7-10.md), [c7-3](c7-3.md)
 
@@ -310,7 +310,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Environment groups
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/environment-groups
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-4](c1-4.md), [c6-4](c6-4.md), [c6-5](c6-5.md), [c6-9](c6-9.md)
 
@@ -318,7 +318,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Copilot hub in the Power Platform admin center
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/copilot/copilot-hub
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-1](c3-1.md), [c5-3](c5-3.md), [c6-3](c6-3.md)
 
@@ -326,7 +326,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Microsoft Sentinel solution for Microsoft Business Apps overview
 - URL: https://learn.microsoft.com/en-us/azure/sentinel/business-applications/solution-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-2](c5-2.md), [c7-2](c7-2.md)
 
@@ -334,7 +334,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Azure, Dynamics 365, Microsoft 365, and Power Platform services in audit scope
 - URL: https://learn.microsoft.com/en-us/azure/compliance/offerings/cloud-services-in-audit-scope
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -342,7 +342,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Limit sharing in managed environments
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/managed-environment-sharing-limits
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-2](c1-2.md), [c6-2](c6-2.md)
 
@@ -350,7 +350,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Advanced connector policies
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/advanced-connector-policies
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-1](c1-1.md), [c1-2](c1-2.md), [c3-2](c3-2.md), [c3-4](c3-4.md), [c4-4](c4-4.md), [c6-12](c6-12.md), [c6-2](c6-2.md), [c7-6](c7-6.md)
 
@@ -358,7 +358,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Power Platform Center of Excellence Starter Kit overview
 - URL: https://learn.microsoft.com/en-us/power-platform/guidance/coe/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-3](c6-3.md)
 
@@ -366,7 +366,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Manage your customer-managed encryption key
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/customer-managed-key
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-7](c2-7.md), [c7-8](c7-8.md)
 
@@ -374,7 +374,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Responsible AI FAQs for Microsoft Power Platform
 - URL: https://learn.microsoft.com/en-us/power-platform/responsible-ai-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c7-3](c7-3.md)
 
@@ -382,7 +382,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Create and test an approval workflow with Power Automate
 - URL: https://learn.microsoft.com/en-us/power-automate/modern-approvals
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-3](c1-3.md), [c5-1](c5-1.md)
 
@@ -390,7 +390,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Share a cloud flow
 - URL: https://learn.microsoft.com/en-us/power-automate/create-team-flows
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-2](c4-2.md), [c4-3](c4-3.md), [c6-6](c6-6.md)
 
@@ -398,7 +398,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Overview of pipelines in Power Platform
 - URL: https://learn.microsoft.com/en-us/power-platform/alm/pipelines
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-3](c1-3.md), [c4-2](c4-2.md), [c6-2](c6-2.md), [c6-5](c6-5.md), [c6-8](c6-8.md), [c7-5](c7-5.md)
 
@@ -406,7 +406,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Manage data policies
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/prevent-data-loss
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-2](c1-2.md), [c3-3](c3-3.md), [c6-4](c6-4.md), [c6-7](c6-7.md), [c6-9](c6-9.md)
 
@@ -414,7 +414,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Usage insights for managed environments
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/managed-environment-usage-insights
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-4](c1-4.md), [c5-3](c5-3.md), [c6-5](c6-5.md)
 
@@ -422,7 +422,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Power Platform inventory
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/power-platform-inventory
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-1](c4-1.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-12](c6-12.md), [c6-3](c6-3.md), [c6-6](c6-6.md), [c7-9](c7-9.md)
 
@@ -430,7 +430,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: View Power Automate logs in Microsoft Purview
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/activity-logging-auditing/activity-logs-power-automate
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-4](c5-4.md), [c7-1](c7-1.md)
 
@@ -438,7 +438,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Power Platform activity logs in Microsoft Purview overview
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/activity-logging-auditing/activity-logs-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-11](c6-11.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -446,7 +446,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Turn on copilots and generative AI features
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/geographical-availability-copilot
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md)
 
@@ -454,7 +454,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: FAQ for plans in Power Apps
 - URL: https://learn.microsoft.com/en-us/power-apps/maker/common/faq-plan-designer
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-6](c2-6.md)
 
@@ -462,7 +462,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Security in Microsoft Dataverse
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/wp-security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-3](c2-3.md)
 
@@ -470,7 +470,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Security roles and privileges
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/database-security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-4](c1-4.md), [c7-8](c7-8.md)
 
@@ -478,7 +478,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Compliance for Power Platform adoption
 - URL: https://learn.microsoft.com/en-us/power-platform/guidance/adoption/compliance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-11](c6-11.md), [c6-13](c6-13.md), [c6-7](c6-7.md), [c7-4](c7-4.md)
 
@@ -486,7 +486,7 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Power Platform Customer Lockbox
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/about-lockbox
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-11](c6-11.md), [c7-4](c7-4.md)
 
@@ -494,6 +494,6 @@ Every source the Microsoft Power Platform (Power Apps and Power Automate) cells 
 
 - Title: Limits of automated, scheduled, and instant flows
 - URL: https://learn.microsoft.com/en-us/power-automate/limits-and-config
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-1](c2-1.md), [c3-2](c3-2.md), [c5-4](c5-4.md), [c6-10](c6-10.md)

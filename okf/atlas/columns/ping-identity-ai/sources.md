@@ -110,7 +110,7 @@ Every source the Ping Identity for AI cells cite, with its tier from the knowled
 
 - Title: Identity for AI: What's new
 - URL: https://developer.pingidentity.com/identity-for-ai/release-notes/idai-whats-new.html
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c4-3](c4-3.md), [c7-5](c7-5.md)
 
@@ -118,7 +118,7 @@ Every source the Ping Identity for AI cells cite, with its tier from the knowled
 
 - Title: PingGateway MCP security gateway
 - URL: https://docs.pingidentity.com/pinggateway/2026/mcp/index.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md)
 
@@ -126,7 +126,7 @@ Every source the Ping Identity for AI cells cite, with its tier from the knowled
 
 - Title: AI agents in PingOne
 - URL: https://docs.pingidentity.com/pingone/ai_agents/p1_ai_agents.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c1-4](c1-4.md), [c4-1](c4-1.md), [c4-2](c4-2.md), [c4-3](c4-3.md), [c6-5](c6-5.md), [c6-6](c6-6.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -134,7 +134,7 @@ Every source the Ping Identity for AI cells cite, with its tier from the knowled
 
 - Title: Managing AI agents in PingOne
 - URL: https://docs.pingidentity.com/pingone/ai_agents/p1_managing_ai_agents.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-4](c1-4.md)
 
@@ -142,7 +142,7 @@ Every source the Ping Identity for AI cells cite, with its tier from the knowled
 
 - Title: AI agent identities in PingOne Advanced Identity Cloud
 - URL: https://docs.pingidentity.com/pingoneaic/identity-for-ai/ai-agent-identities.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md)
 
@@ -150,7 +150,7 @@ Every source the Ping Identity for AI cells cite, with its tier from the knowled
 
 - Title: Managing AI agent identities in PingOne Advanced Identity Cloud
 - URL: https://docs.pingidentity.com/pingoneaic/identity-for-ai/ai-agent-identities-ui.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-4](c1-4.md), [c4-1](c4-1.md), [c6-5](c6-5.md), [c6-6](c6-6.md)
 
@@ -158,7 +158,7 @@ Every source the Ping Identity for AI cells cite, with its tier from the knowled
 
 - Title: McpAuditFilter reference
 - URL: https://docs.pingidentity.com/pinggateway/latest/reference/McpAuditFilter.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md)
 
@@ -166,7 +166,7 @@ Every source the Ping Identity for AI cells cite, with its tier from the knowled
 
 - Title: Identifying agents with token exchange
 - URL: https://developer.pingidentity.com/identity-for-ai/identity/idai-token-exchange.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md), [c4-4](c4-4.md)
 
@@ -174,7 +174,7 @@ Every source the Ping Identity for AI cells cite, with its tier from the knowled
 
 - Title: Protect an MCP server with PingOne
 - URL: https://docs.pingidentity.com/pinggateway/latest/mcp/tutorial-pingone.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md)
 
@@ -182,7 +182,7 @@ Every source the Ping Identity for AI cells cite, with its tier from the knowled
 
 - Title: Configuring AI gateways (Agent Privilege)
 - URL: https://docs.pingidentity.com/privilege/agent-privilege/configuration/ai-gateways.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c4-2](c4-2.md)
 
@@ -190,7 +190,7 @@ Every source the Ping Identity for AI cells cite, with its tier from the knowled
 
 - Title: PingOne Protect risk predictors
 - URL: https://docs.pingidentity.com/pingone/threat_protection_using_pingone_protect/p1_protect_risk_predictors.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c7-9](c7-9.md)
 
@@ -198,7 +198,7 @@ Every source the Ping Identity for AI cells cite, with its tier from the knowled
 
 - Title: What is Agent Privilege?
 - URL: https://docs.pingidentity.com/privilege/agent-privilege/what-is-agent-privilege.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-1](c3-1.md), [c3-2](c3-2.md), [c3-3](c3-3.md), [c3-4](c3-4.md), [c4-2](c4-2.md), [c5-3](c5-3.md), [c6-12](c6-12.md), [c7-1](c7-1.md), [c7-2](c7-2.md), [c7-5](c7-5.md)
 
@@ -206,7 +206,7 @@ Every source the Ping Identity for AI cells cite, with its tier from the knowled
 
 - Title: Discover and manage personal agents
 - URL: https://docs.pingidentity.com/privilege/agent-privilege/use-cases/personal-agents.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md), [c7-9](c7-9.md)
 
@@ -214,7 +214,7 @@ Every source the Ping Identity for AI cells cite, with its tier from the knowled
 
 - Title: Agent registry
 - URL: https://docs.pingidentity.com/privilege/agent-privilege/configuration/agent-registry.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c4-2](c4-2.md), [c6-1](c6-1.md), [c6-2](c6-2.md)
 
@@ -222,7 +222,7 @@ Every source the Ping Identity for AI cells cite, with its tier from the knowled
 
 - Title: Configuring a CIBA flow in PingOne
 - URL: https://docs.pingidentity.com/pingone/use_cases/p1_configure_ciba_flow.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md)
 
@@ -230,7 +230,7 @@ Every source the Ping Identity for AI cells cite, with its tier from the knowled
 
 - Title: Remote Agent agentic app
 - URL: https://docs.pingidentity.com/privilege/agent-privilege/configuration/agentic-apps/remote-agent.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-4](c3-4.md), [c4-4](c4-4.md), [c6-12](c6-12.md)
 
@@ -238,7 +238,7 @@ Every source the Ping Identity for AI cells cite, with its tier from the knowled
 
 - Title: Discover and manage workload agents
 - URL: https://docs.pingidentity.com/privilege/agent-privilege/use-cases/workload-agents.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-3](c6-3.md), [c6-6](c6-6.md), [c7-9](c7-9.md)
 
@@ -246,7 +246,7 @@ Every source the Ping Identity for AI cells cite, with its tier from the knowled
 
 - Title: What is Agent Privilege?
 - URL: https://docs.pingidentity.com/privilege/agent-privilege/what-is-agent-privilege.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -254,7 +254,7 @@ Every source the Ping Identity for AI cells cite, with its tier from the knowled
 
 - Title: AI Agents (PingOne)
 - URL: https://docs.pingidentity.com/pingone/ai_agents/p1_ai_agents.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -262,7 +262,7 @@ Every source the Ping Identity for AI cells cite, with its tier from the knowled
 
 - Title: MCP security gateway overview (PingGateway 2026)
 - URL: https://docs.pingidentity.com/pinggateway/2026/mcp/index.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -270,7 +270,7 @@ Every source the Ping Identity for AI cells cite, with its tier from the knowled
 
 - Title: Deleting AI agent identities (PingOne)
 - URL: https://docs.pingidentity.com/pingone/ai_agents/p1_deleting_ai_agents.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -278,6 +278,6 @@ Every source the Ping Identity for AI cells cite, with its tier from the knowled
 
 - Title: Security and compliance (PingOne Advanced Identity Cloud)
 - URL: https://docs.pingidentity.com/pingoneaic/product-information/security-compliance.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

@@ -33,7 +33,8 @@ Column group: Model hosting and inference. Facts are agent-run. Cells listed as 
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 2 |
+| verified | 44 |
 
 ## Products
 
@@ -57,7 +58,7 @@ Column group: Model hosting and inference. Facts are agent-run. Cells listed as 
 | [Human Approval](c1-3.md) | Authorisation | not-covered | verified | yes |
 | [Agent Provisioning](c1-4.md) | Authorisation | not-covered | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | not-covered | verified | yes |
-| [Inference](c2-2.md) | Runtime | covered | verified | yes |
+| [Inference](c2-2.md) | Runtime | covered | agent-checked | yes |
 | [Execution Environment](c2-3.md) | Runtime | not-covered | verified | yes |
 | [Agent In-Session Memory](c2-4.md) | Runtime | not-covered | verified | yes |
 | [Harness](c2-5.md) | Runtime | not-covered | verified | yes |
@@ -84,7 +85,7 @@ Column group: Model hosting and inference. Facts are agent-run. Cells listed as 
 | [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | verified | yes |
 | [Registration & Approval Workflows](c6-2.md) | Governance | not-covered | verified | yes |
 | [Posture & Reporting](c6-3.md) | Governance | out-of-scope | verified | yes |
-| [Policy Management](c6-4.md) | Governance | out-of-scope | verified | yes |
+| [Policy Management](c6-4.md) | Governance | out-of-scope | agent-checked | yes |
 | [AI Lifecycle Management](c6-5.md) | Governance | not-covered | verified | yes |
 | [Ownership & Accountability](c6-6.md) | Governance | not-covered | verified | yes |
 | [Risk Assessment & Classification](c6-7.md) | Governance | out-of-scope | verified | yes |

@@ -182,7 +182,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Understand Rovo agent accounts
 - URL: https://support.atlassian.com/studio/docs/understand-rovo-agent-accounts/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c4-3](c4-3.md), [c7-1](c7-1.md)
 
@@ -190,7 +190,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Configure a Rovo agent's identity
 - URL: https://support.atlassian.com/studio/docs/configure-a-rovo-agents-identity/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c5-5](c5-5.md), [c6-8](c6-8.md)
 
@@ -198,7 +198,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Manage agents in your organization
 - URL: https://support.atlassian.com/organization-administration/docs/manage-agents-in-your-organization/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-4](c1-4.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-6](c6-6.md), [c7-9](c7-9.md)
 
@@ -206,7 +206,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Manage default access for future agents
 - URL: https://support.atlassian.com/organization-administration/docs/manage-default-access-for-future-agents/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md)
 
@@ -214,7 +214,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Manage who can create in Studio
 - URL: https://support.atlassian.com/studio/docs/manage-who-can-create-in-studio/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c6-2](c6-2.md)
 
@@ -222,7 +222,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Best practices to automate agents safely
 - URL: https://support.atlassian.com/studio/docs/best-practices-to-automate-agents-safely/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-3](c1-3.md), [c3-2](c3-2.md), [c5-1](c5-1.md)
 
@@ -230,7 +230,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Add tools to Rovo agents
 - URL: https://support.atlassian.com/studio/docs/add-tools-to-rovo-agents/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c2-1](c2-1.md), [c2-5](c2-5.md), [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -238,7 +238,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Create and edit Rovo agents
 - URL: https://support.atlassian.com/studio/docs/create-and-edit-rovo-agents/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c2-1](c2-1.md), [c4-1](c4-1.md), [c6-5](c6-5.md), [c6-6](c6-6.md), [c6-8](c6-8.md)
 
@@ -246,7 +246,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Atlassian Trust: AI built responsibly (Rovo)
 - URL: https://www.atlassian.com/trust/ai
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-11](c6-11.md), [c7-3](c7-3.md)
 
@@ -254,7 +254,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Rovo data, privacy, and usage guidelines
 - URL: https://support.atlassian.com/rovo/docs/rovo-data-privacy-and-usage-guidelines/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c3-3](c3-3.md), [c6-10](c6-10.md), [c7-8](c7-8.md)
 
@@ -262,7 +262,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Atlassian-hosted LLMs
 - URL: https://support.atlassian.com/organization-administration/docs/atlassian-hosted-llms/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md)
 
@@ -270,7 +270,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Manage Rovo access
 - URL: https://support.atlassian.com/organization-administration/docs/activate-atlassian-intelligence-for-products/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md)
 
@@ -278,7 +278,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Gain insights into Rovo AI activity
 - URL: https://support.atlassian.com/organization-administration/docs/gain-insights-into-rovo-ai-activity/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md)
 
@@ -286,7 +286,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Review live conversations with your Rovo agent
 - URL: https://support.atlassian.com/rovo/docs/review-live-conversations-with-your-rovo-agent/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c5-1](c5-1.md)
 
@@ -294,7 +294,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: What is Rovo memory management?
 - URL: https://support.atlassian.com/rovo/docs/what-is-rovo-memory-management/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-6](c2-6.md)
 
@@ -302,7 +302,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Manage external MCP servers
 - URL: https://support.atlassian.com/organization-administration/docs/manage-external-mcp-servers/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c6-1](c6-1.md), [c6-12](c6-12.md), [c6-2](c6-2.md)
 
@@ -310,7 +310,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Control Atlassian Rovo MCP server settings
 - URL: https://support.atlassian.com/security-and-access-policies/docs/control-atlassian-rovo-mcp-server-settings/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c4-2](c4-2.md)
 
@@ -318,7 +318,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Monitor Atlassian Rovo MCP server activity
 - URL: https://support.atlassian.com/security-and-access-policies/docs/monitor-atlassian-rovo-mcp-server-activity
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md), [c7-9](c7-9.md)
 
@@ -326,7 +326,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Manage blocklist and allowlist (Teamwork Graph connectors)
 - URL: https://support.atlassian.com/organization-administration/docs/manage-blocklist/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c7-8](c7-8.md)
 
@@ -334,7 +334,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Set up Agent2Agent connections
 - URL: https://support.atlassian.com/atlassian-ai-gateway/docs/set-up-agent2agent-connections/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md), [c4-4](c4-4.md)
 
@@ -342,7 +342,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Manage A2A connections in Atlassian Administration
 - URL: https://support.atlassian.com/security-and-access-policies/docs/manage-a2a-connections-in-admin-hub/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-4](c3-4.md), [c4-4](c4-4.md), [c6-12](c6-12.md)
 
@@ -350,7 +350,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: What activities does the audit log include?
 - URL: https://support.atlassian.com/security-and-access-policies/docs/accessing-audit-log-activities/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md)
 
@@ -358,7 +358,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Monitor Rovo using insights (Atlassian Community learning)
 - URL: https://community.atlassian.com/learning/lesson/monitor-rovo-using-insights
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md)
 
@@ -366,7 +366,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Use tools in Rovo Dev CLI
 - URL: https://support.atlassian.com/rovo/docs/use-tools-in-rovo-dev-cli/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c1-3](c1-3.md), [c2-3](c2-3.md), [c2-5](c2-5.md)
 
@@ -374,7 +374,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Manage Rovo Dev CLI settings
 - URL: https://support.atlassian.com/rovo/docs/manage-rovo-dev-cli-settings
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c2-2](c2-2.md), [c2-3](c2-3.md), [c2-4](c2-4.md), [c3-2](c3-2.md)
 
@@ -382,7 +382,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Rovo Dev rollout
 - URL: https://support.atlassian.com/rovo/docs/rovo-dev-rollout/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c5-3](c5-3.md), [c6-10](c6-10.md), [c6-11](c6-11.md)
 
@@ -390,7 +390,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Understand data residency
 - URL: https://support.atlassian.com/security-and-access-policies/docs/understand-data-residency/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md), [c7-8](c7-8.md)
 
@@ -398,7 +398,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Rovo technology transparency
 - URL: https://www.atlassian.com/trust/ai/transparency
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-3](c7-3.md)
 
@@ -406,7 +406,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Send audit log activities to another tool using webhooks
 - URL: https://support.atlassian.com/security-and-access-policies/docs/learn-more-about-audit-log-webhooks
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-2](c7-2.md)
 
@@ -414,7 +414,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: What is Guard Detect?
 - URL: https://support.atlassian.com/security-and-access-policies/docs/what-is-guard-detect
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-2](c7-2.md)
 
@@ -422,7 +422,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Manage Rovo Dev CLI settings
 - URL: https://support.atlassian.com/rovo/docs/manage-rovo-dev-cli-settings/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -430,7 +430,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Manage Rovo access
 - URL: https://support.atlassian.com/organization-administration/docs/manage-rovo-access/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -438,7 +438,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Rovo Dev rollout
 - URL: https://support.atlassian.com/rovo/docs/rovo-dev-rollout/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md), [c6-13](c6-13.md)
 
@@ -446,7 +446,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: IRAP compliance resources
 - URL: https://www.atlassian.com/trust/compliance/resources/irap
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -454,7 +454,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: AI security and trust
 - URL: https://www.atlassian.com/trust/ai
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -462,7 +462,7 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Atlassian compliance
 - URL: https://www.atlassian.com/trust/compliance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -470,6 +470,6 @@ Every source the Atlassian Rovo cells cite, with its tier from the knowledge bas
 
 - Title: Quoted by the confirm agents
 - URL: https://support.atlassian.com/rovo/docs/rovo-agent-permissions-and-governance/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-6](c6-6.md)

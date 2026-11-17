@@ -33,7 +33,8 @@ Column group: Self-hosted and hybrid. Facts are agent-run. Cells listed as eligi
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 1 |
+| verified | 45 |
 
 ## Products
 
@@ -54,7 +55,7 @@ Column group: Self-hosted and hybrid. Facts are agent-run. Cells listed as eligi
 | [A2A](c4-4.md) | Identity | not-covered | verified | yes |
 | [Agent Local Scopes](c1-1.md) | Authorisation | not-covered | verified | yes |
 | [Agent Remote Scopes](c1-2.md) | Authorisation | not-covered | verified | yes |
-| [Human Approval](c1-3.md) | Authorisation | out-of-scope | verified | yes |
+| [Human Approval](c1-3.md) | Authorisation | out-of-scope | agent-checked | yes |
 | [Agent Provisioning](c1-4.md) | Authorisation | not-covered | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | not-covered | verified | yes |
 | [Inference](c2-2.md) | Runtime | covered | verified | yes |

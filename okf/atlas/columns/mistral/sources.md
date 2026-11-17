@@ -206,7 +206,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.mistral.ai/studio/agents/agent-tools/code_interpreter
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-5](c2-5.md)
 
@@ -214,7 +214,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Quoted by the confirm agents
 - URL: https://mistral.ai/news/ai-studio/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-6](c6-6.md), [c6-8](c6-8.md)
 
@@ -222,7 +222,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.mistral.ai/vibe/work/code-interpreter
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-3](c2-3.md)
 
@@ -230,7 +230,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.mistral.ai/vibe/work/get-started
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-1](c5-1.md)
 
@@ -238,7 +238,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.mistral.ai/studio/agents/learn/agent/guardrails
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-2](c3-2.md)
 
@@ -246,7 +246,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Agents API overview
 - URL: https://docs.mistral.ai/agents/introduction
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-5](c2-5.md)
 
@@ -254,7 +254,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Agents and Conversations
 - URL: https://docs.mistral.ai/studio/agents/agents-api
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c6-10](c6-10.md)
 
@@ -262,7 +262,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Beta Agents Endpoints
 - URL: https://docs.mistral.ai/api/endpoint/beta/agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-1](c4-1.md), [c6-1](c6-1.md), [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -270,7 +270,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Handoffs
 - URL: https://docs.mistral.ai/studio/agents/handoffs
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c3-4](c3-4.md), [c4-4](c4-4.md), [c5-5](c5-5.md)
 
@@ -278,7 +278,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Managing Connectors
 - URL: https://docs.mistral.ai/studio/connectors/management
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c4-2](c4-2.md), [c4-3](c4-3.md), [c6-2](c6-2.md), [c6-6](c6-6.md)
 
@@ -286,7 +286,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Human-in-the-loop confirmation
 - URL: https://docs.mistral.ai/studio/connectors/confirmation
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c3-2](c3-2.md)
 
@@ -294,7 +294,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Code Interpreter
 - URL: https://docs.mistral.ai/studio/agents/agent-tools/code_interpreter
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-3](c2-3.md), [c7-4](c7-4.md)
 
@@ -302,7 +302,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Moderation and Guardrailing
 - URL: https://docs.mistral.ai/capabilities/guardrailing
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-3](c3-3.md)
 
@@ -310,7 +310,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Observability
 - URL: https://docs.mistral.ai/studio/observability
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md), [c5-2](c5-2.md), [c5-4](c5-4.md), [c6-10](c6-10.md), [c7-2](c7-2.md)
 
@@ -318,7 +318,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: What is Mistral Workflows?
 - URL: https://docs.mistral.ai/studio/workflows/getting-started/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-3](c2-3.md), [c5-4](c5-4.md), [c7-8](c7-8.md)
 
@@ -326,7 +326,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Durable agents
 - URL: https://docs.mistral.ai/studio/workflows/building-workflows/durable_agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-5](c2-5.md)
 
@@ -334,7 +334,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Admin API overview
 - URL: https://docs.mistral.ai/admin/admin-api/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c5-3](c5-3.md)
 
@@ -342,7 +342,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Audit logs overview
 - URL: https://docs.mistral.ai/admin/monitor-comply/audit-logs/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c7-1](c7-1.md)
 
@@ -350,7 +350,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Audit logs reference
 - URL: https://docs.mistral.ai/admin/monitor-comply/audit-logs/reference
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c3-2](c3-2.md), [c6-8](c6-8.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -358,7 +358,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: API keys
 - URL: https://docs.mistral.ai/admin/identity-access/api-keys
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c4-2](c4-2.md)
 
@@ -366,7 +366,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Service accounts
 - URL: https://docs.mistral.ai/admin/identity-access/service-accounts
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-1](c4-1.md), [c6-6](c6-6.md)
 
@@ -374,7 +374,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Workload identity federation
 - URL: https://docs.mistral.ai/admin/identity-access/workload-identity
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -382,7 +382,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Connectors (admin)
 - URL: https://docs.mistral.ai/admin/identity-access/connectors
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c4-3](c4-3.md), [c5-5](c5-5.md)
 
@@ -390,7 +390,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Usage and limits
 - URL: https://docs.mistral.ai/admin/billing-usage/usage-limits
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md), [c5-3](c5-3.md)
 
@@ -398,7 +398,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Admin overview
 - URL: https://docs.mistral.ai/admin/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md)
 
@@ -406,7 +406,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Can I activate Zero Data Retention (ZDR)?
 - URL: https://help.mistral.ai/en/articles/347612-can-i-activate-zero-data-retention-zdr
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c2-4](c2-4.md), [c6-10](c6-10.md)
 
@@ -414,7 +414,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Where do you store my data or my Organization's data?
 - URL: https://help.mistral.ai/en/articles/347629-where-do-you-store-my-data-or-my-organization-s-data
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md), [c6-12](c6-12.md)
 
@@ -422,7 +422,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Can I opt out of my input or output data being used for training?
 - URL: https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md)
 
@@ -430,7 +430,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Do you have SOC 2 or ISO 27001 certification?
 - URL: https://help.mistral.ai/en/articles/347638-do-you-have-soc-2-or-iso-27001-certification
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c7-4](c7-4.md)
 
@@ -438,7 +438,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Model lifecycle policy
 - URL: https://docs.mistral.ai/inference/model-lifecycle
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-5](c6-5.md), [c6-8](c6-8.md), [c7-3](c7-3.md)
 
@@ -446,7 +446,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Deployment
 - URL: https://docs.mistral.ai/models/deployment
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-3](c7-3.md)
 
@@ -454,7 +454,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Knowledge Base
 - URL: https://docs.mistral.ai/vibe/work/knowledge
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-6](c2-6.md)
 
@@ -462,7 +462,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Add context with Libraries
 - URL: https://docs.mistral.ai/vibe/work/libraries
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c6-6](c6-6.md), [c7-8](c7-8.md)
 
@@ -470,7 +470,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Safety and approvals (Vibe Work)
 - URL: https://docs.mistral.ai/vibe/work/safety-and-approvals
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c5-1](c5-1.md), [c6-12](c6-12.md)
 
@@ -478,7 +478,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: MCP Connectors (Vibe Work)
 - URL: https://docs.mistral.ai/vibe/work/connectors/mcp-connectors
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md), [c6-12](c6-12.md), [c6-2](c6-2.md)
 
@@ -486,7 +486,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Safety, approvals, and permissions (Vibe Code)
 - URL: https://docs.mistral.ai/vibe/code/safety-approvals-permissions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c2-5](c2-5.md)
 
@@ -494,7 +494,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Admin config (Vibe Code CLI)
 - URL: https://docs.mistral.ai/vibe/code/cli/admin-config
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c3-1](c3-1.md)
 
@@ -502,7 +502,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Introducing Mistral AI Studio
 - URL: https://mistral.ai/news/ai-studio/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c6-2](c6-2.md), [c7-3](c7-3.md)
 
@@ -510,7 +510,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Knowledge Connectors
 - URL: https://docs.mistral.ai/vibe/work/connectors/knowledge-connectors
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md)
 
@@ -518,7 +518,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Mistral docs: Code Interpreter
 - URL: https://docs.mistral.ai/studio/agents/agent-tools/code_interpreter
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -526,7 +526,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Mistral docs: Vibe Code Web sandbox environment
 - URL: https://docs.mistral.ai/vibe/code/vibe-code-web/sandbox-environment.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -534,7 +534,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Mistral docs: Vibe Code Web limits and lifecycle
 - URL: https://docs.mistral.ai/vibe/code/vibe-code-web/limits-and-lifecycle.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -542,7 +542,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Mistral docs: Vibe Work safety and approvals
 - URL: https://docs.mistral.ai/vibe/work/safety-and-approvals
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -550,7 +550,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Mistral docs: API keys
 - URL: https://docs.mistral.ai/admin/identity-access/api-keys.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -558,7 +558,7 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Mistral Help Center: Do you have SOC 2 or ISO 27001 certification
 - URL: https://help.mistral.ai/en/articles/347638-do-you-have-soc-2-or-iso-27001-certification
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -566,6 +566,6 @@ Every source the Mistral AI cells cite, with its tier from the knowledge base's 
 
 - Title: Mistral AI Trust Center
 - URL: https://trust.mistral.ai/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

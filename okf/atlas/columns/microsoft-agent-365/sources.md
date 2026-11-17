@@ -154,7 +154,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/purview/compliance-manager
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-11](c6-11.md)
 
@@ -162,7 +162,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/what-is-microsoft-entra-agent-id
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c4-4](c4-4.md)
 
@@ -170,7 +170,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/microsoft-365/admin/manage/agent-map?view=o365-worldwide
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-5](c5-5.md)
 
@@ -178,7 +178,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/microsoft-agent-365/admin/manage-plugins-skills-mcp-servers
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-2](c1-2.md)
 
@@ -186,7 +186,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/microsoft-agent-365/admin/agent-registry-overview
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-1](c6-1.md), [c6-3](c6-3.md)
 
@@ -194,7 +194,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/microsoft-agent-365/admin/agent-actions
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-4](c1-4.md), [c6-2](c6-2.md)
 
@@ -202,7 +202,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Governing Agent Identities, Microsoft Entra ID Governance
 - URL: https://learn.microsoft.com/en-us/entra/id-governance/agent-id-governance-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-4](c1-4.md), [c4-4](c4-4.md), [c6-5](c6-5.md), [c6-6](c6-6.md)
 
@@ -210,7 +210,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Agent Registry in Microsoft 365 admin center
 - URL: https://learn.microsoft.com/en-us/microsoft-365/admin/manage/agent-registry
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c4-1](c4-1.md), [c6-1](c6-1.md), [c6-3](c6-3.md), [c6-5](c6-5.md), [c6-6](c6-6.md), [c7-6](c7-6.md), [c7-9](c7-9.md)
 
@@ -218,7 +218,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Use Agent Map in the Microsoft 365 admin center
 - URL: https://learn.microsoft.com/en-us/microsoft-365/admin/manage/agent-map
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md), [c5-4](c5-4.md), [c5-5](c5-5.md)
 
@@ -226,7 +226,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Use Microsoft Purview to manage data security and compliance for Microsoft Agent 365
 - URL: https://learn.microsoft.com/en-us/purview/ai-agent-365
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c4-4](c4-4.md), [c5-1](c5-1.md), [c5-2](c5-2.md), [c6-10](c6-10.md), [c6-11](c6-11.md), [c6-3](c6-3.md), [c6-7](c6-7.md), [c7-1](c7-1.md)
 
@@ -234,7 +234,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Microsoft Agent 365 SDK and CLI
 - URL: https://learn.microsoft.com/en-us/microsoft-agent-365/developer/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c2-1](c2-1.md), [c2-3](c2-3.md), [c6-4](c6-4.md)
 
@@ -242,7 +242,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Agent 365 identity
 - URL: https://learn.microsoft.com/en-us/microsoft-agent-365/developer/identity
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c4-1](c4-1.md), [c4-2](c4-2.md), [c4-3](c4-3.md), [c6-6](c6-6.md), [c7-1](c7-1.md)
 
@@ -250,7 +250,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Governance and Lifecycle actions for agents available in Microsoft 365 admin center
 - URL: https://learn.microsoft.com/en-us/microsoft-365/admin/manage/agent-actions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c2-3](c2-3.md), [c3-3](c3-3.md), [c6-10](c6-10.md), [c6-2](c6-2.md), [c6-4](c6-4.md), [c6-5](c6-5.md), [c7-1](c7-1.md), [c7-8](c7-8.md)
 
@@ -258,7 +258,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Add and manage tools (Agent 365 SDK tooling)
 - URL: https://learn.microsoft.com/en-us/microsoft-agent-365/developer/tooling
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-5](c2-5.md), [c4-2](c4-2.md), [c6-8](c6-8.md)
 
@@ -266,7 +266,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Overview of the Tools page in Microsoft 365 admin center
 - URL: https://learn.microsoft.com/en-us/microsoft-365/admin/manage/agent-tools-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md)
 
@@ -274,7 +274,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Detect and investigate threats to AI agents using Microsoft Defender (Preview)
 - URL: https://learn.microsoft.com/en-us/defender-xdr/security-for-ai/ai-agent-detection-protection
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c7-2](c7-2.md)
 
@@ -282,7 +282,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Microsoft OpenTelemetry Distro
 - URL: https://learn.microsoft.com/en-us/microsoft-agent-365/developer/microsoft-opentelemetry
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c5-3](c5-3.md), [c5-4](c5-4.md)
 
@@ -290,7 +290,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Manage Tools Gateway in Microsoft 365 admin center
 - URL: https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-tools-gateway
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -298,7 +298,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Protect AI agents in real time using Microsoft Defender
 - URL: https://learn.microsoft.com/en-us/defender-xdr/security-for-ai/ai-agent-real-time-protection
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c7-2](c7-2.md), [c7-4](c7-4.md)
 
@@ -306,7 +306,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Discover AI agents and assess security posture using Microsoft Defender
 - URL: https://learn.microsoft.com/en-us/defender-xdr/security-for-ai/ai-agent-inventory
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md), [c6-3](c6-3.md), [c6-7](c6-7.md), [c7-9](c7-9.md)
 
@@ -314,7 +314,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Learn about Secure Web and AI Gateway for Microsoft Copilot Studio agents
 - URL: https://learn.microsoft.com/en-us/entra/global-secure-access/concept-secure-web-ai-gateway-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md)
 
@@ -322,7 +322,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Manage plugins, skills, and MCP servers in Microsoft 365 admin center
 - URL: https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-plugins-skills-mcp-servers
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c6-12](c6-12.md), [c6-2](c6-2.md), [c7-6](c7-6.md)
 
@@ -330,7 +330,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Conditional Access for Agents in Microsoft Entra
 - URL: https://learn.microsoft.com/en-us/entra/identity/conditional-access/agent-id
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c1-2](c1-2.md), [c4-3](c4-3.md)
 
@@ -338,7 +338,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Bring your own (BYO) MCP server in Microsoft 365 admin center
 - URL: https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-byo-mcp-server
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c6-8](c6-8.md), [c7-5](c7-5.md)
 
@@ -346,7 +346,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Understand agent details in Microsoft 365 admin center
 - URL: https://learn.microsoft.com/en-us/microsoft-365/admin/manage/agent-details
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c4-4](c4-4.md), [c5-3](c5-3.md), [c5-5](c5-5.md), [c6-11](c6-11.md), [c6-12](c6-12.md), [c6-8](c6-8.md), [c7-6](c7-6.md), [c7-8](c7-8.md)
 
@@ -354,7 +354,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Connected platforms in Microsoft Agent 365
 - URL: https://learn.microsoft.com/en-us/microsoft-agent-365/admin/connected-platforms
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-12](c6-12.md), [c7-9](c7-9.md)
 
@@ -362,7 +362,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: ID Protection for Agents, Microsoft Entra ID Protection
 - URL: https://learn.microsoft.com/en-us/entra/id-protection/concept-risky-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md), [c4-4](c4-4.md), [c5-2](c5-2.md), [c7-2](c7-2.md)
 
@@ -370,7 +370,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: AI agent runtime protection with Microsoft Defender for Endpoint (Preview)
 - URL: https://learn.microsoft.com/en-us/defender-endpoint/ai-agent-runtime-protection-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c7-4](c7-4.md), [c7-5](c7-5.md)
 
@@ -378,7 +378,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Governance and lifecycle actions for agents in the Microsoft 365 admin center
 - URL: https://learn.microsoft.com/en-us/microsoft-365/admin/manage/agent-actions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -386,7 +386,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Protect AI agents in real time using Microsoft Defender
 - URL: https://learn.microsoft.com/en-us/defender-xdr/security-for-ai/ai-agent-real-time-protection
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -394,7 +394,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: AI agent runtime protection with Microsoft Defender for Endpoint (Preview)
 - URL: https://learn.microsoft.com/en-us/defender-endpoint/ai-agent-runtime-protection-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -402,7 +402,7 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Data handling, data residency and compliance in Agent 365 observability
 - URL: https://learn.microsoft.com/en-us/microsoft-agent-365/admin/data-residency-protection-compliance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -410,6 +410,6 @@ Every source the Microsoft Agent 365 cells cite, with its tier from the knowledg
 
 - Title: Australian Government IRAP - Microsoft Compliance
 - URL: https://learn.microsoft.com/en-us/compliance/regulatory/offering-irap-australia
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

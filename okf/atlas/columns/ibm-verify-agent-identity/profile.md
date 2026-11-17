@@ -33,7 +33,8 @@ Column group: Identity, access and secrets. Facts are agent-run. Cells listed as
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 2 |
+| verified | 44 |
 
 ## Products
 
@@ -69,7 +70,7 @@ Column group: Identity, access and secrets. Facts are agent-run. Cells listed as
 | [Behavioural](c5-2.md) | Observability & Explainability | out-of-scope | verified | yes |
 | [Cost & Yield](c5-3.md) | Observability & Explainability | out-of-scope | verified | yes |
 | [Infrastructure](c5-4.md) | Observability & Explainability | out-of-scope | verified | yes |
-| [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |
+| [Connectivity](c5-5.md) | Observability & Explainability | not-covered | agent-checked | yes |
 | [Administrative Audit](c7-1.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [SOC Telemetry](c7-2.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Model Assurance](c7-3.md) | Agentic MLSecOps | out-of-scope | verified | yes |
@@ -77,7 +78,7 @@ Column group: Identity, access and secrets. Facts are agent-run. Cells listed as
 | [First-Party Tool Assurance](c7-5.md) | Agentic MLSecOps | out-of-scope | verified | yes |
 | [Third-Party Tool Assurance](c7-6.md) | Agentic MLSecOps | out-of-scope | verified | yes |
 | [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | out-of-scope | verified | yes |
-| [AI Discovery](c7-9.md) | Agentic MLSecOps | not-covered | verified | yes |
+| [AI Discovery](c7-9.md) | Agentic MLSecOps | not-covered | agent-checked | yes |
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | out-of-scope | verified | yes |
 | [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | verified | yes |
 | [Registration & Approval Workflows](c6-2.md) | Governance | not-covered | verified | yes |

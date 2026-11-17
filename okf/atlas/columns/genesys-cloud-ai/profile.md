@@ -33,7 +33,8 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 3 |
+| verified | 43 |
 
 ## Products
 
@@ -56,7 +57,7 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | [Agent Remote Scopes](c1-2.md) | Authorisation | covered | verified | yes |
 | [Human Approval](c1-3.md) | Authorisation | not-covered | verified | yes |
 | [Agent Provisioning](c1-4.md) | Authorisation | covered | verified | yes |
-| [Agent Orchestration](c2-1.md) | Runtime | not-covered | verified | yes |
+| [Agent Orchestration](c2-1.md) | Runtime | not-covered | agent-checked | yes |
 | [Inference](c2-2.md) | Runtime | not-covered | verified | yes |
 | [Execution Environment](c2-3.md) | Runtime | out-of-scope | verified | yes |
 | [Agent In-Session Memory](c2-4.md) | Runtime | not-covered | verified | yes |
@@ -68,9 +69,9 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [HITL](c5-1.md) | Observability & Explainability | not-covered | verified | yes |
-| [Behavioural](c5-2.md) | Observability & Explainability | not-covered | verified | yes |
+| [Behavioural](c5-2.md) | Observability & Explainability | not-covered | agent-checked | yes |
 | [Cost & Yield](c5-3.md) | Observability & Explainability | not-covered | verified | yes |
-| [Infrastructure](c5-4.md) | Observability & Explainability | not-covered | verified | yes |
+| [Infrastructure](c5-4.md) | Observability & Explainability | not-covered | agent-checked | yes |
 | [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |
 | [Administrative Audit](c7-1.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [SOC Telemetry](c7-2.md) | Agentic MLSecOps | not-covered | verified | yes |

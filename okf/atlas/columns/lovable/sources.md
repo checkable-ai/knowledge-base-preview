@@ -206,7 +206,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.lovable.dev/features/agent-mode.md
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-7](c2-7.md)
 
@@ -214,7 +214,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.lovable.dev/integrations/chat-connectors
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-3](c1-3.md), [c2-5](c2-5.md)
 
@@ -222,7 +222,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.lovable.dev/integrations/admin-controls
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-2](c1-2.md)
 
@@ -230,7 +230,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Quoted by the confirm agents
 - URL: https://lovable.dev/blog/lovable-security
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-13](c6-13.md)
 
@@ -238,7 +238,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.lovable.dev/introduction/lovable-for-enterprise.md
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md)
 
@@ -246,7 +246,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.lovable.dev/integrations/desktop-app
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-1](c1-1.md)
 
@@ -254,7 +254,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.lovable.dev/integrations/lovable-mcp-server
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c4-3](c4-3.md)
 
@@ -262,7 +262,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.lovable.dev/features/database-performance.md
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-4](c5-4.md)
 
@@ -270,7 +270,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Lovable documentation index (llms.txt)
 - URL: https://docs.lovable.dev/llms.txt
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-1](c6-1.md), [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -278,7 +278,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Lovable for Enterprise
 - URL: https://docs.lovable.dev/introduction/lovable-for-enterprise.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-3](c2-3.md), [c2-4](c2-4.md), [c3-1](c3-1.md), [c3-3](c3-3.md), [c5-3](c5-3.md), [c5-4](c5-4.md), [c6-11](c6-11.md), [c6-13](c6-13.md), [c6-4](c6-4.md), [c7-1](c7-1.md), [c7-5](c7-5.md), [c7-8](c7-8.md)
 
@@ -286,7 +286,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Security overview
 - URL: https://docs.lovable.dev/features/security.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-2](c4-2.md), [c5-1](c5-1.md), [c6-8](c6-8.md), [c7-5](c7-5.md), [c7-6](c7-6.md), [c7-8](c7-8.md)
 
@@ -294,7 +294,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Project security view
 - URL: https://docs.lovable.dev/features/security-view.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-9](c6-9.md)
 
@@ -302,7 +302,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Trust center
 - URL: https://docs.lovable.dev/features/trust-center.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-11](c6-11.md), [c7-5](c7-5.md)
 
@@ -310,7 +310,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Privacy and security settings
 - URL: https://docs.lovable.dev/features/privacy-and-security-settings.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-1](c1-1.md), [c1-2](c1-2.md), [c2-2](c2-2.md), [c2-3](c2-3.md), [c2-5](c2-5.md), [c6-10](c6-10.md), [c6-12](c6-12.md), [c6-5](c6-5.md), [c7-3](c7-3.md)
 
@@ -318,7 +318,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Workspace policies
 - URL: https://docs.lovable.dev/features/workspace-policies.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-3](c1-3.md), [c3-3](c3-3.md), [c6-2](c6-2.md), [c6-4](c6-4.md), [c6-9](c6-9.md)
 
@@ -326,7 +326,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Action center
 - URL: https://docs.lovable.dev/features/action-center.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-3](c1-3.md), [c2-7](c2-7.md), [c5-2](c5-2.md), [c6-6](c6-6.md), [c6-7](c6-7.md)
 
@@ -334,7 +334,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: EU inference
 - URL: https://docs.lovable.dev/features/eu-inference.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md)
 
@@ -342,7 +342,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Workspace security center
 - URL: https://docs.lovable.dev/features/security-center.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-5](c5-5.md), [c6-3](c6-3.md)
 
@@ -350,7 +350,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Security insights
 - URL: https://docs.lovable.dev/features/security-insights.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-3](c6-3.md), [c6-7](c6-7.md), [c7-9](c7-9.md)
 
@@ -358,7 +358,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Audit logs
 - URL: https://docs.lovable.dev/features/audit-logs.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-1](c4-1.md), [c6-8](c6-8.md), [c7-1](c7-1.md)
 
@@ -366,7 +366,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Export audit logs to your SIEM or cloud storage
 - URL: https://docs.lovable.dev/features/data-exports.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c7-2](c7-2.md)
 
@@ -374,7 +374,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Manage training data and privacy
 - URL: https://docs.lovable.dev/features/business/data-opt-out.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-10](c6-10.md)
 
@@ -382,7 +382,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Set up SCIM user provisioning
 - URL: https://docs.lovable.dev/features/business/scim.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-4](c1-4.md)
 
@@ -390,7 +390,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Manage workspace members from the People tab
 - URL: https://docs.lovable.dev/features/people.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-3](c5-3.md)
 
@@ -398,7 +398,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Collaboration
 - URL: https://docs.lovable.dev/features/collaboration.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-1](c2-1.md), [c5-1](c5-1.md)
 
@@ -406,7 +406,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Control project access
 - URL: https://docs.lovable.dev/features/project-visibility.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-4](c2-4.md)
 
@@ -414,7 +414,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Set up enterprise-managed authentication
 - URL: https://docs.lovable.dev/features/enterprise-managed-auth.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-3](c4-3.md)
 
@@ -422,7 +422,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Manage connectors in your workspace
 - URL: https://docs.lovable.dev/integrations/admin-controls.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-2](c1-2.md), [c5-5](c5-5.md), [c6-12](c6-12.md)
 
@@ -430,7 +430,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Integration security
 - URL: https://docs.lovable.dev/integrations/security.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c3-4](c3-4.md), [c4-2](c4-2.md), [c4-3](c4-3.md), [c5-4](c5-4.md)
 
@@ -438,7 +438,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: MCP registries
 - URL: https://docs.lovable.dev/integrations/mcp-registries.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-4](c3-4.md), [c7-6](c7-6.md)
 
@@ -446,7 +446,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Chat connectors: Connect your tools to Lovable using MCP servers
 - URL: https://docs.lovable.dev/integrations/chat-connectors.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-3](c4-3.md)
 
@@ -454,7 +454,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Connect a custom MCP server as a chat connector
 - URL: https://docs.lovable.dev/integrations/custom-mcp.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-2](c3-2.md)
 
@@ -462,7 +462,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Memory: what Lovable remembers as you build
 - URL: https://docs.lovable.dev/features/memory.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-6](c2-6.md)
 
@@ -470,7 +470,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Instructions
 - URL: https://docs.lovable.dev/features/knowledge.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-4](c1-4.md), [c2-5](c2-5.md)
 
@@ -478,7 +478,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Define reusable instructions with skills
 - URL: https://docs.lovable.dev/features/skills.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-4](c1-4.md)
 
@@ -486,7 +486,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Implement changes in Build mode
 - URL: https://docs.lovable.dev/features/agent-mode.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-1](c2-1.md), [c2-5](c2-5.md)
 
@@ -494,7 +494,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Subagents
 - URL: https://docs.lovable.dev/features/subagents.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-1](c2-1.md), [c4-4](c4-4.md)
 
@@ -502,7 +502,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Create and manage API keys
 - URL: https://docs.lovable.dev/features/api-keys.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-2](c1-2.md), [c2-7](c2-7.md), [c4-1](c4-1.md), [c4-2](c4-2.md)
 
@@ -510,7 +510,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Lovable MCP server
 - URL: https://docs.lovable.dev/integrations/lovable-mcp-server.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-4](c3-4.md), [c4-3](c4-3.md)
 
@@ -518,7 +518,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Usage limits and alerts
 - URL: https://docs.lovable.dev/features/usage-limits-and-alerts.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-7](c2-7.md), [c3-1](c3-1.md)
 
@@ -526,7 +526,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: FAQ
 - URL: https://docs.lovable.dev/introduction/faq.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-2](c2-2.md), [c7-3](c7-3.md)
 
@@ -534,7 +534,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Run AI-powered penetration tests with Aikido
 - URL: https://docs.lovable.dev/integrations/aikido.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-11](c6-11.md), [c7-10](c7-10.md)
 
@@ -542,7 +542,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Build secrets
 - URL: https://docs.lovable.dev/features/build-secrets.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-2](c4-2.md)
 
@@ -550,7 +550,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Publish your app as an MCP server
 - URL: https://docs.lovable.dev/features/agent-integrations.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-4](c4-4.md)
 
@@ -558,7 +558,7 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Control who can access your app's data
 - URL: https://docs.lovable.dev/features/database-access.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c7-8](c7-8.md)
 
@@ -566,6 +566,6 @@ Every source the Lovable cells cite, with its tier from the knowledge base's sou
 
 - Title: Lovable security page
 - URL: https://lovable.dev/security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-3](c2-3.md), [c5-2](c5-2.md), [c6-13](c6-13.md), [c7-4](c7-4.md)

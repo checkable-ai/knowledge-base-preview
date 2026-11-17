@@ -146,7 +146,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.openwebui.com/features/authentication-access/rbac/groups
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-8](c7-8.md)
 
@@ -154,7 +154,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.openwebui.com/features/extensibility/mcp
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-5](c2-5.md)
 
@@ -162,7 +162,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Open WebUI for Enterprise
 - URL: https://docs.openwebui.com/enterprise
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-13](c6-13.md), [c7-3](c7-3.md)
 
@@ -170,7 +170,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Security (Enterprise)
 - URL: https://docs.openwebui.com/enterprise/security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-3](c2-3.md), [c3-2](c3-2.md), [c6-10](c6-10.md), [c6-11](c6-11.md), [c6-13](c6-13.md), [c7-2](c7-2.md), [c7-4](c7-4.md)
 
@@ -178,7 +178,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Architecture and High Availability
 - URL: https://docs.openwebui.com/enterprise/architecture
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-4](c5-4.md), [c7-8](c7-8.md)
 
@@ -186,7 +186,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Role-Based Access Control (RBAC)
 - URL: https://docs.openwebui.com/features/authentication-access/rbac
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-1](c3-1.md)
 
@@ -194,7 +194,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Permissions
 - URL: https://docs.openwebui.com/features/authentication-access/rbac/permissions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-1](c1-1.md), [c5-1](c5-1.md), [c6-2](c6-2.md), [c6-4](c6-4.md)
 
@@ -202,7 +202,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Groups
 - URL: https://docs.openwebui.com/features/authentication-access/rbac/groups
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-1](c4-1.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-6](c6-6.md), [c6-9](c6-9.md)
 
@@ -210,7 +210,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: API Keys
 - URL: https://docs.openwebui.com/features/authentication-access/api-keys
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-7](c2-7.md), [c4-1](c4-1.md), [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -218,7 +218,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Model Context Protocol (MCP)
 - URL: https://docs.openwebui.com/features/extensibility/mcp
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c3-4](c3-4.md), [c4-3](c4-3.md), [c4-4](c4-4.md), [c5-5](c5-5.md), [c6-12](c6-12.md), [c6-2](c6-2.md)
 
@@ -226,7 +226,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Filter Function: Modify Inputs and Outputs
 - URL: https://docs.openwebui.com/features/extensibility/plugin/functions/filter
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-3](c3-3.md)
 
@@ -234,7 +234,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Tools
 - URL: https://docs.openwebui.com/features/extensibility/plugin/tools
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-2](c1-2.md), [c1-3](c1-3.md), [c3-2](c3-2.md), [c3-3](c3-3.md), [c4-3](c4-3.md), [c5-1](c5-1.md)
 
@@ -242,7 +242,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Open Terminal Security Best Practices
 - URL: https://docs.openwebui.com/features/open-terminal/advanced/security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-1](c1-1.md), [c2-3](c2-3.md), [c2-7](c2-7.md), [c4-2](c4-2.md)
 
@@ -250,7 +250,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Code Execution
 - URL: https://docs.openwebui.com/features/chat-conversations/chat-features/code-execution
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-3](c2-3.md)
 
@@ -258,7 +258,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Memory and Personalization
 - URL: https://docs.openwebui.com/features/chat-conversations/memory
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-6](c2-6.md)
 
@@ -266,7 +266,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: OpenTelemetry
 - URL: https://docs.openwebui.com/reference/monitoring/otel
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-4](c5-4.md), [c7-2](c7-2.md)
 
@@ -274,7 +274,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Chat Data Privacy and Encryption
 - URL: https://docs.openwebui.com/security/chat-data-privacy-and-encryption
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-2](c2-2.md), [c2-4](c2-4.md), [c3-3](c3-3.md), [c6-10](c6-10.md), [c6-12](c6-12.md)
 
@@ -282,7 +282,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Hardening Open WebUI
 - URL: https://docs.openwebui.com/getting-started/advanced-topics/hardening
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-4](c1-4.md), [c2-2](c2-2.md), [c4-2](c4-2.md), [c6-3](c6-3.md), [c7-1](c7-1.md), [c7-2](c7-2.md), [c7-4](c7-4.md), [c7-5](c7-5.md), [c7-8](c7-8.md)
 
@@ -290,7 +290,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Evaluation
 - URL: https://docs.openwebui.com/features/administration/evaluation
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-1](c5-1.md), [c5-2](c5-2.md)
 
@@ -298,7 +298,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Analytics
 - URL: https://docs.openwebui.com/features/administration/analytics
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-4](c2-4.md), [c5-3](c5-3.md), [c6-3](c6-3.md), [c7-9](c7-9.md)
 
@@ -306,7 +306,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Webhook Integrations
 - URL: https://docs.openwebui.com/features/administration/webhooks
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-8](c6-8.md), [c7-2](c7-2.md)
 
@@ -314,7 +314,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Terminals (Orchestrator)
 - URL: https://docs.openwebui.com/features/open-terminal/terminals
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-3](c2-3.md), [c2-5](c2-5.md)
 
@@ -322,7 +322,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Terminals policies
 - URL: https://docs.openwebui.com/features/open-terminal/terminals/orchestration/policies
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-1](c1-1.md), [c1-4](c1-4.md), [c2-7](c2-7.md), [c7-4](c7-4.md)
 
@@ -330,7 +330,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Models workspace
 - URL: https://docs.openwebui.com/features/workspace/models
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-4](c1-4.md), [c2-2](c2-2.md), [c3-1](c3-1.md), [c6-5](c6-5.md), [c6-8](c6-8.md), [c7-3](c7-3.md)
 
@@ -338,7 +338,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Security Policy
 - URL: https://docs.openwebui.com/security/security-policy
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c7-10](c7-10.md)
 
@@ -346,7 +346,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Supply Chain and Security Scanners
 - URL: https://docs.openwebui.com/security/supply-chain-security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c7-10](c7-10.md)
 
@@ -354,7 +354,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Tools and Functions
 - URL: https://docs.openwebui.com/features/extensibility/plugin
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-5](c2-5.md), [c3-1](c3-1.md), [c6-1](c6-1.md), [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -362,7 +362,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Automations
 - URL: https://docs.openwebui.com/features/chat-conversations/chat-features/automations
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-1](c2-1.md)
 
@@ -370,7 +370,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Sub-agents
 - URL: https://docs.openwebui.com/features/chat-conversations/chat-features/subagents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-1](c2-1.md), [c3-4](c3-4.md), [c4-4](c4-4.md)
 
@@ -378,7 +378,7 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Community Plugins
 - URL: https://docs.openwebui.com/features/extensibility/community
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c7-6](c7-6.md)
 
@@ -386,6 +386,6 @@ Every source the Open WebUI cells cite, with its tier from the knowledge base's 
 
 - Title: Sovereign AI Platform
 - URL: https://docs.openwebui.com/enterprise/sovereign-ai
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-7](c6-7.md), [c7-9](c7-9.md)

@@ -150,7 +150,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: AI gateway in Azure API Management
 - URL: https://learn.microsoft.com/en-au/azure/api-management/genai-gateway-capabilities
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-1](c1-1.md), [c1-3](c1-3.md), [c1-4](c1-4.md), [c2-1](c2-1.md), [c2-2](c2-2.md), [c2-3](c2-3.md), [c2-4](c2-4.md), [c2-5](c2-5.md), [c2-6](c2-6.md), [c3-1](c3-1.md), [c5-1](c5-1.md), [c5-4](c5-4.md), [c6-1](c6-1.md), [c6-11](c6-11.md), [c6-5](c6-5.md), [c6-6](c6-6.md), [c6-7](c6-7.md), [c6-9](c6-9.md), [c7-10](c7-10.md), [c7-3](c7-3.md), [c7-4](c7-4.md), [c7-8](c7-8.md)
 
@@ -158,7 +158,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: What is AI Gateway?
 - URL: https://learn.microsoft.com/en-au/azure/api-management/ai-gateway-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-1](c1-1.md), [c1-3](c1-3.md), [c1-4](c1-4.md), [c2-1](c2-1.md), [c2-2](c2-2.md), [c2-3](c2-3.md), [c2-4](c2-4.md), [c2-5](c2-5.md), [c2-6](c2-6.md), [c4-1](c4-1.md), [c5-1](c5-1.md), [c6-11](c6-11.md), [c6-5](c6-5.md), [c6-6](c6-6.md), [c6-7](c6-7.md), [c6-9](c6-9.md), [c7-10](c7-10.md), [c7-3](c7-3.md), [c7-4](c7-4.md), [c7-8](c7-8.md)
 
@@ -166,7 +166,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: Govern tools with Microsoft Agent 365 and Azure API Management (preview)
 - URL: https://learn.microsoft.com/en-au/azure/api-management/agent-365
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-2](c1-2.md), [c2-7](c2-7.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-12](c6-12.md), [c6-2](c6-2.md), [c6-3](c6-3.md)
 
@@ -174,7 +174,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: Import an A2A agent API
 - URL: https://learn.microsoft.com/en-au/azure/api-management/agent-to-agent-api
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-4](c3-4.md), [c4-1](c4-1.md), [c4-4](c4-4.md)
 
@@ -182,7 +182,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: MCP server overview in API Management
 - URL: https://learn.microsoft.com/en-au/azure/api-management/mcp-server-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md)
 
@@ -190,7 +190,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: Secure access to MCP servers in API Management
 - URL: https://learn.microsoft.com/en-au/azure/api-management/secure-mcp-servers
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-3](c4-3.md)
 
@@ -198,7 +198,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: llm-token-limit policy
 - URL: https://learn.microsoft.com/en-au/azure/api-management/llm-token-limit-policy
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-1](c3-1.md)
 
@@ -206,7 +206,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: llm-content-safety policy
 - URL: https://learn.microsoft.com/en-au/azure/api-management/llm-content-safety-policy
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-1](c3-1.md), [c3-2](c3-2.md)
 
@@ -214,7 +214,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: llm-semantic-cache-lookup policy
 - URL: https://learn.microsoft.com/en-au/azure/api-management/llm-semantic-cache-lookup-policy
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-1](c3-1.md)
 
@@ -222,7 +222,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: AI Gateway tier of API Management now in public preview
 - URL: https://techcommunity.microsoft.com/blog/integrationsonazureblog/ai-gateway-tier-of-api-management-now-in-public-preview/4540170
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-11-18
 - Cited by: [c6-10](c6-10.md), [c6-2](c6-2.md), [c6-4](c6-4.md), [c6-8](c6-8.md), [c7-2](c7-2.md)
 
@@ -230,7 +230,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: AI Gateway concepts
 - URL: https://learn.microsoft.com/en-au/azure/ai-gateway/concepts
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-1](c3-1.md), [c4-2](c4-2.md), [c4-3](c4-3.md), [c5-3](c5-3.md), [c6-10](c6-10.md), [c6-8](c6-8.md)
 
@@ -238,7 +238,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: Protect tool calls with Defender and Purview in AI Gateway (preview)
 - URL: https://learn.microsoft.com/en-au/azure/ai-gateway/policy-tool-threat
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-2](c3-2.md), [c3-3](c3-3.md), [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -246,7 +246,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: About API credentials and credential manager
 - URL: https://learn.microsoft.com/en-au/azure/api-management/credentials-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -254,7 +254,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: Use managed identities in Azure API Management
 - URL: https://learn.microsoft.com/en-au/azure/api-management/api-management-howto-use-managed-service-identity
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-2](c4-2.md)
 
@@ -262,7 +262,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: Monitor Azure API Management
 - URL: https://learn.microsoft.com/en-au/azure/api-management/monitor-api-management
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-4](c5-4.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -270,7 +270,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: Virtual network concepts for Azure API Management
 - URL: https://learn.microsoft.com/en-au/azure/api-management/virtual-network-concepts
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -278,7 +278,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: llm-emit-token-metric policy
 - URL: https://learn.microsoft.com/en-au/azure/api-management/llm-emit-token-metric-policy
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-3](c5-3.md)
 
@@ -286,7 +286,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: Register and discover remote MCP servers in Azure API Center
 - URL: https://learn.microsoft.com/en-au/azure/api-center/register-discover-mcp-server
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-1](c6-1.md), [c6-2](c6-2.md), [c7-6](c7-6.md)
 
@@ -294,7 +294,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: What is Azure API Center?
 - URL: https://learn.microsoft.com/en-au/azure/api-center/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c7-9](c7-9.md)
 
@@ -302,7 +302,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: Azure API Management policy reference
 - URL: https://learn.microsoft.com/en-au/azure/api-management/api-management-policies
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-4](c4-4.md), [c6-4](c6-4.md)
 
@@ -310,7 +310,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: Expose and govern an existing MCP server
 - URL: https://learn.microsoft.com/en-au/azure/api-management/expose-existing-mcp-server
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-12](c6-12.md)
 
@@ -318,7 +318,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: Expose a REST API in API Management as an MCP server
 - URL: https://learn.microsoft.com/en-au/azure/api-management/export-rest-mcp-server
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-2](c1-2.md)
 
@@ -326,7 +326,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: Australia IRAP offering
 - URL: https://learn.microsoft.com/en-au/azure/compliance/offerings/offering-australia-irap
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -334,7 +334,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: Enable advanced API security features using Microsoft Defender for Cloud
 - URL: https://learn.microsoft.com/en-au/azure/api-management/protect-with-defender-for-apis
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-2](c5-2.md), [c6-3](c6-3.md), [c7-2](c7-2.md)
 
@@ -342,7 +342,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: Manage Tools Gateway in Microsoft 365 admin center (Agent 365)
 - URL: https://learn.microsoft.com/en-au/microsoft-agent-365/admin/manage-tools-gateway
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-5](c5-5.md), [c7-9](c7-9.md)
 
@@ -350,7 +350,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/azure/api-center/metadata
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-6](c6-6.md)
 
@@ -358,7 +358,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/azure/api-management/api-management-revisions
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-8](c6-8.md)
 
@@ -366,7 +366,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/azure/api-center/key-concepts
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-5](c6-5.md)
 
@@ -374,7 +374,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/azure/api-management/mcp-server-overview
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-2](c3-2.md)
 
@@ -382,7 +382,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-au/azure/api-management/genai-gateway-capabilities
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-3](c5-3.md)
 
@@ -390,7 +390,7 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/azure/api-management/security-controls-policy
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-11](c6-11.md)
 
@@ -398,6 +398,6 @@ Every source the Azure API Management AI Gateway cells cite, with its tier from 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/azure/api-management/genai-gateway-capabilities
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-2](c2-2.md)

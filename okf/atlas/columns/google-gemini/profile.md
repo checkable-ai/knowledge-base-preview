@@ -34,7 +34,8 @@ Column group: Frontier AI providers. Facts are agent-run. Cells listed as eligib
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 5 |
+| verified | 41 |
 
 ## Products
 
@@ -58,21 +59,21 @@ Column group: Frontier AI providers. Facts are agent-run. Cells listed as eligib
 | [Human Approval](c1-3.md) | Authorisation | covered | verified | yes |
 | [Agent Provisioning](c1-4.md) | Authorisation | covered | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | covered | verified | yes |
-| [Inference](c2-2.md) | Runtime | covered | verified | yes |
+| [Inference](c2-2.md) | Runtime | covered | agent-checked | yes |
 | [Execution Environment](c2-3.md) | Runtime | covered | verified | yes |
-| [Agent In-Session Memory](c2-4.md) | Runtime | covered | verified | yes |
+| [Agent In-Session Memory](c2-4.md) | Runtime | covered | agent-checked | yes |
 | [Harness](c2-5.md) | Runtime | covered | verified | yes |
 | [Agent Persistent Memory](c2-6.md) | Runtime | covered | verified | yes |
 | [Execution Containment & Kill Switch](c2-7.md) | Runtime | covered | verified | yes |
 | [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
-| [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | covered | verified | yes |
+| [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | covered | agent-checked | yes |
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [HITL](c5-1.md) | Observability & Explainability | covered | verified | yes |
 | [Behavioural](c5-2.md) | Observability & Explainability | not-covered | verified | yes |
 | [Cost & Yield](c5-3.md) | Observability & Explainability | not-covered | verified | yes |
 | [Infrastructure](c5-4.md) | Observability & Explainability | covered | verified | yes |
-| [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |
+| [Connectivity](c5-5.md) | Observability & Explainability | not-covered | agent-checked | yes |
 | [Administrative Audit](c7-1.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [SOC Telemetry](c7-2.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Model Assurance](c7-3.md) | Agentic MLSecOps | not-covered | verified | yes |
@@ -85,7 +86,7 @@ Column group: Frontier AI providers. Facts are agent-run. Cells listed as eligib
 | [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | verified | yes |
 | [Registration & Approval Workflows](c6-2.md) | Governance | covered | verified | yes |
 | [Posture & Reporting](c6-3.md) | Governance | out-of-scope | verified | yes |
-| [Policy Management](c6-4.md) | Governance | out-of-scope | verified | yes |
+| [Policy Management](c6-4.md) | Governance | out-of-scope | agent-checked | yes |
 | [AI Lifecycle Management](c6-5.md) | Governance | not-covered | verified | yes |
 | [Ownership & Accountability](c6-6.md) | Governance | not-covered | verified | yes |
 | [Risk Assessment & Classification](c6-7.md) | Governance | out-of-scope | verified | yes |

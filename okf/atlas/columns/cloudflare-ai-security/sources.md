@@ -150,7 +150,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: AI Gateway overview
 - URL: https://developers.cloudflare.com/ai-gateway/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c5-3](c5-3.md)
 
@@ -158,7 +158,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: AI Gateway: Data Loss Prevention (DLP)
 - URL: https://developers.cloudflare.com/ai-gateway/features/dlp/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md)
 
@@ -166,7 +166,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: AI Gateway: Set up Data Loss Prevention (DLP)
 - URL: https://developers.cloudflare.com/ai-gateway/features/dlp/set-up-dlp/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-3](c3-3.md)
 
@@ -174,7 +174,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: AI Gateway: Guardrails
 - URL: https://developers.cloudflare.com/ai-gateway/features/guardrails/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -182,7 +182,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: AI Gateway: Spend limits
 - URL: https://developers.cloudflare.com/ai-gateway/features/spend-limits/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c5-3](c5-3.md)
 
@@ -190,7 +190,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: AI Gateway: Rate limiting
 - URL: https://developers.cloudflare.com/ai-gateway/features/rate-limiting/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -198,7 +198,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: AI Gateway: Dynamic routing
 - URL: https://developers.cloudflare.com/ai-gateway/features/dynamic-routing/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-8](c6-8.md)
 
@@ -206,7 +206,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: AI Gateway: BYOK (Store Keys)
 - URL: https://developers.cloudflare.com/ai-gateway/configuration/bring-your-own-keys/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -214,7 +214,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: AI Gateway: Cloudflare Access
 - URL: https://developers.cloudflare.com/ai-gateway/configuration/cloudflare-access/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c4-1](c4-1.md), [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -222,7 +222,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: AI Gateway: Logging
 - URL: https://developers.cloudflare.com/ai-gateway/observability/logging/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-4](c5-4.md), [c6-10](c6-10.md), [c7-1](c7-1.md)
 
@@ -230,7 +230,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: AI Gateway: Logpush
 - URL: https://developers.cloudflare.com/ai-gateway/observability/logging/logpush/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md), [c7-2](c7-2.md)
 
@@ -238,7 +238,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: MCP server portals
 - URL: https://developers.cloudflare.com/cloudflare-one/access-controls/ai-controls/mcp-portals/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-4](c1-4.md), [c2-3](c2-3.md), [c3-2](c3-2.md), [c4-2](c4-2.md), [c4-3](c4-3.md), [c5-4](c5-4.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-10](c6-10.md), [c7-1](c7-1.md), [c7-2](c7-2.md), [c7-6](c7-6.md)
 
@@ -246,7 +246,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: Secure MCP servers
 - URL: https://developers.cloudflare.com/cloudflare-one/access-controls/ai-controls/secure-mcp-servers/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md)
 
@@ -254,7 +254,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: Gateway HTTP policies (Is MCP selector, Application Status)
 - URL: https://developers.cloudflare.com/cloudflare-one/traffic-policies/http-policies/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c6-2](c6-2.md), [c7-6](c7-6.md)
 
@@ -262,7 +262,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: Detect MCP traffic in Gateway logs
 - URL: https://developers.cloudflare.com/cloudflare-one/tutorials/detect-mcp-traffic-gateway-logs/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c7-2](c7-2.md)
 
@@ -270,7 +270,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: Shadow IT SaaS analytics
 - URL: https://developers.cloudflare.com/cloudflare-one/insights/analytics/shadow-it-discovery/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-12](c6-12.md), [c7-9](c7-9.md)
 
@@ -278,7 +278,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: Application Library
 - URL: https://developers.cloudflare.com/cloudflare-one/team-and-resources/app-library/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c6-12](c6-12.md), [c6-2](c6-2.md), [c6-7](c6-7.md)
 
@@ -286,7 +286,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: DLP predefined profiles (AI Prompt)
 - URL: https://developers.cloudflare.com/cloudflare-one/data-loss-prevention/dlp-profiles/predefined-profiles/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md)
 
@@ -294,7 +294,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: AI Security for Apps
 - URL: https://developers.cloudflare.com/waf/detections/ai-security-for-apps/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-3](c6-3.md), [c7-5](c7-5.md), [c7-9](c7-9.md)
 
@@ -302,7 +302,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: Audit Logs version 2
 - URL: https://developers.cloudflare.com/fundamentals/account/account-security/audit-logs/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-8](c6-8.md), [c7-1](c7-1.md)
 
@@ -310,7 +310,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: Changelog: Route MCP server portal traffic through Cloudflare Gateway (2026-03-20)
 - URL: https://developers.cloudflare.com/changelog/post/2026-03-20-mcp-portal-gateway-routing/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c3-3](c3-3.md)
 
@@ -318,7 +318,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: Changelog: MCP protocol detection and AI Security dashboard (2026-08-12)
 - URL: https://developers.cloudflare.com/changelog/post/2026-08-12-mcp-detection-and-dashboard/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md), [c6-3](c6-3.md), [c7-9](c7-9.md)
 
@@ -326,7 +326,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: Changelog: Service token support for MCP server portals (2026-06-26)
 - URL: https://developers.cloudflare.com/changelog/post/2026-06-26-mcp-portal-service-tokens/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-1](c4-1.md)
 
@@ -334,7 +334,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: Changelog: Static OAuth client credentials for MCP server portals (2026-07-31)
 - URL: https://developers.cloudflare.com/changelog/post/2026-07-31-mcp-portal-manual-oauth/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md)
 
@@ -342,7 +342,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: Cloudflare blog: Enterprise MCP
 - URL: https://blog.cloudflare.com/enterprise-mcp/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c2-3](c2-3.md), [c7-5](c7-5.md)
 
@@ -350,7 +350,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: MCP server portals
 - URL: https://developers.cloudflare.com/cloudflare-one/access-controls/ai-controls/mcp-portals/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -358,7 +358,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: Gateway HTTP policies
 - URL: https://developers.cloudflare.com/cloudflare-one/traffic-policies/http-policies/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -366,7 +366,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: Cloudflare IRAP PROTECTED assessment
 - URL: https://blog.cloudflare.com/irap-protected-assessment/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -374,7 +374,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: SOC 2
 - URL: https://www.cloudflare.com/trust-hub/compliance-resources/soc-2
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -382,7 +382,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: Quoted by the confirm agents
 - URL: https://developers.cloudflare.com/cloudflare-one/access-controls/service-credentials/service-tokens/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c4-2](c4-2.md)
 
@@ -390,7 +390,7 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: Quoted by the confirm agents
 - URL: https://www.cloudflare.com/trust-hub/compliance-resources/soc-2/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-13](c6-13.md)
 
@@ -398,6 +398,6 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 
 - Title: Quoted by the confirm agents
 - URL: https://developers.cloudflare.com/cloudflare-one/access-controls/ai-controls/mcp-portals/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-5](c2-5.md)

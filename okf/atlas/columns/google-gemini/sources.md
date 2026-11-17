@@ -238,7 +238,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Quoted by the confirm agents
 - URL: https://aistudio.google.com/docs/interactions-overview
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-4](c2-4.md), [c6-10](c6-10.md)
 
@@ -246,7 +246,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Quoted by the confirm agents
 - URL: https://jules.google/docs/code/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-1](c5-1.md)
 
@@ -254,7 +254,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.cloud.google.com/gemini/enterprise/docs/configure-personalization
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-6](c2-6.md)
 
@@ -262,7 +262,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.cloud.google.com/gemini/enterprise/docs/protect-sensitive-data
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-8](c7-8.md)
 
@@ -270,7 +270,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Quoted by the confirm agents
 - URL: https://aistudio.google.com/docs/agent-environment
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-7](c2-7.md)
 
@@ -278,7 +278,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Quoted by the confirm agents
 - URL: https://aistudio.google.com/docs/agents
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-2](c1-2.md), [c2-3](c2-3.md), [c2-5](c2-5.md)
 
@@ -286,7 +286,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.cloud.google.com/gemini/enterprise/docs/workflow-builder/share-chat-agent
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-2](c6-2.md)
 
@@ -294,7 +294,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Quoted by the confirm agents
 - URL: https://aistudio.google.com/docs/models
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-2](c2-2.md)
 
@@ -302,7 +302,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Quoted by the confirm agents
 - URL: https://aistudio.google.com/docs/agent-credentials
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c4-2](c4-2.md)
 
@@ -310,7 +310,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Quoted by the confirm agents
 - URL: https://aistudio.google.com/docs/antigravity-agent
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-1](c2-1.md)
 
@@ -318,7 +318,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini API Additional Terms of Service
 - URL: https://ai.google.dev/gemini-api/terms
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md)
 
@@ -326,7 +326,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini API rate limits
 - URL: https://ai.google.dev/gemini-api/docs/rate-limits
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md)
 
@@ -334,7 +334,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini models
 - URL: https://ai.google.dev/gemini-api/docs/models
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-5](c6-5.md), [c6-8](c6-8.md), [c7-3](c7-3.md)
 
@@ -342,7 +342,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini API safety settings
 - URL: https://ai.google.dev/gemini-api/docs/safety-settings
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -350,7 +350,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini API code execution
 - URL: https://ai.google.dev/gemini-api/docs/code-execution
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-3](c2-3.md)
 
@@ -358,7 +358,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Using Gemini API keys
 - URL: https://ai.google.dev/gemini-api/docs/api-key
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -366,7 +366,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Logs and datasets
 - URL: https://ai.google.dev/gemini-api/docs/logs-datasets
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md), [c5-2](c5-2.md), [c7-1](c7-1.md)
 
@@ -374,7 +374,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini API billing
 - URL: https://ai.google.dev/gemini-api/docs/billing
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c5-3](c5-3.md), [c5-4](c5-4.md)
 
@@ -382,7 +382,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Interactions API overview
 - URL: https://ai.google.dev/gemini-api/docs/interactions-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-4](c2-4.md), [c6-10](c6-10.md)
 
@@ -390,7 +390,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini API agents overview (managed agents)
 - URL: https://ai.google.dev/gemini-api/docs/agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c2-3](c2-3.md), [c2-5](c2-5.md), [c4-1](c4-1.md), [c4-2](c4-2.md), [c7-4](c7-4.md)
 
@@ -398,7 +398,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Access Gemini Enterprise usage audit logs with Cloud Logging
 - URL: https://docs.cloud.google.com/gemini/enterprise/docs/set-up-usage-audit-logs
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -406,7 +406,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Access Gemini Enterprise Cloud Audit Logs
 - URL: https://docs.cloud.google.com/gemini/enterprise/docs/audit-logging
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-1](c4-1.md), [c6-11](c6-11.md), [c6-8](c6-8.md), [c7-1](c7-1.md)
 
@@ -414,7 +414,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Enable Model Armor in Gemini Enterprise
 - URL: https://docs.cloud.google.com/gemini/enterprise/docs/enable-model-armor
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-3](c3-3.md), [c7-2](c7-2.md)
 
@@ -422,7 +422,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Register and manage A2A agents
 - URL: https://docs.cloud.google.com/gemini/enterprise/docs/register-and-manage-an-a2a-agent
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c3-4](c3-4.md), [c4-2](c4-2.md), [c4-3](c4-3.md), [c4-4](c4-4.md), [c6-1](c6-1.md), [c6-2](c6-2.md)
 
@@ -430,7 +430,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini Enterprise agents overview
 - URL: https://docs.cloud.google.com/gemini/enterprise/docs/agents-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c2-1](c2-1.md), [c4-1](c4-1.md), [c6-1](c6-1.md), [c6-5](c6-5.md), [c6-6](c6-6.md)
 
@@ -438,7 +438,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Share an agent
 - URL: https://docs.cloud.google.com/gemini/enterprise/docs/agent-designer/share-agent
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c4-3](c4-3.md), [c6-2](c6-2.md), [c6-6](c6-6.md)
 
@@ -446,7 +446,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Compliance certifications and security controls
 - URL: https://docs.cloud.google.com/gemini/enterprise/docs/compliance-security-controls
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c6-10](c6-10.md), [c6-11](c6-11.md), [c7-3](c7-3.md), [c7-4](c7-4.md), [c7-8](c7-8.md)
 
@@ -454,7 +454,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini Enterprise security overview
 - URL: https://docs.cloud.google.com/gemini/enterprise/docs/security-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c6-10](c6-10.md), [c7-2](c7-2.md), [c7-5](c7-5.md)
 
@@ -462,7 +462,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: View and export analytics data
 - URL: https://docs.cloud.google.com/gemini/enterprise/docs/view-analytics
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c5-3](c5-3.md)
 
@@ -470,7 +470,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: The discoveryengine.managed.allowedDataSources managed organization policy
 - URL: https://docs.cloud.google.com/gemini/enterprise/docs/connectors/configure-allowed-data-sources
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c6-12](c6-12.md), [c7-8](c7-8.md)
 
@@ -478,7 +478,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Configure granular access controls for apps and data stores
 - URL: https://docs.cloud.google.com/gemini/enterprise/docs/iam-policy-for-apps-and-data-stores
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-3](c3-3.md)
 
@@ -486,7 +486,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Use connector actions
 - URL: https://docs.cloud.google.com/gemini/enterprise/docs/workflow-builder/use-connector-actions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md)
 
@@ -494,7 +494,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Introduction to connectors and data stores
 - URL: https://docs.cloud.google.com/gemini/enterprise/docs/introduction-to-connectors-and-data-stores
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-8](c7-8.md)
 
@@ -502,7 +502,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Configure personalization and memory
 - URL: https://docs.cloud.google.com/gemini/enterprise/docs/personalization
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-6](c2-6.md)
 
@@ -510,7 +510,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Manage web app features
 - URL: https://docs.cloud.google.com/gemini/enterprise/docs/manage-web-app-features
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c6-2](c6-2.md)
 
@@ -518,7 +518,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini CLI for the enterprise
 - URL: https://geminicli.com/docs/cli/enterprise/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c3-2](c3-2.md), [c6-12](c6-12.md), [c7-4](c7-4.md), [c7-5](c7-5.md)
 
@@ -526,7 +526,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini CLI sandboxing
 - URL: https://geminicli.com/docs/cli/sandbox/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-3](c2-3.md)
 
@@ -534,7 +534,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini CLI observability with OpenTelemetry
 - URL: https://geminicli.com/docs/cli/telemetry/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md), [c5-4](c5-4.md), [c7-2](c7-2.md)
 
@@ -542,7 +542,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini CLI policy engine
 - URL: https://geminicli.com/docs/reference/policy-engine/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c1-2](c1-2.md), [c1-3](c1-3.md), [c2-5](c2-5.md), [c3-2](c3-2.md), [c5-1](c5-1.md)
 
@@ -550,7 +550,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini CLI trusted folders
 - URL: https://geminicli.com/docs/cli/trusted-folders/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c7-5](c7-5.md)
 
@@ -558,7 +558,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini CLI session management
 - URL: https://geminicli.com/docs/cli/session-management/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c6-10](c6-10.md)
 
@@ -566,7 +566,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini CLI extensions
 - URL: https://geminicli.com/docs/extensions/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-6](c7-6.md)
 
@@ -574,7 +574,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini CLI checkpointing
 - URL: https://geminicli.com/docs/cli/checkpointing/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md)
 
@@ -582,7 +582,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini CLI memory tool
 - URL: https://geminicli.com/docs/tools/memory/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-6](c2-6.md)
 
@@ -590,7 +590,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Jules documentation
 - URL: https://jules.google/docs/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c2-3](c2-3.md)
 
@@ -598,7 +598,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini CLI: Sandboxing
 - URL: https://geminicli.com/docs/cli/sandbox/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -606,7 +606,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini CLI for the enterprise
 - URL: https://geminicli.com/docs/cli/enterprise/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -614,7 +614,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini API: Agents
 - URL: https://ai.google.dev/gemini-api/docs/agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -622,7 +622,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini API: Interactions API overview
 - URL: https://ai.google.dev/gemini-api/docs/interactions-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -630,7 +630,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini Enterprise: Agents overview
 - URL: https://docs.cloud.google.com/gemini/enterprise/docs/agents-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -638,7 +638,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Gemini Enterprise: Compliance and security controls
 - URL: https://docs.cloud.google.com/gemini/enterprise/docs/compliance-security-controls
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -646,7 +646,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Google Cloud compliance: IRAP
 - URL: https://cloud.google.com/security/compliance/irap
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -654,7 +654,7 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Google Cloud compliance: ISO/IEC 42001
 - URL: https://cloud.google.com/security/compliance/iso-42001
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -662,6 +662,6 @@ Every source the Google Gemini cells cite, with its tier from the knowledge base
 
 - Title: Jules documentation
 - URL: https://jules.google/docs/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)

@@ -198,7 +198,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: AuthZed llms.txt
 - URL: https://authzed.com/llms.txt
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-2](c2-2.md), [c7-6](c7-6.md)
 
@@ -206,7 +206,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Audit Logging
 - URL: https://authzed.com/docs/authzed/concepts/audit-logging
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-11](c6-11.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -214,7 +214,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Restricted API Access
 - URL: https://authzed.com/docs/authzed/concepts/restricted-api-access
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-4](c1-4.md), [c4-1](c4-1.md), [c4-2](c4-2.md), [c6-4](c6-4.md)
 
@@ -222,7 +222,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Rate Limiting
 - URL: https://authzed.com/docs/authzed/concepts/rate-limiting
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-1](c3-1.md), [c3-2](c3-2.md)
 
@@ -230,7 +230,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Security Embargo
 - URL: https://authzed.com/docs/authzed/concepts/security-embargo
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c7-4](c7-4.md)
 
@@ -238,7 +238,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Workload Isolation
 - URL: https://authzed.com/docs/authzed/concepts/workload-isolation
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c7-4](c7-4.md)
 
@@ -246,7 +246,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Management Dashboard
 - URL: https://authzed.com/docs/authzed/concepts/management-dashboard
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-3](c6-3.md)
 
@@ -254,7 +254,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Authorization for AI Applications
 - URL: https://authzed.com/ai-authorization
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-3](c1-3.md), [c2-7](c2-7.md), [c6-7](c6-7.md)
 
@@ -262,7 +262,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Writing Relationships that Expire
 - URL: https://authzed.com/docs/spicedb/concepts/expiring-relationships
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-4](c1-4.md), [c6-9](c6-9.md)
 
@@ -270,7 +270,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Access Control Audit
 - URL: https://authzed.com/docs/spicedb/modeling/access-control-audit
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-5](c5-5.md)
 
@@ -278,7 +278,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Watching Relationship Changes
 - URL: https://authzed.com/docs/spicedb/concepts/watch
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-10](c6-10.md), [c6-8](c6-8.md), [c7-1](c7-1.md)
 
@@ -286,7 +286,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Caveats
 - URL: https://authzed.com/docs/spicedb/concepts/caveats
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-9](c6-9.md)
 
@@ -294,7 +294,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Observability Tooling
 - URL: https://authzed.com/docs/spicedb/ops/observability
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-4](c5-4.md), [c6-10](c6-10.md), [c7-2](c7-2.md)
 
@@ -302,7 +302,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: AuthZed Trust Center
 - URL: https://authzed.com/security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-11](c6-11.md), [c6-12](c6-12.md), [c6-13](c6-13.md), [c7-10](c7-10.md)
 
@@ -310,7 +310,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Update Channels
 - URL: https://authzed.com/docs/authzed/concepts/update-channels
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -318,7 +318,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Open Agent Primitives: How We Build AI Agents We Actually Trust
 - URL: https://authzed.com/blog/open-agent-primitives
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-3](c1-3.md), [c2-1](c2-1.md), [c2-2](c2-2.md), [c2-3](c2-3.md), [c2-4](c2-4.md), [c2-5](c2-5.md), [c2-6](c2-6.md), [c3-2](c3-2.md), [c4-1](c4-1.md), [c4-2](c4-2.md), [c5-1](c5-1.md), [c6-2](c6-2.md), [c6-5](c6-5.md), [c7-1](c7-1.md)
 
@@ -326,7 +326,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Model Context Protocol
 - URL: https://authzed.com/docs/mcp
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-4](c4-4.md)
 
@@ -334,7 +334,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: AuthZed pricing and plan comparison
 - URL: https://authzed.com/pricing
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-4](c1-4.md), [c5-3](c5-3.md), [c5-4](c5-4.md), [c6-13](c6-13.md), [c7-10](c7-10.md), [c7-2](c7-2.md), [c7-3](c7-3.md), [c7-5](c7-5.md)
 
@@ -342,7 +342,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Schema Language Reference
 - URL: https://authzed.com/docs/spicedb/concepts/schema
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-4](c6-4.md)
 
@@ -350,7 +350,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Introducing SpiceBox and spicedb-dev
 - URL: https://authzed.com/blog/spicedb-dev-and-spicebox-add-permissions-for-ai-coding-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-1](c1-1.md), [c1-3](c1-3.md), [c2-7](c2-7.md), [c3-2](c3-2.md)
 
@@ -358,7 +358,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: AuthZed MCP Server
 - URL: https://authzed.com/docs/mcp/authzed/authzed-mcp-server
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -366,7 +366,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Frequently-asked Questions
 - URL: https://authzed.com/docs/spicedb/getting-started/faq
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-3](c3-3.md), [c5-5](c5-5.md), [c7-9](c7-9.md)
 
@@ -374,7 +374,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: AuthZed Cloud
 - URL: https://authzed.com/products/authzed-cloud
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-2](c1-2.md)
 
@@ -382,7 +382,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: First steps
 - URL: https://authzed.com/docs/spicedb/getting-started/first-steps
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-4](c6-4.md)
 
@@ -390,7 +390,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: How SpiceDB Secures Authorization for AI
 - URL: https://authzed.com/blog/spicedb-secures-authorization-for-ai
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-2](c1-2.md), [c2-1](c2-1.md), [c2-3](c2-3.md), [c2-7](c2-7.md), [c3-1](c3-1.md), [c3-4](c3-4.md), [c4-1](c4-1.md), [c4-3](c4-3.md), [c4-4](c4-4.md), [c5-2](c5-2.md), [c6-1](c6-1.md), [c6-6](c6-6.md), [c7-3](c7-3.md)
 
@@ -398,7 +398,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Use SpiceDB with LangChain and LangGraph for RAG and AI Agent Authorization
 - URL: https://authzed.com/docs/spicedb/integrations/langchain-spicedb
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-3](c3-3.md), [c7-8](c7-8.md)
 
@@ -406,7 +406,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: RAG Authorization: Interactive Demo
 - URL: https://authzed.com/ai-authorization/rag-demo
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-3](c3-3.md), [c7-8](c7-8.md)
 
@@ -414,7 +414,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Quoted by the confirm agents
 - URL: https://openap.org/docs/sandboxed-execution
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-3](c2-3.md)
 
@@ -422,7 +422,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Quoted by the confirm agents
 - URL: https://openap.org/docs/giving-credentials
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c4-2](c4-2.md)
 
@@ -430,7 +430,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Quoted by the confirm agents
 - URL: https://openap.org/docs/toolspec-validation
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-2](c3-2.md)
 
@@ -438,7 +438,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Quoted by the confirm agents
 - URL: https://openap.org/docs/crd-agentidentity
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c4-1](c4-1.md)
 
@@ -446,7 +446,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Quoted by the confirm agents
 - URL: https://openap.org/docs/settings-config
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-1](c3-1.md)
 
@@ -454,7 +454,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Quoted by the confirm agents
 - URL: https://openap.org/docs/artifact-annotations
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-1](c5-1.md)
 
@@ -462,7 +462,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Quoted by the confirm agents
 - URL: https://openap.org/docs/admin-audit
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-3](c5-3.md)
 
@@ -470,7 +470,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Quoted by the confirm agents
 - URL: https://openap.org/docs/health-upgrades
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-4](c5-4.md)
 
@@ -478,7 +478,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Quoted by the confirm agents
 - URL: https://openap.org/docs/memory-authorization
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-6](c2-6.md)
 
@@ -486,7 +486,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Quoted by the confirm agents
 - URL: https://openap.org/docs/revocation
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-7](c2-7.md)
 
@@ -494,7 +494,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Quoted by the confirm agents
 - URL: https://openap.org/docs/agent-definition
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-4](c1-4.md)
 
@@ -502,7 +502,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Quoted by the confirm agents
 - URL: https://openap.org/docs/identity-modes
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c4-3](c4-3.md)
 
@@ -510,7 +510,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Quoted by the confirm agents
 - URL: https://openap.org/docs/owasp-top10
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-3](c1-3.md)
 
@@ -518,7 +518,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Quoted by the confirm agents
 - URL: https://authzed.com/blog/spicedb-dev-and-spicebox-add-permissions-for-ai-coding-agents
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-4](c7-4.md), [c7-5](c7-5.md)
 
@@ -526,7 +526,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Quoted by the confirm agents
 - URL: https://openap.org/docs/session-lifecycle
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-1](c2-1.md), [c2-4](c2-4.md)
 
@@ -534,7 +534,7 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Quoted by the confirm agents
 - URL: https://openap.org/docs/subagents-delegation
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-4](c3-4.md), [c4-4](c4-4.md)
 
@@ -542,6 +542,6 @@ Every source the AuthZed (SpiceDB) cells cite, with its tier from the knowledge 
 
 - Title: Quoted by the confirm agents
 - URL: https://openap.org/docs/information-leakage
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-3](c3-3.md)

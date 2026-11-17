@@ -230,7 +230,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/snowflake-cowork
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-6](c2-6.md)
 
@@ -238,7 +238,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Quoted by the confirm agents
 - URL: https://www.snowflake.com/en/blog/ISO-IEC-42001-AI-certification/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-13](c6-13.md)
 
@@ -246,7 +246,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-ai-gateway/tools/admin-activity
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-9](c7-9.md)
 
@@ -254,7 +254,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Cortex Agents
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c2-1](c2-1.md), [c2-2](c2-2.md), [c2-5](c2-5.md), [c4-3](c4-3.md), [c5-1](c5-1.md)
 
@@ -262,7 +262,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Cortex Agents access control and authentication
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents-setup
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-1](c4-1.md), [c4-3](c4-3.md), [c6-6](c6-6.md)
 
@@ -270,7 +270,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Cortex Agents MCP connectors
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents-mcp-connectors
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-4](c1-4.md), [c4-2](c4-2.md), [c6-12](c6-12.md), [c6-2](c6-2.md)
 
@@ -278,7 +278,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Cortex Agents code execution tool
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents-code-execution-tool
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c1-3](c1-3.md), [c2-3](c2-3.md), [c7-4](c7-4.md)
 
@@ -286,7 +286,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Monitor Cortex Agent requests
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents-monitor
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md)
 
@@ -294,7 +294,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Cortex Agent versioning
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents-versioning
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -302,7 +302,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Cortex AI Guardrails
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-ai-guardrails
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-2](c7-2.md)
 
@@ -310,7 +310,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Snowflake-managed MCP server
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents-mcp
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c4-4](c4-4.md)
 
@@ -318,7 +318,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Cortex AI Functions privileges and model access
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/aisql-privileges-and-access
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c6-12](c6-12.md)
 
@@ -326,7 +326,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Managing AI Function costs with Account Usage
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/ai-func-cost-management
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-9](c7-9.md)
 
@@ -334,7 +334,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Cortex AI Functions models and regional availability
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/aisql-regional-availability
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-5](c6-5.md), [c7-3](c7-3.md)
 
@@ -342,7 +342,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Cross-region inference
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cross-region-inference
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md), [c7-4](c7-4.md)
 
@@ -350,7 +350,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Use threads with Cortex Agents
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents-threads
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-4](c2-4.md)
 
@@ -358,7 +358,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Cortex Agents threads REST API
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents-threads-rest-api
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c2-6](c2-6.md), [c6-10](c6-10.md)
 
@@ -366,7 +366,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Cortex Agent skills
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents-skills
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-8](c6-8.md)
 
@@ -374,7 +374,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Overview of Snowflake CoWork
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/snowflake-intelligence
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-6](c2-6.md), [c6-10](c6-10.md)
 
@@ -382,7 +382,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: User access and settings for agents in Snowflake CoWork
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/snowflake-cowork/deploy-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c4-3](c4-3.md), [c6-2](c6-2.md)
 
@@ -390,7 +390,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Trust Center overview
 - URL: https://docs.snowflake.com/en/user-guide/trust-center/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c6-11](c6-11.md), [c6-3](c6-3.md), [c7-2](c7-2.md)
 
@@ -398,7 +398,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: AI observability in Snowflake Cortex
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/ai-observability
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c7-9](c7-9.md)
 
@@ -406,7 +406,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Cortex Agent evaluations
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents-evaluations
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c6-5](c6-5.md)
 
@@ -414,7 +414,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Snowflake Model Registry
 - URL: https://docs.snowflake.com/en/developer-guide/snowflake-ml/model-registry/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c7-3](c7-3.md)
 
@@ -422,7 +422,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: External network access overview
 - URL: https://docs.snowflake.com/en/developer-guide/external-network-access/external-network-access-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -430,7 +430,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Cortex Agents inaccessible tool handling
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents-inaccessible-tool-handling
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c2-5](c2-5.md), [c5-5](c5-5.md)
 
@@ -438,7 +438,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Configure and manage Cortex Agents
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents-manage
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-1](c4-1.md), [c4-4](c4-4.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-10](c6-10.md), [c6-12](c6-12.md), [c7-9](c7-9.md)
 
@@ -446,7 +446,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Cortex Agents run API
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents-run
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-3](c1-3.md), [c2-1](c2-1.md), [c2-5](c2-5.md)
 
@@ -454,7 +454,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: CREATE SECRET
 - URL: https://docs.snowflake.com/en/sql-reference/sql/create-secret
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -462,7 +462,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Cortex Search overview
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-search/cortex-search-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md), [c5-4](c5-4.md), [c7-8](c7-8.md)
 
@@ -470,7 +470,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Cortex Analyst
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-analyst
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md), [c6-10](c6-10.md)
 
@@ -478,7 +478,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Using contacts
 - URL: https://docs.snowflake.com/en/user-guide/contacts-using
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-6](c6-6.md)
 
@@ -486,7 +486,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Introduction to sensitive data classification
 - URL: https://docs.snowflake.com/en/user-guide/classify-intro
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c7-8](c7-8.md)
 
@@ -494,7 +494,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: AI_REDACT
 - URL: https://docs.snowflake.com/en/sql-reference/functions/ai_redact
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c7-8](c7-8.md)
 
@@ -502,7 +502,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Snowflake compliance
 - URL: https://docs.snowflake.com/en/user-guide/intro-compliance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c7-4](c7-4.md)
 
@@ -510,7 +510,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: AI_OBSERVABILITY_EVENTS event table reference
 - URL: https://docs.snowflake.com/en/sql-reference/local/ai_observability_events
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-4](c5-4.md), [c6-10](c6-10.md), [c7-2](c7-2.md)
 
@@ -518,7 +518,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Cortex AI Gateway
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-ai-gateway
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md), [c3-1](c3-1.md)
 
@@ -526,7 +526,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Cortex AI Gateway cost management
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-ai-gateway/cost-management
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c5-3](c5-3.md)
 
@@ -534,7 +534,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Cortex AI Gateway observability
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-ai-gateway/observability
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c7-1](c7-1.md)
 
@@ -542,7 +542,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Building the Modern AI Infrastructure Stack with Cortex AI Gateway
 - URL: https://www.snowflake.com/en/blog/cortex-ai-gateway-control-plane-enterprise-ai/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c3-1](c3-1.md), [c3-2](c3-2.md)
 
@@ -550,7 +550,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Snowflake Advances the Trusted Agentic Enterprise Era with Unified Monitoring and Cost Management
 - URL: https://www.snowflake.com/en/news/press-releases/snowflake-advances-the-trusted-agentic-enterprise-era-with-unified-monitoring-and-cost-management/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c3-2](c3-2.md)
 
@@ -558,7 +558,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Snowflake Announces Intent to Acquire Natoma
 - URL: https://www.snowflake.com/en/news/press-releases/snowflake-announces-intent-to-acquire-natoma-providing-secure-connectivity-for-the-agentic-enterprise
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c3-2](c3-2.md)
 
@@ -566,7 +566,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Per-user quotas
 - URL: https://docs.snowflake.com/en/user-guide/budgets/per-user-quotas
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md), [c3-1](c3-1.md)
 
@@ -574,7 +574,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Control model access for Cortex AI Functions
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/aisql-privileges-and-access
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c3-1](c3-1.md)
 
@@ -582,7 +582,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Cortex AI Guardrails
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-ai-guardrails
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c3-1](c3-1.md)
 
@@ -590,7 +590,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Cortex Agents MCP connectors
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents-mcp-connectors
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c3-2](c3-2.md)
 
@@ -598,7 +598,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Monitor Cortex Agent requests
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents-monitor
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c7-1](c7-1.md)
 
@@ -606,7 +606,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Cost management for Cortex AI Functions
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/ai-func-cost-management
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c5-3](c5-3.md)
 
@@ -614,7 +614,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Cortex Agent code execution tool
 - URL: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents-code-execution-tool
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -622,7 +622,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Regulatory compliance
 - URL: https://docs.snowflake.com/en/user-guide/intro-compliance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -630,7 +630,7 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Snowflake Completes IRAP Protected Assessment on Google Cloud Platform
 - URL: https://www.snowflake.com/en/blog/irap-protected-google-cloud/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -638,6 +638,6 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 
 - Title: Supported cloud regions
 - URL: https://docs.snowflake.com/en/user-guide/intro-regions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

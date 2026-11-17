@@ -122,7 +122,7 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: Shadow AI Discovery
 - URL: https://bigid.com/shadow-ai
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-12](c6-12.md), [c6-6](c6-6.md), [c7-9](c7-9.md)
 
@@ -130,7 +130,7 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: Non-human identity security
 - URL: https://bigid.com/identity-security/non-human-identity-security/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c4-2](c4-2.md), [c5-5](c5-5.md)
 
@@ -138,7 +138,7 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: AI agent governance solution
 - URL: https://bigid.com/solutions/ai-agent-governance/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c5-2](c5-2.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-3](c6-3.md), [c6-6](c6-6.md), [c6-8](c6-8.md)
 
@@ -146,7 +146,7 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: NIST AI RMF
 - URL: https://bigid.com/nist-ai-rmf/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c6-3](c6-3.md)
 
@@ -154,7 +154,7 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: Protect AI prompts (Prompt Protection)
 - URL: https://bigid.com/protect-ai-prompts/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-3](c3-3.md), [c5-1](c5-1.md), [c6-10](c6-10.md), [c6-11](c6-11.md)
 
@@ -162,7 +162,7 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: Autodiscovery for AI Assets and Models
 - URL: https://bigid.com/blog/autodiscovery-for-ai/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c7-3](c7-3.md), [c7-8](c7-8.md)
 
@@ -170,7 +170,7 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: AI security and governance
 - URL: https://bigid.com/ai-security-governance/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c6-4](c6-4.md)
 
@@ -178,7 +178,7 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: AgentIQ
 - URL: https://bigid.com/agentiq/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md), [c4-3](c4-3.md), [c7-1](c7-1.md)
 
@@ -186,7 +186,7 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: BigID MCP Server
 - URL: https://bigid.com/mcp-server/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c4-3](c4-3.md), [c7-1](c7-1.md)
 
@@ -194,7 +194,7 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: RAG security
 - URL: https://bigid.com/rag-security/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c7-8](c7-8.md)
 
@@ -202,7 +202,7 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: Eliminate Blind Spots in Your AI Data Security (vector database scanning)
 - URL: https://bigid.com/blog/eliminate-blind-spots-in-your-ai-data-security/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c7-8](c7-8.md)
 
@@ -210,7 +210,7 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: Retention management
 - URL: https://bigid.com/retention/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md), [c7-8](c7-8.md)
 
@@ -218,7 +218,7 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: EU AI Act compliance
 - URL: https://bigid.com/compliance/eu-ai-act/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c6-11](c6-11.md), [c6-2](c6-2.md), [c6-3](c6-3.md), [c6-7](c6-7.md)
 
@@ -226,7 +226,7 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: Privacy Impact Assessment app
 - URL: https://bigid.com/privacy-impact-assessment-app/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-12](c6-12.md), [c6-2](c6-2.md), [c6-4](c6-4.md), [c6-7](c6-7.md)
 
@@ -234,7 +234,7 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: Data access governance
 - URL: https://bigid.com/data-access-governance/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c5-5](c5-5.md)
 
@@ -242,7 +242,7 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: BigID and Splunk automated sensitive classification
 - URL: https://bigid.com/blog/bigid-and-splunk-automated-sensitive-classification/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c7-2](c7-2.md)
 
@@ -258,7 +258,7 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: Data activity monitoring
 - URL: https://bigid.com/data-activity-monitoring/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -266,7 +266,7 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: AI Agent Governance
 - URL: https://bigid.com/solutions/ai-agent-governance/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -274,7 +274,7 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: Non-Human Identity Security
 - URL: https://bigid.com/identity-security/non-human-identity-security/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -282,7 +282,7 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: Certifications and Assessments
 - URL: https://bigid.com/certifications-and-assessments/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -290,7 +290,7 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: BigID Trust Center
 - URL: https://bigid.com/trust-center/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -298,7 +298,7 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: Quoted by the confirm agents
 - URL: https://aijourn.com/bigid-becomes-the-first-and-only-dspm-provider-to-bring-next-gen-data-labeling-to-vector-dbs-for-secure-ai-access/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-8](c7-8.md)
 
@@ -306,7 +306,7 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: Quoted by the confirm agents
 - URL: https://www.prnewswire.com/news-releases/bigid-launches-shadow-ai-discovery-to-uncover-rogue-models-and-risky-ai-data-302523317.html
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-9](c7-9.md)
 
@@ -314,6 +314,6 @@ Every source the BigID AI governance and agentic access control cells cite, with
 
 - Title: Quoted by the confirm agents
 - URL: https://channeldrive.in/artificial-intelligence/bigid-extends-data-access-governance-to-ai-agents/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-5](c5-5.md)

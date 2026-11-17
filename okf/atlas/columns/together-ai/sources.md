@@ -118,7 +118,7 @@ Every source the Together AI cells cite, with its tier from the knowledge base's
 
 - Title: Quoted by the confirm agents
 - URL: https://www.together.ai/blog/soc-2-compliance
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-13](c6-13.md)
 
@@ -126,7 +126,7 @@ Every source the Together AI cells cite, with its tier from the knowledge base's
 
 - Title: Privacy and security
 - URL: https://docs.together.ai/docs/privacy-and-security.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md), [c6-12](c6-12.md)
 
@@ -134,7 +134,7 @@ Every source the Together AI cells cite, with its tier from the knowledge base's
 
 - Title: Zero Data Retention
 - URL: https://docs.together.ai/docs/zero-data-retention.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md), [c6-12](c6-12.md)
 
@@ -142,7 +142,7 @@ Every source the Together AI cells cite, with its tier from the knowledge base's
 
 - Title: Roles and permissions
 - URL: https://docs.together.ai/docs/roles-permissions.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md)
 
@@ -150,7 +150,7 @@ Every source the Together AI cells cite, with its tier from the knowledge base's
 
 - Title: API keys and authentication
 - URL: https://docs.together.ai/docs/api-keys-authentication.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c4-1](c4-1.md), [c4-2](c4-2.md)
 
@@ -158,7 +158,7 @@ Every source the Together AI cells cite, with its tier from the knowledge base's
 
 - Title: Single Sign-On
 - URL: https://docs.together.ai/docs/sso.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md)
 
@@ -166,7 +166,7 @@ Every source the Together AI cells cite, with its tier from the knowledge base's
 
 - Title: Together Code Sandbox
 - URL: https://docs.together.ai/docs/together-code-sandbox.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c2-3](c2-3.md), [c2-4](c2-4.md), [c4-2](c4-2.md)
 
@@ -174,7 +174,7 @@ Every source the Together AI cells cite, with its tier from the knowledge base's
 
 - Title: Spend controls
 - URL: https://docs.together.ai/docs/billing-spend-controls.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c5-3](c5-3.md)
 
@@ -182,7 +182,7 @@ Every source the Together AI cells cite, with its tier from the knowledge base's
 
 - Title: Cost analytics
 - URL: https://docs.together.ai/docs/billing-cost-analytics.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md)
 
@@ -190,7 +190,7 @@ Every source the Together AI cells cite, with its tier from the knowledge base's
 
 - Title: Serverless rate limits
 - URL: https://docs.together.ai/docs/serverless/rate-limits.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md)
 
@@ -198,7 +198,7 @@ Every source the Together AI cells cite, with its tier from the knowledge base's
 
 - Title: Dedicated endpoints overview
 - URL: https://docs.together.ai/docs/dedicated-endpoints/overview.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c7-4](c7-4.md)
 
@@ -206,7 +206,7 @@ Every source the Together AI cells cite, with its tier from the knowledge base's
 
 - Title: Deprecations
 - URL: https://docs.together.ai/docs/deprecations.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-5](c6-5.md)
 
@@ -214,7 +214,7 @@ Every source the Together AI cells cite, with its tier from the knowledge base's
 
 - Title: Dedicated endpoints monitoring
 - URL: https://docs.together.ai/docs/dedicated-endpoints/monitoring.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-4](c5-4.md), [c7-1](c7-1.md)
 
@@ -222,7 +222,7 @@ Every source the Together AI cells cite, with its tier from the knowledge base's
 
 - Title: AI evaluations
 - URL: https://docs.together.ai/docs/ai-evaluations.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md)
 
@@ -230,7 +230,7 @@ Every source the Together AI cells cite, with its tier from the knowledge base's
 
 - Title: Code interpreter: list sessions
 - URL: https://docs.together.ai/reference/tci-sessions.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md)
 
@@ -238,7 +238,7 @@ Every source the Together AI cells cite, with its tier from the knowledge base's
 
 - Title: Code interpreter: execute
 - URL: https://docs.together.ai/reference/tci-execute.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-3](c2-3.md), [c2-4](c2-4.md)
 
@@ -246,7 +246,7 @@ Every source the Together AI cells cite, with its tier from the knowledge base's
 
 - Title: Custom models on dedicated endpoints
 - URL: https://docs.together.ai/docs/dedicated-endpoints/custom-models.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c6-8](c6-8.md), [c7-3](c7-3.md)
 
@@ -254,7 +254,7 @@ Every source the Together AI cells cite, with its tier from the knowledge base's
 
 - Title: Batch inference overview
 - URL: https://docs.together.ai/docs/inference/batch/overview.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md)
 
@@ -262,7 +262,7 @@ Every source the Together AI cells cite, with its tier from the knowledge base's
 
 - Title: Dedicated endpoint rollouts
 - URL: https://docs.together.ai/docs/dedicated-endpoints/rollouts.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -278,7 +278,7 @@ Every source the Together AI cells cite, with its tier from the knowledge base's
 
 - Title: Code sandbox
 - URL: https://docs.together.ai/docs/together-code-sandbox.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -286,7 +286,7 @@ Every source the Together AI cells cite, with its tier from the knowledge base's
 
 - Title: Authentication (API keys)
 - URL: https://docs.together.ai/docs/api-keys-authentication.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -294,7 +294,7 @@ Every source the Together AI cells cite, with its tier from the knowledge base's
 
 - Title: Together AI has completed a SOC 2 Type 2 examination (blog, 8 July 2025)
 - URL: https://together.ai/blog/soc-2-compliance
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -302,6 +302,6 @@ Every source the Together AI cells cite, with its tier from the knowledge base's
 
 - Title: Privacy and security
 - URL: https://docs.together.ai/docs/privacy-and-security.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

@@ -182,7 +182,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Quoted by the confirm agents
 - URL: https://cursor.com/docs/agent/projects
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-6](c2-6.md)
 
@@ -190,7 +190,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Quoted by the confirm agents
 - URL: https://cursor.com/docs/cloud-agent/security-network
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-10](c6-10.md)
 
@@ -198,7 +198,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Quoted by the confirm agents
 - URL: https://cursor.com/docs/cloud-agent/security
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-4](c2-4.md)
 
@@ -206,7 +206,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Cursor Enterprise
 - URL: https://cursor.com/enterprise
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-4](c7-4.md)
 
@@ -214,7 +214,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: LLM safety and controls
 - URL: https://cursor.com/docs/enterprise/llm-safety-and-controls
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md)
 
@@ -222,7 +222,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Model and integration management
 - URL: https://cursor.com/docs/enterprise/model-and-integration-management
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-1](c3-1.md), [c3-3](c3-3.md), [c6-1](c6-1.md), [c6-12](c6-12.md)
 
@@ -230,7 +230,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Compliance and monitoring
 - URL: https://cursor.com/docs/enterprise/compliance-and-monitoring
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -238,7 +238,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Privacy and data governance
 - URL: https://cursor.com/docs/enterprise/privacy-and-data-governance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md)
 
@@ -246,7 +246,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Cloud Agents security
 - URL: https://cursor.com/docs/cloud-agent/security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c2-3](c2-3.md), [c4-2](c4-2.md), [c4-3](c4-3.md), [c5-1](c5-1.md), [c7-4](c7-4.md)
 
@@ -254,7 +254,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Cloud Agent identity
 - URL: https://cursor.com/docs/cloud-agent/identity
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c4-2](c4-2.md), [c4-3](c4-3.md), [c6-6](c6-6.md)
 
@@ -262,7 +262,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Hooks
 - URL: https://cursor.com/docs/hooks
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c2-5](c2-5.md), [c3-2](c3-2.md), [c7-5](c7-5.md)
 
@@ -270,7 +270,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Run modes
 - URL: https://cursor.com/docs/agent/security/run-modes
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c1-3](c1-3.md), [c2-3](c2-3.md), [c3-3](c3-3.md), [c6-4](c6-4.md)
 
@@ -278,7 +278,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Identity and access management
 - URL: https://cursor.com/docs/enterprise/identity-and-access-management
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md)
 
@@ -286,7 +286,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: OpenTelemetry export
 - URL: https://cursor.com/docs/enterprise/opentelemetry-export
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -294,7 +294,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Model Context Protocol (MCP)
 - URL: https://cursor.com/docs/mcp
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-3](c1-3.md), [c3-2](c3-2.md)
 
@@ -302,7 +302,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Service accounts
 - URL: https://cursor.com/docs/account/enterprise/service-accounts
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-1](c4-1.md), [c4-2](c4-2.md), [c6-1](c6-1.md), [c6-6](c6-6.md)
 
@@ -310,7 +310,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Marketplace security
 - URL: https://cursor.com/help/security-and-privacy/marketplace-security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-12](c6-12.md), [c6-2](c6-2.md), [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -318,7 +318,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Security Agents
 - URL: https://cursor.com/docs/security-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md)
 
@@ -326,7 +326,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Security and privacy hardening
 - URL: https://cursor.com/docs/enterprise/security-hardening
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c6-10](c6-10.md), [c6-2](c6-2.md), [c6-8](c6-8.md), [c7-5](c7-5.md), [c7-6](c7-6.md), [c7-9](c7-9.md)
 
@@ -334,7 +334,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Admin API
 - URL: https://cursor.com/docs/account/teams/admin-api
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md), [c5-3](c5-3.md), [c6-1](c6-1.md)
 
@@ -342,7 +342,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Agent Review
 - URL: https://cursor.com/docs/agent/agent-review
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md)
 
@@ -350,7 +350,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Cloud Agents
 - URL: https://cursor.com/docs/cloud-agent
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md)
 
@@ -358,7 +358,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Cloud Agents API endpoints
 - URL: https://cursor.com/docs/cloud-agent/api/endpoints
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-4](c2-4.md)
 
@@ -366,7 +366,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Models and pricing
 - URL: https://cursor.com/docs/models-and-pricing
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md)
 
@@ -374,7 +374,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Rules
 - URL: https://cursor.com/docs/rules
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-4](c6-4.md), [c6-8](c6-8.md)
 
@@ -382,7 +382,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Cloud Agents network security
 - URL: https://cursor.com/docs/cloud-agent/security-network
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c2-3](c2-3.md), [c3-2](c3-2.md)
 
@@ -390,7 +390,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Automations
 - URL: https://cursor.com/docs/cloud-agent/automations
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c2-1](c2-1.md), [c4-3](c4-3.md), [c6-6](c6-6.md)
 
@@ -398,7 +398,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Cyber Safeguards
 - URL: https://cursor.com/docs/account/enterprise/cyber-safeguards
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md)
 
@@ -406,7 +406,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Network configuration
 - URL: https://cursor.com/docs/enterprise/network-configuration
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -414,7 +414,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Team analytics
 - URL: https://cursor.com/docs/account/teams/analytics
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md), [c7-9](c7-9.md)
 
@@ -422,7 +422,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Cursor Blame
 - URL: https://cursor.com/docs/integrations/cursor-blame
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md)
 
@@ -430,7 +430,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Compliance (help centre)
 - URL: https://cursor.com/help/security-and-privacy/compliance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c7-4](c7-4.md)
 
@@ -438,7 +438,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Agent overview
 - URL: https://cursor.com/docs/agent/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-4](c2-4.md), [c2-5](c2-5.md)
 
@@ -446,7 +446,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: State of coding agents
 - URL: https://edge.amplifying.ai/research/state-of-coding-agents
-- Tier: 3
+- Source tier: 3
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md)
 
@@ -454,7 +454,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Run modes and sandbox
 - URL: https://cursor.com/docs/agent/security/run-modes
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -462,7 +462,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Cloud Agents security overview
 - URL: https://cursor.com/docs/cloud-agent/security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -470,7 +470,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Cloud Agents network and retention settings
 - URL: https://cursor.com/docs/cloud-agent/security-network
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -478,7 +478,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Cloud Agents API endpoints
 - URL: https://cursor.com/docs/cloud-agent/api/endpoints
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -486,7 +486,7 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Security and compliance documents
 - URL: https://cursor.com/help/security-and-privacy/compliance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -494,6 +494,6 @@ Every source the Cursor cells cite, with its tier from the knowledge base's sour
 
 - Title: Cursor security
 - URL: https://cursor.com/security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

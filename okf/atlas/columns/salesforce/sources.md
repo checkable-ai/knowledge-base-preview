@@ -238,7 +238,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Quoted by the confirm agents
 - URL: https://www.salesforce.com/blog/agentforce-observability/?bc=DB
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-4](c5-4.md)
 
@@ -246,7 +246,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.mulesoft.com/gateway/1.12/flex-agent-policies
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-2](c3-2.md)
 
@@ -254,7 +254,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.mulesoft.com/general/af-get-started
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-1](c6-1.md)
 
@@ -262,7 +262,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Quoted by the confirm agents
 - URL: https://trailhead.salesforce.com/content/learn/modules/reasoning-in-artificial-intelligence/discover-the-atlas-reasoning-engine
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-2](c1-2.md), [c2-5](c2-5.md)
 
@@ -270,7 +270,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Quoted by the confirm agents
 - URL: https://trailhead.salesforce.com/content/learn/modules/agentforce-agent-testing/trust-your-agents
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-2](c5-2.md)
 
@@ -278,7 +278,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Quoted by the confirm agents
 - URL: https://engineering.salesforce.com/how-agentic-memory-enables-durable-reliable-ai-agents-across-millions-of-enterprise-users/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-6](c2-6.md)
 
@@ -286,7 +286,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.mulesoft.com/agent-network/latest/af-a2a-agent-network
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c4-4](c4-4.md)
 
@@ -294,7 +294,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Quoted by the confirm agents
 - URL: https://trailhead.salesforce.com/content/learn/projects/deploy-agent-authentication/learn-about-authentication-for-topics-and-actions
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c4-3](c4-3.md)
 
@@ -302,7 +302,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Quoted by the confirm agents
 - URL: https://www.salesforce.com/data/governance/?bc=DB
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-8](c7-8.md)
 
@@ -310,7 +310,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.mulesoft.com/gateway/1.9/policies-included-a2a-schema-validation
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-4](c3-4.md)
 
@@ -318,7 +318,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Quoted by the confirm agents
 - URL: https://help.salesforce.com/s/articleView?id=sales.sales_agent_sdr_lead_process.htm&language=en_US&type=5
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-1](c5-1.md)
 
@@ -326,7 +326,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Quoted by the confirm agents
 - URL: https://www.salesforce.com/artificial-intelligence/trusted-ai/?bc=DB
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-2](c2-2.md)
 
@@ -334,7 +334,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.mulesoft.com/gateway/latest/policies-included-llm-token-rate-limit
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-1](c3-1.md)
 
@@ -342,7 +342,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Einstein Trust Layer
 - URL: https://help.salesforce.com/s/articleView?id=ai.generative_ai_trust_layer.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-3](c3-3.md), [c6-10](c6-10.md), [c6-11](c6-11.md), [c6-12](c6-12.md)
 
@@ -350,7 +350,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Configure Service Agent Access
 - URL: https://help.salesforce.com/s/articleView?id=ai.agent_user.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-4](c1-4.md), [c4-1](c4-1.md)
 
@@ -358,7 +358,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Agent Execution Context and Data Access by Type
 - URL: https://help.salesforce.com/s/articleView?id=ai.agent_execution_data.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c4-1](c4-1.md), [c4-3](c4-3.md)
 
@@ -366,7 +366,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Agentforce Gateway
 - URL: https://help.salesforce.com/s/articleView?id=ai.agentforce_gateway_policies.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md)
 
@@ -374,7 +374,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Agentforce Gateway Policy Templates
 - URL: https://help.salesforce.com/s/articleView?id=ai.agentforce_gateway_policy_templates.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md)
 
@@ -382,7 +382,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: MCP Risk Score
 - URL: https://help.salesforce.com/s/articleView?id=ai.agent_mcp_registration_manage_risk_score.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-7](c6-7.md), [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -390,7 +390,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Register an MCP Server in Agentforce Registry
 - URL: https://help.salesforce.com/s/articleView?id=ai.agent_mcp_connect_register.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md), [c4-3](c4-3.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-12](c6-12.md), [c6-2](c6-2.md), [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -398,7 +398,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: User-Level Authentication in Multi-Agent Solutions
 - URL: https://help.salesforce.com/s/articleView?id=ai.agent_multi_orch_auth.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-4](c3-4.md), [c4-3](c4-3.md), [c4-4](c4-4.md)
 
@@ -406,7 +406,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Multi-Agent Orchestration
 - URL: https://help.salesforce.com/s/articleView?id=ai.agent_multi_orch.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c4-4](c4-4.md)
 
@@ -414,7 +414,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Agentforce Testing Center
 - URL: https://help.salesforce.com/s/articleView?id=ai.agent_testing_center.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c6-5](c6-5.md)
 
@@ -422,7 +422,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: About Agentforce Session Tracing
 - URL: https://help.salesforce.com/s/articleView?id=ai.generative_ai_session_trace_about.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md)
 
@@ -430,7 +430,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Audit Trail
 - URL: https://help.salesforce.com/s/articleView?id=ai.generative_ai_audit_trail.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c7-1](c7-1.md)
 
@@ -438,7 +438,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Versioning and Editing Agents
 - URL: https://help.salesforce.com/s/articleView?id=ai.agent_versions_lifecycle.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -446,7 +446,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Agentforce and Generative AI Usage and Billing
 - URL: https://help.salesforce.com/s/articleView?id=ai.generative_ai_usage.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md)
 
@@ -454,7 +454,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Monitor Agent Health
 - URL: https://help.salesforce.com/s/articleView?id=ai.agent_monitor_health.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c5-4](c5-4.md)
 
@@ -462,7 +462,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Agent Memory
 - URL: https://help.salesforce.com/s/articleView?id=ai.agent_memory.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-6](c2-6.md)
 
@@ -470,7 +470,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Prepare for Model Deprecation and Rerouting
 - URL: https://help.salesforce.com/s/articleView?id=ai.generative_ai_model_deprecation_rerouting.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-8](c6-8.md)
 
@@ -478,7 +478,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Prompt Injection Detection (Beta)
 - URL: https://help.salesforce.com/s/articleView?id=ai.generative_ai_trust_prompt_injection_detection.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c7-2](c7-2.md)
 
@@ -486,7 +486,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Conduct a Risk Assessment for AI Projects
 - URL: https://help.salesforce.com/s/articleView?id=ai.generative_ai_plan_trust.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-7](c6-7.md)
 
@@ -494,7 +494,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: How Agents Work
 - URL: https://help.salesforce.com/s/articleView?id=ai.agent_builder_reasoning_engine.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-4](c2-4.md), [c2-5](c2-5.md)
 
@@ -502,7 +502,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Create a Custom Agent Action in the Legacy Builder
 - URL: https://help.salesforce.com/s/articleView?id=ai.copilot_actions_custom.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md)
 
@@ -510,7 +510,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Monitor Agentforce Session Log Events
 - URL: https://help.salesforce.com/s/articleView?id=ai.agentforce_diagnostic_data_model.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-2](c7-2.md)
 
@@ -518,7 +518,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Configure Service Agent Managers
 - URL: https://help.salesforce.com/s/articleView?id=ai.service_agent_managers.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c6-6](c6-6.md)
 
@@ -526,7 +526,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Data Masking Limitations in Agentforce
 - URL: https://help.salesforce.com/s/articleView?id=ai.agent_trust_data_masking.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md)
 
@@ -534,7 +534,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Manage Model Provider Access
 - URL: https://help.salesforce.com/s/articleView?id=ai.generative_ai_model_provider.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md), [c6-12](c6-12.md), [c6-2](c6-2.md)
 
@@ -542,7 +542,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Geo-Aware LLM Request Routing on the Einstein Generative AI Platform
 - URL: https://help.salesforce.com/s/articleView?id=ai.generative_ai_platform_geo_aware_routing.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md)
 
@@ -550,7 +550,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: About Generative AI Audit and Feedback Data
 - URL: https://help.salesforce.com/s/articleView?id=ai.generative_ai_feedback_about.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md), [c6-10](c6-10.md), [c7-1](c7-1.md)
 
@@ -558,7 +558,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Large Language Model Support
 - URL: https://help.salesforce.com/s/articleView?id=ai.generative_ai_large_language_model_support.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md)
 
@@ -566,7 +566,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Agent Fabric Release Notes
 - URL: https://docs.mulesoft.com/general/agent-fabric-release-notes
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c3-4](c3-4.md), [c4-4](c4-4.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c7-9](c7-9.md)
 
@@ -574,7 +574,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Enable Enhanced Event Logs
 - URL: https://help.salesforce.com/s/articleView?id=ai.copilot_setup_enhanced_event_logs.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c6-10](c6-10.md)
 
@@ -582,7 +582,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Agent Platform Tracing
 - URL: https://help.salesforce.com/s/articleView?id=ai.generative_ai_platform_trace.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-4](c5-4.md)
 
@@ -590,7 +590,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Transfer Conversations from an Agent with an Omni-Channel Flow
 - URL: https://help.salesforce.com/s/articleView?id=ai.service_agent_escalation.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md)
 
@@ -598,7 +598,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Create a Filter to Control Access to Subagents and Actions in the Legacy Builder
 - URL: https://help.salesforce.com/s/articleView?id=ai.agent_asset_filters.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md)
 
@@ -606,7 +606,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Monitor Agent Guardrails
 - URL: https://help.salesforce.com/s/articleView?id=ai.agent_guardrails_monitor.htm&type=5
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md)
 
@@ -614,7 +614,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Trust Layer (Agentforce Developer Guide)
 - URL: https://developer.salesforce.com/docs/ai/agentforce/guide/trust.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md)
 
@@ -622,7 +622,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: IRAP category, Salesforce compliance site
 - URL: https://compliance.salesforce.com/en/categories/irap
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -630,7 +630,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: IRAP Assessment Report - Einstein Platform & Agentforce AU [PROTECTED]
 - URL: https://compliance.salesforce.com/en/documents/a00Kd00000z7F96IAE
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -638,7 +638,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: Salesforce completes IRAP assessment for Agentforce and the Salesforce Platform
 - URL: https://www.salesforce.com/au/news/stories/irap-assessment-agentforce-platform-2025/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -646,7 +646,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: ISO 42001 category, Salesforce compliance site
 - URL: https://compliance.salesforce.com/en/categories/iso-42001
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -654,7 +654,7 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: SOC 2 category, Salesforce compliance site
 - URL: https://compliance.salesforce.com/en/categories/soc-2
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -662,6 +662,6 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 
 - Title: External security assessments category, Salesforce compliance site
 - URL: https://compliance.salesforce.com/en/categories/external-security-assessments
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

@@ -46,7 +46,7 @@ Every source the NEXTDC sovereign AI campuses cells cite, with its tier from the
 
 - Title: Certifications
 - URL: https://www.nextdc.com/about-us/certifications
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-10](c6-10.md), [c6-11](c6-11.md), [c6-13](c6-13.md)
 
@@ -54,7 +54,7 @@ Every source the NEXTDC sovereign AI campuses cells cite, with its tier from the
 
 - Title: Security, Risk and Compliance
 - URL: https://www.nextdc.com/solutions/security-risk-and-compliance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md), [c6-13](c6-13.md)
 
@@ -62,7 +62,7 @@ Every source the NEXTDC sovereign AI campuses cells cite, with its tier from the
 
 - Title: ONEDC Self Service Hub
 - URL: https://www.nextdc.com/solutions/self-service-portals/onedc-account-management
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c5-4](c5-4.md), [c6-11](c6-11.md), [c7-1](c7-1.md)
 
@@ -70,7 +70,7 @@ Every source the NEXTDC sovereign AI campuses cells cite, with its tier from the
 
 - Title: AI Ready Data Centres
 - URL: https://www.nextdc.com/data-centres/ai-ready
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-3](c2-3.md)
 
@@ -78,7 +78,7 @@ Every source the NEXTDC sovereign AI campuses cells cite, with its tier from the
 
 - Title: S7 Sydney (In Planning)
 - URL: https://www.nextdc.com/data-centres/sydney-data-centres/s7-sydney
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-10](c6-10.md)
 
@@ -86,6 +86,6 @@ Every source the NEXTDC sovereign AI campuses cells cite, with its tier from the
 
 - Title: Building the next generation of sovereign AI infrastructure in Australia
 - URL: https://www.nextdc.com/news/building-the-next-generation-of-sovereign-ai-infrastructure-in-australia
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c2-2](c2-2.md), [c2-3](c2-3.md), [c6-10](c6-10.md)

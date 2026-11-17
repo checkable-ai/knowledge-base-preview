@@ -154,7 +154,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Aurora AI
 - URL: https://arcticwolf.com/aurora-platform/aurora-ai/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-3](c6-3.md)
 
@@ -162,7 +162,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Arctic Wolf's Aurora Agentic SOC Sets a New Standard for Scale, Value, Trust, and Speed in the Age of AI
 - URL: https://arcticwolf.com/resources/press-releases/arctic-wolfs-aurora-agentic-soc-sets-a-new-standard-for-scale-value-trust-and-speed-in-the-age-of-ai/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-3](c1-3.md), [c5-1](c5-1.md), [c5-3](c5-3.md)
 
@@ -170,7 +170,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Information Security at Arctic Wolf
 - URL: https://arcticwolf.com/information-security/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -178,7 +178,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Arctic Wolf Trust Center
 - URL: https://trust.arcticwolf.com/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-11](c6-11.md), [c6-13](c6-13.md)
 
@@ -186,7 +186,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Aurora Superintelligence Platform
 - URL: https://arcticwolf.com/aurora-platform/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-4](c1-4.md), [c2-1](c2-1.md), [c2-6](c2-6.md), [c2-7](c2-7.md), [c3-4](c3-4.md), [c4-1](c4-1.md), [c4-4](c4-4.md), [c5-2](c5-2.md), [c6-1](c6-1.md), [c6-2](c6-2.md), [c6-5](c6-5.md), [c6-8](c6-8.md), [c7-8](c7-8.md), [c7-9](c7-9.md)
 
@@ -194,7 +194,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Arctic Wolf Launches the World's Largest Commercial Agentic SOC
 - URL: https://arcticwolf.com/resources/press-releases/arctic-wolf-launches-the-worlds-largest-commercial-agentic-soc-to-usher-in-a-new-era-of-agent-led-security-operations/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-1](c2-1.md), [c2-6](c2-6.md), [c3-4](c3-4.md), [c4-4](c4-4.md)
 
@@ -202,7 +202,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Aurora Endpoint Security release notes
 - URL: https://docs.arcticwolf.com/en/aurora-endpoint-security/aurora-endpoint-defense-administrator-guide/aurora-endpoint-security-release-notes
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -210,7 +210,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Aurora Security Assistant
 - URL: https://docs.arcticwolf.com/en/arctic-wolf-unified-portal/unified-portal/aurora-security-assistant
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-4](c1-4.md), [c2-2](c2-2.md), [c2-3](c2-3.md), [c2-4](c2-4.md), [c2-5](c2-5.md), [c3-1](c3-1.md), [c5-1](c5-1.md), [c6-10](c6-10.md)
 
@@ -218,7 +218,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Personal API keys
 - URL: https://docs.arcticwolf.com/en/arctic-wolf-unified-portal/unified-portal/organization-profile/personal-api-keys
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -226,7 +226,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Admin settings
 - URL: https://docs.arcticwolf.com/en/arctic-wolf-unified-portal/unified-portal/organization-profile/admin-settings
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-2](c5-2.md)
 
@@ -234,7 +234,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Federated authentication
 - URL: https://docs.arcticwolf.com/en/arctic-wolf-unified-portal/unified-portal/organization-profile/federated-authentication
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-3](c4-3.md)
 
@@ -242,7 +242,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Review security investigations
 - URL: https://docs.arcticwolf.com/en/arctic-wolf-unified-portal/unified-portal/tickets-and-alerts/security-investigations
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c7-1](c7-1.md)
 
@@ -250,7 +250,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Security posture
 - URL: https://docs.arcticwolf.com/en/arctic-wolf-unified-portal/unified-portal/security-posture
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-4](c5-4.md), [c6-3](c6-3.md)
 
@@ -258,7 +258,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Active Response integration
 - URL: https://docs.arcticwolf.com/en/arctic-wolf-unified-portal/unified-portal/organization-profile/integrations/active-response-integration
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-2](c3-2.md), [c5-5](c5-5.md)
 
@@ -266,7 +266,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Troubleshoot AI summarization in Data Explorer
 - URL: https://docs.arcticwolf.com/en/arctic-wolf-unified-portal/unified-portal/data-explorer/troubleshooting/troubleshoot-ai-summarization
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-3](c3-3.md), [c4-3](c4-3.md)
 
@@ -274,7 +274,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Managed Detection and Response
 - URL: https://docs.arcticwolf.com/en/aurora-managed-detection-and-response-mdr/managed-detection-and-response
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-1](c1-1.md), [c1-2](c1-2.md), [c6-11](c6-11.md), [c7-2](c7-2.md), [c7-4](c7-4.md), [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -282,7 +282,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Reset MFA for Arctic Wolf authentication
 - URL: https://docs.arcticwolf.com/en/authentication/auth0-authentication/arctic-wolf-authentication/reset-mfa
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-2](c4-2.md)
 
@@ -290,7 +290,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Artificial intelligence
 - URL: https://docs.arcticwolf.com/ja-jp/%E8%A3%BD%E5%93%81%E3%81%8A%E3%82%88%E3%81%B3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%BF%BD%E5%8A%A0%E6%83%85%E5%A0%B1/supplemental-agreement-documentation-and-other-information/supplemental-agreement-documentation/artificial-intelligence
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-1](c1-1.md), [c1-2](c1-2.md), [c1-3](c1-3.md), [c1-4](c1-4.md), [c2-2](c2-2.md), [c2-5](c2-5.md), [c2-7](c2-7.md), [c3-1](c3-1.md), [c3-2](c3-2.md), [c3-3](c3-3.md), [c4-1](c4-1.md), [c5-2](c5-2.md), [c6-13](c6-13.md), [c6-2](c6-2.md), [c6-7](c6-7.md), [c7-10](c7-10.md), [c7-3](c7-3.md), [c7-8](c7-8.md)
 
@@ -298,7 +298,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Contacts and user permissions
 - URL: https://docs.arcticwolf.com/en/arctic-wolf-unified-portal/unified-portal/organization-profile/contacts
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-6](c6-6.md)
 
@@ -306,7 +306,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Permissions of default administrator roles
 - URL: https://docs.arcticwolf.com/en/aurora-endpoint-security/aurora-endpoint-security-setup/aurora-endpoint-security-setup-guide/administrator-configuration/permissions-of-default-administrator-roles
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c7-1](c7-1.md)
 
@@ -314,7 +314,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Data storage location matrix
 - URL: https://docs.arcticwolf.com/en/additional-information-about-products-and-services/supplemental-agreement-documentation-and-other-information/supplemental-agreement-documentation/data/data-storage-location-matrix
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-3](c2-3.md), [c6-10](c6-10.md)
 
@@ -322,7 +322,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Arctic Wolf Launches Data Center in Australia to Further Support Local Customers
 - URL: https://arcticwolf.com/resources/press-releases/arctic-wolf-launches-data-center-in-australia-to-further-support-local-customers/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-10](c6-10.md)
 
@@ -330,7 +330,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: View your escalation policy
 - URL: https://docs.arcticwolf.com/en/arctic-wolf-unified-portal/unified-portal/organization-profile/escalations/view-your-escalation-policy
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-3](c1-3.md), [c6-4](c6-4.md), [c6-6](c6-6.md), [c7-2](c7-2.md)
 
@@ -338,7 +338,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Alert configuration rules
 - URL: https://docs.arcticwolf.com/en/arctic-wolf-unified-portal/unified-portal/organization-profile/alert-configuration-rules
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-4](c6-4.md), [c6-9](c6-9.md)
 
@@ -346,7 +346,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Arctic Wolf Agent telemetry
 - URL: https://docs.arcticwolf.com/en/arctic-wolf-unified-portal/unified-portal/data-collection/agent-telemetry
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-4](c5-4.md)
 
@@ -354,7 +354,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Response action descriptions
 - URL: https://docs.arcticwolf.com/en/active-response-log-forwarding-and-security-monitoring/active-response-integrations/response-actions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c5-5](c5-5.md)
 
@@ -362,7 +362,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Arctic Wolf Agent Containment Driver
 - URL: https://docs.arcticwolf.com/en/arctic-wolf-agent/arctic-wolf-agent-containment
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c7-4](c7-4.md)
 
@@ -370,7 +370,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Subprocessor List
 - URL: https://arcticwolf.com/terms/sub-processors/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-10](c6-10.md), [c6-12](c6-12.md)
 
@@ -378,7 +378,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Data Explorer license options
 - URL: https://docs.arcticwolf.com/en/arctic-wolf-unified-portal/unified-portal/data-explorer/license-options
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c7-2](c7-2.md)
 
@@ -386,7 +386,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Aurora Exposure Management
 - URL: https://arcticwolf.com/solutions/exposure-management/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-1](c6-1.md), [c7-10](c7-10.md), [c7-5](c7-5.md), [c7-6](c7-6.md), [c7-9](c7-9.md)
 
@@ -394,7 +394,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Quoted by the confirm agents
 - URL: https://arcticwolf.com/resources/press-releases/arctic-wolf-expands-the-aurora-superintelligence-platform-to-deliver-ai-visibility-broader-security-coverage-and-new-generative-assistant-skills/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-1](c6-1.md), [c7-9](c7-9.md)
 
@@ -402,7 +402,7 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.arcticwolf.com/en/additional-information-about-products-and-services/supplemental-agreement-documentation-and-other-information/supplemental-agreement-documentation/artificial-intelligence
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-3](c1-3.md)
 
@@ -410,6 +410,6 @@ Every source the Arctic Wolf (Aurora platform and Agentic SOC) cells cite, with 
 
 - Title: Quoted by the confirm agents
 - URL: https://arcticwolf.com/aurora-platform/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-2](c1-2.md)

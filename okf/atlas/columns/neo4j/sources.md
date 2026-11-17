@@ -110,7 +110,7 @@ Every source the Neo4j cells cite, with its tier from the knowledge base's sourc
 
 - Title: Quoted by the confirm agents
 - URL: https://neo4j.com/docs/mcp/current/authentication/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c4-3](c4-3.md)
 
@@ -118,7 +118,7 @@ Every source the Neo4j cells cite, with its tier from the knowledge base's sourc
 
 - Title: Authentication and authorization, Operations Manual
 - URL: https://neo4j.com/docs/operations-manual/current/authentication-authorization/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c4-1](c4-1.md)
 
@@ -126,7 +126,7 @@ Every source the Neo4j cells cite, with its tier from the knowledge base's sourc
 
 - Title: Manage privileges, Operations Manual
 - URL: https://neo4j.com/docs/operations-manual/current/authentication-authorization/manage-privileges/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c5-5](c5-5.md), [c7-8](c7-8.md)
 
@@ -134,7 +134,7 @@ Every source the Neo4j cells cite, with its tier from the knowledge base's sourc
 
 - Title: Property-based access control, Operations Manual
 - URL: https://neo4j.com/docs/operations-manual/current/authentication-authorization/property-based-access-control/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-3](c3-3.md)
 
@@ -142,7 +142,7 @@ Every source the Neo4j cells cite, with its tier from the knowledge base's sourc
 
 - Title: DBMS privileges, Operations Manual
 - URL: https://neo4j.com/docs/operations-manual/current/authentication-authorization/dbms-administration/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-3](c4-3.md)
 
@@ -150,7 +150,7 @@ Every source the Neo4j cells cite, with its tier from the knowledge base's sourc
 
 - Title: Logging, Operations Manual
 - URL: https://neo4j.com/docs/operations-manual/current/monitoring/logging/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md), [c5-4](c5-4.md), [c7-1](c7-1.md), [c7-2](c7-2.md), [c7-8](c7-8.md)
 
@@ -158,7 +158,7 @@ Every source the Neo4j cells cite, with its tier from the knowledge base's sourc
 
 - Title: Aura Agent, Aura documentation
 - URL: https://neo4j.com/docs/aura/aura-agent/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-4](c1-4.md), [c2-1](c2-1.md), [c2-2](c2-2.md), [c2-4](c2-4.md), [c2-5](c2-5.md), [c4-1](c4-1.md), [c5-2](c5-2.md), [c6-10](c6-10.md), [c6-5](c6-5.md)
 
@@ -166,7 +166,7 @@ Every source the Neo4j cells cite, with its tier from the knowledge base's sourc
 
 - Title: How Aura Agent uses AI models
 - URL: https://neo4j.com/docs/reference/license/agent-ai-model/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-2](c2-2.md)
 
@@ -174,7 +174,7 @@ Every source the Neo4j cells cite, with its tier from the knowledge base's sourc
 
 - Title: neo4j/mcp GitHub repository
 - URL: https://github.com/neo4j/mcp
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c2-5](c2-5.md), [c3-2](c3-2.md)
 
@@ -182,7 +182,7 @@ Every source the Neo4j cells cite, with its tier from the knowledge base's sourc
 
 - Title: Configuration reference, Neo4j MCP documentation
 - URL: https://neo4j.com/docs/mcp/current/configuration/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c3-3](c3-3.md), [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -190,7 +190,7 @@ Every source the Neo4j cells cite, with its tier from the knowledge base's sourc
 
 - Title: Tool authentication with Aura user
 - URL: https://neo4j.com/docs/aura/security/tool-auth/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -198,7 +198,7 @@ Every source the Neo4j cells cite, with its tier from the knowledge base's sourc
 
 - Title: Aura security
 - URL: https://neo4j.com/docs/aura/security/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md), [c7-8](c7-8.md)
 
@@ -206,7 +206,7 @@ Every source the Neo4j cells cite, with its tier from the knowledge base's sourc
 
 - Title: Log forwarding, Aura documentation
 - URL: https://www.neo4j.com/docs/aura/logging/log-forwarding/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -214,7 +214,7 @@ Every source the Neo4j cells cite, with its tier from the knowledge base's sourc
 
 - Title: Neo4j Trust Center
 - URL: https://trust.neo4j.com
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md)
 
@@ -222,7 +222,7 @@ Every source the Neo4j cells cite, with its tier from the knowledge base's sourc
 
 - Title: Neo4j Agent Memory, Neo4j Labs
 - URL: https://neo4j.com/labs/agent-memory
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c2-6](c2-6.md)
 
@@ -238,7 +238,7 @@ Every source the Neo4j cells cite, with its tier from the knowledge base's sourc
 
 - Title: Customer Metrics Integration (CMI), Aura documentation
 - URL: https://neo4j.com/docs/aura/metrics/metrics-integration/introduction
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-4](c5-4.md)
 
@@ -246,7 +246,7 @@ Every source the Neo4j cells cite, with its tier from the knowledge base's sourc
 
 - Title: Neo4j MCP server README
 - URL: https://github.com/neo4j/mcp
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -254,7 +254,7 @@ Every source the Neo4j cells cite, with its tier from the knowledge base's sourc
 
 - Title: Aura Agent documentation
 - URL: https://neo4j.com/docs/aura/aura-agent/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -262,7 +262,7 @@ Every source the Neo4j cells cite, with its tier from the knowledge base's sourc
 
 - Title: Operations Manual, manage users
 - URL: https://neo4j.com/docs/operations-manual/current/authentication-authorization/manage-users/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -270,7 +270,7 @@ Every source the Neo4j cells cite, with its tier from the knowledge base's sourc
 
 - Title: Cypher Manual, transaction clauses
 - URL: https://neo4j.com/docs/cypher-manual/current/clauses/transaction-clauses/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -278,6 +278,6 @@ Every source the Neo4j cells cite, with its tier from the knowledge base's sourc
 
 - Title: Neo4j Trust Center
 - URL: https://trust.neo4j.com/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

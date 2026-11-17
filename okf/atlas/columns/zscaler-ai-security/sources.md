@@ -126,7 +126,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: Quoted by the confirm agents
 - URL: https://www.zscaler.com/products-and-solutions/ai-red-teaming
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-10](c7-10.md)
 
@@ -134,7 +134,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: Quoted by the confirm agents
 - URL: https://www.zscaler.com/products-and-solutions/ai-access-graph
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-5](c5-5.md)
 
@@ -142,7 +142,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: Quoted by the confirm agents
 - URL: https://www.zscaler.com/blogs/product-insights/how-zscaler-secures-the-agentic-ai-era
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-2](c1-2.md)
 
@@ -150,7 +150,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: AI Security (product overview)
 - URL: https://www.zscaler.com/products-and-solutions/ai-security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-4](c3-4.md)
 
@@ -158,7 +158,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: AI Asset Management
 - URL: https://www.zscaler.com/products-and-solutions/ai-asset-management
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md), [c6-11](c6-11.md), [c6-3](c6-3.md), [c6-7](c6-7.md), [c7-4](c7-4.md), [c7-8](c7-8.md), [c7-9](c7-9.md)
 
@@ -166,7 +166,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: Generative AI Security (AI Access Security)
 - URL: https://www.zscaler.com/products-and-solutions/ai-access-security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c3-3](c3-3.md)
 
@@ -174,7 +174,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: AI Guard for Users
 - URL: https://www.zscaler.com/products-and-solutions/ai-guard-for-users
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c6-12](c6-12.md), [c6-7](c6-7.md), [c7-9](c7-9.md)
 
@@ -182,7 +182,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: Zscaler AI Guard solution brief
 - URL: https://www.zscaler.com/resources/solution-briefs/zscaler-ai-guard.pdf
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-2](c3-2.md), [c3-3](c3-3.md), [c6-10](c6-10.md), [c7-1](c7-1.md)
 
@@ -190,7 +190,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: Zscaler SDK for Python: AI Guard policy detection
 - URL: https://zscaler-sdk-python.readthedocs.io/en/latest/zs/aiguard/policy_detection.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c7-2](c7-2.md)
 
@@ -198,7 +198,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: Zscaler Unveils New Product Innovations to Secure Agentic AI (press release, 9 June 2026)
 - URL: https://www.zscaler.com/press/zscaler-unveils-new-product-innovations-secure-agentic-ai
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c1-2](c1-2.md), [c3-2](c3-2.md), [c3-4](c3-4.md), [c4-1](c4-1.md), [c4-4](c4-4.md), [c5-5](c5-5.md), [c7-6](c7-6.md)
 
@@ -206,7 +206,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: Zscaler acquisition of SPLX (press release, 3 November 2025)
 - URL: https://www.zscaler.com/press/zscaler-secures-enterprise-ai-lifecycle-acquisition-innovative-ai-security-pioneer-splx
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c7-8](c7-8.md)
 
@@ -214,7 +214,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: Zscaler AI Protect raises the bar for AI security (blog)
 - URL: https://www.zscaler.com/blogs/product-insights/zscaler-ai-protect-raises-the-bar-for-ai-security
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c6-3](c6-3.md), [c7-1](c7-1.md), [c7-2](c7-2.md), [c7-4](c7-4.md), [c7-5](c7-5.md), [c7-9](c7-9.md)
 
@@ -222,7 +222,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: Continuous Automated Red Teaming
 - URL: https://www.zscaler.com/products-and-solutions/continuous-automated-red-teaming
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c7-10](c7-10.md)
 
@@ -230,7 +230,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: SPLX Platform docs: AI Asset Management Getting Started
 - URL: https://docs.probe.splx.ai/ai-asset-management/getting-started.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c7-9](c7-9.md)
 
@@ -238,7 +238,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: SPLX Platform docs: MCP Servers
 - URL: https://docs.probe.splx.ai/ai-asset-management/mcp-servers.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-12](c6-12.md), [c6-2](c6-2.md), [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -246,7 +246,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: SPLX Platform docs: AI Workflows
 - URL: https://docs.probe.splx.ai/ai-asset-management/ai-workflows.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md), [c6-1](c6-1.md), [c7-5](c7-5.md)
 
@@ -254,7 +254,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: SPLX Platform docs: Models
 - URL: https://docs.probe.splx.ai/ai-asset-management/models.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-2](c6-2.md), [c7-3](c7-3.md)
 
@@ -262,7 +262,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: SPLX Platform docs: Compliance
 - URL: https://docs.probe.splx.ai/ai-red-teaming/probe/compliance.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c6-4](c6-4.md)
 
@@ -270,7 +270,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: SPLX Platform docs: Policy Generator for Zscaler AI Guard
 - URL: https://docs.probe.splx.ai/ai-red-teaming/remediation/policy-generator/zscaler-ai-guard.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-4](c6-4.md)
 
@@ -278,7 +278,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: SPLX Platform docs: CI/CD with API
 - URL: https://docs.probe.splx.ai/platform-api/ci-cd-with-api.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-5](c6-5.md), [c7-10](c7-10.md)
 
@@ -286,7 +286,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: SPLX Platform docs: full text (llms-full.txt)
 - URL: https://docs.probe.splx.ai/llms-full.txt
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c7-10](c7-10.md)
 
@@ -294,7 +294,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: AI Guard for Users
 - URL: https://www.zscaler.com/products-and-solutions/ai-guard-for-users
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -302,7 +302,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: Zscaler AI Protect raises the bar for AI security
 - URL: https://www.zscaler.com/blogs/product-insights/zscaler-ai-protect-raises-the-bar-for-ai-security
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -310,7 +310,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: Zscaler unveils new product innovations for agentic AI
 - URL: https://www.zscaler.com/press/zscaler-unveils-new-product-innovations-secure-agentic-ai
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -318,7 +318,7 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: Zscaler Compliance Center
 - URL: https://compliance.zscaler.com/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -326,6 +326,6 @@ Every source the Zscaler AI Security (with SPLX) cells cite, with its tier from 
 
 - Title: Zscaler completes second IRAP assessment
 - URL: https://www.zscaler.com/press/zscaler-completes-second-information-security-registered-assessors-program-irap-assessment
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

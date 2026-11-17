@@ -114,7 +114,7 @@ Every source the Arize cells cite, with its tier from the knowledge base's sourc
 
 - Title: Arize AX audit log
 - URL: https://www.arize.com/docs/ax/security-and-settings/compliance/arize-audit-log.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md)
 
@@ -122,7 +122,7 @@ Every source the Arize cells cite, with its tier from the knowledge base's sourc
 
 - Title: Arize AX guardrails
 - URL: https://arize.com/docs/ax/security-and-settings/llm-security/guardrails.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c7-2](c7-2.md)
 
@@ -130,7 +130,7 @@ Every source the Arize cells cite, with its tier from the knowledge base's sourc
 
 - Title: Arize AX track costs
 - URL: https://arize.com/docs/ax/instrument/track-costs.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md)
 
@@ -138,7 +138,7 @@ Every source the Arize cells cite, with its tier from the knowledge base's sourc
 
 - Title: Arize AX production monitoring
 - URL: https://arize.com/docs/ax/observe/production-monitoring.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c5-4](c5-4.md), [c7-2](c7-2.md)
 
@@ -146,7 +146,7 @@ Every source the Arize cells cite, with its tier from the knowledge base's sourc
 
 - Title: Arize AX prompt versioning and tags
 - URL: https://arize.com/docs/ax/concepts/prompts/versioning-and-tags.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -154,7 +154,7 @@ Every source the Arize cells cite, with its tier from the knowledge base's sourc
 
 - Title: Arize AX human review
 - URL: https://arize.com/docs/ax/evaluate/human-review.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md)
 
@@ -162,7 +162,7 @@ Every source the Arize cells cite, with its tier from the knowledge base's sourc
 
 - Title: Arize AX mask and redact data
 - URL: https://arize.com/docs/ax/instrument/mask-and-redact-data.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-2](c7-2.md)
 
@@ -170,7 +170,7 @@ Every source the Arize cells cite, with its tier from the knowledge base's sourc
 
 - Title: Arize AX agent trajectory
 - URL: https://arize.com/docs/ax/instrument/agent-trajectory.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md)
 
@@ -178,7 +178,7 @@ Every source the Arize cells cite, with its tier from the knowledge base's sourc
 
 - Title: Arize AX delete traces with sensitive data
 - URL: https://arize.com/docs/ax/security-and-settings/compliance/delete-traces-with-sensitive-data.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md), [c7-1](c7-1.md)
 
@@ -186,7 +186,7 @@ Every source the Arize cells cite, with its tier from the knowledge base's sourc
 
 - Title: Arize AX online vs offline evaluators
 - URL: https://arize.com/docs/ax/concepts/evaluators/online-vs-offline.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c6-5](c6-5.md)
 
@@ -194,7 +194,7 @@ Every source the Arize cells cite, with its tier from the knowledge base's sourc
 
 - Title: Arize AX MCP tracing
 - URL: https://arize.com/docs/ax/integrations/python-agent-frameworks/model-context-protocol/mcp-tracing.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md)
 
@@ -202,7 +202,7 @@ Every source the Arize cells cite, with its tier from the knowledge base's sourc
 
 - Title: Arize AX self-hosted platform options
 - URL: https://www.arize.com/docs/ax/selfhosting/architecture/platform-options.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md)
 
@@ -210,7 +210,7 @@ Every source the Arize cells cite, with its tier from the knowledge base's sourc
 
 - Title: Phoenix data retention
 - URL: https://arize.com/docs/phoenix/settings/data-retention
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md)
 
@@ -218,7 +218,7 @@ Every source the Arize cells cite, with its tier from the knowledge base's sourc
 
 - Title: Phoenix cost tracking
 - URL: https://arize.com/docs/phoenix/tracing/how-to-tracing/cost-tracking
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md)
 
@@ -226,7 +226,7 @@ Every source the Arize cells cite, with its tier from the knowledge base's sourc
 
 - Title: Phoenix tag a prompt
 - URL: https://arize.com/docs/phoenix/prompt-engineering/how-to-prompts/tag-a-prompt
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-8](c6-8.md)
 
@@ -234,7 +234,7 @@ Every source the Arize cells cite, with its tier from the knowledge base's sourc
 
 - Title: Compliance
 - URL: https://arize.com/docs/ax/security-and-settings/compliance.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -242,7 +242,7 @@ Every source the Arize cells cite, with its tier from the knowledge base's sourc
 
 - Title: Arize Trust Center
 - URL: https://arize.com/trust-center/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -250,7 +250,7 @@ Every source the Arize cells cite, with its tier from the knowledge base's sourc
 
 - Title: Guardrails
 - URL: https://arize.com/docs/ax/security-and-settings/llm-security/guardrails.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -258,7 +258,7 @@ Every source the Arize cells cite, with its tier from the knowledge base's sourc
 
 - Title: Quoted by the confirm agents
 - URL: https://arize.com/docs/api-clients/ag/presets
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-4](c1-4.md)
 
@@ -266,7 +266,7 @@ Every source the Arize cells cite, with its tier from the knowledge base's sourc
 
 - Title: Quoted by the confirm agents
 - URL: https://arize.com/docs/phoenix/settings/data-retention
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-4](c2-4.md)
 
@@ -274,7 +274,7 @@ Every source the Arize cells cite, with its tier from the knowledge base's sourc
 
 - Title: Quoted by the confirm agents
 - URL: https://arize.com/docs/ax/agents/connect-your-harness
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-5](c2-5.md)
 
@@ -282,7 +282,7 @@ Every source the Arize cells cite, with its tier from the knowledge base's sourc
 
 - Title: Quoted by the confirm agents
 - URL: https://arize.com/docs/ax/observe/production-monitoring
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-2](c5-2.md)
 
@@ -290,6 +290,6 @@ Every source the Arize cells cite, with its tier from the knowledge base's sourc
 
 - Title: Quoted by the confirm agents
 - URL: https://arize.com/docs/phoenix/pxi-advanced
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-3](c2-3.md)

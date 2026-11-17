@@ -122,7 +122,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: AI Agent Security Overview
 - URL: https://docs.lakera.ai/docs/agent-security.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md)
 
@@ -130,7 +130,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: Agent Discovery
 - URL: https://docs.lakera.ai/docs/agent-security/discovery.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-6](c6-6.md), [c7-9](c7-9.md)
 
@@ -138,7 +138,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: Agent Risk Assessment
 - URL: https://docs.lakera.ai/docs/agent-security/risk-assessment.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c6-11](c6-11.md), [c6-3](c6-3.md), [c6-5](c6-5.md), [c6-6](c6-6.md), [c6-7](c6-7.md), [c7-5](c7-5.md), [c7-6](c7-6.md), [c7-9](c7-9.md)
 
@@ -146,7 +146,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: Agent Behavior Defense
 - URL: https://docs.lakera.ai/docs/agent-behavior-defense.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c5-2](c5-2.md)
 
@@ -154,7 +154,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: Data Leakage Prevention
 - URL: https://docs.lakera.ai/docs/data-leakage-prevention.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md)
 
@@ -162,7 +162,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: Policies
 - URL: https://docs.lakera.ai/docs/policies.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-3](c1-3.md), [c3-1](c3-1.md), [c6-4](c6-4.md), [c6-8](c6-8.md)
 
@@ -170,7 +170,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: AI Guardrails Dashboard
 - URL: https://docs.lakera.ai/docs/platform.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c6-10](c6-10.md), [c6-3](c6-3.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -178,7 +178,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: Introduction to AI Red Teaming
 - URL: https://docs.lakera.ai/red.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-10](c7-10.md)
 
@@ -186,7 +186,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: Management API, Audit Trail (AI Red Teaming)
 - URL: https://docs.lakera.ai/docs/red/management-api-audit.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md)
 
@@ -194,7 +194,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: Data Regions
 - URL: https://docs.lakera.ai/docs/data-regions.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md)
 
@@ -202,7 +202,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: Security Framework Coverage
 - URL: https://docs.lakera.ai/docs/agent-security/framework-mapping.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-3](c6-3.md), [c7-5](c7-5.md), [c7-8](c7-8.md)
 
@@ -210,7 +210,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: Getting Started with AI Red Teaming
 - URL: https://docs.lakera.ai/docs/red/quickstart.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c7-10](c7-10.md)
 
@@ -218,7 +218,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: Attack Coverage (AI Red Teaming)
 - URL: https://docs.lakera.ai/docs/red/attack-coverage.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-10](c7-10.md)
 
@@ -226,7 +226,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: Run Scans in CI/CD (AI Red Teaming SDK)
 - URL: https://docs.lakera.ai/docs/red/sdk-how-tos/run-scans-in-ci-cd.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c6-11](c6-11.md), [c6-5](c6-5.md), [c6-8](c6-8.md), [c7-10](c7-10.md)
 
@@ -234,7 +234,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: Self-hosting AI Guardrails
 - URL: https://docs.lakera.ai/docs/selfhosting.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md)
 
@@ -242,7 +242,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: Metadata
 - URL: https://docs.lakera.ai/docs/metadata.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -250,7 +250,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: Connecting Agent Platforms
 - URL: https://docs.lakera.ai/docs/agent-security/connecting-platforms.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c3-2](c3-2.md), [c5-5](c5-5.md), [c7-9](c7-9.md)
 
@@ -258,7 +258,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: Prompt Defense
 - URL: https://docs.lakera.ai/docs/prompt-defense.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-2](c3-2.md), [c7-5](c7-5.md)
 
@@ -266,7 +266,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: AI Guardrails Integration Guide
 - URL: https://docs.lakera.ai/docs/integration.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-2](c3-2.md), [c3-3](c3-3.md), [c7-6](c7-6.md), [c7-8](c7-8.md)
 
@@ -274,7 +274,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: Integrating Red with AI Guardrails
 - URL: https://docs.lakera.ai/docs/red/guard-integration.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-7](c6-7.md)
 
@@ -282,7 +282,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: Guard API Endpoint
 - URL: https://docs.lakera.ai/docs/api/guard.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md)
 
@@ -290,7 +290,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: Check Point AI Security docs changelog
 - URL: https://docs.lakera.ai/changelog
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md), [c6-4](c6-4.md)
 
@@ -298,7 +298,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: Check Point AI Guardrails docs: Agent Behavior Defense
 - URL: https://docs.lakera.ai/docs/agent-behavior-defense.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -306,7 +306,7 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: Check Point AI Guardrails docs: Integration guide
 - URL: https://docs.lakera.ai/docs/integration.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -314,6 +314,6 @@ Every source the Lakera cells cite, with its tier from the knowledge base's sour
 
 - Title: Lakera Trust Center
 - URL: https://trust.lakera.ai/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

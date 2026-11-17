@@ -32,7 +32,8 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 1 |
+| verified | 45 |
 
 ## Products
 
@@ -71,7 +72,7 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | [Behavioural](c5-2.md) | Observability & Explainability | not-covered | verified | yes |
 | [Cost & Yield](c5-3.md) | Observability & Explainability | covered | verified | yes |
 | [Infrastructure](c5-4.md) | Observability & Explainability | covered | verified | yes |
-| [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |
+| [Connectivity](c5-5.md) | Observability & Explainability | not-covered | agent-checked | yes |
 | [Administrative Audit](c7-1.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [SOC Telemetry](c7-2.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Model Assurance](c7-3.md) | Agentic MLSecOps | not-covered | verified | yes |

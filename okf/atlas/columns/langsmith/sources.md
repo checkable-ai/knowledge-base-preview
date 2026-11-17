@@ -226,7 +226,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.langchain.com/langsmith/self-host-observability-dashboards
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-4](c5-4.md)
 
@@ -234,7 +234,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.langchain.com/langsmith/engine-red-teaming
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-10](c7-10.md)
 
@@ -242,7 +242,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.langchain.com/langsmith/llm-gateway
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-1](c3-1.md)
 
@@ -250,7 +250,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Agents
 - URL: https://docs.langchain.com/langsmith/agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c6-1](c6-1.md)
 
@@ -258,7 +258,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Create an agent
 - URL: https://docs.langchain.com/langsmith/create-an-agent
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-1](c4-1.md)
 
@@ -266,7 +266,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Agent environments
 - URL: https://docs.langchain.com/langsmith/agent-environments
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c6-5](c6-5.md)
 
@@ -274,7 +274,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Set up Agent Auth
 - URL: https://docs.langchain.com/langsmith/agent-auth
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -282,7 +282,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Sandbox auth proxy
 - URL: https://docs.langchain.com/langsmith/sandbox-auth-proxy
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c2-3](c2-3.md), [c3-2](c3-2.md), [c4-2](c4-2.md)
 
@@ -290,7 +290,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Authentication & access control
 - URL: https://docs.langchain.com/langsmith/auth
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c2-4](c2-4.md), [c4-3](c4-3.md), [c4-4](c4-4.md)
 
@@ -298,7 +298,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Add custom authentication
 - URL: https://docs.langchain.com/langsmith/custom-auth
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md)
 
@@ -306,7 +306,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Fleet: Agent identity
 - URL: https://docs.langchain.com/langsmith/fleet/agent-identity
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md)
 
@@ -314,7 +314,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: A2A endpoint in Agent Server
 - URL: https://docs.langchain.com/langsmith/server-a2a
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-4](c4-4.md)
 
@@ -322,7 +322,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: LangSmith Sandboxes
 - URL: https://docs.langchain.com/langsmith/sandboxes
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c2-3](c2-3.md)
 
@@ -330,7 +330,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Sandbox access permissions
 - URL: https://docs.langchain.com/langsmith/sandbox-permissions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c6-6](c6-6.md)
 
@@ -338,7 +338,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Fleet: Essentials
 - URL: https://docs.langchain.com/langsmith/fleet/essentials
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-3](c1-3.md), [c2-5](c2-5.md), [c2-6](c2-6.md), [c3-2](c3-2.md)
 
@@ -346,7 +346,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Human-in-the-loop using server API
 - URL: https://docs.langchain.com/langsmith/add-human-in-the-loop
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md)
 
@@ -354,7 +354,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Create an account and API key
 - URL: https://docs.langchain.com/langsmith/create-account-api-key
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md)
 
@@ -362,7 +362,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Agent Server
 - URL: https://docs.langchain.com/langsmith/agent-server
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-4](c2-4.md), [c2-5](c2-5.md)
 
@@ -370,7 +370,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: How to cancel a run
 - URL: https://docs.langchain.com/langsmith/cancel-run
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md)
 
@@ -378,7 +378,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Double texting
 - URL: https://docs.langchain.com/langsmith/double-texting
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md)
 
@@ -386,7 +386,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: LLM Gateway
 - URL: https://docs.langchain.com/langsmith/llm-gateway
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c4-2](c4-2.md)
 
@@ -394,7 +394,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Spend policies
 - URL: https://docs.langchain.com/langsmith/llm-gateway-spend-policies
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -402,7 +402,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Rate limit policies
 - URL: https://docs.langchain.com/langsmith/llm-gateway-rate-limit-policies
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md)
 
@@ -410,7 +410,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Model access policies
 - URL: https://docs.langchain.com/langsmith/llm-gateway-model-access-policies
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c6-12](c6-12.md)
 
@@ -418,7 +418,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Data policy
 - URL: https://docs.langchain.com/langsmith/llm-gateway-data-policy
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md)
 
@@ -426,7 +426,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Traces and access control
 - URL: https://docs.langchain.com/langsmith/llm-gateway-access
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -434,7 +434,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: How to add TTLs to your application
 - URL: https://docs.langchain.com/langsmith/configure-ttl
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c2-6](c2-6.md), [c6-10](c6-10.md)
 
@@ -442,7 +442,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: How to use a custom store
 - URL: https://docs.langchain.com/langsmith/custom-store
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-6](c2-6.md)
 
@@ -450,7 +450,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Use annotation queues
 - URL: https://docs.langchain.com/langsmith/annotation-queues
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md)
 
@@ -458,7 +458,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Set up LLM-as-a-judge online evaluators
 - URL: https://docs.langchain.com/langsmith/online-evaluations-llm-as-judge
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md)
 
@@ -466,7 +466,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Alerts in LangSmith
 - URL: https://docs.langchain.com/langsmith/alerts
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c5-4](c5-4.md)
 
@@ -474,7 +474,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Discover errors and usage patterns with Insights
 - URL: https://docs.langchain.com/langsmith/insights
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md)
 
@@ -482,7 +482,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Cost tracking
 - URL: https://docs.langchain.com/langsmith/cost-tracking
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md)
 
@@ -490,7 +490,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Monitor projects with dashboards
 - URL: https://docs.langchain.com/langsmith/dashboards
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-4](c5-4.md)
 
@@ -498,7 +498,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Audit logs
 - URL: https://docs.langchain.com/langsmith/audit-logs
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -506,7 +506,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Bulk export trace data
 - URL: https://docs.langchain.com/langsmith/data-export
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-2](c7-2.md)
 
@@ -514,7 +514,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Find and fix your agent's issues with LangSmith Engine
 - URL: https://docs.langchain.com/langsmith/engine
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c7-10](c7-10.md)
 
@@ -522,7 +522,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Manage prompts
 - URL: https://docs.langchain.com/langsmith/manage-prompts
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c6-5](c6-5.md), [c6-6](c6-6.md), [c6-8](c6-8.md)
 
@@ -530,7 +530,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Assistants
 - URL: https://docs.langchain.com/langsmith/assistants
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c6-1](c6-1.md), [c6-8](c6-8.md)
 
@@ -538,7 +538,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Revisions
 - URL: https://docs.langchain.com/langsmith/deployment-revisions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-5](c6-5.md)
 
@@ -546,7 +546,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Data purging for compliance
 - URL: https://docs.langchain.com/langsmith/data-purging-compliance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md)
 
@@ -554,7 +554,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Prevent logging of sensitive data in traces
 - URL: https://docs.langchain.com/langsmith/mask-inputs-outputs
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md)
 
@@ -562,7 +562,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Regions FAQ
 - URL: https://docs.langchain.com/langsmith/regions-faq
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md)
 
@@ -570,7 +570,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Fleet: Manage workspace administration
 - URL: https://docs.langchain.com/langsmith/fleet/workspace-admin
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c5-3](c5-3.md), [c6-6](c6-6.md)
 
@@ -578,7 +578,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Fleet: Manage agent settings
 - URL: https://docs.langchain.com/langsmith/fleet/manage-agent-settings
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c1-4](c1-4.md)
 
@@ -586,7 +586,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Self-hosted sandbox architecture
 - URL: https://docs.langchain.com/langsmith/self-host-sandbox-architecture
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -594,7 +594,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Sandbox auth proxy
 - URL: https://docs.langchain.com/langsmith/sandbox-auth-proxy
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -602,7 +602,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: LangSmith Sandboxes
 - URL: https://docs.langchain.com/langsmith/sandboxes
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -610,7 +610,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Delete a sandbox (API reference)
 - URL: https://docs.langchain.com/langsmith/smith-api/sandboxes/delete-a-sandbox
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -618,7 +618,7 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Cancel a run
 - URL: https://docs.langchain.com/langsmith/cancel-run
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -626,6 +626,6 @@ Every source the LangSmith cells cite, with its tier from the knowledge base's s
 
 - Title: Regions FAQ
 - URL: https://docs.langchain.com/langsmith/regions-faq
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

@@ -33,7 +33,8 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 1 |
+| verified | 45 |
 
 ## Products
 
@@ -58,7 +59,7 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | [Agent Provisioning](c1-4.md) | Authorisation | not-covered | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | not-covered | verified | yes |
 | [Inference](c2-2.md) | Runtime | not-covered | verified | yes |
-| [Execution Environment](c2-3.md) | Runtime | out-of-scope | verified | yes |
+| [Execution Environment](c2-3.md) | Runtime | out-of-scope | agent-checked | yes |
 | [Agent In-Session Memory](c2-4.md) | Runtime | not-covered | verified | yes |
 | [Harness](c2-5.md) | Runtime | not-covered | verified | yes |
 | [Agent Persistent Memory](c2-6.md) | Runtime | not-covered | verified | yes |

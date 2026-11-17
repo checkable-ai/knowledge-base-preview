@@ -114,7 +114,7 @@ Every source the Harvey cells cite, with its tier from the knowledge base's sour
 
 - Title: Security
 - URL: https://www.harvey.ai/security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c1-2](c1-2.md), [c2-2](c2-2.md), [c3-3](c3-3.md), [c6-10](c6-10.md), [c6-11](c6-11.md), [c6-12](c6-12.md), [c7-4](c7-4.md)
 
@@ -122,7 +122,7 @@ Every source the Harvey cells cite, with its tier from the knowledge base's sour
 
 - Title: Agents
 - URL: https://www.harvey.ai/platform/agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c1-3](c1-3.md), [c2-1](c2-1.md), [c5-1](c5-1.md)
 
@@ -130,7 +130,7 @@ Every source the Harvey cells cite, with its tier from the knowledge base's sour
 
 - Title: Command Center
 - URL: https://www.harvey.ai/platform/command-center
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c5-3](c5-3.md)
 
@@ -138,7 +138,7 @@ Every source the Harvey cells cite, with its tier from the knowledge base's sour
 
 - Title: Authentication (API guide)
 - URL: https://developers.harvey.ai/guides/authentication
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c3-2](c3-2.md)
 
@@ -146,7 +146,7 @@ Every source the Harvey cells cite, with its tier from the knowledge base's sour
 
 - Title: Audit Logs (API guide)
 - URL: https://developers.harvey.ai/guides/audit_logs
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -154,7 +154,7 @@ Every source the Harvey cells cite, with its tier from the knowledge base's sour
 
 - Title: History Exports (API guide)
 - URL: https://developers.harvey.ai/guides/usage_history
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c3-3](c3-3.md), [c5-3](c5-3.md), [c6-5](c6-5.md), [c7-1](c7-1.md)
 
@@ -162,7 +162,7 @@ Every source the Harvey cells cite, with its tier from the knowledge base's sour
 
 - Title: Harvey MCP
 - URL: https://developers.harvey.ai/guides/harvey_mcp
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c1-2](c1-2.md), [c2-4](c2-4.md), [c3-2](c3-2.md), [c4-3](c4-3.md)
 
@@ -170,7 +170,7 @@ Every source the Harvey cells cite, with its tier from the knowledge base's sour
 
 - Title: Assistant (API guide)
 - URL: https://developers.harvey.ai/guides/assistant
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c2-2](c2-2.md), [c2-5](c2-5.md)
 
@@ -178,7 +178,7 @@ Every source the Harvey cells cite, with its tier from the knowledge base's sour
 
 - Title: Rate Limits
 - URL: https://developers.harvey.ai/api-reference/ratelimits
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md)
 
@@ -186,7 +186,7 @@ Every source the Harvey cells cite, with its tier from the knowledge base's sour
 
 - Title: Release notes: Agents
 - URL: https://help.harvey.ai/release-notes/category/agents
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-17
 - Cited by: [c1-4](c1-4.md), [c2-1](c2-1.md), [c2-5](c2-5.md), [c6-1](c6-1.md), [c6-2](c6-2.md), [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -194,7 +194,7 @@ Every source the Harvey cells cite, with its tier from the knowledge base's sour
 
 - Title: Release notes: Governance
 - URL: https://help.harvey.ai/release-notes/category/governance
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-17
 - Cited by: [c1-4](c1-4.md), [c3-2](c3-2.md), [c7-1](c7-1.md)
 
@@ -202,7 +202,7 @@ Every source the Harvey cells cite, with its tier from the knowledge base's sour
 
 - Title: Release notes: Model Updates
 - URL: https://help.harvey.ai/release-notes/category/model-updates
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-17
 - Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md)
 
@@ -210,7 +210,7 @@ Every source the Harvey cells cite, with its tier from the knowledge base's sour
 
 - Title: Release notes: Integrations
 - URL: https://help.harvey.ai/release-notes/category/integrations
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-17
 - Cited by: [c1-3](c1-3.md), [c5-1](c5-1.md)
 
@@ -218,7 +218,7 @@ Every source the Harvey cells cite, with its tier from the knowledge base's sour
 
 - Title: Release notes: Harvey II
 - URL: https://help.harvey.ai/release-notes/category/harvey-ii
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-17
 - Cited by: [c2-4](c2-4.md), [c2-6](c2-6.md)
 
@@ -226,7 +226,7 @@ Every source the Harvey cells cite, with its tier from the knowledge base's sour
 
 - Title: Release notes: Vault
 - URL: https://help.harvey.ai/release-notes/category/vault
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-17
 - Cited by: [c1-2](c1-2.md), [c3-3](c3-3.md), [c6-10](c6-10.md), [c6-6](c6-6.md), [c7-8](c7-8.md)
 
@@ -234,7 +234,7 @@ Every source the Harvey cells cite, with its tier from the knowledge base's sour
 
 - Title: Memory
 - URL: https://www.harvey.ai/platform/memory
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c2-6](c2-6.md)
 
@@ -242,7 +242,7 @@ Every source the Harvey cells cite, with its tier from the knowledge base's sour
 
 - Title: Subprocessors
 - URL: https://www.harvey.ai/legal/subprocessors
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md), [c6-12](c6-12.md)
 
@@ -250,7 +250,7 @@ Every source the Harvey cells cite, with its tier from the knowledge base's sour
 
 - Title: AI Policy
 - URL: https://www.harvey.ai/legal/ai-policy
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-17
 - Cited by: [c6-11](c6-11.md)
 
@@ -258,7 +258,7 @@ Every source the Harvey cells cite, with its tier from the knowledge base's sour
 
 - Title: Harvey security and trust
 - URL: https://www.harvey.ai/security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -266,7 +266,7 @@ Every source the Harvey cells cite, with its tier from the knowledge base's sour
 
 - Title: Harvey subprocessors
 - URL: https://www.harvey.ai/legal/subprocessors
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -274,7 +274,7 @@ Every source the Harvey cells cite, with its tier from the knowledge base's sour
 
 - Title: Harvey release notes, Harvey II
 - URL: https://help.harvey.ai/release-notes/category/harvey-ii
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -282,7 +282,7 @@ Every source the Harvey cells cite, with its tier from the knowledge base's sour
 
 - Title: Harvey developer docs index
 - URL: https://developers.harvey.ai/llms.txt
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -290,6 +290,6 @@ Every source the Harvey cells cite, with its tier from the knowledge base's sour
 
 - Title: Hosting Certification Framework, certified service providers
 - URL: https://www.hostingcertification.gov.au/certified-service-providers
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

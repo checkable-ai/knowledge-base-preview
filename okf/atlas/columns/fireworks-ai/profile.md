@@ -33,7 +33,8 @@ Column group: Model hosting and inference. Facts are agent-run. Cells listed as 
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 1 |
+| verified | 45 |
 
 ## Products
 
@@ -68,7 +69,7 @@ Column group: Model hosting and inference. Facts are agent-run. Cells listed as 
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | out-of-scope | verified | yes |
 | [HITL](c5-1.md) | Observability & Explainability | out-of-scope | verified | yes |
 | [Behavioural](c5-2.md) | Observability & Explainability | not-covered | verified | yes |
-| [Cost & Yield](c5-3.md) | Observability & Explainability | covered | verified | yes |
+| [Cost & Yield](c5-3.md) | Observability & Explainability | covered | agent-checked | yes |
 | [Infrastructure](c5-4.md) | Observability & Explainability | covered | verified | yes |
 | [Connectivity](c5-5.md) | Observability & Explainability | out-of-scope | verified | yes |
 | [Administrative Audit](c7-1.md) | Agentic MLSecOps | not-covered | verified | yes |

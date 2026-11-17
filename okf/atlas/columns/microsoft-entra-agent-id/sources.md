@@ -150,7 +150,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/agent-owners-sponsors-managers
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-4](c1-4.md)
 
@@ -158,7 +158,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/entra/global-secure-access/concept-shadow-ai-discovery
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-9](c7-9.md)
 
@@ -166,7 +166,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/what-are-agent-identities
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c4-4](c4-4.md)
 
@@ -174,7 +174,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/agent-on-behalf-of-oauth-flow
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c4-2](c4-2.md)
 
@@ -182,7 +182,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: What are agent identities? - Microsoft Entra Agent ID
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/identity-platform/what-is-agent-id
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c4-4](c4-4.md)
 
@@ -190,7 +190,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Manage Entra Agent IDs - Microsoft Copilot Studio
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-use-entra-agent-identities
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c4-1](c4-1.md), [c5-5](c5-5.md)
 
@@ -198,7 +198,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Agent identity blueprints in Microsoft Entra Agent ID
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/identity-platform/agent-blueprint
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-1](c4-1.md), [c4-2](c4-2.md), [c6-12](c6-12.md), [c6-2](c6-2.md)
 
@@ -206,7 +206,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Governing Agent Identities - Microsoft Entra ID Governance
 - URL: https://learn.microsoft.com/en-us/entra/id-governance/agent-id-governance-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-1](c4-1.md), [c4-4](c4-4.md), [c6-6](c6-6.md)
 
@@ -214,7 +214,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Authentication protocols in agents - Microsoft Entra Agent ID
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/agent-oauth-protocols
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -222,7 +222,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Conditional Access for Agents in Microsoft Entra
 - URL: https://learn.microsoft.com/en-us/entra/identity/conditional-access/agent-id
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c3-3](c3-3.md), [c3-4](c3-4.md), [c4-3](c4-3.md)
 
@@ -230,7 +230,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: ID Protection for Agents - Microsoft Entra ID Protection
 - URL: https://learn.microsoft.com/en-us/entra/id-protection/concept-risky-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-4](c3-4.md), [c4-4](c4-4.md), [c5-2](c5-2.md), [c6-3](c6-3.md), [c7-2](c7-2.md)
 
@@ -238,7 +238,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Microsoft Entra Agent ID logs
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/identity-professional/sign-in-audit-logs-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c6-8](c6-8.md), [c7-1](c7-1.md), [c7-9](c7-9.md)
 
@@ -246,7 +246,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: What is Microsoft Entra Agent ID?
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/what-is-microsoft-entra-agent-id
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-12](c6-12.md)
 
@@ -254,7 +254,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Administrative relationships in Microsoft Entra Agent ID (Owners, sponsors, and managers)
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/agent-owners-sponsors-managers
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c6-5](c6-5.md), [c6-6](c6-6.md)
 
@@ -262,7 +262,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Learn about Secure Web and AI Gateway for Microsoft Copilot Studio agents
 - URL: https://learn.microsoft.com/en-us/entra/global-secure-access/concept-secure-web-ai-gateway-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md)
 
@@ -270,7 +270,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Microsoft Entra security for AI overview
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/security-for-ai-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c3-3](c3-3.md), [c6-1](c6-1.md)
 
@@ -278,7 +278,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Agent OAuth flows - On-behalf-of flow
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/agent-on-behalf-of-oauth-flow
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md)
 
@@ -286,7 +286,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Validate agent identity tokens in a downstream API
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/how-to-validate-agent-tokens-downstream-api
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-4](c4-4.md)
 
@@ -294,7 +294,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Acquire tokens and call downstream APIs with Microsoft Entra ID Auth SDK (sidecar)
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/microsoft-entra-sdk-for-agent-identities
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -302,7 +302,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: What's new in Microsoft Entra Agent ID
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/whats-new-agent-id
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c6-12](c6-12.md)
 
@@ -310,7 +310,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Agent Registry convergence with Microsoft Agent 365
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/agent-registry-convergence
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md), [c6-1](c6-1.md), [c7-9](c7-9.md)
 
@@ -318,7 +318,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Access packages for agent identities in Microsoft Entra
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/agent-access-packages
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c6-2](c6-2.md), [c6-8](c6-8.md)
 
@@ -326,7 +326,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Learn how agent identity deletion works
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/concept-agent-identity-deletion
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c6-5](c6-5.md)
 
@@ -334,7 +334,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Authorization in Microsoft Entra Agent ID
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/authorization-agent-id
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md)
 
@@ -342,7 +342,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Best practices for Microsoft Entra Agent ID
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/best-practices-agent-id
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md), [c6-11](c6-11.md), [c6-2](c6-2.md), [c6-8](c6-8.md), [c7-2](c7-2.md)
 
@@ -350,7 +350,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Disable agent identities in your tenant
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/disable-agent-identities
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -358,7 +358,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Learn how agent identity deletion works
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/concept-agent-identity-deletion
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -366,7 +366,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Learn about Secure Web and AI Gateway for Microsoft Copilot Studio agents
 - URL: https://learn.microsoft.com/en-us/entra/global-secure-access/concept-secure-web-ai-gateway-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -374,7 +374,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Australian Government Information Security Registered Assessor Program (IRAP), Microsoft Compliance
 - URL: https://learn.microsoft.com/en-us/compliance/regulatory/offering-irap-australia
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -382,7 +382,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: Australia IRAP, Azure Compliance
 - URL: https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-australia-irap
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -390,7 +390,7 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: System and Organization Controls (SOC) 2 Type 2, Azure Compliance
 - URL: https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-soc-2
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -398,6 +398,6 @@ Every source the Microsoft Entra Agent ID cells cite, with its tier from the kno
 
 - Title: ISO/IEC 42001:2023 Artificial Intelligence Management System Standards, Microsoft Compliance
 - URL: https://learn.microsoft.com/en-us/compliance/regulatory/offering-iso-42001
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

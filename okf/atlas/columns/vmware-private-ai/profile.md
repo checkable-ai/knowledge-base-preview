@@ -33,7 +33,8 @@ Column group: Self-hosted and hybrid. Facts are agent-run. Cells listed as eligi
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 6 |
+| verified | 40 |
 
 ## Products
 
@@ -56,7 +57,7 @@ Column group: Self-hosted and hybrid. Facts are agent-run. Cells listed as eligi
 | [Agent Local Scopes](c1-1.md) | Authorisation | not-covered | verified | yes |
 | [Agent Remote Scopes](c1-2.md) | Authorisation | not-covered | verified | yes |
 | [Human Approval](c1-3.md) | Authorisation | not-covered | verified | yes |
-| [Agent Provisioning](c1-4.md) | Authorisation | not-covered | verified | yes |
+| [Agent Provisioning](c1-4.md) | Authorisation | not-covered | agent-checked | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | not-covered | verified | yes |
 | [Inference](c2-2.md) | Runtime | covered | verified | yes |
 | [Execution Environment](c2-3.md) | Runtime | covered | verified | yes |
@@ -71,19 +72,19 @@ Column group: Self-hosted and hybrid. Facts are agent-run. Cells listed as eligi
 | [HITL](c5-1.md) | Observability & Explainability | not-covered | verified | yes |
 | [Behavioural](c5-2.md) | Observability & Explainability | not-covered | verified | yes |
 | [Cost & Yield](c5-3.md) | Observability & Explainability | not-covered | verified | yes |
-| [Infrastructure](c5-4.md) | Observability & Explainability | covered | verified | yes |
+| [Infrastructure](c5-4.md) | Observability & Explainability | covered | agent-checked | yes |
 | [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |
 | [Administrative Audit](c7-1.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [SOC Telemetry](c7-2.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Model Assurance](c7-3.md) | Agentic MLSecOps | not-covered | verified | yes |
-| [Runtime Assurance](c7-4.md) | Agentic MLSecOps | not-covered | verified | yes |
+| [Runtime Assurance](c7-4.md) | Agentic MLSecOps | not-covered | agent-checked | yes |
 | [First-Party Tool Assurance](c7-5.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Third-Party Tool Assurance](c7-6.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | not-covered | verified | yes |
-| [AI Discovery](c7-9.md) | Agentic MLSecOps | out-of-scope | verified | yes |
+| [AI Discovery](c7-9.md) | Agentic MLSecOps | out-of-scope | agent-checked | yes |
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | out-of-scope | verified | yes |
 | [Asset Registries & Inventory](c6-1.md) | Governance | covered | verified | yes |
-| [Registration & Approval Workflows](c6-2.md) | Governance | not-covered | verified | yes |
+| [Registration & Approval Workflows](c6-2.md) | Governance | not-covered | agent-checked | yes |
 | [Posture & Reporting](c6-3.md) | Governance | not-covered | verified | yes |
 | [Policy Management](c6-4.md) | Governance | out-of-scope | verified | yes |
 | [AI Lifecycle Management](c6-5.md) | Governance | not-covered | verified | yes |
@@ -92,7 +93,7 @@ Column group: Self-hosted and hybrid. Facts are agent-run. Cells listed as eligi
 | [Change & Release Governance](c6-8.md) | Governance | not-covered | verified | yes |
 | [Exceptions & Risk Acceptance](c6-9.md) | Governance | out-of-scope | verified | yes |
 | [Data Lifecycle Governance](c6-10.md) | Governance | not-covered | verified | yes |
-| [Assurance & Compliance Evidence](c6-11.md) | Governance | out-of-scope | verified | yes |
+| [Assurance & Compliance Evidence](c6-11.md) | Governance | out-of-scope | agent-checked | yes |
 | [Third-Party Governance](c6-12.md) | Governance | not-covered | verified | yes |
 | [Independent Assurance & Authorisation](c6-13.md) | Governance | not-covered | verified | yes |
 

@@ -126,7 +126,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/copilot/security/agents-manage
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-2](c5-2.md)
 
@@ -134,7 +134,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/entra/security-copilot/conditional-access-agent-optimization-review-suggestions
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-3](c1-3.md)
 
@@ -142,7 +142,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/defender-xdr/phishing-triage-agent
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-3](c5-3.md)
 
@@ -150,7 +150,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/copilot/security/developer/agent-manifest
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-5](c2-5.md)
 
@@ -158,7 +158,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/copilot/security/security-copilot-application-card-agents
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-1](c6-1.md), [c6-13](c6-13.md)
 
@@ -166,7 +166,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/copilot/security/agents-overview
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c4-2](c4-2.md)
 
@@ -174,7 +174,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: What is Microsoft Security Copilot?
 - URL: https://learn.microsoft.com/en-us/copilot/security/microsoft-security-copilot
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-1](c1-1.md), [c2-5](c2-5.md), [c6-13](c6-13.md)
 
@@ -182,7 +182,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Understand authentication in Microsoft Security Copilot
 - URL: https://learn.microsoft.com/en-us/copilot/security/authentication
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-4](c2-4.md), [c4-2](c4-2.md), [c4-3](c4-3.md), [c6-6](c6-6.md), [c6-9](c6-9.md)
 
@@ -190,7 +190,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Privacy and data security in Microsoft Security Copilot
 - URL: https://learn.microsoft.com/en-us/copilot/security/privacy-data-security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-2](c2-2.md), [c2-3](c2-3.md), [c2-4](c2-4.md), [c2-6](c2-6.md), [c3-3](c3-3.md), [c6-10](c6-10.md), [c7-8](c7-8.md)
 
@@ -198,7 +198,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Manage security compute unit usage in Security Copilot
 - URL: https://learn.microsoft.com/en-us/copilot/security/manage-usage
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-7](c2-7.md), [c5-3](c5-3.md), [c5-4](c5-4.md), [c6-3](c6-3.md), [c6-5](c6-5.md), [c6-6](c6-6.md)
 
@@ -206,7 +206,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Microsoft Security Copilot agents overview
 - URL: https://learn.microsoft.com/en-us/copilot/security/agents-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-2](c1-2.md), [c4-1](c4-1.md), [c4-4](c4-4.md)
 
@@ -214,7 +214,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Setup and manage Security Copilot agents
 - URL: https://learn.microsoft.com/en-us/copilot/security/agents-manage
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-3](c1-3.md), [c1-4](c1-4.md), [c2-6](c2-6.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-12](c6-12.md), [c6-2](c6-2.md), [c6-5](c6-5.md), [c7-6](c7-6.md)
 
@@ -222,7 +222,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Application card for Microsoft Security Copilot agents
 - URL: https://learn.microsoft.com/en-us/copilot/security/security-copilot-application-card-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-1](c1-1.md), [c1-2](c1-2.md), [c1-3](c1-3.md), [c2-1](c2-1.md), [c2-2](c2-2.md), [c2-3](c2-3.md), [c2-5](c2-5.md), [c2-6](c2-6.md), [c3-1](c3-1.md), [c3-4](c3-4.md), [c4-2](c4-2.md), [c4-4](c4-4.md), [c5-1](c5-1.md), [c5-2](c5-2.md), [c5-5](c5-5.md), [c6-11](c6-11.md), [c6-7](c6-7.md), [c7-10](c7-10.md), [c7-3](c7-3.md), [c7-4](c7-4.md), [c7-5](c7-5.md)
 
@@ -230,7 +230,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Security Alert Triage Agent in Microsoft Defender (Preview)
 - URL: https://learn.microsoft.com/en-us/defender-xdr/security-alert-triage-agent
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-1](c5-1.md)
 
@@ -238,7 +238,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Microsoft Entra agents
 - URL: https://learn.microsoft.com/en-us/entra/security-copilot/entra-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-2](c1-2.md), [c4-1](c4-1.md), [c4-2](c4-2.md)
 
@@ -246,7 +246,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Access the Security Copilot audit log
 - URL: https://learn.microsoft.com/en-us/copilot/security/audit-log
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-3](c3-3.md), [c6-11](c6-11.md), [c6-3](c6-3.md), [c7-1](c7-1.md), [c7-2](c7-2.md), [c7-9](c7-9.md)
 
@@ -254,7 +254,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Configure owner settings in Microsoft Security Copilot
 - URL: https://learn.microsoft.com/en-us/copilot/security/owner-settings
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-3](c3-3.md), [c5-3](c5-3.md), [c6-4](c6-4.md), [c6-9](c6-9.md), [c7-9](c7-9.md)
 
@@ -262,7 +262,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Manage plugins in Microsoft Security Copilot
 - URL: https://learn.microsoft.com/en-us/copilot/security/manage-plugins
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-7](c2-7.md), [c3-2](c3-2.md), [c6-12](c6-12.md), [c6-8](c6-8.md), [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -270,7 +270,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Deploy AI agents in Microsoft Defender
 - URL: https://learn.microsoft.com/en-us/defender-xdr/security-copilot-agents-defender
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-1](c6-1.md), [c6-2](c6-2.md)
 
@@ -278,7 +278,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: What is new in Microsoft Security Copilot
 - URL: https://learn.microsoft.com/en-us/copilot/security/whats-new-copilot-security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-4](c1-4.md), [c2-2](c2-2.md), [c6-8](c6-8.md)
 
@@ -286,7 +286,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Microsoft Security Copilot Security Compute Units and capacity
 - URL: https://learn.microsoft.com/en-us/copilot/security/security-compute-units-capacity
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-1](c3-1.md)
 
@@ -294,7 +294,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Microsoft Security Copilot Frequently Asked Questions
 - URL: https://learn.microsoft.com/en-us/copilot/security/faq-security-copilot
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-1](c2-1.md), [c3-1](c3-1.md), [c7-6](c7-6.md)
 
@@ -302,7 +302,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Azure AI Foundry Models and Microsoft Security Copilot achieve ISO/IEC 42001:2023 certification
 - URL: https://azure.microsoft.com/en-us/blog/microsoft-azure-ai-foundry-models-and-microsoft-security-copilot-achieve-iso-iec-420012023-certification/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-13](c6-13.md), [c7-3](c7-3.md)
 
@@ -310,7 +310,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Microsoft Security Copilot Achieves SOC 2 Certification
 - URL: https://techcommunity.microsoft.com/blog/securitycopilotblog/microsoft-security-copilot-achieves-soc-2-certification/4295363
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -318,7 +318,7 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Phishing Triage Agent in Microsoft Defender
 - URL: https://learn.microsoft.com/en-us/defender-xdr/phishing-triage-agent
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-2](c1-2.md), [c5-2](c5-2.md)
 
@@ -326,6 +326,6 @@ Every source the Microsoft Security Copilot cells cite, with its tier from the k
 
 - Title: Plugins overview in Microsoft Security Copilot
 - URL: https://learn.microsoft.com/en-us/copilot/security/plugin-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-4](c3-4.md), [c4-4](c4-4.md)

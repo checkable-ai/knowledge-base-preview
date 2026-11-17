@@ -33,7 +33,8 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 3 |
+| verified | 43 |
 
 ## Products
 
@@ -62,7 +63,7 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | [Agent In-Session Memory](c2-4.md) | Runtime | not-covered | verified | yes |
 | [Harness](c2-5.md) | Runtime | covered | verified | yes |
 | [Agent Persistent Memory](c2-6.md) | Runtime | covered | verified | yes |
-| [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | verified | yes |
+| [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | agent-checked | yes |
 | [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | covered | verified | yes |
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | covered | verified | yes |
@@ -88,10 +89,10 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | [AI Lifecycle Management](c6-5.md) | Governance | covered | verified | yes |
 | [Ownership & Accountability](c6-6.md) | Governance | covered | verified | yes |
 | [Risk Assessment & Classification](c6-7.md) | Governance | not-covered | verified | yes |
-| [Change & Release Governance](c6-8.md) | Governance | covered | verified | yes |
+| [Change & Release Governance](c6-8.md) | Governance | covered | agent-checked | yes |
 | [Exceptions & Risk Acceptance](c6-9.md) | Governance | not-covered | verified | yes |
 | [Data Lifecycle Governance](c6-10.md) | Governance | covered | verified | yes |
-| [Assurance & Compliance Evidence](c6-11.md) | Governance | not-covered | verified | yes |
+| [Assurance & Compliance Evidence](c6-11.md) | Governance | not-covered | agent-checked | yes |
 | [Third-Party Governance](c6-12.md) | Governance | not-covered | verified | yes |
 | [Independent Assurance & Authorisation](c6-13.md) | Governance | covered | verified | yes |
 

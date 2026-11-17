@@ -98,7 +98,7 @@ Every source the New Relic AI Monitoring cells cite, with its tier from the know
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.newrelic.com/docs/service-architecture-intelligence/teams/team-ownership/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-6](c6-6.md)
 
@@ -106,7 +106,7 @@ Every source the New Relic AI Monitoring cells cite, with its tier from the know
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.newrelic.com/docs/ai-monitoring/explore-ai-data/view-ai-responses/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-4](c5-4.md)
 
@@ -114,7 +114,7 @@ Every source the New Relic AI Monitoring cells cite, with its tier from the know
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.newrelic.com/docs/security/security-privacy/compliance/regulatory-audits-new-relic-services
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-13](c6-13.md)
 
@@ -122,7 +122,7 @@ Every source the New Relic AI Monitoring cells cite, with its tier from the know
 
 - Title: Monitor AI agents and tools
 - URL: https://docs.newrelic.com/docs/ai-monitoring/explore-ai-data/view-ai-agents/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-4](c5-4.md), [c5-5](c5-5.md)
 
@@ -130,7 +130,7 @@ Every source the New Relic AI Monitoring cells cite, with its tier from the know
 
 - Title: Drop sensitive data with drop filters
 - URL: https://docs.newrelic.com/docs/ai-monitoring/drop-sensitive-data/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md), [c7-2](c7-2.md)
 
@@ -138,7 +138,7 @@ Every source the New Relic AI Monitoring cells cite, with its tier from the know
 
 - Title: View AI app response data
 - URL: https://docs.newrelic.com/docs/ai-monitoring/view-ai-data/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md), [c5-4](c5-4.md), [c6-1](c6-1.md), [c7-1](c7-1.md)
 
@@ -146,7 +146,7 @@ Every source the New Relic AI Monitoring cells cite, with its tier from the know
 
 - Title: Analyze model data
 - URL: https://docs.newrelic.com/docs/ai-monitoring/explore-ai-data/view-model-data/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md), [c6-1](c6-1.md)
 
@@ -154,7 +154,7 @@ Every source the New Relic AI Monitoring cells cite, with its tier from the know
 
 - Title: Customize the agent for AI monitoring
 - URL: https://docs.newrelic.com/docs/ai-monitoring/customize-agent-ai-monitoring/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md)
 
@@ -162,7 +162,7 @@ Every source the New Relic AI Monitoring cells cite, with its tier from the know
 
 - Title: Send your GenAI traces to New Relic with OpenTelemetry
 - URL: https://docs.newrelic.com/docs/ai-monitoring/opentelemetry-ai-monitoring/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md)
 
@@ -170,7 +170,7 @@ Every source the New Relic AI Monitoring cells cite, with its tier from the know
 
 - Title: eBPF AI monitoring
 - URL: https://docs.newrelic.com/docs/ebpf/ai-monitoring/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-9](c7-9.md)
 
@@ -178,7 +178,7 @@ Every source the New Relic AI Monitoring cells cite, with its tier from the know
 
 - Title: Anomaly detection thresholds
 - URL: https://docs.newrelic.com/docs/alerts/create-alert/set-thresholds/anomaly-detection/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c5-4](c5-4.md)
 
@@ -186,7 +186,7 @@ Every source the New Relic AI Monitoring cells cite, with its tier from the know
 
 - Title: Manage data retention
 - URL: https://docs.newrelic.com/docs/data-apis/manage-data/manage-data-retention/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md), [c7-1](c7-1.md)
 
@@ -194,7 +194,7 @@ Every source the New Relic AI Monitoring cells cite, with its tier from the know
 
 - Title: New Relic Launches Agentic AI Monitoring and MCP Server (press release, 4 November 2025)
 - URL: https://newrelic.com/press-release/20251104-0
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md)
 
@@ -202,7 +202,7 @@ Every source the New Relic AI Monitoring cells cite, with its tier from the know
 
 - Title: Beyond the Black Box: Next-Gen Agentic AI Monitoring (blog, 24 February 2026)
 - URL: https://newrelic.com/blog/ai/beyond-the-black-box-next-gen-agentic-ai-monitoring
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md)
 
@@ -210,7 +210,7 @@ Every source the New Relic AI Monitoring cells cite, with its tier from the know
 
 - Title: Introducing AI Evaluation (blog, 6 October 2026)
 - URL: https://newrelic.com/blog/news/introducing-ai-evaluation
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c7-2](c7-2.md)
 
@@ -218,7 +218,7 @@ Every source the New Relic AI Monitoring cells cite, with its tier from the know
 
 - Title: Intro to AI monitoring
 - URL: https://docs.newrelic.com/docs/ai-monitoring/intro-to-ai-monitoring/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -226,7 +226,7 @@ Every source the New Relic AI Monitoring cells cite, with its tier from the know
 
 - Title: Drop sensitive data
 - URL: https://docs.newrelic.com/docs/ai-monitoring/drop-sensitive-data/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -234,7 +234,7 @@ Every source the New Relic AI Monitoring cells cite, with its tier from the know
 
 - Title: SOC 2 compliance
 - URL: https://docs.newrelic.com/docs/security/security-privacy/compliance/certificates-standards-regulations/soc2
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -242,6 +242,6 @@ Every source the New Relic AI Monitoring cells cite, with its tier from the know
 
 - Title: Regulatory audits of New Relic services
 - URL: https://docs.newrelic.com/docs/security/security-privacy/compliance/regulatory-audits-new-relic-services.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

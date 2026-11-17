@@ -234,7 +234,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Quoted by the confirm agents
 - URL: https://portkey.ai/docs/product/enterprise-offering/otel/analytics
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-2](c7-2.md)
 
@@ -242,7 +242,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Quoted by the confirm agents
 - URL: https://portkey.ai/docs/product/observability/logs.md
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-3](c5-3.md)
 
@@ -250,7 +250,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Quoted by the confirm agents
 - URL: https://portkey.ai/docs/enterprise/security
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-10](c6-10.md)
 
@@ -258,7 +258,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: What is Portkey?
 - URL: https://portkey.ai/docs/introduction/what-is-portkey
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-10](c6-10.md), [c6-13](c6-13.md)
 
@@ -266,7 +266,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Portkey docs index (Latest, Docs)
 - URL: https://portkey.ai/docs/_llms/latest/docs.txt
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-6](c2-6.md), [c5-1](c5-1.md), [c6-2](c6-2.md), [c7-2](c7-2.md), [c7-4](c7-4.md), [c7-6](c7-6.md)
 
@@ -274,7 +274,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Security @ Portkey
 - URL: https://portkey.ai/docs/product/enterprise-offering/security-portkey.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-11](c6-11.md), [c6-13](c6-13.md)
 
@@ -282,7 +282,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Audit Logs
 - URL: https://portkey.ai/docs/product/enterprise-offering/audit-logs.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-11](c6-11.md), [c6-8](c6-8.md), [c7-1](c7-1.md)
 
@@ -290,7 +290,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: User Roles & Permissions
 - URL: https://portkey.ai/docs/product/enterprise-offering/org-management/user-roles-and-permissions.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-4](c1-4.md), [c6-6](c6-6.md)
 
@@ -298,7 +298,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: API Keys (AuthN and AuthZ)
 - URL: https://portkey.ai/docs/product/enterprise-offering/org-management/api-keys-authn-and-authz.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-4](c1-4.md)
 
@@ -306,7 +306,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: API Key Rotation
 - URL: https://portkey.ai/docs/product/enterprise-offering/org-management/api-key-rotation.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-7](c2-7.md), [c4-1](c4-1.md), [c4-2](c4-2.md)
 
@@ -314,7 +314,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: MCP Gateway
 - URL: https://portkey.ai/docs/product/mcp-gateway.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-1](c1-1.md), [c1-2](c1-2.md), [c1-3](c1-3.md), [c2-3](c2-3.md), [c4-2](c4-2.md), [c4-3](c4-3.md), [c7-5](c7-5.md)
 
@@ -322,7 +322,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: MCP Gateway Authorization
 - URL: https://portkey.ai/docs/product/mcp-gateway/authorization.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-2](c1-2.md)
 
@@ -330,7 +330,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: MCP Gateway Tool Provisioning
 - URL: https://portkey.ai/docs/product/mcp-gateway/tool-provisioning.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -338,7 +338,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: MCP Gateway Guardrails
 - URL: https://portkey.ai/docs/product/mcp-gateway/guardrails.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-3](c1-3.md), [c3-2](c3-2.md), [c7-5](c7-5.md)
 
@@ -346,7 +346,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: MCP Gateway Identity Forwarding
 - URL: https://portkey.ai/docs/product/mcp-gateway/authentication/identity-forwarding.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-3](c4-3.md)
 
@@ -354,7 +354,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: MCP Gateway Client Credentials (M2M)
 - URL: https://portkey.ai/docs/product/mcp-gateway/authentication/client-credentials.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-2](c4-2.md)
 
@@ -362,7 +362,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Agent Gateway
 - URL: https://portkey.ai/docs/product/agent-gateway.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-4](c3-4.md), [c4-4](c4-4.md)
 
@@ -370,7 +370,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Agent Registry
 - URL: https://portkey.ai/docs/product/agent-gateway/registry.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-4](c1-4.md), [c3-4](c3-4.md), [c4-1](c4-1.md), [c4-4](c4-4.md), [c6-1](c6-1.md)
 
@@ -378,7 +378,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Guardrails
 - URL: https://portkey.ai/docs/product/guardrails.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-3](c1-3.md), [c3-1](c3-1.md), [c3-3](c3-3.md), [c6-7](c6-7.md), [c7-10](c7-10.md)
 
@@ -386,7 +386,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: List of Guardrail Checks
 - URL: https://portkey.ai/docs/product/guardrails/list-of-guardrail-checks.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-3](c3-3.md), [c7-10](c7-10.md)
 
@@ -394,7 +394,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: PII Redaction
 - URL: https://portkey.ai/docs/product/guardrails/pii-redaction.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-3](c3-3.md)
 
@@ -402,7 +402,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Start Hooks
 - URL: https://portkey.ai/docs/product/guardrails/start-hooks.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-1](c3-1.md)
 
@@ -410,7 +410,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Enforcing Org Level Guardrails
 - URL: https://portkey.ai/docs/product/administration/enforce-orgnization-level-guardrails.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-1](c3-1.md), [c6-4](c6-4.md), [c6-9](c6-9.md)
 
@@ -418,7 +418,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Workload Identity Federation
 - URL: https://portkey.ai/docs/product/model-catalog/workload-identity-federation.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-2](c4-2.md)
 
@@ -426,7 +426,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Secret References
 - URL: https://portkey.ai/docs/product/enterprise-offering/secret-references.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-2](c4-2.md)
 
@@ -434,7 +434,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Open Source
 - URL: https://portkey.ai/docs/product/open-source.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-3](c5-3.md), [c7-3](c7-3.md)
 
@@ -442,7 +442,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Feature Comparison
 - URL: https://portkey.ai/docs/product/product-feature-comparison.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-3](c2-3.md), [c6-10](c6-10.md), [c6-13](c6-13.md), [c7-4](c7-4.md)
 
@@ -450,7 +450,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Coding Agents
 - URL: https://portkey.ai/docs/product/coding-agent.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-1](c1-1.md), [c2-3](c2-3.md), [c2-5](c2-5.md), [c2-7](c2-7.md), [c5-3](c5-3.md), [c7-1](c7-1.md)
 
@@ -458,7 +458,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Configure Request Logging
 - URL: https://portkey.ai/docs/product/administration/configuring-request-logging.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md), [c7-2](c7-2.md)
 
@@ -466,7 +466,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: MCP Gateway Observability
 - URL: https://portkey.ai/docs/product/mcp-gateway/observability.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-2](c5-2.md), [c5-4](c5-4.md), [c5-5](c5-5.md), [c6-3](c6-3.md), [c7-2](c7-2.md)
 
@@ -474,7 +474,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: MCP Gateway Team Provisioning
 - URL: https://portkey.ai/docs/product/mcp-gateway/access-control.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-2](c1-2.md)
 
@@ -482,7 +482,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: MCP Registry
 - URL: https://portkey.ai/docs/product/mcp-gateway/mcp-registry.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-3](c4-3.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-12](c6-12.md), [c6-2](c6-2.md), [c7-6](c7-6.md)
 
@@ -490,7 +490,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: MCP Gateway Rate Limits
 - URL: https://portkey.ai/docs/product/mcp-gateway/rate-limits.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-2](c3-2.md)
 
@@ -498,7 +498,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Agent Servers
 - URL: https://portkey.ai/docs/product/agent-gateway/servers.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-4](c3-4.md), [c4-4](c4-4.md)
 
@@ -506,7 +506,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Usage & Rate Limit Policies
 - URL: https://portkey.ai/docs/product/enterprise-offering/budget-policies.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-1](c3-1.md), [c5-3](c5-3.md), [c6-4](c6-4.md)
 
@@ -514,7 +514,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: SCIM Overview
 - URL: https://portkey.ai/docs/product/enterprise-offering/org-management/scim/scim.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-4](c1-4.md)
 
@@ -522,7 +522,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: KMS Integration
 - URL: https://portkey.ai/docs/product/enterprise-offering/kms.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-10](c6-10.md)
 
@@ -530,7 +530,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Workspaces
 - URL: https://portkey.ai/docs/product/enterprise-offering/org-management/workspaces.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c4-1](c4-1.md), [c6-6](c6-6.md)
 
@@ -538,7 +538,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Logs
 - URL: https://portkey.ai/docs/product/observability/logs.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-4](c2-4.md), [c2-6](c2-6.md), [c5-1](c5-1.md), [c5-2](c5-2.md), [c7-1](c7-1.md)
 
@@ -546,7 +546,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Model Catalog
 - URL: https://portkey.ai/docs/product/model-catalog.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-2](c2-2.md), [c6-1](c6-1.md), [c6-7](c6-7.md), [c7-3](c7-3.md), [c7-8](c7-8.md), [c7-9](c7-9.md)
 
@@ -554,7 +554,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Model Catalog Integrations
 - URL: https://portkey.ai/docs/product/model-catalog/integrations.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-2](c2-2.md), [c4-2](c4-2.md), [c6-12](c6-12.md), [c6-2](c6-2.md), [c7-9](c7-9.md)
 
@@ -562,7 +562,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: AI Gateway
 - URL: https://portkey.ai/docs/product/ai-gateway.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-1](c1-1.md), [c2-1](c2-1.md), [c2-2](c2-2.md), [c2-4](c2-4.md), [c2-5](c2-5.md), [c2-7](c2-7.md), [c3-1](c3-1.md)
 
@@ -570,7 +570,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Guardrails Supported Endpoints & Capabilities
 - URL: https://portkey.ai/docs/product/guardrails/capabilities.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-3](c3-3.md), [c6-3](c6-3.md), [c7-8](c7-8.md)
 
@@ -578,7 +578,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Enforcing Default Configs on API Keys
 - URL: https://portkey.ai/docs/product/administration/enforce-default-config.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-1](c3-1.md), [c6-4](c6-4.md)
 
@@ -586,7 +586,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Enforcing Saved-Only Resources
 - URL: https://portkey.ai/docs/product/administration/enforce-saved-only-config.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c3-1](c3-1.md)
 
@@ -594,7 +594,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Enterprise Offering
 - URL: https://portkey.ai/docs/product/enterprise-offering.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-3](c5-3.md), [c6-10](c6-10.md), [c6-3](c6-3.md)
 
@@ -602,7 +602,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Access Control Management
 - URL: https://portkey.ai/docs/product/enterprise-offering/access-control-management.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-6](c6-6.md)
 
@@ -610,7 +610,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Portkey AI Gateway (GitHub README)
 - URL: https://github.com/Portkey-AI/gateway
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -618,7 +618,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Tracing
 - URL: https://portkey.ai/docs/product/observability/traces.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c2-1](c2-1.md), [c2-4](c2-4.md), [c5-2](c5-2.md)
 
@@ -626,7 +626,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Prometheus Metrics
 - URL: https://portkey.ai/docs/self-hosting/prometheus-metrics.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c5-4](c5-4.md)
 
@@ -634,7 +634,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Prompt Versioning & Labels
 - URL: https://portkey.ai/docs/product/prompt-engineering-studio/prompt-versioning.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -642,7 +642,7 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Canary Testing
 - URL: https://portkey.ai/docs/product/ai-gateway/canary-testing.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -650,6 +650,6 @@ Every source the Portkey (now Prisma AIRS AI Gateway) cells cite, with its tier 
 
 - Title: Logs Export
 - URL: https://portkey.ai/docs/product/observability/logs-export.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c6-11](c6-11.md), [c7-2](c7-2.md)

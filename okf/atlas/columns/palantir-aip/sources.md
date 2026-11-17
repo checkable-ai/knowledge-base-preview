@@ -182,7 +182,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Chatbot Studio tools
 - URL: https://www.palantir.com/docs/foundry/chatbot-studio/tools/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-3](c1-3.md), [c2-5](c2-5.md), [c5-5](c5-5.md)
 
@@ -190,7 +190,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Chatbot Studio core concepts
 - URL: https://www.palantir.com/docs/foundry/chatbot-studio/core-concepts/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c4-4](c4-4.md)
 
@@ -198,7 +198,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Chatbot Studio session logging
 - URL: https://www.palantir.com/docs/foundry/chatbot-studio/session-logging/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md), [c6-10](c6-10.md), [c7-1](c7-1.md)
 
@@ -206,7 +206,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Chatbot Studio getting started
 - URL: https://www.palantir.com/docs/foundry/chatbot-studio/getting-started/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c2-2](c2-2.md), [c4-1](c4-1.md), [c5-1](c5-1.md), [c6-1](c6-1.md), [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -214,7 +214,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: AIP security and privacy
 - URL: https://www.palantir.com/docs/foundry/aip/aip-security/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md), [c6-11](c6-11.md), [c7-3](c7-3.md)
 
@@ -222,7 +222,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Control LLM data access with Markings
 - URL: https://www.palantir.com/docs/foundry/aip/control-llm-data-access-with-markings/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-3](c3-3.md)
 
@@ -230,7 +230,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: LLM capacity management
 - URL: https://www.palantir.com/docs/foundry/aip/llm-capacity-management/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md), [c5-3](c5-3.md), [c5-4](c5-4.md)
 
@@ -238,7 +238,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Pro-code agents overview
 - URL: https://www.palantir.com/docs/foundry/agents/overview/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-5](c2-5.md)
 
@@ -246,7 +246,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Scoped permissions for pro-code agents
 - URL: https://www.palantir.com/docs/foundry/agents/scoped-permissions/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c4-1](c4-1.md), [c4-2](c4-2.md)
 
@@ -254,7 +254,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Connect pro-code agents to external systems
 - URL: https://www.palantir.com/docs/foundry/agents/sources/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-3](c2-3.md), [c4-2](c4-2.md)
 
@@ -262,7 +262,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Publish and call a pro-code agent
 - URL: https://www.palantir.com/docs/foundry/agents/publish-and-call/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-6](c2-6.md), [c4-1](c4-1.md), [c4-3](c4-3.md), [c6-1](c6-1.md)
 
@@ -270,7 +270,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Ontology MCP authentication and authorization
 - URL: https://www.palantir.com/docs/foundry/ontology-mcp/authentication-and-authorization/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md)
 
@@ -278,7 +278,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Ontology MCP overview
 - URL: https://www.palantir.com/docs/foundry/ontology-mcp/overview/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-12](c6-12.md)
 
@@ -286,7 +286,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: AIP observability
 - URL: https://www.palantir.com/docs/foundry/aip-observability/overview/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-4](c5-4.md)
 
@@ -294,7 +294,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Audit logs
 - URL: https://www.palantir.com/docs/foundry/security/audit-logs-overview/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -302,7 +302,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: AIP Evals overview
 - URL: https://www.palantir.com/docs/foundry/aip-evals/overview/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c6-5](c6-5.md)
 
@@ -310,7 +310,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Checkpoints overview
 - URL: https://www.palantir.com/docs/foundry/checkpoints/overview/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c6-3](c6-3.md), [c6-4](c6-4.md), [c6-9](c6-9.md)
 
@@ -318,7 +318,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Approvals overview
 - URL: https://www.palantir.com/docs/foundry/approvals/overview/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c1-4](c1-4.md), [c6-2](c6-2.md), [c6-6](c6-6.md), [c6-8](c6-8.md)
 
@@ -326,7 +326,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Retention overview
 - URL: https://www.palantir.com/docs/foundry/retention/overview/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md), [c7-8](c7-8.md)
 
@@ -334,7 +334,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Bring your own model to AIP
 - URL: https://www.palantir.com/docs/foundry/aip/bring-your-own-model/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c3-1](c3-1.md), [c6-1](c6-1.md), [c6-12](c6-12.md), [c6-2](c6-2.md)
 
@@ -342,7 +342,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Application restrictions
 - URL: https://www.palantir.com/docs/foundry/developer-console/application-restrictions/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c4-3](c4-3.md), [c5-5](c5-5.md)
 
@@ -350,7 +350,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Markings
 - URL: https://www.palantir.com/docs/foundry/security/markings/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c7-8](c7-8.md)
 
@@ -358,7 +358,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Action type permissions
 - URL: https://www.palantir.com/docs/foundry/action-types/permissions/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md)
 
@@ -366,7 +366,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Action submission criteria
 - URL: https://www.palantir.com/docs/foundry/action-types/submission-criteria/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md)
 
@@ -374,7 +374,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Sensitive Data Scanner match actions
 - URL: https://www.palantir.com/docs/foundry/sensitive-data-scanner/create-match-actions/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c7-8](c7-8.md)
 
@@ -382,7 +382,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: API reference: Agent basics (AIP Agents v2)
 - URL: https://www.palantir.com/docs/foundry/api/aip-agents-v2-resources/agents/agent-basics/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-4](c2-4.md), [c2-6](c2-6.md)
 
@@ -390,7 +390,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Compute modules overview
 - URL: https://www.palantir.com/docs/foundry/compute-modules/overview/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-3](c2-3.md)
 
@@ -398,7 +398,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Configure network egress
 - URL: https://www.palantir.com/docs/foundry/administration/configure-egress/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-3](c2-3.md), [c3-2](c3-2.md), [c7-4](c7-4.md)
 
@@ -406,7 +406,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Modeling objectives
 - URL: https://www.palantir.com/docs/foundry/model-integration/objectives/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c6-5](c6-5.md), [c6-8](c6-8.md), [c7-3](c7-3.md)
 
@@ -414,7 +414,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Review models
 - URL: https://www.palantir.com/docs/foundry/manage-models/review-model/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-2](c6-2.md), [c6-6](c6-6.md)
 
@@ -422,7 +422,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Supported LLMs
 - URL: https://www.palantir.com/docs/foundry/aip/supported-llms/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-12](c6-12.md)
 
@@ -430,7 +430,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Resource Management overview
 - URL: https://www.palantir.com/docs/foundry/resource-management/overview/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md)
 
@@ -438,7 +438,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Palantir MCP data governance
 - URL: https://www.palantir.com/docs/foundry/palantir-mcp/security/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c7-5](c7-5.md), [c7-9](c7-9.md)
 
@@ -446,7 +446,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Develop pro-code agents on a global branch
 - URL: https://www.palantir.com/docs/foundry/agents/branching/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-8](c6-8.md)
 
@@ -454,7 +454,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Action log
 - URL: https://www.palantir.com/docs/foundry/action-types/action-log/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md)
 
@@ -462,7 +462,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Configure network egress
 - URL: https://www.palantir.com/docs/foundry/administration/configure-egress/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -470,7 +470,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Compute modules overview
 - URL: https://www.palantir.com/docs/foundry/compute-modules/overview/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -478,7 +478,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Enable AIP features
 - URL: https://www.palantir.com/docs/foundry/aip/enable-aip-features/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -486,7 +486,7 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Palantir Achieves IRAP PROTECTED Level (press release, 20 November 2025, Nasdaq copy of Business Wire release)
 - URL: https://www.nasdaq.com/press-release/palantir-achieves-information-security-registered-assessors-program-irap-protected
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -494,6 +494,6 @@ Every source the Palantir AIP cells cite, with its tier from the knowledge base'
 
 - Title: Security and governance overview
 - URL: https://www.palantir.com/docs/foundry/security/overview/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

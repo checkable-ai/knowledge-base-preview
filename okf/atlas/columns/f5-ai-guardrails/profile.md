@@ -33,7 +33,8 @@ Column group: AI security. Facts are agent-run. Cells listed as eligible are the
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 2 |
+| verified | 44 |
 
 ## Products
 
@@ -82,9 +83,9 @@ Column group: AI security. Facts are agent-run. Cells listed as eligible are the
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | covered | verified | yes |
 | [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | verified | yes |
 | [Registration & Approval Workflows](c6-2.md) | Governance | not-covered | verified | yes |
-| [Posture & Reporting](c6-3.md) | Governance | not-covered | verified | yes |
+| [Posture & Reporting](c6-3.md) | Governance | not-covered | agent-checked | yes |
 | [Policy Management](c6-4.md) | Governance | not-covered | verified | yes |
-| [AI Lifecycle Management](c6-5.md) | Governance | out-of-scope | verified | yes |
+| [AI Lifecycle Management](c6-5.md) | Governance | out-of-scope | agent-checked | yes |
 | [Ownership & Accountability](c6-6.md) | Governance | not-covered | verified | yes |
 | [Risk Assessment & Classification](c6-7.md) | Governance | out-of-scope | verified | yes |
 | [Change & Release Governance](c6-8.md) | Governance | not-covered | verified | yes |

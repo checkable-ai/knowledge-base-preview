@@ -134,7 +134,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/release_notes/developer-preview-features_relnotes
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-3](c1-3.md)
 
@@ -142,7 +142,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/govern_llm_access_with_models-as-a-service/deploy-and-manage-models-as-a-service
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md)
 
@@ -150,7 +150,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.redhat.com/en/documentation/red_hat_connectivity_link/1.3/html/registering_mcp_servers_and_creating_policies/mcp-gateway-revoke-mcp-server-tool-access
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-2](c1-2.md)
 
@@ -158,7 +158,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/release_notes/new-features-and-enhancements_relnotes
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-4](c5-4.md)
 
@@ -166,7 +166,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/enabling_ai_safety_with_guardrails/enabling-ai-safety-with-nemo-guardrails_nemo-guardrails
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-2](c3-2.md)
 
@@ -174,7 +174,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Red Hat OpenShift AI Self-Managed 3.5 Release notes
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html-single/release_notes/index
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-14
 - Cited by: [c1-1](c1-1.md), [c1-3](c1-3.md), [c1-4](c1-4.md), [c2-1](c2-1.md), [c2-2](c2-2.md), [c2-3](c2-3.md), [c2-5](c2-5.md), [c2-6](c2-6.md), [c3-4](c3-4.md), [c4-1](c4-1.md), [c4-2](c4-2.md), [c4-3](c4-3.md), [c4-4](c4-4.md), [c5-1](c5-1.md), [c5-2](c5-2.md), [c5-3](c5-3.md), [c5-4](c5-4.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-11](c6-11.md), [c6-2](c6-2.md), [c6-5](c6-5.md), [c6-8](c6-8.md), [c7-10](c7-10.md), [c7-3](c7-3.md), [c7-4](c7-4.md), [c7-6](c7-6.md), [c7-9](c7-9.md)
 
@@ -182,7 +182,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Red Hat OpenShift AI Self-Managed 3.4 Release notes
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.4/html-single/release_notes/index
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-14
 - Cited by: [c3-1](c3-1.md), [c5-4](c5-4.md)
 
@@ -190,7 +190,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Govern LLM access with Models-as-a-Service (3.5)
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html-single/govern_llm_access_with_models-as-a-service/index
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-14
 - Cited by: [c1-2](c1-2.md), [c2-2](c2-2.md), [c3-1](c3-1.md), [c4-2](c4-2.md), [c5-3](c5-3.md), [c6-12](c6-12.md), [c6-3](c6-3.md), [c7-2](c7-2.md)
 
@@ -198,7 +198,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Working with the MCP catalog (3.5)
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html-single/working_with_the_mcp_catalog/index
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-14
 - Cited by: [c1-4](c1-4.md), [c3-2](c3-2.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-12](c6-12.md), [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -206,7 +206,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Ensuring AI safety with guardrails (3.5)
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html-single/enabling_ai_safety_with_guardrails/index
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-14
 - Cited by: [c3-1](c3-1.md), [c3-2](c3-2.md), [c3-3](c3-3.md), [c6-4](c6-4.md), [c7-2](c7-2.md)
 
@@ -214,7 +214,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Red Hat Connectivity Link 1.4 MCP gateway
 - URL: https://docs.redhat.com/en/documentation/red_hat_connectivity_link/1.4/html-single/mcp_gateway/index
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-14
 - Cited by: [c3-2](c3-2.md), [c3-4](c3-4.md), [c5-5](c5-5.md)
 
@@ -222,7 +222,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Red Hat Connectivity Link 1.4 Register MCP servers and create policies
 - URL: https://docs.redhat.com/en/documentation/red_hat_connectivity_link/1.4/html-single/register_mcp_servers_and_create_policies/index
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-14
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -230,7 +230,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: OGX APIs (3.5)
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/working_with_ogx/ogx-apis_rag
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-14
 - Cited by: [c2-1](c2-1.md), [c2-4](c2-4.md), [c2-5](c2-5.md), [c2-6](c2-6.md), [c6-10](c6-10.md), [c7-8](c7-8.md)
 
@@ -238,7 +238,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Security reference for OGX (3.5)
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/working_with_ogx/ogx-security-guide_rag
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-14
 - Cited by: [c1-2](c1-2.md), [c2-4](c2-4.md), [c3-3](c3-3.md), [c3-4](c3-4.md), [c4-2](c4-2.md), [c4-3](c4-3.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -246,7 +246,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Register, version, and promote models with the model registry (3.5)
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html-single/working_with_model_registries/index
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-14
 - Cited by: [c6-1](c6-1.md), [c6-5](c6-5.md), [c6-6](c6-6.md), [c6-8](c6-8.md), [c7-3](c7-3.md)
 
@@ -254,7 +254,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Manage model registry permissions (3.5)
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/managing_model_registries/managing-model-registry-permissions_managing-model-registries
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-14
 - Cited by: [c6-2](c6-2.md)
 
@@ -262,7 +262,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Monitoring your AI Systems (3.5)
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/monitoring_your_ai_systems/index
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-14
 - Cited by: [c5-2](c5-2.md)
 
@@ -270,7 +270,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Evaluating AI systems (3.5)
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html-single/evaluating_ai_systems/index
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-14
 - Cited by: [c5-2](c5-2.md), [c6-11](c6-11.md), [c7-10](c7-10.md)
 
@@ -278,7 +278,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Working with MLflow (3.5)
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html-single/working_with_mlflow/index
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-14
 - Cited by: [c5-1](c5-1.md), [c6-1](c6-1.md), [c6-10](c6-10.md), [c7-1](c7-1.md)
 
@@ -286,7 +286,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Deliver consistent ML features to models with Feature Store (3.5)
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/working_with_machine_learning_features/index
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-14
 - Cited by: [c3-3](c3-3.md), [c7-8](c7-8.md)
 
@@ -294,7 +294,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Administer OpenShift AI platform access, apps, and operations (3.5)
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html-single/managing_openshift_ai/index
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-14
 - Cited by: [c1-1](c1-1.md), [c1-4](c1-4.md), [c6-3](c6-3.md), [c6-9](c6-9.md), [c7-1](c7-1.md)
 
@@ -302,7 +302,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Discover, evaluate, register, and deploy models from the model catalog (3.5)
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html-single/working_with_the_model_catalog/index
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-14
 - Cited by: [c6-7](c6-7.md), [c7-3](c7-3.md)
 
@@ -310,7 +310,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Manage and govern model catalog sources (3.5)
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/manage_and_govern_model_catalog_sources/index
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-14
 - Cited by: [c6-12](c6-12.md), [c6-2](c6-2.md)
 
@@ -318,7 +318,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Deploy predictive models using single model serving platform (3.5)
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/deploying_models/index
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-14
 - Cited by: [c2-2](c2-2.md), [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -326,7 +326,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Red Hat AI Inference documentation (latest)
 - URL: https://docs.redhat.com/en/documentation/red_hat_ai_inference_server/latest
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-14
 - Cited by: [c2-2](c2-2.md), [c7-4](c7-4.md)
 
@@ -334,7 +334,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Provision secure workbenches and custom images for teams (3.5)
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/creating_a_workbench/index
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-14
 - Cited by: [c2-3](c2-3.md)
 
@@ -342,7 +342,7 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Configure user access, storage, and telemetry in OpenShift AI (3.5)
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/managing_resources/index
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-14
 - Cited by: [c6-10](c6-10.md)
 
@@ -350,6 +350,6 @@ Every source the Red Hat OpenShift AI cells cite, with its tier from the knowled
 
 - Title: Red Hat OpenShift AI Self-Managed documentation index
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-14
 - Cited by: [c2-1](c2-1.md), [c6-3](c6-3.md), [c6-4](c6-4.md), [c6-7](c6-7.md), [c6-9](c6-9.md), [c7-9](c7-9.md)

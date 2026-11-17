@@ -32,7 +32,8 @@ Column group: Agent frameworks. Facts are agent-run. Cells listed as eligible ar
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 1 |
+| verified | 45 |
 
 ## Products
 
@@ -82,7 +83,7 @@ Column group: Agent frameworks. Facts are agent-run. Cells listed as eligible ar
 | [Third-Party Tool Assurance](c7-6.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [AI Discovery](c7-9.md) | Agentic MLSecOps | not-covered | verified | yes |
-| [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | not-covered | verified | yes |
+| [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | not-covered | agent-checked | yes |
 | [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | verified | yes |
 | [Registration & Approval Workflows](c6-2.md) | Governance | not-covered | verified | yes |
 | [Posture & Reporting](c6-3.md) | Governance | not-covered | verified | yes |

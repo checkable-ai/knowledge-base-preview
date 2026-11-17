@@ -198,7 +198,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.n8n.io/deploy/host-n8n/configure-n8n/set-up-task-runners
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-3](c2-3.md)
 
@@ -206,7 +206,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.n8n.io/build/integrate-ai/ai-examples/human-in-the-loop-for-tools
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-2](c1-2.md), [c1-3](c1-3.md)
 
@@ -214,7 +214,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.n8n.io/deploy/host-n8n/configure-n8n/scaling/manage-execution-data
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-10](c6-10.md)
 
@@ -222,7 +222,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.n8n.io/build/build-and-manage-agents
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-4](c1-4.md)
 
@@ -230,7 +230,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.memoryredischat/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-6](c2-6.md)
 
@@ -238,7 +238,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-5](c2-5.md)
 
@@ -246,7 +246,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.n8n.io/build/manage-workflows/view-change-history
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-8](c6-8.md)
 
@@ -254,7 +254,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-langchain.chat
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-1](c5-1.md)
 
@@ -262,7 +262,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Set permissions and roles (RBAC)
 - URL: https://docs.n8n.io/user-management/rbac/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c4-1](c4-1.md), [c6-6](c6-6.md)
 
@@ -270,7 +270,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: External secrets
 - URL: https://docs.n8n.io/external-secrets/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -278,7 +278,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Log streaming
 - URL: https://docs.n8n.io/log-streaming/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-4](c5-4.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -286,7 +286,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Security audit
 - URL: https://docs.n8n.io/hosting/securing/security-audit/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c5-5](c5-5.md), [c6-3](c6-3.md), [c7-5](c7-5.md)
 
@@ -294,7 +294,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Source control and environments
 - URL: https://docs.n8n.io/source-control-environments/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -302,7 +302,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Human-in-the-loop for AI tool calls
 - URL: https://docs.n8n.io/advanced-ai/human-in-the-loop-tools/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c5-1](c5-1.md)
 
@@ -310,7 +310,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Task runners
 - URL: https://docs.n8n.io/hosting/configuration/task-runners/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c2-3](c2-3.md), [c7-4](c7-4.md)
 
@@ -318,7 +318,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Block access to nodes
 - URL: https://docs.n8n.io/hosting/securing/blocking-nodes/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c3-2](c3-2.md)
 
@@ -326,7 +326,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Workflow history
 - URL: https://docs.n8n.io/workflows/history/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c6-8](c6-8.md)
 
@@ -334,7 +334,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Insights
 - URL: https://docs.n8n.io/insights/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md)
 
@@ -342,7 +342,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Evaluations overview
 - URL: https://docs.n8n.io/advanced-ai/evaluations/overview/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md), [c5-2](c5-2.md), [c6-5](c6-5.md)
 
@@ -350,7 +350,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: End-user credentials
 - URL: https://docs.n8n.io/administer/manage-credentials/end-user-credentials
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md)
 
@@ -358,7 +358,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Guardrails node
 - URL: https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-langchain.guardrails/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-3](c3-3.md)
 
@@ -366,7 +366,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Accessing n8n MCP server (instance-level MCP)
 - URL: https://docs.n8n.io/advanced-ai/accessing-n8n-mcp-server
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-4](c4-4.md), [c5-5](c5-5.md), [c6-1](c6-1.md)
 
@@ -374,7 +374,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Token exchange
 - URL: https://docs.n8n.io/hosting/oem-deployment/token-exchange/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md)
 
@@ -382,7 +382,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Securing n8n overview
 - URL: https://docs.n8n.io/hosting/securing/overview/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -390,7 +390,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Redact execution data
 - URL: https://docs.n8n.io/deploy/host-n8n/configure-n8n/security/redact-execution-data
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md)
 
@@ -398,7 +398,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Risks when using community nodes
 - URL: https://docs.n8n.io/integrations/community-nodes/risks.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-12](c6-12.md), [c7-6](c7-6.md)
 
@@ -406,7 +406,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: AI Agent Tool node
 - URL: https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.toolaiagent
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-2](c2-2.md), [c4-4](c4-4.md)
 
@@ -414,7 +414,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: SSRF protection
 - URL: https://docs.n8n.io/hosting/securing/ssrf-protection
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md)
 
@@ -422,7 +422,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: n8n security
 - URL: https://n8n.io/legal/security/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md), [c7-4](c7-4.md), [c7-5](c7-5.md)
 
@@ -430,7 +430,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Handle errors gracefully
 - URL: https://docs.n8n.io/build/flow-logic/handle-errors-gracefully
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md)
 
@@ -438,7 +438,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Postgres Chat Memory node
 - URL: https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.memorypostgreschat/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c2-6](c2-6.md)
 
@@ -446,7 +446,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Custom roles
 - URL: https://docs.n8n.io/user-management/rbac/custom-roles/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md)
 
@@ -454,7 +454,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Workflow reviews
 - URL: https://docs.n8n.io/build/manage-workflows/workflow-reviews
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c6-2](c6-2.md), [c6-8](c6-8.md)
 
@@ -462,7 +462,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: AI Agent node
 - URL: https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-5](c2-5.md)
 
@@ -470,7 +470,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Execution data
 - URL: https://docs.n8n.io/hosting/scaling/execution-data/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md), [c7-1](c7-1.md)
 
@@ -478,7 +478,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: MCP Client Tool node
 - URL: https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.toolmcp/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c7-6](c7-6.md)
 
@@ -486,7 +486,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: OpenAI Chat Model node
 - URL: https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.lmchatopenai/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md)
 
@@ -494,7 +494,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: MCP Server Trigger node
 - URL: https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-langchain.mcptrigger/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-4](c4-4.md)
 
@@ -502,7 +502,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Set up task runners
 - URL: https://docs.n8n.io/deploy/host-n8n/configure-n8n/set-up-task-runners
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -510,7 +510,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Harden task runners
 - URL: https://docs.n8n.io/deploy/host-n8n/configure-n8n/security/harden-task-runners
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -518,7 +518,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Enable SSRF protection
 - URL: https://docs.n8n.io/deploy/host-n8n/configure-n8n/security/enable-ssrf-protection
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -526,7 +526,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: n8n public API: Executions
 - URL: https://docs.n8n.io/connect/n8n-api/executions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -534,7 +534,7 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Executions environment variables
 - URL: https://docs.n8n.io/deploy/host-n8n/configure-n8n/basic-configuration/use-environment-variables/executions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -542,6 +542,6 @@ Every source the n8n cells cite, with its tier from the knowledge base's source 
 
 - Title: Security at n8n
 - URL: https://n8n.io/legal/security/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

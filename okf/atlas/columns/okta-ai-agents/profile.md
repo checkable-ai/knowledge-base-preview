@@ -33,7 +33,8 @@ Column group: Identity, access and secrets. Facts are agent-run. Cells listed as
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 2 |
+| verified | 44 |
 
 ## Products
 
@@ -66,7 +67,7 @@ Column group: Identity, access and secrets. Facts are agent-run. Cells listed as
 | [Harness](c2-5.md) | Runtime | covered | verified | yes |
 | [Agent Persistent Memory](c2-6.md) | Runtime | out-of-scope | verified | yes |
 | [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | verified | yes |
-| [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | out-of-scope | verified | yes |
+| [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | out-of-scope | agent-checked | yes |
 | [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
@@ -93,7 +94,7 @@ Column group: Identity, access and secrets. Facts are agent-run. Cells listed as
 | [Risk Assessment & Classification](c6-7.md) | Governance | not-covered | verified | yes |
 | [Change & Release Governance](c6-8.md) | Governance | not-covered | verified | yes |
 | [Exceptions & Risk Acceptance](c6-9.md) | Governance | not-covered | verified | yes |
-| [Data Lifecycle Governance](c6-10.md) | Governance | out-of-scope | verified | yes |
+| [Data Lifecycle Governance](c6-10.md) | Governance | out-of-scope | agent-checked | yes |
 | [Assurance & Compliance Evidence](c6-11.md) | Governance | not-covered | verified | yes |
 | [Third-Party Governance](c6-12.md) | Governance | not-covered | verified | yes |
 | [Independent Assurance & Authorisation](c6-13.md) | Governance | covered | verified | yes |
