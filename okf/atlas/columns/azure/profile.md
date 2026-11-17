@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id azure"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Microsoft Foundry agents and supporting Azure identity, gateway, data and security services. Runtime and preview boundaries are recorded per finding.

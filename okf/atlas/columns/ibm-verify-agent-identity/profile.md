@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id ibm-verify-agent-identity"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 IBM Agent Identity in IBM Verify SaaS (public preview from September 2026), which registers, approves and issues tokens to AI agents, plus the agent discovery announced for IBM Verify Identity Protection.

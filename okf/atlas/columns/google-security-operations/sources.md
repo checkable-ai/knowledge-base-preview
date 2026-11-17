@@ -89,10 +89,10 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Google Security Operations cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Google Security Operations cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-054fee4e0e8f
 

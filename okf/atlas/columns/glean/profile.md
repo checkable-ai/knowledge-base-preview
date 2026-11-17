@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id glean"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Enterprise search and agent platform, covering Glean Assistant and Agents (including independent agents and agent identity), Glean Protect and Protect+, the Glean MCP servers and MCP Gateway, A2A support and the Model Hub.
@@ -27,8 +27,9 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 19 |
-| not-covered | 27 |
+| covered | 20 |
+| not-covered | 25 |
+| partial | 1 |
 
 | Verification state | Cells |
 | --- | --- |
@@ -83,12 +84,12 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | verified | yes |
 | [Registration & Approval Workflows](c6-2.md) | Governance | covered | verified | yes |
-| [Posture & Reporting](c6-3.md) | Governance | not-covered | verified | yes |
+| [Posture & Reporting](c6-3.md) | Governance | covered | verified | yes |
 | [Policy Management](c6-4.md) | Governance | not-covered | verified | yes |
 | [AI Lifecycle Management](c6-5.md) | Governance | not-covered | verified | yes |
 | [Ownership & Accountability](c6-6.md) | Governance | not-covered | verified | yes |
 | [Risk Assessment & Classification](c6-7.md) | Governance | not-covered | verified | yes |
-| [Change & Release Governance](c6-8.md) | Governance | not-covered | verified | yes |
+| [Change & Release Governance](c6-8.md) | Governance | partial | verified | yes |
 | [Exceptions & Risk Acceptance](c6-9.md) | Governance | not-covered | verified | yes |
 | [Data Lifecycle Governance](c6-10.md) | Governance | covered | verified | yes |
 | [Assurance & Compliance Evidence](c6-11.md) | Governance | not-covered | verified | yes |

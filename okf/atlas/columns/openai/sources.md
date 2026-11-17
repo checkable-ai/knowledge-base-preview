@@ -11,8 +11,12 @@ tags:
   - "frontier-ai"
   - "sources"
 sources:
-  - id: "confirm-2aca780af5aa"
-    resource: "https://developers.openai.com/api/docs/guides/your-data"
+  - id: "confirm-3055afaa929d"
+    resource: "https://developers.openai.com/api/docs/guides/agents/sandboxes"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-741ffdc189ae"
+    resource: "https://developers.openai.com/api/docs/guides/data-residency"
     locator: "registry entry"
     tier: null
   - id: "confirm-98a78578754b"
@@ -21,10 +25,6 @@ sources:
     tier: null
   - id: "confirm-9c17bb90d9fd"
     resource: "https://developers.openai.com/api/docs/guides/safety-checks/misalignment-monitoring"
-    locator: "registry entry"
-    tier: null
-  - id: "confirm-a86f932d4710"
-    resource: "https://developers.openai.com/api/docs/guides/agents"
     locator: "registry entry"
     tier: null
   - id: "confirm-fdb2743cf863"
@@ -153,15 +153,23 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the OpenAI cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the OpenAI cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
-### confirm-2aca780af5aa
+### confirm-3055afaa929d
 
 - Title: Quoted by the confirm agents
-- URL: https://developers.openai.com/api/docs/guides/your-data
+- URL: https://developers.openai.com/api/docs/guides/agents/sandboxes
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-6](c2-6.md)
+
+### confirm-741ffdc189ae
+
+- Title: Quoted by the confirm agents
+- URL: https://developers.openai.com/api/docs/guides/data-residency
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c2-2](c2-2.md)
@@ -181,14 +189,6 @@ Every source the OpenAI cells cite, with its tier from the atlas source register
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c5-2](c5-2.md)
-
-### confirm-a86f932d4710
-
-- Title: Quoted by the confirm agents
-- URL: https://developers.openai.com/api/docs/guides/agents
-- Tier: not yet assigned
-- Checked: not recorded
-- Cited by: [c2-6](c2-6.md)
 
 ### confirm-fdb2743cf863
 

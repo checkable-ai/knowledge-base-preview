@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id ibm"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 IBM's AI platform family. This research covers watsonx.ai (model hosting and model gateway), watsonx Orchestrate (agent building, runtime and Agentic Control Plane, SaaS and ADK) and watsonx.governance (Governance console, AI Factsheets, governed agentic catalog).

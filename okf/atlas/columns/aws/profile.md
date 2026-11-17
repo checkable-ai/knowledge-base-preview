@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id aws"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Bedrock and AgentCore runtime, identity, tools, memory and AWS operating controls, plus the AWS Top Secret cloud for Australia being built with ASD for the National Intelligence Community and Defence. Documentation checked 2026-10-18, deployment untested.

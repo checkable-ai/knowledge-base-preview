@@ -19,8 +19,16 @@ sources:
     resource: "https://dev.meta.ai/docs/muse-code/session-messaging"
     locator: "registry entry"
     tier: null
+  - id: "confirm-0d4206ef6de3"
+    resource: "https://dev.meta.ai/docs/models"
+    locator: "registry entry"
+    tier: null
   - id: "confirm-7b41803da15d"
     resource: "https://dev.meta.ai/docs/muse-code/permissions.md"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-7d59338f6b91"
+    resource: "https://dev.meta.ai/docs/muse-code/agents"
     locator: "registry entry"
     tier: null
   - id: "meta-ai-models-04"
@@ -205,10 +213,10 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-002efb98b067
 
@@ -226,6 +234,14 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 - Checked: not recorded
 - Cited by: [c3-4](c3-4.md)
 
+### confirm-0d4206ef6de3
+
+- Title: Quoted by the confirm agents
+- URL: https://dev.meta.ai/docs/models
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-2](c2-2.md)
+
 ### confirm-7b41803da15d
 
 - Title: Quoted by the confirm agents
@@ -233,6 +249,14 @@ Every source the Meta AI models (Llama, Muse Spark and Meta Model API) cells cit
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c2-5](c2-5.md)
+
+### confirm-7d59338f6b91
+
+- Title: Quoted by the confirm agents
+- URL: https://dev.meta.ai/docs/muse-code/agents
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c1-2](c1-2.md)
 
 ### meta-ai-models-04
 

@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id prisma-airs"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Palo Alto Networks AI security platform managed from Strata Cloud Manager. This research covers AI Runtime (network and API intercept, MCP server), AI Supply Chain Security (Model Security, Skill Security), AI Red Teaming, AI Gateway, AI Agent Discovery and the Cortex AISPM discovery integration, as documented on 2026-10-09.

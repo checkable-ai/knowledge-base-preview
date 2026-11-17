@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id together-ai"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Inference and compute cloud for open models. This research covers serverless, batch and dedicated inference, fine-tuning, the code sandbox and code interpreter, evaluations, and organisation, project, SSO and privacy controls.
@@ -28,8 +28,8 @@ Column group: Model hosting and inference. Facts are agent-run. Cells listed as 
 | Verdict | Cells |
 | --- | --- |
 | covered | 4 |
-| not-covered | 33 |
-| out-of-scope | 9 |
+| not-covered | 34 |
+| out-of-scope | 8 |
 
 | Verification state | Cells |
 | --- | --- |
@@ -76,7 +76,7 @@ Column group: Model hosting and inference. Facts are agent-run. Cells listed as 
 | [SOC Telemetry](c7-2.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Model Assurance](c7-3.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Runtime Assurance](c7-4.md) | Agentic MLSecOps | not-covered | verified | yes |
-| [First-Party Tool Assurance](c7-5.md) | Agentic MLSecOps | out-of-scope | verified | yes |
+| [First-Party Tool Assurance](c7-5.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Third-Party Tool Assurance](c7-6.md) | Agentic MLSecOps | out-of-scope | verified | yes |
 | [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [AI Discovery](c7-9.md) | Agentic MLSecOps | out-of-scope | verified | yes |

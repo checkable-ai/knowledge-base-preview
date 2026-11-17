@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id workday"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Workday's agent platform: Workday Illuminate agents, Agent System of Record (ASOR) with Agent Gateway and Agent Security, and Sana for Workday, as documented in the Workday AI admin guide in 2026.

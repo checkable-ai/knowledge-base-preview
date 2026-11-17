@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id uipath"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 UiPath Automation Cloud agentic platform covering Agents (Agent Builder in Studio Web), Maestro orchestration, AI Trust Layer, Automation Ops governance, Orchestrator, Action Center, Automation Hub and the Delegate desktop agent.
@@ -27,8 +27,8 @@ Column group: Workflow automation and RPA. Facts are agent-run. Cells listed as 
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 12 |
-| not-covered | 34 |
+| covered | 13 |
+| not-covered | 33 |
 
 | Verification state | Cells |
 | --- | --- |
@@ -54,7 +54,7 @@ Column group: Workflow automation and RPA. Facts are agent-run. Cells listed as 
 | [Agent ID](c4-1.md) | Identity | not-covered | verified | yes |
 | [Credential Brokerage](c4-2.md) | Identity | not-covered | verified | yes |
 | [Delegation (OBO)](c4-3.md) | Identity | covered | verified | yes |
-| [A2A](c4-4.md) | Identity | not-covered | verified | yes |
+| [A2A](c4-4.md) | Identity | covered | verified | yes |
 | [Agent Local Scopes](c1-1.md) | Authorisation | covered | verified | yes |
 | [Agent Remote Scopes](c1-2.md) | Authorisation | covered | verified | yes |
 | [Human Approval](c1-3.md) | Authorisation | covered | verified | yes |

@@ -15,8 +15,8 @@ sources:
     resource: "https://learn.microsoft.com/en-us/azure/foundry/concepts/ai-red-teaming-agent"
     locator: "registry entry"
     tier: null
-  - id: "confirm-05f7482fa320"
-    resource: "https://learn.microsoft.com/en-us/agent-framework/overview/"
+  - id: "confirm-2aace2774753"
+    resource: "https://learn.microsoft.com/en-us/agent-framework/agents/tools/tool-approval"
     locator: "registry entry"
     tier: null
   - id: "confirm-395e2347a53f"
@@ -133,10 +133,10 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Microsoft Agent Framework cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Microsoft Agent Framework cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-047cc3ee7ad5
 
@@ -146,10 +146,10 @@ Every source the Microsoft Agent Framework cells cite, with its tier from the at
 - Checked: not recorded
 - Cited by: [c7-10](c7-10.md)
 
-### confirm-05f7482fa320
+### confirm-2aace2774753
 
 - Title: Quoted by the confirm agents
-- URL: https://learn.microsoft.com/en-us/agent-framework/overview/
+- URL: https://learn.microsoft.com/en-us/agent-framework/agents/tools/tool-approval
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c2-5](c2-5.md)

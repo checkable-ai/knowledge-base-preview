@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id sailpoint-agentic-fabric"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 SailPoint Agentic Fabric, the AI agent and non-human identity module of SailPoint Identity Security Cloud (successor to Agent Identity Security), covering the registry, sensors, approvals and audit reports, plus SailPoint Entro capabilities as described on product pages.

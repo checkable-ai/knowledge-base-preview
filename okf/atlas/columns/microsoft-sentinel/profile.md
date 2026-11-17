@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id microsoft-sentinel"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Microsoft cloud SIEM and SOAR run from the Defender portal, and this research covers Sentinel SIEM, the Sentinel data lake and graph, and the Sentinel MCP server, with Defender XDR and Purview noted only where they feed Sentinel.

@@ -135,16 +135,28 @@ sources:
     resource: "https://support.claude.com/en/articles/10015870-what-certifications-has-anthropic-obtained"
     locator: "registry entry"
     tier: 1
+  - id: "confirm-64a70eaf031c"
+    resource: "https://platform.claude.com/docs/en/manage-claude/compliance-security-posture/overview"
+    locator: "registry entry"
+    tier: null
   - id: "confirm-7b0e64d48534"
     resource: "https://code.claude.com/docs/en/permissions"
     locator: "registry entry"
     tier: null
+  - id: "confirm-80ee58656d67"
+    resource: "https://code.claude.com/docs/en/agent-teams"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-e843f93261f0"
+    resource: "https://code.claude.com/docs/en/hooks-guide"
+    locator: "registry entry"
+    tier: null
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Claude Code cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Claude Code cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### claude-code-02
 
@@ -394,6 +406,14 @@ Every source the Claude Code cells cite, with its tier from the atlas source reg
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
+### confirm-64a70eaf031c
+
+- Title: Quoted by the confirm agents
+- URL: https://platform.claude.com/docs/en/manage-claude/compliance-security-posture/overview
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-3](c6-3.md)
+
 ### confirm-7b0e64d48534
 
 - Title: Quoted by the confirm agents
@@ -401,3 +421,19 @@ Every source the Claude Code cells cite, with its tier from the atlas source reg
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c5-5](c5-5.md)
+
+### confirm-80ee58656d67
+
+- Title: Quoted by the confirm agents
+- URL: https://code.claude.com/docs/en/agent-teams
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c1-3](c1-3.md)
+
+### confirm-e843f93261f0
+
+- Title: Quoted by the confirm agents
+- URL: https://code.claude.com/docs/en/hooks-guide
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-5](c2-5.md)

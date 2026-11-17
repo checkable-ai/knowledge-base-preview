@@ -15,6 +15,10 @@ sources:
     resource: "https://docs.cloud.google.com/sensitive-data-protection/docs/concepts-deidentify-storage"
     locator: "registry entry"
     tier: null
+  - id: "confirm-0655f4004ea8"
+    resource: "https://docs.cloud.google.com/gemini-enterprise-agent-platform/govern/policies/token-management-overview?hl=en"
+    locator: "registry entry"
+    tier: null
   - id: "confirm-0a74af6f0f05"
     resource: "https://docs.cloud.google.com/gemini-enterprise-agent-platform/scale/sessions/manage-with-api"
     locator: "registry entry"
@@ -27,12 +31,12 @@ sources:
     resource: "https://adk.dev/integrations/reflect-and-retry/"
     locator: "registry entry"
     tier: null
-  - id: "confirm-7ad17bd9432d"
-    resource: "https://docs.cloud.google.com/logging/docs/buckets"
-    locator: "registry entry"
-    tier: null
   - id: "confirm-7f9c9059dbbc"
     resource: "https://adk.dev/tools-custom/"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-8b3600c62b23"
+    resource: "https://docs.cloud.google.com/gemini-enterprise-agent-platform/optimize/observability/traces"
     locator: "registry entry"
     tier: null
   - id: "confirm-8f09375217f8"
@@ -309,10 +313,10 @@ sources:
     tier: 3
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Google Cloud (Vertex AI) cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Google Cloud (Vertex AI) cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-03b0d2321719
 
@@ -321,6 +325,14 @@ Every source the Google Cloud (Vertex AI) cells cite, with its tier from the atl
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c7-8](c7-8.md)
+
+### confirm-0655f4004ea8
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.cloud.google.com/gemini-enterprise-agent-platform/govern/policies/token-management-overview?hl=en
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c3-1](c3-1.md)
 
 ### confirm-0a74af6f0f05
 
@@ -346,14 +358,6 @@ Every source the Google Cloud (Vertex AI) cells cite, with its tier from the atl
 - Checked: not recorded
 - Cited by: [c2-1](c2-1.md)
 
-### confirm-7ad17bd9432d
-
-- Title: Quoted by the confirm agents
-- URL: https://docs.cloud.google.com/logging/docs/buckets
-- Tier: not yet assigned
-- Checked: not recorded
-- Cited by: [c7-1](c7-1.md)
-
 ### confirm-7f9c9059dbbc
 
 - Title: Quoted by the confirm agents
@@ -361,6 +365,14 @@ Every source the Google Cloud (Vertex AI) cells cite, with its tier from the atl
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c2-5](c2-5.md)
+
+### confirm-8b3600c62b23
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.cloud.google.com/gemini-enterprise-agent-platform/optimize/observability/traces
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c7-1](c7-1.md)
 
 ### confirm-8f09375217f8
 

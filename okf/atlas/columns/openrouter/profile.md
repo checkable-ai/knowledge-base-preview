@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id openrouter"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 OpenRouter is a unified API that routes requests to many model providers. This research covers the hosted API, guardrails, workspaces, the Agent SDK and Enterprise features.

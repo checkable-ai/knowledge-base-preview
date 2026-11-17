@@ -11,8 +11,16 @@ tags:
   - "identity"
   - "sources"
 sources:
-  - id: "confirm-5b42d4e9dd9d"
-    resource: "https://developer.okta.com/docs/concepts/agent-gateway/"
+  - id: "confirm-5d482f2900be"
+    resource: "https://auth0.com/ai/docs/intro/delegated-authorization"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-791e70017407"
+    resource: "https://help.okta.com/OIE/en-us/content/topics/ai-agents/agent-gateway.htm"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-a32315bfda58"
+    resource: "https://help.okta.com/OIE/en-us/content/topics/ai-agents/add-agent-gateway.htm"
     locator: "registry entry"
     tier: null
   - id: "confirm-b669d078dc93"
@@ -107,20 +115,40 @@ sources:
     resource: "https://help.okta.com/oie/en-us/Content/topics/ai-agents/agent-gateway.htm"
     locator: "registry entry"
     tier: 1
+  - id: "okta-ai-agents-r18-03"
+    resource: "https://www.okta.com/blog/identity-security/auth0-okta-deliver-on-australian-government-standards/"
+    locator: "registry entry"
+    tier: 2
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Okta for AI Agents (with Auth0) cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Okta for AI Agents (with Auth0) cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
-### confirm-5b42d4e9dd9d
+### confirm-5d482f2900be
 
 - Title: Quoted by the confirm agents
-- URL: https://developer.okta.com/docs/concepts/agent-gateway/
+- URL: https://auth0.com/ai/docs/intro/delegated-authorization
 - Tier: not yet assigned
 - Checked: not recorded
-- Cited by: [c2-5](c2-5.md), [c4-2](c4-2.md), [c4-3](c4-3.md)
+- Cited by: [c4-3](c4-3.md)
+
+### confirm-791e70017407
+
+- Title: Quoted by the confirm agents
+- URL: https://help.okta.com/OIE/en-us/content/topics/ai-agents/agent-gateway.htm
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c4-2](c4-2.md)
+
+### confirm-a32315bfda58
+
+- Title: Quoted by the confirm agents
+- URL: https://help.okta.com/OIE/en-us/content/topics/ai-agents/add-agent-gateway.htm
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-5](c2-5.md)
 
 ### confirm-b669d078dc93
 
@@ -305,3 +333,11 @@ Every source the Okta for AI Agents (with Auth0) cells cite, with its tier from 
 - Tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
+
+### okta-ai-agents-r18-03
+
+- Title: Auth0, Okta deliver on Australian Government standards
+- URL: https://www.okta.com/blog/identity-security/auth0-okta-deliver-on-australian-government-standards/
+- Tier: 2
+- Checked: 2026-10-18
+- Cited by: [c6-13](c6-13.md)

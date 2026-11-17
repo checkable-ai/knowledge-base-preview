@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id snowflake"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Snowflake Cortex AI (Cortex Agents, Cortex Analyst, Cortex Search, AI functions and Snowflake CoWork, formerly Snowflake Intelligence), Cortex AI Gateway including the Tools feature built from the Natoma MCP platform acquired in 2026, the Snowflake-managed MCP server, and the Horizon governance, RBAC, network, access history and Trust Center controls that apply to them.

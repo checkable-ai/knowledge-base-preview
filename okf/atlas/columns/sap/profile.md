@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id sap"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 SAP's enterprise AI stack, covering Joule and Joule Agents (content-based, Joule Studio and bring-your-own A2A agents), SAP AI Core with the generative AI hub and orchestration service, SAP AI Launchpad, and the governance layer SAP describes for agents (SAP Agent Gateway, SAP AI Agent Hub on SAP LeanIX).

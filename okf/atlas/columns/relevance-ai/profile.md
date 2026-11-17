@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id relevance-ai"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Relevance AI's hosted no-code agent platform, covering Agents, Tools, Knowledge, Workforces (multi-agent systems), Invent, Evals, Chat and the Enterprise admin features, as described in Relevance AI documentation.

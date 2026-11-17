@@ -11,8 +11,8 @@ tags:
   - "enterprise-agents"
   - "sources"
 sources:
-  - id: "confirm-3a79b163f6c1"
-    resource: "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud-14/services/886485371920512"
+  - id: "confirm-ece21c303e50"
+    resource: "https://www.technology1.com/resources/media-releases/technologyone-builds-trust-at-scale-with-global-ai-management-standard-iso-42001"
     locator: "registry entry"
     tier: null
   - id: "technologyone-plus-01"
@@ -73,15 +73,15 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the TechnologyOne Plus cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the TechnologyOne Plus cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
-### confirm-3a79b163f6c1
+### confirm-ece21c303e50
 
 - Title: Quoted by the confirm agents
-- URL: https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud-14/services/886485371920512
+- URL: https://www.technology1.com/resources/media-releases/technologyone-builds-trust-at-scale-with-global-ai-management-standard-iso-42001
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c6-13](c6-13.md)

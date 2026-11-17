@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id chrome-enterprise-premium"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Google's paid enterprise browser security tier, researched with the Chrome Enterprise Core policies and Gemini in Chrome enterprise controls it relies on, from release notes Chrome 141 to 156.

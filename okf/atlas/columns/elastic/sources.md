@@ -39,8 +39,12 @@ sources:
     resource: "https://www.elastic.co/docs/explore-analyze/workflows/authoring-techniques/pass-data-handle-errors"
     locator: "registry entry"
     tier: null
-  - id: "confirm-a7392043246b"
-    resource: "https://www.elastic.co/security-labs/threat-command/elastic-advances-llm-security"
+  - id: "confirm-7d3516974173"
+    resource: "https://www.elastic.co/docs/reference/security/prebuilt-rules/rules/integrations/aws_bedrock/aws_bedrock_guardrails_multiple_violations_by_single_user"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-8b61ac4809a3"
+    resource: "https://www.elastic.co/docs/reference/kibana/connectors-kibana/elastic-managed-llm"
     locator: "registry entry"
     tier: null
   - id: "elastic-01"
@@ -181,10 +185,10 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Elastic cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Elastic cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-013d012aad83
 
@@ -242,13 +246,21 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 - Checked: not recorded
 - Cited by: [c2-1](c2-1.md)
 
-### confirm-a7392043246b
+### confirm-7d3516974173
 
 - Title: Quoted by the confirm agents
-- URL: https://www.elastic.co/security-labs/threat-command/elastic-advances-llm-security
+- URL: https://www.elastic.co/docs/reference/security/prebuilt-rules/rules/integrations/aws_bedrock/aws_bedrock_guardrails_multiple_violations_by_single_user
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c7-2](c7-2.md)
+
+### confirm-8b61ac4809a3
+
+- Title: Quoted by the confirm agents
+- URL: https://www.elastic.co/docs/reference/kibana/connectors-kibana/elastic-managed-llm
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-2](c2-2.md)
 
 ### elastic-01
 

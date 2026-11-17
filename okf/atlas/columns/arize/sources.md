@@ -83,12 +83,32 @@ sources:
     resource: "https://arize.com/docs/ax/security-and-settings/llm-security/guardrails.md"
     locator: "registry entry"
     tier: 1
+  - id: "confirm-479781ce5639"
+    resource: "https://arize.com/docs/api-clients/ag/presets"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-4b6690e8c6de"
+    resource: "https://arize.com/docs/phoenix/settings/data-retention"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-9dc3a9f3cea5"
+    resource: "https://arize.com/docs/ax/agents/connect-your-harness"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-c51e522d8a18"
+    resource: "https://arize.com/docs/ax/observe/production-monitoring"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-c7a9433886e6"
+    resource: "https://arize.com/docs/phoenix/pxi-advanced"
+    locator: "registry entry"
+    tier: null
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Arize cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Arize cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### arize-02
 
@@ -233,3 +253,43 @@ Every source the Arize cells cite, with its tier from the atlas source register.
 - Tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
+
+### confirm-479781ce5639
+
+- Title: Quoted by the confirm agents
+- URL: https://arize.com/docs/api-clients/ag/presets
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c1-4](c1-4.md)
+
+### confirm-4b6690e8c6de
+
+- Title: Quoted by the confirm agents
+- URL: https://arize.com/docs/phoenix/settings/data-retention
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-4](c2-4.md)
+
+### confirm-9dc3a9f3cea5
+
+- Title: Quoted by the confirm agents
+- URL: https://arize.com/docs/ax/agents/connect-your-harness
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-5](c2-5.md)
+
+### confirm-c51e522d8a18
+
+- Title: Quoted by the confirm agents
+- URL: https://arize.com/docs/ax/observe/production-monitoring
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c5-2](c5-2.md)
+
+### confirm-c7a9433886e6
+
+- Title: Quoted by the confirm agents
+- URL: https://arize.com/docs/phoenix/pxi-advanced
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-3](c2-3.md)

@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id google-cloud"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Google Cloud as an AI and agent platform: Gemini Enterprise Agent Platform (formerly Vertex AI, including Agent Runtime, formerly Agent Engine), Model Garden, Model Armor, Agent Development Kit, and supporting IAM, Agent Identity, VPC Service Controls, Cloud Audit Logs, Security Command Center AI Protection and Sensitive Data Protection, excluding the Gemini API and AI Studio surface.
@@ -27,8 +27,9 @@ Column group: Cloud platforms. Facts are agent-run. Cells listed as eligible are
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 27 |
+| covered | 26 |
 | not-covered | 19 |
+| partial | 1 |
 
 | Verification state | Cells |
 | --- | --- |
@@ -65,8 +66,8 @@ Column group: Cloud platforms. Facts are agent-run. Cells listed as eligible are
 | [Agent In-Session Memory](c2-4.md) | Runtime | covered | verified | yes |
 | [Harness](c2-5.md) | Runtime | covered | verified | yes |
 | [Agent Persistent Memory](c2-6.md) | Runtime | covered | verified | yes |
-| [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | verified | yes |
-| [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
+| [Execution Containment & Kill Switch](c2-7.md) | Runtime | covered | verified | yes |
+| [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | partial | verified | yes |
 | [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | covered | verified | yes |
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | covered | verified | yes |
@@ -76,13 +77,13 @@ Column group: Cloud platforms. Facts are agent-run. Cells listed as eligible are
 | [Infrastructure](c5-4.md) | Observability & Explainability | covered | verified | yes |
 | [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |
 | [Administrative Audit](c7-1.md) | Agentic MLSecOps | covered | verified | yes |
-| [SOC Telemetry](c7-2.md) | Agentic MLSecOps | covered | verified | yes |
+| [SOC Telemetry](c7-2.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Model Assurance](c7-3.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Runtime Assurance](c7-4.md) | Agentic MLSecOps | covered | verified | yes |
 | [First-Party Tool Assurance](c7-5.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Third-Party Tool Assurance](c7-6.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | covered | verified | yes |
-| [AI Discovery](c7-9.md) | Agentic MLSecOps | covered | verified | yes |
+| [AI Discovery](c7-9.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Asset Registries & Inventory](c6-1.md) | Governance | covered | verified | yes |
 | [Registration & Approval Workflows](c6-2.md) | Governance | not-covered | verified | yes |

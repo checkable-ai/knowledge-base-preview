@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id ping-identity-ai"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Ping Identity's agent identity suite, covering Agent IAM Core in PingOne and PingOne Advanced Identity Cloud, the PingGateway MCP security gateway, PingOne Protect agent detection, and the related PingOne Privilege Agent Privilege control plane, researched from docs.pingidentity.com and developer.pingidentity.com.

@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id claude-code"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Anthropic's agentic coding tool (CLI, IDE extensions, desktop Code tab, cloud and self-hosted sessions) with the Claude Agent SDK and the Claude apps gateway built into the same binary, researched from the public Claude Code documentation.
@@ -27,8 +27,8 @@ Column group: Coding agents. Facts are agent-run. Cells listed as eligible are t
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 18 |
-| not-covered | 27 |
+| covered | 19 |
+| not-covered | 26 |
 | partial | 1 |
 
 | Verification state | Cells |
@@ -82,7 +82,7 @@ Column group: Coding agents. Facts are agent-run. Cells listed as eligible are t
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | verified | yes |
 | [Registration & Approval Workflows](c6-2.md) | Governance | not-covered | verified | yes |
-| [Posture & Reporting](c6-3.md) | Governance | not-covered | verified | yes |
+| [Posture & Reporting](c6-3.md) | Governance | covered | verified | yes |
 | [Policy Management](c6-4.md) | Governance | not-covered | verified | yes |
 | [AI Lifecycle Management](c6-5.md) | Governance | not-covered | verified | yes |
 | [Ownership & Accountability](c6-6.md) | Governance | not-covered | verified | yes |

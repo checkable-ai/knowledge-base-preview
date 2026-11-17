@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id elastic"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Elastic makes Elasticsearch and Kibana, and this research covers Elasticsearch as a retrieval store with RBAC and document-level security, Elastic Agent Builder, Elastic Security for AI workloads and Elastic Observability LLM and agent monitoring (LLM integrations, the Amazon Bedrock AgentCore integration and Agent Builder traces).
@@ -27,8 +27,8 @@ Column group: Retrieval and search. Facts are agent-run. Cells listed as eligibl
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 15 |
-| not-covered | 31 |
+| covered | 16 |
+| not-covered | 30 |
 
 | Verification state | Cells |
 | --- | --- |
@@ -57,7 +57,7 @@ Column group: Retrieval and search. Facts are agent-run. Cells listed as eligibl
 | [Human Approval](c1-3.md) | Authorisation | covered | verified | yes |
 | [Agent Provisioning](c1-4.md) | Authorisation | covered | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | covered | verified | yes |
-| [Inference](c2-2.md) | Runtime | not-covered | verified | yes |
+| [Inference](c2-2.md) | Runtime | covered | verified | yes |
 | [Execution Environment](c2-3.md) | Runtime | not-covered | verified | yes |
 | [Agent In-Session Memory](c2-4.md) | Runtime | not-covered | verified | yes |
 | [Harness](c2-5.md) | Runtime | covered | verified | yes |

@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id salesforce"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Salesforce's hosted agent platform, covering Agentforce agents, the Einstein Trust Layer, Agentforce Testing Center, observability and related platform governance, with MuleSoft Agent Fabric where noted. The MuleSoft Agent Fabric and Omni Gateway column (mulesoft-agent-fabric) holds the fuller MuleSoft research.

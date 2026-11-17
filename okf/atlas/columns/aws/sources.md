@@ -221,10 +221,10 @@ sources:
     tier: null
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the AWS cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the AWS cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### aws-audit
 
@@ -632,7 +632,7 @@ Every source the AWS cells cite, with its tier from the atlas source register. T
 - URL: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/harness-tools.html
 - Tier: not yet assigned
 - Checked: not recorded
-- Cited by: [c1-1](c1-1.md), [c2-5](c2-5.md)
+- Cited by: [c1-1](c1-1.md)
 
 ### confirm-e8a97616cc5f
 

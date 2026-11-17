@@ -49,3 +49,4 @@ Column in the Identity, access and secrets group.
 * [Data Lifecycle Governance](c6-10.md)
 * [Assurance & Compliance Evidence](c6-11.md)
 * [Third-Party Governance](c6-12.md)
+* [Independent Assurance & Authorisation](c6-13.md)

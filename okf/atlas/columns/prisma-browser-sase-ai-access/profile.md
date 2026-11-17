@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id prisma-browser-sase-ai-access"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Palo Alto Networks enterprise browser (formerly Talon and Prisma Access Browser) and the AI Access Security service for Prisma Access and NGFW, covering employee GenAI app control and the agentic browsing controls announced in March 2026.

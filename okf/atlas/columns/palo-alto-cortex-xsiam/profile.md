@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id palo-alto-cortex-xsiam"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Palo Alto Networks SOC platform (XSIAM), XDR including Agentic Endpoint Security, and AgentiX agentic automation, with the Cloud AI Security and SaaS AI Agent Security modules.
@@ -27,9 +27,9 @@ Column group: Security operations (SIEM, XDR). Facts are agent-run. Cells listed
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 10 |
+| covered | 11 |
 | escalated | 1 |
-| not-covered | 35 |
+| not-covered | 34 |
 
 | Verification state | Cells |
 | --- | --- |
@@ -53,7 +53,7 @@ Column group: Security operations (SIEM, XDR). Facts are agent-run. Cells listed
 | [Credential Brokerage](c4-2.md) | Identity | not-covered | verified | yes |
 | [Delegation (OBO)](c4-3.md) | Identity | not-covered | verified | yes |
 | [A2A](c4-4.md) | Identity | not-covered | verified | yes |
-| [Agent Local Scopes](c1-1.md) | Authorisation | not-covered | verified | yes |
+| [Agent Local Scopes](c1-1.md) | Authorisation | covered | verified | yes |
 | [Agent Remote Scopes](c1-2.md) | Authorisation | covered | verified | yes |
 | [Human Approval](c1-3.md) | Authorisation | covered | verified | yes |
 | [Agent Provisioning](c1-4.md) | Authorisation | not-covered | verified | yes |

@@ -11,6 +11,14 @@ tags:
   - "ai-gateways"
   - "sources"
 sources:
+  - id: "confirm-2ae91aacd279"
+    resource: "https://developer.konghq.com/ai-management/roles-and-permissions/"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-44da611b609e"
+    resource: "https://developer.konghq.com/identity/token-vault/"
+    locator: "registry entry"
+    tier: null
   - id: "kong-ai-gateway-01"
     resource: "https://developer.konghq.com/ai-gateway/"
     locator: "registry entry"
@@ -153,10 +161,26 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Kong AI Gateway cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Kong AI Gateway cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### confirm-2ae91aacd279
+
+- Title: Quoted by the confirm agents
+- URL: https://developer.konghq.com/ai-management/roles-and-permissions/
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-2](c6-2.md)
+
+### confirm-44da611b609e
+
+- Title: Quoted by the confirm agents
+- URL: https://developer.konghq.com/identity/token-vault/
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c4-2](c4-2.md)
 
 ### kong-ai-gateway-01
 

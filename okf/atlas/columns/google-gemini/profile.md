@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id google-gemini"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Google's first-party Gemini offerings: the Gemini API and Google AI Studio (including the Interactions API and managed agents), Gemini Enterprise (formerly Agentspace), Gemini CLI and Jules, excluding Vertex AI and Gemini Enterprise Agent Platform controls covered by the Google Cloud column.
@@ -27,8 +27,8 @@ Column group: Frontier AI providers. Facts are agent-run. Cells listed as eligib
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 22 |
-| not-covered | 19 |
+| covered | 21 |
+| not-covered | 20 |
 | out-of-scope | 4 |
 | partial | 1 |
 
@@ -74,7 +74,7 @@ Column group: Frontier AI providers. Facts are agent-run. Cells listed as eligib
 | [Infrastructure](c5-4.md) | Observability & Explainability | covered | verified | yes |
 | [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |
 | [Administrative Audit](c7-1.md) | Agentic MLSecOps | not-covered | verified | yes |
-| [SOC Telemetry](c7-2.md) | Agentic MLSecOps | covered | verified | yes |
+| [SOC Telemetry](c7-2.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Model Assurance](c7-3.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Runtime Assurance](c7-4.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [First-Party Tool Assurance](c7-5.md) | Agentic MLSecOps | not-covered | verified | yes |

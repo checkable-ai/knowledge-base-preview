@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id claude-enterprise"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Anthropic's Claude Team and Claude Enterprise plans, covering the Claude apps, projects, memory, connectors, skills and plugins, Cowork, Claude in Chrome, Claude Code as included in the plans, and the organisation admin, audit, Compliance API, retention and network controls.
@@ -27,8 +27,8 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 21 |
-| not-covered | 23 |
+| covered | 22 |
+| not-covered | 22 |
 | partial | 2 |
 
 | Verification state | Cells |
@@ -66,7 +66,7 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | [Agent Persistent Memory](c2-6.md) | Runtime | covered | verified | yes |
 | [Execution Containment & Kill Switch](c2-7.md) | Runtime | covered | verified | yes |
 | [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | covered | verified | yes |
-| [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
+| [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | covered | verified | yes |
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [HITL](c5-1.md) | Observability & Explainability | covered | verified | yes |

@@ -11,8 +11,20 @@ tags:
   - "self-hosted"
   - "sources"
 sources:
+  - id: "confirm-2cc4f2c4cbee"
+    resource: "https://developer.broadcom.com/xapis/vmware-private-ai-service-api/latest/api/v1/compatibility/openai/v1/agents/post/"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-527a24ad8692"
+    resource: "https://developer.broadcom.com/xapis/vmware-private-ai-service-api/latest/api/v1/compatibility/openai/v1/agents/get/"
+    locator: "registry entry"
+    tier: null
   - id: "confirm-8446819e4356"
     resource: "https://blogs.vmware.com/cloud-foundation/2024/05/07/whats-new-in-the-vmware-private-ai-foundation-with-nvidia-ga-release/"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-bf270fd11569"
+    resource: "https://github.com/vmware/vcf-security-and-compliance-guidelines/blob/main/security-design/vcf-91-securing-ai-workloads.md"
     locator: "registry entry"
     tier: null
   - id: "vmware-private-ai-01"
@@ -121,10 +133,26 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the VMware Private AI Foundation with NVIDIA cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the VMware Private AI Foundation with NVIDIA cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### confirm-2cc4f2c4cbee
+
+- Title: Quoted by the confirm agents
+- URL: https://developer.broadcom.com/xapis/vmware-private-ai-service-api/latest/api/v1/compatibility/openai/v1/agents/post/
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-2](c2-2.md)
+
+### confirm-527a24ad8692
+
+- Title: Quoted by the confirm agents
+- URL: https://developer.broadcom.com/xapis/vmware-private-ai-service-api/latest/api/v1/compatibility/openai/v1/agents/get/
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-1](c6-1.md)
 
 ### confirm-8446819e4356
 
@@ -133,6 +161,14 @@ Every source the VMware Private AI Foundation with NVIDIA cells cite, with its t
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c5-4](c5-4.md)
+
+### confirm-bf270fd11569
+
+- Title: Quoted by the confirm agents
+- URL: https://github.com/vmware/vcf-security-and-compliance-guidelines/blob/main/security-design/vcf-91-securing-ai-workloads.md
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-3](c2-3.md)
 
 ### vmware-private-ai-01
 

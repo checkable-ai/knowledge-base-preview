@@ -27,6 +27,10 @@ sources:
     resource: "https://cortex-docs.paloaltonetworks.com/cortex-xsiam/learn-about-cortex-xsiam/agentic-ai-in-cortex-xsiam/agentic-assistant-security"
     locator: "registry entry"
     tier: null
+  - id: "confirm-dd52c84cb078"
+    resource: "https://www.paloaltonetworks.com/blog/security-operations/cortex-xdr-6-0/"
+    locator: "registry entry"
+    tier: null
   - id: "palo-alto-cortex-xsiam-01"
     resource: "https://www.paloaltonetworks.com/blog/security-operations/whats-new-in-cortex-july-2026.md/"
     locator: "registry entry"
@@ -157,10 +161,10 @@ sources:
     tier: 2
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Cortex XSIAM, Cortex XDR and Cortex AgentiX cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Cortex XSIAM, Cortex XDR and Cortex AgentiX cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-4e17e8714329
 
@@ -193,6 +197,14 @@ Every source the Cortex XSIAM, Cortex XDR and Cortex AgentiX cells cite, with it
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c1-3](c1-3.md)
+
+### confirm-dd52c84cb078
+
+- Title: Quoted by the confirm agents
+- URL: https://www.paloaltonetworks.com/blog/security-operations/cortex-xdr-6-0/
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c1-1](c1-1.md)
 
 ### palo-alto-cortex-xsiam-01
 

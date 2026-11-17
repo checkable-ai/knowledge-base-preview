@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id snyk-ai-security"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Snyk Evo covering AI-SPM, Agentic Development Security (Agent Supply Chain Security, Agent Behavior Governance and Snyk Studio), Continuous Offensive Security with AI pentesting, the Claude Enterprise integration and the open-source Agent Scan from the Invariant Labs acquisition.
@@ -27,8 +27,8 @@ Column group: AI security. Facts are agent-run. Cells listed as eligible are the
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 5 |
-| not-covered | 40 |
+| covered | 6 |
+| not-covered | 39 |
 | partial | 1 |
 
 | Verification state | Cells |
@@ -78,7 +78,7 @@ Column group: AI security. Facts are agent-run. Cells listed as eligible are the
 | [Model Assurance](c7-3.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Runtime Assurance](c7-4.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [First-Party Tool Assurance](c7-5.md) | Agentic MLSecOps | partial | verified | yes |
-| [Third-Party Tool Assurance](c7-6.md) | Agentic MLSecOps | not-covered | verified | yes |
+| [Third-Party Tool Assurance](c7-6.md) | Agentic MLSecOps | covered | verified | yes |
 | [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [AI Discovery](c7-9.md) | Agentic MLSecOps | covered | verified | yes |
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | covered | verified | yes |

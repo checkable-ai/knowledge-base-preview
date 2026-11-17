@@ -15,8 +15,16 @@ sources:
     resource: "https://docs.x.ai/build/features/plan-mode"
     locator: "registry entry"
     tier: null
+  - id: "confirm-74a916051b25"
+    resource: "https://docs.x.ai/grok-bot/teams-and-enterprises"
+    locator: "registry entry"
+    tier: null
   - id: "confirm-a08768eb8638"
     resource: "https://docs.x.ai/grok-bot/shared-bots"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-fde4dc5ad7b1"
+    resource: "https://docs.x.ai/grok-bot/security"
     locator: "registry entry"
     tier: null
   - id: "xai-grok-01"
@@ -197,10 +205,10 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the xAI Grok (Grok Business, Grok Enterprise and xAI API) cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the xAI Grok (Grok Business, Grok Enterprise and xAI API) cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-2bddd7be766a
 
@@ -210,6 +218,14 @@ Every source the xAI Grok (Grok Business, Grok Enterprise and xAI API) cells cit
 - Checked: not recorded
 - Cited by: [c5-1](c5-1.md)
 
+### confirm-74a916051b25
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.x.ai/grok-bot/teams-and-enterprises
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-10](c6-10.md)
+
 ### confirm-a08768eb8638
 
 - Title: Quoted by the confirm agents
@@ -217,6 +233,14 @@ Every source the xAI Grok (Grok Business, Grok Enterprise and xAI API) cells cit
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c1-4](c1-4.md), [c4-3](c4-3.md)
+
+### confirm-fde4dc5ad7b1
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.x.ai/grok-bot/security
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-3](c2-3.md)
 
 ### xai-grok-01
 

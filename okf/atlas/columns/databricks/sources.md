@@ -19,6 +19,30 @@ sources:
     resource: "https://docs.databricks.com/aws/en/dev-tools/databricks-apps/permissions"
     locator: "registry entry"
     tier: null
+  - id: "confirm-0c75e4b772ce"
+    resource: "https://docs.databricks.com/aws/en/ai-gateway/agent-services"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-305719d37d07"
+    resource: "https://docs.databricks.com/aws/en/omnigent/"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-315a996ddf3b"
+    resource: "https://docs.databricks.com/aws/en/machine-learning/model-serving/monitor-diagnose-endpoints"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-5fe0d7f49a46"
+    resource: "https://docs.databricks.com/aws/en/data-governance/unity-catalog/"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-85bc3cdcd700"
+    resource: "https://docs.databricks.com/aws/en/data-governance/unity-catalog/access-control/permissions-concepts"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-8a0033ec780d"
+    resource: "https://docs.databricks.com/aws/en/agents/deploy"
+    locator: "registry entry"
+    tier: null
   - id: "confirm-bd5a00e815c3"
     resource: "https://docs.databricks.com/aws/en/agents/custom-agents/model-serving/agent-authentication-model-serving"
     locator: "registry entry"
@@ -297,10 +321,10 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Databricks cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Databricks cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-0020a67176b5
 
@@ -317,6 +341,54 @@ Every source the Databricks cells cite, with its tier from the atlas source regi
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c1-4](c1-4.md)
+
+### confirm-0c75e4b772ce
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.databricks.com/aws/en/ai-gateway/agent-services
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-1](c6-1.md)
+
+### confirm-305719d37d07
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.databricks.com/aws/en/omnigent/
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c1-1](c1-1.md)
+
+### confirm-315a996ddf3b
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.databricks.com/aws/en/machine-learning/model-serving/monitor-diagnose-endpoints
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c5-4](c5-4.md)
+
+### confirm-5fe0d7f49a46
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.databricks.com/aws/en/data-governance/unity-catalog/
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c7-8](c7-8.md)
+
+### confirm-85bc3cdcd700
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.databricks.com/aws/en/data-governance/unity-catalog/access-control/permissions-concepts
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-6](c6-6.md)
+
+### confirm-8a0033ec780d
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.databricks.com/aws/en/agents/deploy
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-5](c2-5.md)
 
 ### confirm-bd5a00e815c3
 

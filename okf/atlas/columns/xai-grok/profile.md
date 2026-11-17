@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id xai-grok"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 xAI (SpaceXAI brand, owned by SpaceX through X.AI Holdings LLC) sells Grok models. This research covers the xAI API and Console with the Management API, Grok Business and Enterprise on grok.com including the Enterprise Vault add-on, the Grok Build CLI and Grok Bot as documented on docs.x.ai.

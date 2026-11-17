@@ -11,6 +11,14 @@ tags:
   - "ai-security"
   - "sources"
 sources:
+  - id: "confirm-35dbdefab09e"
+    resource: "https://www.f5.com/company/blog/f5-ai-gateway-single-control-point-for-all-enterprise-ai"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-f7171700bc20"
+    resource: "https://www.f5.com/company/trust-center/soc-2-type-ii"
+    locator: "registry entry"
+    tier: null
   - id: "f5-ai-guardrails-01"
     resource: "https://www.f5.com/products/ai-guardrails"
     locator: "registry entry"
@@ -105,10 +113,26 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the F5 AI Guardrails and AI Red Team cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the F5 AI Guardrails and AI Red Team cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### confirm-35dbdefab09e
+
+- Title: Quoted by the confirm agents
+- URL: https://www.f5.com/company/blog/f5-ai-gateway-single-control-point-for-all-enterprise-ai
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c3-3](c3-3.md)
+
+### confirm-f7171700bc20
+
+- Title: Quoted by the confirm agents
+- URL: https://www.f5.com/company/trust-center/soc-2-type-ii
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-13](c6-13.md)
 
 ### f5-ai-guardrails-01
 

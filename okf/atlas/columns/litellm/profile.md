@@ -1,14 +1,14 @@
 ---
 type: "Platform profile"
 title: "LiteLLM profile"
-description: "Column profile for LiteLLM in the Agent frameworks group."
+description: "Column profile for LiteLLM in the AI and MCP gateways group."
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
 review: "pending"
 verification: "not applicable"
 tags:
-  - "agent-frameworks"
+  - "ai-gateways"
   - "profile"
 sources:
   - id: "atlas-catalogue"
@@ -16,20 +16,20 @@ sources:
     locator: "platforms, id litellm"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 LiteLLM is an open-source, self-hosted AI gateway (proxy) from BerriAI that fronts model providers, MCP servers and A2A agents. This research covers the open-source proxy and the features gated behind a LiteLLM Enterprise licence, as documented on docs.litellm.ai.
 
-Column group: Agent frameworks. Facts are agent-run. Cells listed as eligible are the only ones agents may retrieve.
+Column group: AI and MCP gateways. Facts are agent-run. Cells listed as eligible are the only ones agents may retrieve.
 
 ## Verdicts and states
 
 | Verdict | Cells |
 | --- | --- |
 | covered | 12 |
-| not-covered | 30 |
-| out-of-scope | 4 |
+| not-covered | 29 |
+| out-of-scope | 5 |
 
 | Verification state | Cells |
 | --- | --- |
@@ -52,7 +52,7 @@ Column group: Agent frameworks. Facts are agent-run. Cells listed as eligible ar
 | [Credential Brokerage](c4-2.md) | Identity | covered | verified | yes |
 | [Delegation (OBO)](c4-3.md) | Identity | covered | verified | yes |
 | [A2A](c4-4.md) | Identity | covered | verified | yes |
-| [Agent Local Scopes](c1-1.md) | Authorisation | not-covered | verified | yes |
+| [Agent Local Scopes](c1-1.md) | Authorisation | out-of-scope | verified | yes |
 | [Agent Remote Scopes](c1-2.md) | Authorisation | covered | verified | yes |
 | [Human Approval](c1-3.md) | Authorisation | not-covered | verified | yes |
 | [Agent Provisioning](c1-4.md) | Authorisation | covered | verified | yes |

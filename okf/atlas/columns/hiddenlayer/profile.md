@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id hiddenlayer"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 HiddenLayer AI Security Platform (formerly AISec Platform), covering AI Discovery, AI Supply Chain Security (Model Scanner), AI Runtime Security including Agentic Runtime and Agent Harness Security, and AI Attack Simulation.

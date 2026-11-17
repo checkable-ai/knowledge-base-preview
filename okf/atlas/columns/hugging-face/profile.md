@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id hugging-face"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Open model and dataset registry with Team, Enterprise and Enterprise Plus plans. This research covers the Hub and its organisation security features, Inference Endpoints, Inference Providers, Spaces, Jobs and Sandboxes, and the agent tooling documented in the Hub docs.

@@ -27,6 +27,10 @@ sources:
     resource: "https://docs.mistral.ai/vibe/work/get-started"
     locator: "registry entry"
     tier: null
+  - id: "confirm-f005a3c2ffac"
+    resource: "https://docs.mistral.ai/studio/agents/learn/agent/guardrails"
+    locator: "registry entry"
+    tier: null
   - id: "mistral-01"
     resource: "https://docs.mistral.ai/agents/introduction"
     locator: "registry entry"
@@ -193,10 +197,10 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Mistral AI cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Mistral AI cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-091bf43b063b
 
@@ -229,6 +233,14 @@ Every source the Mistral AI cells cite, with its tier from the atlas source regi
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c5-1](c5-1.md)
+
+### confirm-f005a3c2ffac
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.mistral.ai/studio/agents/learn/agent/guardrails
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c3-2](c3-2.md)
 
 ### mistral-01
 

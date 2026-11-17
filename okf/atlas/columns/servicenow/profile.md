@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id servicenow"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 ServiceNow AI Platform agent and governance features, covering AI Agent Studio, AI Control Tower, AI Gateway, AI Guardian, MCP and A2A support and ServiceNow Cowork, mainly as documented for the Brazil release with some Zurich pages.

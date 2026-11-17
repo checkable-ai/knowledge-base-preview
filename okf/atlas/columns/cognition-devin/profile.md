@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id cognition-devin"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Cognition's autonomous cloud coding agent Devin (Teams, Enterprise, dedicated and federal deployments) plus Devin Desktop, the renamed Windsurf IDE, with its Cascade and Devin Local agents and the Devin CLI.

@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id opentelemetry-genai"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 The OpenTelemetry specification for GenAI client, agent, memory, retrieval, tool and MCP spans, metrics, events and entities, now maintained in the semantic-conventions-genai repository with all signals at Development status.

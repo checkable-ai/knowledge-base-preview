@@ -15,8 +15,12 @@ sources:
     resource: "https://www.vanta.com/company/security"
     locator: "registry entry"
     tier: null
-  - id: "confirm-cb8341199a5b"
-    resource: "https://help.vanta.com/en/articles/15089318-risk-scoring"
+  - id: "confirm-def2ce6de9ce"
+    resource: "https://help.vanta.com/en/articles/15089313-completing-risk-assessments"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-eb713f9478ef"
+    resource: "https://help.vanta.com/en/articles/11345363-getting-started-with-policies"
     locator: "registry entry"
     tier: null
   - id: "vanta-ai-governance-01"
@@ -81,10 +85,10 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Vanta AI governance and ISO 42001 cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Vanta AI governance and ISO 42001 cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-83084486cba8
 
@@ -94,13 +98,21 @@ Every source the Vanta AI governance and ISO 42001 cells cite, with its tier fro
 - Checked: not recorded
 - Cited by: [c6-13](c6-13.md)
 
-### confirm-cb8341199a5b
+### confirm-def2ce6de9ce
 
 - Title: Quoted by the confirm agents
-- URL: https://help.vanta.com/en/articles/15089318-risk-scoring
+- URL: https://help.vanta.com/en/articles/15089313-completing-risk-assessments
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c6-7](c6-7.md)
+
+### confirm-eb713f9478ef
+
+- Title: Quoted by the confirm agents
+- URL: https://help.vanta.com/en/articles/11345363-getting-started-with-policies
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-4](c6-4.md)
 
 ### vanta-ai-governance-01
 

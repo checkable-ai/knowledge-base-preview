@@ -11,10 +11,6 @@ tags:
   - "coding-agents"
   - "sources"
 sources:
-  - id: "confirm-00088f988efe"
-    resource: "https://docs.github.com/en/enterprise-cloud@latest/admin/data-residency/github-copilot-with-data-residency"
-    locator: "registry entry"
-    tier: null
   - id: "confirm-073ae72bc3bb"
     resource: "https://docs.github.com/en/copilot/concepts/copilot-surfaces/copilot-cli"
     locator: "registry entry"
@@ -39,8 +35,16 @@ sources:
     resource: "https://docs.github.com/en/copilot/how-tos/copilot-sdk/features/agent-loop"
     locator: "registry entry"
     tier: null
+  - id: "confirm-c23546367a96"
+    resource: "https://docs.github.com/en/copilot/concepts/security-governance-and-network-settings/session-data"
+    locator: "registry entry"
+    tier: null
   - id: "confirm-e0f08fbb5fd2"
     resource: "https://docs.github.com/en/copilot/how-tos/copilot-on-github/use-copilot-agents/manage-and-track-agents"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-ec1b443285af"
+    resource: "https://docs.github.com/en/copilot/how-tos/cloud-and-local-sandboxes/configuring-local-sandbox-settings"
     locator: "registry entry"
     tier: null
   - id: "gh-audit"
@@ -161,18 +165,10 @@ sources:
     tier: 4
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the GitHub Copilot cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
-
-### confirm-00088f988efe
-
-- Title: Quoted by the confirm agents
-- URL: https://docs.github.com/en/enterprise-cloud@latest/admin/data-residency/github-copilot-with-data-residency
-- Tier: not yet assigned
-- Checked: not recorded
-- Cited by: [c6-10](c6-10.md)
+Every source the GitHub Copilot cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-073ae72bc3bb
 
@@ -222,6 +218,14 @@ Every source the GitHub Copilot cells cite, with its tier from the atlas source 
 - Checked: not recorded
 - Cited by: [c2-5](c2-5.md)
 
+### confirm-c23546367a96
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.github.com/en/copilot/concepts/security-governance-and-network-settings/session-data
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-10](c6-10.md)
+
 ### confirm-e0f08fbb5fd2
 
 - Title: Quoted by the confirm agents
@@ -229,6 +233,14 @@ Every source the GitHub Copilot cells cite, with its tier from the atlas source 
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c2-1](c2-1.md)
+
+### confirm-ec1b443285af
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.github.com/en/copilot/how-tos/cloud-and-local-sandboxes/configuring-local-sandbox-settings
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-7](c2-7.md)
 
 ### gh-audit
 

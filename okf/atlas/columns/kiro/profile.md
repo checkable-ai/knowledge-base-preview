@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id kiro"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 AWS agentic coding product, successor to the Amazon Q Developer IDE plugins, covering Kiro IDE, Kiro CLI, Kiro Web (cloud sandbox agent), the open-source Kiro Crew agent and the Kiro Enterprise console.
@@ -27,8 +27,9 @@ Column group: Coding agents. Facts are agent-run. Cells listed as eligible are t
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 14 |
-| not-covered | 32 |
+| covered | 17 |
+| not-covered | 28 |
+| partial | 1 |
 
 | Verification state | Cells |
 | --- | --- |
@@ -55,7 +56,7 @@ Column group: Coding agents. Facts are agent-run. Cells listed as eligible are t
 | [Agent Local Scopes](c1-1.md) | Authorisation | covered | verified | yes |
 | [Agent Remote Scopes](c1-2.md) | Authorisation | covered | verified | yes |
 | [Human Approval](c1-3.md) | Authorisation | covered | verified | yes |
-| [Agent Provisioning](c1-4.md) | Authorisation | not-covered | verified | yes |
+| [Agent Provisioning](c1-4.md) | Authorisation | covered | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | covered | verified | yes |
 | [Inference](c2-2.md) | Runtime | covered | verified | yes |
 | [Execution Environment](c2-3.md) | Runtime | covered | verified | yes |
@@ -64,7 +65,7 @@ Column group: Coding agents. Facts are agent-run. Cells listed as eligible are t
 | [Agent Persistent Memory](c2-6.md) | Runtime | covered | verified | yes |
 | [Execution Containment & Kill Switch](c2-7.md) | Runtime | covered | verified | yes |
 | [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
-| [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
+| [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | covered | verified | yes |
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [HITL](c5-1.md) | Observability & Explainability | covered | verified | yes |
@@ -72,7 +73,7 @@ Column group: Coding agents. Facts are agent-run. Cells listed as eligible are t
 | [Cost & Yield](c5-3.md) | Observability & Explainability | not-covered | verified | yes |
 | [Infrastructure](c5-4.md) | Observability & Explainability | not-covered | verified | yes |
 | [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |
-| [Administrative Audit](c7-1.md) | Agentic MLSecOps | not-covered | verified | yes |
+| [Administrative Audit](c7-1.md) | Agentic MLSecOps | partial | verified | yes |
 | [SOC Telemetry](c7-2.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Model Assurance](c7-3.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Runtime Assurance](c7-4.md) | Agentic MLSecOps | not-covered | verified | yes |
@@ -84,7 +85,7 @@ Column group: Coding agents. Facts are agent-run. Cells listed as eligible are t
 | [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | verified | yes |
 | [Registration & Approval Workflows](c6-2.md) | Governance | not-covered | verified | yes |
 | [Posture & Reporting](c6-3.md) | Governance | not-covered | verified | yes |
-| [Policy Management](c6-4.md) | Governance | not-covered | verified | yes |
+| [Policy Management](c6-4.md) | Governance | covered | verified | yes |
 | [AI Lifecycle Management](c6-5.md) | Governance | not-covered | verified | yes |
 | [Ownership & Accountability](c6-6.md) | Governance | not-covered | verified | yes |
 | [Risk Assessment & Classification](c6-7.md) | Governance | not-covered | verified | yes |

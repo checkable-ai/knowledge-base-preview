@@ -173,10 +173,10 @@ sources:
     tier: 2
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the SAP Business AI cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the SAP Business AI cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-2f153f1a914d
 
@@ -184,7 +184,7 @@ Every source the SAP Business AI cells cite, with its tier from the atlas source
 - URL: https://architecture.learning.sap.com/docs/ref-arch/jfhsd9
 - Tier: not yet assigned
 - Checked: not recorded
-- Cited by: [c6-1](c6-1.md), [c6-6](c6-6.md), [c6-7](c6-7.md), [c7-9](c7-9.md)
+- Cited by: [c6-1](c6-1.md), [c6-2](c6-2.md), [c6-5](c6-5.md), [c6-6](c6-6.md), [c6-7](c6-7.md), [c7-9](c7-9.md)
 
 ### sap-02
 

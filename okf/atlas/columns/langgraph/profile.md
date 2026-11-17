@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id langgraph"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 LangGraph is LangChain's open-source agent orchestration framework. This research covers the open-source library and LangChain agent middleware that runs on it, LangSmith Deployment (Agent Server, formerly LangGraph Platform), and LangSmith features that supply controls for LangGraph agents.
@@ -27,8 +27,8 @@ Column group: Agent frameworks. Facts are agent-run. Cells listed as eligible ar
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 15 |
-| not-covered | 31 |
+| covered | 18 |
+| not-covered | 28 |
 
 | Verification state | Cells |
 | --- | --- |
@@ -51,11 +51,11 @@ Column group: Agent frameworks. Facts are agent-run. Cells listed as eligible ar
 | Control | Category | Verdict | State | Agent-eligible |
 | --- | --- | --- | --- | --- |
 | [Agent ID](c4-1.md) | Identity | not-covered | verified | yes |
-| [Credential Brokerage](c4-2.md) | Identity | not-covered | verified | yes |
+| [Credential Brokerage](c4-2.md) | Identity | covered | verified | yes |
 | [Delegation (OBO)](c4-3.md) | Identity | covered | verified | yes |
 | [A2A](c4-4.md) | Identity | not-covered | verified | yes |
 | [Agent Local Scopes](c1-1.md) | Authorisation | covered | verified | yes |
-| [Agent Remote Scopes](c1-2.md) | Authorisation | not-covered | verified | yes |
+| [Agent Remote Scopes](c1-2.md) | Authorisation | covered | verified | yes |
 | [Human Approval](c1-3.md) | Authorisation | covered | verified | yes |
 | [Agent Provisioning](c1-4.md) | Authorisation | covered | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | covered | verified | yes |
@@ -64,7 +64,7 @@ Column group: Agent frameworks. Facts are agent-run. Cells listed as eligible ar
 | [Agent In-Session Memory](c2-4.md) | Runtime | covered | verified | yes |
 | [Harness](c2-5.md) | Runtime | covered | verified | yes |
 | [Agent Persistent Memory](c2-6.md) | Runtime | covered | verified | yes |
-| [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | verified | yes |
+| [Execution Containment & Kill Switch](c2-7.md) | Runtime | covered | verified | yes |
 | [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | covered | verified | yes |
 | [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | not-covered | verified | yes |

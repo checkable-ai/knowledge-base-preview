@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id microsoft-agent-framework"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Microsoft's open-source (MIT) SDK for agents and graph workflows in .NET, Python and Go, successor to Semantic Kernel and AutoGen. This research covers the core SDK, its middleware, FIDES, Purview middleware, shell and Hyperlight CodeAct tools, the evaluation framework, and the Foundry Hosted Agents hosting integration where the framework docs rely on it.

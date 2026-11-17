@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id microsoft-copilot-studio"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Microsoft's low-code agent builder in Power Platform (formerly Power Virtual Agents), covering Copilot Studio agents on the standard, GitHub Copilot and Copilot chat harnesses, agent flows and Power Automate, with the Entra Agent ID and Microsoft Defender integrations the Copilot Studio docs point to.

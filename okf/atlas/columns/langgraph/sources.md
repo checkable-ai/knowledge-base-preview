@@ -11,6 +11,14 @@ tags:
   - "agent-frameworks"
   - "sources"
 sources:
+  - id: "confirm-6cb4fd2aa905"
+    resource: "https://docs.langchain.com/oss/python/langchain/human-in-the-loop"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-b16ef55b3a46"
+    resource: "https://docs.langchain.com/langsmith/sandbox-auth-proxy"
+    locator: "registry entry"
+    tier: null
   - id: "confirm-be28ccd063ec"
     resource: "https://docs.langchain.com/oss/python/langgraph/workflows-agents"
     locator: "registry entry"
@@ -165,10 +173,26 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the LangGraph cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the LangGraph cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### confirm-6cb4fd2aa905
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.langchain.com/oss/python/langchain/human-in-the-loop
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c1-2](c1-2.md)
+
+### confirm-b16ef55b3a46
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.langchain.com/langsmith/sandbox-auth-proxy
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c4-2](c4-2.md)
 
 ### confirm-be28ccd063ec
 

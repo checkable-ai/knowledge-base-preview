@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id pyrit"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Microsoft's open-source Python Risk Identification Tool for generative AI red teaming (docs version 1.1.0), including the CoPyRIT GUI and its use inside the Microsoft Foundry AI Red Teaming Agent.

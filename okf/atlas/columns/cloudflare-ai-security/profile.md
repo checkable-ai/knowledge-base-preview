@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id cloudflare-ai-security"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Cloudflare AI Gateway for model traffic, MCP server portals with Access and Gateway (including DLP and shadow MCP detection), and AI Security for Apps (formerly Firewall for AI) on the WAF, as documented at October 2026.

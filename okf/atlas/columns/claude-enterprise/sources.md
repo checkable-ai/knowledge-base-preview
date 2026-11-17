@@ -263,16 +263,24 @@ sources:
     resource: "https://support.claude.com/en/articles/17444462-set-up-and-manage-the-new-unified-claude-experience-for-your-enterprise-organization"
     locator: "registry entry"
     tier: null
+  - id: "confirm-5f97cd27c480"
+    resource: "https://code.claude.com/docs/en/sandboxing"
+    locator: "registry entry"
+    tier: null
   - id: "confirm-c059e689c495"
     resource: "https://support.claude.com/en/articles/18246629-review-your-organization-s-security-posture-with-the-security-center"
     locator: "registry entry"
     tier: null
+  - id: "confirm-e4bdeb479512"
+    resource: "https://www.anthropic.com/research/how-we-contain-claude"
+    locator: "registry entry"
+    tier: null
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Claude business plans cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Claude business plans cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### claude-enterprise-01
 
@@ -778,6 +786,14 @@ Every source the Claude business plans cells cite, with its tier from the atlas 
 - Checked: not recorded
 - Cited by: [c6-10](c6-10.md)
 
+### confirm-5f97cd27c480
+
+- Title: Quoted by the confirm agents
+- URL: https://code.claude.com/docs/en/sandboxing
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c3-2](c3-2.md)
+
 ### confirm-c059e689c495
 
 - Title: Quoted by the confirm agents
@@ -785,3 +801,11 @@ Every source the Claude business plans cells cite, with its tier from the atlas 
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c6-3](c6-3.md)
+
+### confirm-e4bdeb479512
+
+- Title: Quoted by the confirm agents
+- URL: https://www.anthropic.com/research/how-we-contain-claude
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c4-2](c4-2.md)

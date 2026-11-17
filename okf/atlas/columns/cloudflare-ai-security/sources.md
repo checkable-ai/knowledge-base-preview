@@ -127,6 +127,10 @@ sources:
     resource: "https://www.cloudflare.com/trust-hub/compliance-resources/soc-2"
     locator: "registry entry"
     tier: 1
+  - id: "confirm-15ab6de85740"
+    resource: "https://developers.cloudflare.com/cloudflare-one/access-controls/service-credentials/service-tokens/"
+    locator: "registry entry"
+    tier: null
   - id: "confirm-52c87dc3b16c"
     resource: "https://www.cloudflare.com/trust-hub/compliance-resources/soc-2/"
     locator: "registry entry"
@@ -137,10 +141,10 @@ sources:
     tier: null
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### cloudflare-ai-security-01
 
@@ -373,6 +377,14 @@ Every source the Cloudflare AI Gateway and Firewall for AI cells cite, with its 
 - Tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
+
+### confirm-15ab6de85740
+
+- Title: Quoted by the confirm agents
+- URL: https://developers.cloudflare.com/cloudflare-one/access-controls/service-credentials/service-tokens/
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c4-2](c4-2.md)
 
 ### confirm-52c87dc3b16c
 

@@ -15,6 +15,10 @@ sources:
     resource: "https://learn.microsoft.com/en-us/purview/dlp-microsoft365-copilot-location-learn-about"
     locator: "registry entry"
     tier: null
+  - id: "confirm-19e3b4c7c4a0"
+    resource: "https://learn.microsoft.com/en-us/copilot/manage/copilot-personalization-memory"
+    locator: "registry entry"
+    tier: null
   - id: "confirm-c75c232b13a2"
     resource: "https://learn.microsoft.com/en-us/compliance/regulatory/offering-iso-27001"
     locator: "registry entry"
@@ -113,10 +117,10 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-137d628e65bf
 
@@ -125,6 +129,14 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c3-3](c3-3.md)
+
+### confirm-19e3b4c7c4a0
+
+- Title: Quoted by the confirm agents
+- URL: https://learn.microsoft.com/en-us/copilot/manage/copilot-personalization-memory
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-10](c6-10.md)
 
 ### confirm-c75c232b13a2
 

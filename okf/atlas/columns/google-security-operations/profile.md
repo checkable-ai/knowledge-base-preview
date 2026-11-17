@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id google-security-operations"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Google's cloud SIEM and SOAR (formerly Chronicle), covering its Gemini features, Triage and Investigation Agent, Detection Engineering Agent, agentic playbook steps and the Google-hosted remote MCP server.

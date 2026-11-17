@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id noma-security"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Commercial AI security platform covering AI discovery and posture (AI-SPM), Agent Access Control, runtime detection and response (AI-DR) and AI red teaming, researched from the public product pages and the Claude Code guardrails plugin README.

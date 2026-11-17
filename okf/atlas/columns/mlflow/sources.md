@@ -11,6 +11,14 @@ tags:
   - "observability"
   - "sources"
 sources:
+  - id: "confirm-73fd0be07c7e"
+    resource: "https://mlflow.org/docs/latest/genai/mcp-registry/"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-df91aa942c79"
+    resource: "https://mlflow.org/docs/latest/genai/eval-monitor/ai-insights/detect-issues/"
+    locator: "registry entry"
+    tier: null
   - id: "mlflow-01"
     resource: "https://mlflow.org/docs/latest/genai/governance/ai-gateway/"
     locator: "registry entry"
@@ -121,10 +129,26 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the MLflow cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the MLflow cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### confirm-73fd0be07c7e
+
+- Title: Quoted by the confirm agents
+- URL: https://mlflow.org/docs/latest/genai/mcp-registry/
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-1](c6-1.md)
+
+### confirm-df91aa942c79
+
+- Title: Quoted by the confirm agents
+- URL: https://mlflow.org/docs/latest/genai/eval-monitor/ai-insights/detect-issues/
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c5-2](c5-2.md)
 
 ### mlflow-01
 

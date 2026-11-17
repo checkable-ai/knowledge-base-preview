@@ -11,6 +11,10 @@ tags:
   - "ai-security"
   - "sources"
 sources:
+  - id: "confirm-00e29593c593"
+    resource: "https://labs.snyk.io/experiments/skill-scan/"
+    locator: "registry entry"
+    tier: null
   - id: "confirm-cfae7dfcec6b"
     resource: "https://docs.snyk.io/agent-security/evo-by-snyk/continuous-offensive-security-cos/targets"
     locator: "registry entry"
@@ -141,10 +145,18 @@ sources:
     tier: 2
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Snyk Evo and Agentic Development Security cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Snyk Evo and Agentic Development Security cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### confirm-00e29593c593
+
+- Title: Quoted by the confirm agents
+- URL: https://labs.snyk.io/experiments/skill-scan/
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c7-6](c7-6.md)
 
 ### confirm-cfae7dfcec6b
 

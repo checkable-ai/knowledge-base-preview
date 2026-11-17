@@ -15,6 +15,10 @@ sources:
     resource: "https://developer.hashicorp.com/vault/docs/secrets/aws"
     locator: "registry entry"
     tier: null
+  - id: "confirm-94655d04879d"
+    resource: "https://developer.hashicorp.com/vault/ai/iam"
+    locator: "registry entry"
+    tier: null
   - id: "hashicorp-vault-02"
     resource: "https://developer.hashicorp.com/vault/docs/ai/iam"
     locator: "registry entry"
@@ -89,10 +93,10 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the HashiCorp Vault cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the HashiCorp Vault cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-7a71dead2042
 
@@ -101,6 +105,14 @@ Every source the HashiCorp Vault cells cite, with its tier from the atlas source
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c1-2](c1-2.md)
+
+### confirm-94655d04879d
+
+- Title: Quoted by the confirm agents
+- URL: https://developer.hashicorp.com/vault/ai/iam
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c4-3](c4-3.md)
 
 ### hashicorp-vault-02
 

@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id aucyber"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 AUCyber (formerly AUCloud, Sovereign Cloud Australia Pty Ltd) is an Australian managed cloud, cyber and AI provider. This research covers its Managed AI Services, VMware High Compliance Cloud and OpenStack hosting, managed SOC, and its resale of Prompt by SentinelOne. IRAP: the published letter from PCG Cyber (assessor David Milin, dated 16 December 2022) records an assessment against ISM June 2022 PROTECTED controls, run September to December 2022, scoped to the AUCloud portal and related infrastructure plus IaaS, BaaS, DRaaS, SOCaaS, M365 BaaS and DaaS. Managed AI Services is not named in that scope, and no later letter is published although the docs state a two-yearly cycle. Hosting Certification Framework: DTA certificate at Certified-Strategic level for facilities EC1, EC2, EC3, F1 and F2, with no date shown.

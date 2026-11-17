@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id cohere"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Cohere builds Command models. This research covers the Cohere API, the North agent workspace including North 2, Model Vault and private deployments.

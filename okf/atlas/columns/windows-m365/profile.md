@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id windows-m365"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Copilot Studio, Agent 365, Microsoft 365, Purview and Windows controls, including the announced Microsoft 365 Copilot in-country data processing for Australia. Product, licence and tenant boundaries are recorded per finding.
@@ -28,7 +28,8 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | Verdict | Cells |
 | --- | --- |
 | covered | 26 |
-| not-covered | 20 |
+| not-covered | 19 |
+| partial | 1 |
 
 | Verification state | Cells |
 | --- | --- |
@@ -76,7 +77,7 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | [Runtime Assurance](c7-4.md) | Agentic MLSecOps | covered | verified | yes |
 | [First-Party Tool Assurance](c7-5.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Third-Party Tool Assurance](c7-6.md) | Agentic MLSecOps | not-covered | verified | yes |
-| [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | not-covered | verified | yes |
+| [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | covered | verified | yes |
 | [AI Discovery](c7-9.md) | Agentic MLSecOps | covered | verified | yes |
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | verified | yes |
@@ -88,7 +89,7 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | [Risk Assessment & Classification](c6-7.md) | Governance | not-covered | verified | yes |
 | [Change & Release Governance](c6-8.md) | Governance | not-covered | verified | yes |
 | [Exceptions & Risk Acceptance](c6-9.md) | Governance | not-covered | verified | yes |
-| [Data Lifecycle Governance](c6-10.md) | Governance | covered | verified | yes |
+| [Data Lifecycle Governance](c6-10.md) | Governance | partial | verified | yes |
 | [Assurance & Compliance Evidence](c6-11.md) | Governance | covered | verified | yes |
 | [Third-Party Governance](c6-12.md) | Governance | not-covered | verified | yes |
 | [Independent Assurance & Authorisation](c6-13.md) | Governance | covered | verified | yes |

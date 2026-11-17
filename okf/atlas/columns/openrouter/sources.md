@@ -11,6 +11,10 @@ tags:
   - "model-hosting"
   - "sources"
 sources:
+  - id: "confirm-004424a3a690"
+    resource: "https://openrouter.ai/docs/guides/features/zdr"
+    locator: "registry entry"
+    tier: null
   - id: "confirm-237f6dbe16a0"
     resource: "https://openrouter.ai/docs/guides/privacy/data-collection"
     locator: "registry entry"
@@ -97,10 +101,18 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the OpenRouter cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the OpenRouter cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### confirm-004424a3a690
+
+- Title: Quoted by the confirm agents
+- URL: https://openrouter.ai/docs/guides/features/zdr
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-2](c2-2.md)
 
 ### confirm-237f6dbe16a0
 

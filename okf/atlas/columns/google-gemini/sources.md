@@ -19,10 +19,6 @@ sources:
     resource: "https://jules.google/docs/code/"
     locator: "registry entry"
     tier: null
-  - id: "confirm-4061369348dd"
-    resource: "https://docs.cloud.google.com/gemini/enterprise/docs/correlate-model-armor-logs"
-    locator: "registry entry"
-    tier: null
   - id: "confirm-7ad09e9075d5"
     resource: "https://docs.cloud.google.com/gemini/enterprise/docs/configure-personalization"
     locator: "registry entry"
@@ -233,10 +229,10 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Google Gemini cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Google Gemini cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-0ce1a81a64b7
 
@@ -253,14 +249,6 @@ Every source the Google Gemini cells cite, with its tier from the atlas source r
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c5-1](c5-1.md)
-
-### confirm-4061369348dd
-
-- Title: Quoted by the confirm agents
-- URL: https://docs.cloud.google.com/gemini/enterprise/docs/correlate-model-armor-logs
-- Tier: not yet assigned
-- Checked: not recorded
-- Cited by: [c7-2](c7-2.md)
 
 ### confirm-7ad09e9075d5
 

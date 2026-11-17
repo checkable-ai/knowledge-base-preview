@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id amazon-connect"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 AWS's contact centre service, previously named Amazon Connect, covering Connect Customer AI agents for agentic self-service and agentic assistance, AI prompts and guardrails, MCP tools, A2A collaboration and Agentic CX designer. Documentation checked 2026-10-18, deployment untested.

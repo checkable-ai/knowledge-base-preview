@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id crowdstrike-falcon-aidr"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 CrowdStrike Falcon AI Detection and Response (Workforce and Agents subscriptions, GA December 2025) with Falcon Next-Gen SIEM, Falcon Next-Gen Identity Security agent identity features and AI Red Team Services. The AIDR docs state end of support on 30 November 2026 with capabilities continuing in Falcon Guardian, announced 1 September 2026, so both names belong to CrowdStrike and Guardian is the successor. Pangea origin not confirmed in pages read.

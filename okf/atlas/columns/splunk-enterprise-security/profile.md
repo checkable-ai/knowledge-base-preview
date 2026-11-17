@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id splunk-enterprise-security"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Cisco's Splunk SIEM (ES 8.7, Essentials and Premier editions) with Splunk SOAR, UEBA, Splunk Security Content, its AI agents and Security AI Assistant, the Splunk MCP Server ES tools, and the Observability Cloud AI Agent Monitoring and AI Security Monitoring features that feed agent telemetry into Splunk.

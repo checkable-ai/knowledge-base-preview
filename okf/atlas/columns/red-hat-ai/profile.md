@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id red-hat-ai"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Red Hat's self-hosted AI platform, covering OpenShift AI Self-Managed 3.5 (Models-as-a-Service, guardrails, model registry, EvalHub, OGX), Red Hat AI Inference 3.5 with Distributed Inference with llm-d, the Connectivity Link MCP gateway, and the AI assurance technology from Red Hat's December 2025 acquisition of Chatterbox Labs.

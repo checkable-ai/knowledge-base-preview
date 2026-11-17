@@ -12,7 +12,7 @@ tags:
 sources: []
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 These rules govern every page in this tree. The tree is generated, so a page is never edited by hand. A rerun on the
@@ -39,10 +39,20 @@ Every page carries `type`, `title`, `description`, `classification`, `owner`, `s
 `tags`, `sources` and `generated`. An answer page adds an `atlas` block: platform, control, group, verdict, whether
 agents may retrieve the page and why, the check date and the file it was drawn from.
 
+An answer page also carries its limits as data, beside the verdict. `conditions_apply: true` marks an answer that is
+covered with conditions: a plan, a preview, a region, an add-on or a hosting route decides whether the control is
+there for a given customer. `condition_kinds` and `hard_kinds` name the kinds of condition, `plans`,
+`plans_excluded`, `hosting_routes` and `hosting` give the plans and hosting routes the conditions name, and
+`condition_sentences` lists each condition with its own kinds and values. `missing_kinds` and `missing_sentences` do
+the same for what the documentation leaves out. A value of `not-stated` means the page makes the control depend on a
+plan or a route without naming one.
+
 The verdict is one of `covered`, `partial`, `not-covered`, `out-of-scope` or `escalated`. A `not-covered` answer also
 carries a `gap_kind`: `out-of-scope` when the control is outside what the product is for, and `in-scope-gap` when the
-control belongs to the product and nothing is documented. `review: approved` means the owner approved the verdict
-shown on the page.
+control belongs to the product and nothing is documented. `review: approved` means a person at Checkable AI accepted
+the verdict shown on the page. `review: pending` means the agents checked the verdict as the page states (an evaluator
+that found the quoted passage on the vendor's page, or two model families that agreed) and no person has accepted it
+yet. An `escalated` verdict is one the agents did not agree on, so a person settles it.
 
 `retrieval-index.json` lists every page with its path, platform, group, control, verdict, gap kind, verification,
 retrieval status, sources, chunk names and SHA-256, so a program can filter and fetch without parsing YAML.

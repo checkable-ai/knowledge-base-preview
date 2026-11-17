@@ -15,6 +15,10 @@ sources:
     resource: "https://www.onetrust.com/blog/third-party-risk-management/"
     locator: "registry entry"
     tier: null
+  - id: "confirm-6014a7bf2bca"
+    resource: "https://www.onetrust.com/solutions/ai-governance/ai-policy-management/"
+    locator: "registry entry"
+    tier: null
   - id: "onetrust-01"
     resource: "https://www.onetrust.com/solutions/ai-governance/"
     locator: "registry entry"
@@ -65,10 +69,10 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the OneTrust AI Governance cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the OneTrust AI Governance cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-3941f56f89b1
 
@@ -77,6 +81,14 @@ Every source the OneTrust AI Governance cells cite, with its tier from the atlas
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c6-12](c6-12.md)
+
+### confirm-6014a7bf2bca
+
+- Title: Quoted by the confirm agents
+- URL: https://www.onetrust.com/solutions/ai-governance/ai-policy-management/
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-4](c6-4.md)
 
 ### onetrust-01
 

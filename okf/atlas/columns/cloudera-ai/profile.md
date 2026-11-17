@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id cloudera-ai"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Cloudera AI (formerly Cloudera Machine Learning) on Cloudera on Cloud and Data Services on premises 1.5.5, covering Agent Studio (2.2.0 to 3.0.0), Cloudera AI Inference service, Cloudera AI Registry and the Cloudera AI Workbench controls that apply to them.

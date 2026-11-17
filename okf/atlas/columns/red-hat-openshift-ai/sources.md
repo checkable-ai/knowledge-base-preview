@@ -11,8 +11,24 @@ tags:
   - "self-hosted"
   - "sources"
 sources:
-  - id: "confirm-4d3a9e96b7b4"
-    resource: "https://docs.redhat.com/en/documentation/red_hat_connectivity_link/1.3/html-single/registering_mcp_servers_and_creating_policies/index"
+  - id: "confirm-08c3071af895"
+    resource: "https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/release_notes/developer-preview-features_relnotes"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-1a06d06abc53"
+    resource: "https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/govern_llm_access_with_models-as-a-service/deploy-and-manage-models-as-a-service"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-30c5c755c993"
+    resource: "https://docs.redhat.com/en/documentation/red_hat_connectivity_link/1.3/html/registering_mcp_servers_and_creating_policies/mcp-gateway-revoke-mcp-server-tool-access"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-8bf8c8df17d8"
+    resource: "https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/release_notes/new-features-and-enhancements_relnotes"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-f171780af500"
+    resource: "https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/enabling_ai_safety_with_guardrails/enabling-ai-safety-with-nemo-guardrails_nemo-guardrails"
     locator: "registry entry"
     tier: null
   - id: "red-hat-openshift-ai-02"
@@ -109,18 +125,50 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Red Hat OpenShift AI cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Red Hat OpenShift AI cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
-### confirm-4d3a9e96b7b4
+### confirm-08c3071af895
 
 - Title: Quoted by the confirm agents
-- URL: https://docs.redhat.com/en/documentation/red_hat_connectivity_link/1.3/html-single/registering_mcp_servers_and_creating_policies/index
+- URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/release_notes/developer-preview-features_relnotes
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c1-3](c1-3.md)
+
+### confirm-1a06d06abc53
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/govern_llm_access_with_models-as-a-service/deploy-and-manage-models-as-a-service
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md)
+
+### confirm-30c5c755c993
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.redhat.com/en/documentation/red_hat_connectivity_link/1.3/html/registering_mcp_servers_and_creating_policies/mcp-gateway-revoke-mcp-server-tool-access
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c1-2](c1-2.md)
+
+### confirm-8bf8c8df17d8
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/release_notes/new-features-and-enhancements_relnotes
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c5-4](c5-4.md)
+
+### confirm-f171780af500
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/enabling_ai_safety_with_guardrails/enabling-ai-safety-with-nemo-guardrails_nemo-guardrails
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c3-2](c3-2.md)
 
 ### red-hat-openshift-ai-02
 

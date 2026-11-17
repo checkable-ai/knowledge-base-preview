@@ -11,24 +11,28 @@ tags:
   - "self-hosted"
   - "sources"
 sources:
-  - id: "confirm-4d3a9e96b7b4"
-    resource: "https://docs.redhat.com/en/documentation/red_hat_connectivity_link/1.3/html-single/registering_mcp_servers_and_creating_policies/index"
+  - id: "confirm-1a06d06abc53"
+    resource: "https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/govern_llm_access_with_models-as-a-service/deploy-and-manage-models-as-a-service"
     locator: "registry entry"
     tier: null
-  - id: "confirm-6a826660bca3"
-    resource: "https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html-single/deploy_models_using_distributed_inference_with_llm-d/index"
+  - id: "confirm-29d11ff28dd4"
+    resource: "https://docs.redhat.com/en/documentation/red_hat_connectivity_link/1.3/html/registering_mcp_servers_and_creating_policies/mcp-gateway-authorization"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-75eb12022f81"
+    resource: "https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/evaluating_ai_systems/overview-evaluating-ai-systems_evaluate"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-94c54f55f0da"
+    resource: "https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/deploy_models_using_distributed_inference_with_llm-d/monitoring-llmd-deployments"
     locator: "registry entry"
     tier: null
   - id: "confirm-ac4d4d78aef6"
     resource: "https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html-single/working_with_ogx/index"
     locator: "registry entry"
     tier: null
-  - id: "confirm-c7d6f190ae46"
-    resource: "https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html-single/govern_llm_access_with_models-as-a-service/index"
-    locator: "registry entry"
-    tier: null
-  - id: "confirm-e1590e8b2507"
-    resource: "https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html-single/evaluating_ai_systems/index"
+  - id: "confirm-da28f1139f8a"
+    resource: "https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/working_with_ogx/ogx-apis_rag"
     locator: "registry entry"
     tier: null
   - id: "red-hat-ai-01"
@@ -121,23 +125,39 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Red Hat AI (OpenShift AI, AI Inference Server and llm-d) cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Red Hat AI (OpenShift AI, AI Inference Server and llm-d) cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
-### confirm-4d3a9e96b7b4
+### confirm-1a06d06abc53
 
 - Title: Quoted by the confirm agents
-- URL: https://docs.redhat.com/en/documentation/red_hat_connectivity_link/1.3/html-single/registering_mcp_servers_and_creating_policies/index
+- URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/govern_llm_access_with_models-as-a-service/deploy-and-manage-models-as-a-service
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md)
+
+### confirm-29d11ff28dd4
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.redhat.com/en/documentation/red_hat_connectivity_link/1.3/html/registering_mcp_servers_and_creating_policies/mcp-gateway-authorization
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c3-2](c3-2.md)
 
-### confirm-6a826660bca3
+### confirm-75eb12022f81
 
 - Title: Quoted by the confirm agents
-- URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html-single/deploy_models_using_distributed_inference_with_llm-d/index
+- URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/evaluating_ai_systems/overview-evaluating-ai-systems_evaluate
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c5-2](c5-2.md)
+
+### confirm-94c54f55f0da
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/deploy_models_using_distributed_inference_with_llm-d/monitoring-llmd-deployments
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c5-4](c5-4.md)
@@ -148,23 +168,15 @@ Every source the Red Hat AI (OpenShift AI, AI Inference Server and llm-d) cells 
 - URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html-single/working_with_ogx/index
 - Tier: not yet assigned
 - Checked: not recorded
-- Cited by: [c2-4](c2-4.md), [c2-5](c2-5.md)
+- Cited by: [c2-5](c2-5.md)
 
-### confirm-c7d6f190ae46
-
-- Title: Quoted by the confirm agents
-- URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html-single/govern_llm_access_with_models-as-a-service/index
-- Tier: not yet assigned
-- Checked: not recorded
-- Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md)
-
-### confirm-e1590e8b2507
+### confirm-da28f1139f8a
 
 - Title: Quoted by the confirm agents
-- URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html-single/evaluating_ai_systems/index
+- URL: https://docs.redhat.com/en/documentation/red_hat_openshift_ai_self-managed/3.5/html/working_with_ogx/ogx-apis_rag
 - Tier: not yet assigned
 - Checked: not recorded
-- Cited by: [c5-2](c5-2.md)
+- Cited by: [c2-4](c2-4.md)
 
 ### red-hat-ai-01
 

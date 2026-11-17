@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id varonis"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Varonis Atlas AI TRiSM platform (built on the AllTrue.ai acquisition announced February 2026) plus Varonis Data Security Platform coverage of Microsoft 365 Copilot, ChatGPT Enterprise and Salesforce Agentforce.

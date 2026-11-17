@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id okta-ai-agents"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Okta workforce identity features for AI agents (Universal Directory agent registration, Agent SSO with Cross App Access, resource connections, Agent Gateway, ISPM agent discovery, Okta Identity Governance for agents and the kill switch), plus Auth0 for AI Agents and the acquired Permiso Security detection platform.
@@ -27,13 +27,13 @@ Column group: Identity, access and secrets. Facts are agent-run. Cells listed as
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 9 |
-| not-covered | 20 |
-| out-of-scope | 16 |
+| covered | 10 |
+| not-covered | 21 |
+| out-of-scope | 15 |
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 45 |
+| verified | 46 |
 
 ## Products
 
@@ -92,9 +92,10 @@ Column group: Identity, access and secrets. Facts are agent-run. Cells listed as
 | [Ownership & Accountability](c6-6.md) | Governance | not-covered | verified | yes |
 | [Risk Assessment & Classification](c6-7.md) | Governance | not-covered | verified | yes |
 | [Change & Release Governance](c6-8.md) | Governance | not-covered | verified | yes |
-| [Exceptions & Risk Acceptance](c6-9.md) | Governance | out-of-scope | verified | yes |
+| [Exceptions & Risk Acceptance](c6-9.md) | Governance | not-covered | verified | yes |
 | [Data Lifecycle Governance](c6-10.md) | Governance | out-of-scope | verified | yes |
 | [Assurance & Compliance Evidence](c6-11.md) | Governance | not-covered | verified | yes |
 | [Third-Party Governance](c6-12.md) | Governance | not-covered | verified | yes |
+| [Independent Assurance & Authorisation](c6-13.md) | Governance | covered | verified | yes |
 
 Sources are in the [source registry](sources.md).

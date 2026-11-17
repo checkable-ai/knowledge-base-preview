@@ -179,16 +179,20 @@ sources:
     resource: "https://docs.devin.ai/federal/compliance"
     locator: "registry entry"
     tier: 1
-  - id: "confirm-b5d5775c4c0c"
-    resource: "https://cognition.com/blog/ai-guarantee"
+  - id: "confirm-5cfd0058d1b5"
+    resource: "https://docs.devin.ai/enterprise/features/usage-policies.md"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-7df549c783d0"
+    resource: "https://docs.devin.ai/desktop/devin-local/overview"
     locator: "registry entry"
     tier: null
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Devin and Devin Desktop cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Devin and Devin Desktop cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### cognition-devin-01
 
@@ -526,10 +530,18 @@ Every source the Devin and Devin Desktop cells cite, with its tier from the atla
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
-### confirm-b5d5775c4c0c
+### confirm-5cfd0058d1b5
 
 - Title: Quoted by the confirm agents
-- URL: https://cognition.com/blog/ai-guarantee
+- URL: https://docs.devin.ai/enterprise/features/usage-policies.md
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c5-3](c5-3.md)
+
+### confirm-7df549c783d0
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.devin.ai/desktop/devin-local/overview
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c1-3](c1-3.md)

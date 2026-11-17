@@ -15,8 +15,12 @@ sources:
     resource: "https://kiro.dev/docs/custom-agents/configuration-reference/"
     locator: "registry entry"
     tier: null
-  - id: "confirm-3fbf2155233f"
-    resource: "https://kiro.dev/docs/workflows/manage/"
+  - id: "confirm-12f62608f953"
+    resource: "https://kiro.dev/docs/crew/bots/manage-bots/"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-5e8f78759a08"
+    resource: "https://kiro.dev/docs/enterprise/enterprise-management/getting-started/"
     locator: "registry entry"
     tier: null
   - id: "confirm-9aba3e32fcb6"
@@ -193,10 +197,10 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Kiro cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Kiro cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-119b47c2c68c
 
@@ -206,13 +210,21 @@ Every source the Kiro cells cite, with its tier from the atlas source register. 
 - Checked: not recorded
 - Cited by: [c2-5](c2-5.md)
 
-### confirm-3fbf2155233f
+### confirm-12f62608f953
 
 - Title: Quoted by the confirm agents
-- URL: https://kiro.dev/docs/workflows/manage/
+- URL: https://kiro.dev/docs/crew/bots/manage-bots/
 - Tier: not yet assigned
 - Checked: not recorded
-- Cited by: [c2-7](c2-7.md)
+- Cited by: [c1-4](c1-4.md)
+
+### confirm-5e8f78759a08
+
+- Title: Quoted by the confirm agents
+- URL: https://kiro.dev/docs/enterprise/enterprise-management/getting-started/
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-4](c6-4.md)
 
 ### confirm-9aba3e32fcb6
 
@@ -220,7 +232,7 @@ Every source the Kiro cells cite, with its tier from the atlas source register. 
 - URL: https://kiro.dev/docs/mcp/security/
 - Tier: not yet assigned
 - Checked: not recorded
-- Cited by: [c1-2](c1-2.md), [c1-3](c1-3.md)
+- Cited by: [c1-2](c1-2.md)
 
 ### confirm-a1fac708a3df
 

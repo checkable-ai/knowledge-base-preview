@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id databricks"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Databricks Data Intelligence Platform AI features, covering Agent Bricks (Agent Bricks CLI, Agent Runtime, DurableAgentServer, managed memory and sessions, Databricks Sandbox), legacy Mosaic AI Agent Framework on Model Serving, Model Serving and Foundation Model APIs, Unity Gateway (formerly AI Gateway) with MCP services, service policies and skills, MLflow tracing and evaluation, AI Search (formerly Vector Search), and the Unity Catalog, identity, network and audit controls that apply to them, as documented for AWS with Azure and GCP differences noted where found.
@@ -27,8 +27,9 @@ Column group: Data and AI platforms. Facts are agent-run. Cells listed as eligib
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 17 |
-| not-covered | 29 |
+| covered | 21 |
+| not-covered | 24 |
+| partial | 1 |
 
 | Verification state | Cells |
 | --- | --- |
@@ -54,7 +55,7 @@ Column group: Data and AI platforms. Facts are agent-run. Cells listed as eligib
 | [Credential Brokerage](c4-2.md) | Identity | covered | verified | yes |
 | [Delegation (OBO)](c4-3.md) | Identity | covered | verified | yes |
 | [A2A](c4-4.md) | Identity | covered | verified | yes |
-| [Agent Local Scopes](c1-1.md) | Authorisation | not-covered | verified | yes |
+| [Agent Local Scopes](c1-1.md) | Authorisation | partial | verified | yes |
 | [Agent Remote Scopes](c1-2.md) | Authorisation | covered | verified | yes |
 | [Human Approval](c1-3.md) | Authorisation | covered | verified | yes |
 | [Agent Provisioning](c1-4.md) | Authorisation | covered | verified | yes |
@@ -72,7 +73,7 @@ Column group: Data and AI platforms. Facts are agent-run. Cells listed as eligib
 | [HITL](c5-1.md) | Observability & Explainability | covered | verified | yes |
 | [Behavioural](c5-2.md) | Observability & Explainability | covered | verified | yes |
 | [Cost & Yield](c5-3.md) | Observability & Explainability | not-covered | verified | yes |
-| [Infrastructure](c5-4.md) | Observability & Explainability | not-covered | verified | yes |
+| [Infrastructure](c5-4.md) | Observability & Explainability | covered | verified | yes |
 | [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |
 | [Administrative Audit](c7-1.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [SOC Telemetry](c7-2.md) | Agentic MLSecOps | not-covered | verified | yes |
@@ -83,12 +84,12 @@ Column group: Data and AI platforms. Facts are agent-run. Cells listed as eligib
 | [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | covered | verified | yes |
 | [AI Discovery](c7-9.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | not-covered | verified | yes |
-| [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | verified | yes |
-| [Registration & Approval Workflows](c6-2.md) | Governance | not-covered | verified | yes |
+| [Asset Registries & Inventory](c6-1.md) | Governance | covered | verified | yes |
+| [Registration & Approval Workflows](c6-2.md) | Governance | covered | verified | yes |
 | [Posture & Reporting](c6-3.md) | Governance | not-covered | verified | yes |
 | [Policy Management](c6-4.md) | Governance | not-covered | verified | yes |
 | [AI Lifecycle Management](c6-5.md) | Governance | not-covered | verified | yes |
-| [Ownership & Accountability](c6-6.md) | Governance | not-covered | verified | yes |
+| [Ownership & Accountability](c6-6.md) | Governance | covered | verified | yes |
 | [Risk Assessment & Classification](c6-7.md) | Governance | not-covered | verified | yes |
 | [Change & Release Governance](c6-8.md) | Governance | not-covered | verified | yes |
 | [Exceptions & Risk Acceptance](c6-9.md) | Governance | not-covered | verified | yes |

@@ -15,6 +15,10 @@ sources:
     resource: "https://docs.glean.com/administration/protect/sensitive-findings/about"
     locator: "registry entry"
     tier: null
+  - id: "confirm-6a24c656999c"
+    resource: "https://docs.glean.com/agents/concepts/agents-draft-version"
+    locator: "registry entry"
+    tier: null
   - id: "confirm-eb47c01bf927"
     resource: "https://www.glean.com/platform/security"
     locator: "registry entry"
@@ -217,10 +221,10 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Glean cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Glean cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-16965a0e31da
 
@@ -229,6 +233,14 @@ Every source the Glean cells cite, with its tier from the atlas source register.
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c7-8](c7-8.md)
+
+### confirm-6a24c656999c
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.glean.com/agents/concepts/agents-draft-version
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-8](c6-8.md)
 
 ### confirm-eb47c01bf927
 

@@ -11,8 +11,20 @@ tags:
   - "enterprise-agents"
   - "sources"
 sources:
-  - id: "confirm-c0be27f8dec9"
-    resource: "https://www.zoom.com/en/products/ai-assistant/features/agent-builder/"
+  - id: "confirm-372342858812"
+    resource: "https://www.zoom.com/en/blog/zoomtopia2026-ai-governance-zoom-workplace/?cms_guid=false"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-74c675837f2c"
+    resource: "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0085380"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-e2ae5de78c67"
+    resource: "https://www.zoom.com/en/products/ai-assistant/features/agent-builder/?cms_guid=false"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-e43ff0e93e7a"
+    resource: "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0085693"
     locator: "registry entry"
     tier: null
   - id: "zoom-ai-companion-01"
@@ -117,18 +129,42 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Zoom AI Companion cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Zoom AI Companion cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
-### confirm-c0be27f8dec9
+### confirm-372342858812
 
 - Title: Quoted by the confirm agents
-- URL: https://www.zoom.com/en/products/ai-assistant/features/agent-builder/
+- URL: https://www.zoom.com/en/blog/zoomtopia2026-ai-governance-zoom-workplace/?cms_guid=false
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c3-3](c3-3.md)
+
+### confirm-74c675837f2c
+
+- Title: Quoted by the confirm agents
+- URL: https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0085380
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c1-3](c1-3.md)
+
+### confirm-e2ae5de78c67
+
+- Title: Quoted by the confirm agents
+- URL: https://www.zoom.com/en/products/ai-assistant/features/agent-builder/?cms_guid=false
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c1-4](c1-4.md)
+
+### confirm-e43ff0e93e7a
+
+- Title: Quoted by the confirm agents
+- URL: https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0085693
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c5-5](c5-5.md)
 
 ### zoom-ai-companion-01
 

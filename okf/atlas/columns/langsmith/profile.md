@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id langsmith"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 LangChain's agent tracing, evaluation and deployment platform, covering LangSmith Cloud, BYOC and self-hosted, including Agent Server, the LLM Gateway (beta), Sandboxes, Engine and Fleet.
@@ -27,9 +27,9 @@ Column group: Observability and evaluation. Facts are agent-run. Cells listed as
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 18 |
+| covered | 19 |
 | not-covered | 20 |
-| out-of-scope | 8 |
+| out-of-scope | 7 |
 
 | Verification state | Cells |
 | --- | --- |
@@ -50,7 +50,7 @@ Column group: Observability and evaluation. Facts are agent-run. Cells listed as
 | Control | Category | Verdict | State | Agent-eligible |
 | --- | --- | --- | --- | --- |
 | [Agent ID](c4-1.md) | Identity | not-covered | verified | yes |
-| [Credential Brokerage](c4-2.md) | Identity | not-covered | verified | yes |
+| [Credential Brokerage](c4-2.md) | Identity | covered | verified | yes |
 | [Delegation (OBO)](c4-3.md) | Identity | covered | verified | yes |
 | [A2A](c4-4.md) | Identity | not-covered | verified | yes |
 | [Agent Local Scopes](c1-1.md) | Authorisation | not-covered | verified | yes |
@@ -90,7 +90,7 @@ Column group: Observability and evaluation. Facts are agent-run. Cells listed as
 | [Ownership & Accountability](c6-6.md) | Governance | not-covered | verified | yes |
 | [Risk Assessment & Classification](c6-7.md) | Governance | out-of-scope | verified | yes |
 | [Change & Release Governance](c6-8.md) | Governance | not-covered | verified | yes |
-| [Exceptions & Risk Acceptance](c6-9.md) | Governance | out-of-scope | verified | yes |
+| [Exceptions & Risk Acceptance](c6-9.md) | Governance | not-covered | verified | yes |
 | [Data Lifecycle Governance](c6-10.md) | Governance | covered | verified | yes |
 | [Assurance & Compliance Evidence](c6-11.md) | Governance | out-of-scope | verified | yes |
 | [Third-Party Governance](c6-12.md) | Governance | not-covered | verified | yes |

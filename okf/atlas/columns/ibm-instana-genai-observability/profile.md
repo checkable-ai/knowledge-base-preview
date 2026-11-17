@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id ibm-instana-genai-observability"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 The Generative AI Observability capability of IBM Instana Observability SaaS, which traces LLM calls, agent frameworks, MCP servers, vector databases and GPU hosts through OpenLLMetry, as documented in October 2026.

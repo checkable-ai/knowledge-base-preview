@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id atlassian-rovo"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Atlassian's AI search, chat and agents across Jira, Confluence and connected apps, covering Rovo Chat, Search and Agents, Rovo Studio, the Rovo MCP server and A2A connections, Rovo admin controls in Atlassian Administration and Guard, and Rovo Dev.

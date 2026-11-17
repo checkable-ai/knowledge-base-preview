@@ -135,12 +135,28 @@ sources:
     resource: "https://support.claude.com/en/articles/15927065-get-started-with-skill-and-plugin-scanning"
     locator: "registry entry"
     tier: null
+  - id: "confirm-64a70eaf031c"
+    resource: "https://platform.claude.com/docs/en/manage-claude/compliance-security-posture/overview"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-727e85091fbe"
+    resource: "https://platform.claude.com/docs/en/managed-agents/secure-deployment"
+    locator: "registry entry"
+    tier: null
   - id: "confirm-86972328a911"
     resource: "https://platform.claude.com/docs/en/manage-claude/data-residency"
     locator: "registry entry"
     tier: null
   - id: "confirm-8fd92cde1455"
     resource: "https://code.claude.com/docs/en/claude-apps-gateway-config"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-9332683246db"
+    resource: "https://platform.claude.com/docs/en/about-claude/models/model-ids-and-versions"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-9567fdb5e497"
+    resource: "https://code.claude.com/docs/en/self-hosted-environments-reference"
     locator: "registry entry"
     tier: null
   - id: "confirm-bbee5602d1e6"
@@ -161,10 +177,10 @@ sources:
     tier: null
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Anthropic cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Anthropic cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### an-admin
 
@@ -414,6 +430,22 @@ Every source the Anthropic cells cite, with its tier from the atlas source regis
 - Checked: not recorded
 - Cited by: [c7-5](c7-5.md)
 
+### confirm-64a70eaf031c
+
+- Title: Quoted by the confirm agents
+- URL: https://platform.claude.com/docs/en/manage-claude/compliance-security-posture/overview
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-3](c6-3.md)
+
+### confirm-727e85091fbe
+
+- Title: Quoted by the confirm agents
+- URL: https://platform.claude.com/docs/en/managed-agents/secure-deployment
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-7](c2-7.md)
+
 ### confirm-86972328a911
 
 - Title: Quoted by the confirm agents
@@ -429,6 +461,22 @@ Every source the Anthropic cells cite, with its tier from the atlas source regis
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c3-1](c3-1.md)
+
+### confirm-9332683246db
+
+- Title: Quoted by the confirm agents
+- URL: https://platform.claude.com/docs/en/about-claude/models/model-ids-and-versions
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c2-2](c2-2.md)
+
+### confirm-9567fdb5e497
+
+- Title: Quoted by the confirm agents
+- URL: https://code.claude.com/docs/en/self-hosted-environments-reference
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c5-4](c5-4.md)
 
 ### confirm-bbee5602d1e6
 
@@ -460,4 +508,4 @@ Every source the Anthropic cells cite, with its tier from the atlas source regis
 - URL: https://platform.claude.com/docs/en/managed-agents/overview
 - Tier: not yet assigned
 - Checked: not recorded
-- Cited by: [c2-4](c2-4.md)
+- Cited by: [c1-2](c1-2.md), [c2-4](c2-4.md)

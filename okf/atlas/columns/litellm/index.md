@@ -1,6 +1,6 @@
 # LiteLLM
 
-Column in the Agent frameworks group.
+Column in the AI and MCP gateways group.
 
 * [Profile](profile.md)
 * [Source registry](sources.md)

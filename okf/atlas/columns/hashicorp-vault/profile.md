@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id hashicorp-vault"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 HashiCorp Vault (owned by IBM) is a secrets and identity-based access manager, and this research covers Vault Community, Vault Enterprise 2.1 agentic IAM and Agent Registry, HCP Vault Dedicated, Vault Agent and the beta Vault MCP server.

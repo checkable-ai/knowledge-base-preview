@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id microsoft-dynamics-365-agents"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Prebuilt agents in Dynamics 365 Sales, Customer Service, Contact Center, Field Service and finance and operations apps, plus the Dynamics 365 ERP MCP server, researched for what they add over Copilot Studio and Microsoft 365.

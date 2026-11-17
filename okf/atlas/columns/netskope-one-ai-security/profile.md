@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id netskope-one-ai-security"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Netskope's AI security suite launched March 2026, covering Agentic Broker for MCP traffic, AI Guardrails, AI Gateway with MCP Gateway, AI Red Teaming and Agent Action Control (beta).

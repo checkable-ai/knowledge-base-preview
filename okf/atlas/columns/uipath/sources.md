@@ -15,6 +15,10 @@ sources:
     resource: "https://docs.uipath.com/delegate/standalone/latest/user-guide/security-settings"
     locator: "registry entry"
     tier: null
+  - id: "confirm-636d6bdef4d3"
+    resource: "https://docs.uipath.com/orchestrator/automation-cloud/latest/user-guide/about-a2a-agents"
+    locator: "registry entry"
+    tier: null
   - id: "uipath-01"
     resource: "https://docs.uipath.com/agents/automation-cloud/latest/user-guide/agents-governance"
     locator: "registry entry"
@@ -181,10 +185,10 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the UiPath Agentic Automation cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the UiPath Agentic Automation cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-0144259666f1
 
@@ -193,6 +197,14 @@ Every source the UiPath Agentic Automation cells cite, with its tier from the at
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c1-1](c1-1.md)
+
+### confirm-636d6bdef4d3
+
+- Title: Quoted by the confirm agents
+- URL: https://docs.uipath.com/orchestrator/automation-cloud/latest/user-guide/about-a2a-agents
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c4-4](c4-4.md)
 
 ### uipath-01
 

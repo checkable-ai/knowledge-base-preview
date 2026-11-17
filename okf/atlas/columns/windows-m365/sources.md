@@ -15,6 +15,10 @@ sources:
     resource: "https://learn.microsoft.com/en-us/entra/agent-id/identity-platform/agent-owners-sponsors-managers"
     locator: "registry entry"
     tier: 1
+  - id: "confirm-19e3b4c7c4a0"
+    resource: "https://learn.microsoft.com/en-us/copilot/manage/copilot-personalization-memory"
+    locator: "registry entry"
+    tier: null
   - id: "confirm-1b8a95751e65"
     resource: "https://learn.microsoft.com/en-us/microsoft-copilot-studio/flows-overview"
     locator: "registry entry"
@@ -25,6 +29,10 @@ sources:
     tier: null
   - id: "confirm-5655e396bceb"
     resource: "https://learn.microsoft.com/en-us/windows-365/enterprise/report-resource-performance"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-6442fe587b86"
+    resource: "https://learn.microsoft.com/en-us/purview/deploymentmodels/depmod-sc-agents-step2"
     locator: "registry entry"
     tier: null
   - id: "confirm-7231801d1d33"
@@ -201,10 +209,10 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Microsoft 365 Copilot cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### az-owner
 
@@ -213,6 +221,14 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 - Tier: 1
 - Checked: 2026-10-07
 - Cited by: [c6-6](c6-6.md)
+
+### confirm-19e3b4c7c4a0
+
+- Title: Quoted by the confirm agents
+- URL: https://learn.microsoft.com/en-us/copilot/manage/copilot-personalization-memory
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c6-10](c6-10.md)
 
 ### confirm-1b8a95751e65
 
@@ -237,6 +253,14 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 - Tier: not yet assigned
 - Checked: not recorded
 - Cited by: [c5-4](c5-4.md)
+
+### confirm-6442fe587b86
+
+- Title: Quoted by the confirm agents
+- URL: https://learn.microsoft.com/en-us/purview/deploymentmodels/depmod-sc-agents-step2
+- Tier: not yet assigned
+- Checked: not recorded
+- Cited by: [c7-8](c7-8.md)
 
 ### confirm-7231801d1d33
 

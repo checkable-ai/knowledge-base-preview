@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id idira-cyberark"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Palo Alto Networks identity security platform built on CyberArk (acquisition completed 11 February 2026), researched for Secure AI Agents (Managed AI agents, Identity Broker, MCP server inventory, AI agent access policies), the Discovery and Context AI agents inventory, Secure Infrastructure Access ZSP database access, Secrets Manager SaaS with Secure Workload Access, and the open-source Agent Guard.
