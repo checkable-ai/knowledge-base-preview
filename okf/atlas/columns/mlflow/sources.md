@@ -11,6 +11,14 @@ tags:
   - "observability"
   - "sources"
 sources:
+  - id: "confirm-73fd0be07c7e"
+    resource: "https://mlflow.org/docs/latest/genai/mcp-registry/"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-df91aa942c79"
+    resource: "https://mlflow.org/docs/latest/genai/eval-monitor/ai-insights/detect-issues/"
+    locator: "registry entry"
+    tier: null
   - id: "mlflow-01"
     resource: "https://mlflow.org/docs/latest/genai/governance/ai-gateway/"
     locator: "registry entry"
@@ -121,16 +129,32 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the MLflow cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the MLflow cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### confirm-73fd0be07c7e
+
+- Title: Quoted by the confirm agents
+- URL: https://mlflow.org/docs/latest/genai/mcp-registry/
+- Source tier: not yet rated
+- Checked: not recorded
+- Cited by: [c6-1](c6-1.md)
+
+### confirm-df91aa942c79
+
+- Title: Quoted by the confirm agents
+- URL: https://mlflow.org/docs/latest/genai/eval-monitor/ai-insights/detect-issues/
+- Source tier: not yet rated
+- Checked: not recorded
+- Cited by: [c5-2](c5-2.md)
 
 ### mlflow-01
 
 - Title: AI Gateway overview
 - URL: https://mlflow.org/docs/latest/genai/governance/ai-gateway/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c4-2](c4-2.md), [c7-1](c7-1.md)
 
@@ -138,7 +162,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: AI Gateway Guardrails
 - URL: https://mlflow.org/docs/latest/genai/governance/ai-gateway/guardrails/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-3](c3-3.md)
 
@@ -146,7 +170,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: AI Gateway Budget Alerts and Limits
 - URL: https://mlflow.org/docs/latest/genai/governance/ai-gateway/budget-alerts-limits/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -154,7 +178,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: AI Gateway Usage Tracking
 - URL: https://mlflow.org/docs/latest/genai/governance/ai-gateway/usage-tracking/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md), [c5-4](c5-4.md)
 
@@ -162,7 +186,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: AI Gateway LLM Connections, create and manage
 - URL: https://mlflow.org/docs/latest/genai/governance/ai-gateway/api-keys/create-and-manage/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -170,7 +194,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: AI Gateway Traffic Routing and Fallbacks
 - URL: https://mlflow.org/docs/latest/genai/governance/ai-gateway/traffic-routing-fallbacks/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md)
 
@@ -178,7 +202,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: Basic HTTP Authentication
 - URL: https://mlflow.org/docs/latest/self-hosting/security/basic-http-auth/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c3-1](c3-1.md), [c4-2](c4-2.md), [c6-6](c6-6.md)
 
@@ -186,7 +210,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: MLflow Tracing overview
 - URL: https://mlflow.org/docs/latest/genai/tracing/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md), [c7-1](c7-1.md)
 
@@ -194,7 +218,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: Redacting Sensitive Data from Traces
 - URL: https://mlflow.org/docs/latest/genai/tracing/observe-with-traces/masking/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c6-10](c6-10.md), [c7-2](c7-2.md)
 
@@ -202,7 +226,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: Track Users and Sessions
 - URL: https://mlflow.org/docs/latest/genai/tracing/track-users-sessions/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -210,7 +234,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: OpenTelemetry integration
 - URL: https://mlflow.org/docs/latest/genai/tracing/opentelemetry/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-4](c5-4.md), [c7-2](c7-2.md)
 
@@ -218,7 +242,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: Archive Traces
 - URL: https://mlflow.org/docs/latest/genai/tracing/observe-with-traces/archive-traces/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md)
 
@@ -226,7 +250,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: Feedback (human annotation)
 - URL: https://mlflow.org/docs/latest/genai/assessments/feedback/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md), [c6-11](c6-11.md)
 
@@ -234,7 +258,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: Review Queues
 - URL: https://mlflow.org/docs/latest/genai/assessments/review-queues/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md)
 
@@ -242,7 +266,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: Evaluate and Monitor overview
 - URL: https://mlflow.org/docs/latest/genai/eval-monitor/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c6-11](c6-11.md), [c6-5](c6-5.md)
 
@@ -250,7 +274,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: Automatic Evaluation
 - URL: https://mlflow.org/docs/latest/genai/eval-monitor/automatic-evaluations/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md)
 
@@ -258,7 +282,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: Judges and Scorers
 - URL: https://mlflow.org/docs/latest/genai/eval-monitor/scorers/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md)
 
@@ -266,7 +290,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: Prompt Registry
 - URL: https://mlflow.org/docs/latest/genai/prompt-registry/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c2-2](c2-2.md), [c6-1](c6-1.md), [c6-8](c6-8.md)
 
@@ -274,7 +298,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: MLflow Model Registry
 - URL: https://mlflow.org/docs/latest/ml/model-registry/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c6-1](c6-1.md), [c6-2](c6-2.md), [c6-5](c6-5.md), [c6-6](c6-6.md), [c6-8](c6-8.md), [c7-3](c7-3.md)
 
@@ -282,7 +306,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: MLflow Webhooks
 - URL: https://mlflow.org/docs/latest/self-hosting/webhooks/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-2](c6-2.md), [c6-8](c6-8.md)
 
@@ -290,7 +314,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: Version Tracking for GenAI Apps and Agents
 - URL: https://mlflow.org/docs/latest/genai/version-tracking/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c6-1](c6-1.md), [c6-5](c6-5.md)
 
@@ -298,7 +322,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: MLflow MCP Server
 - URL: https://mlflow.org/docs/latest/genai/mcp/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md), [c7-1](c7-1.md)
 
@@ -306,7 +330,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: Databricks AI Gateway
 - URL: https://docs.databricks.com/aws/en/ai-gateway/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-1](c3-1.md), [c3-2](c3-2.md), [c6-1](c6-1.md)
 
@@ -314,7 +338,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: Manage model lifecycle in Unity Catalog
 - URL: https://docs.databricks.com/aws/en/machine-learning/manage-model-lifecycle/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-2](c6-2.md), [c6-6](c6-6.md), [c7-1](c7-1.md), [c7-3](c7-3.md)
 
@@ -322,7 +346,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: Budget Alerts and Limits
 - URL: https://mlflow.org/docs/latest/genai/governance/ai-gateway/budget-alerts-limits
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -330,7 +354,7 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: Create and Manage Endpoints
 - URL: https://mlflow.org/docs/latest/genai/governance/ai-gateway/endpoints/create-and-manage
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -338,6 +362,6 @@ Every source the MLflow cells cite, with its tier from the atlas source register
 
 - Title: Infosec Registered Assessors Program (IRAP), Databricks on AWS
 - URL: https://docs.databricks.com/aws/en/security/privacy/irap
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

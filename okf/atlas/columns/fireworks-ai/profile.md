@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id fireworks-ai"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Inference and training platform for open models. This research covers serverless and dedicated deployments, the Responses API, fine-tuning, Enterprise account controls and the Nexus tools (FireRouter, FireConnect, Provider Keys, Spend Limits).
@@ -27,13 +27,14 @@ Column group: Model hosting and inference. Facts are agent-run. Cells listed as 
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 9 |
-| not-covered | 29 |
+| covered | 8 |
+| not-covered | 30 |
 | out-of-scope | 8 |
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 1 |
+| verified | 45 |
 
 ## Products
 
@@ -62,13 +63,13 @@ Column group: Model hosting and inference. Facts are agent-run. Cells listed as 
 | [Harness](c2-5.md) | Runtime | covered | verified | yes |
 | [Agent Persistent Memory](c2-6.md) | Runtime | not-covered | verified | yes |
 | [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | verified | yes |
-| [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | covered | verified | yes |
+| [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | out-of-scope | verified | yes |
 | [HITL](c5-1.md) | Observability & Explainability | out-of-scope | verified | yes |
 | [Behavioural](c5-2.md) | Observability & Explainability | not-covered | verified | yes |
-| [Cost & Yield](c5-3.md) | Observability & Explainability | covered | verified | yes |
+| [Cost & Yield](c5-3.md) | Observability & Explainability | covered | agent-checked | yes |
 | [Infrastructure](c5-4.md) | Observability & Explainability | covered | verified | yes |
 | [Connectivity](c5-5.md) | Observability & Explainability | out-of-scope | verified | yes |
 | [Administrative Audit](c7-1.md) | Agentic MLSecOps | not-covered | verified | yes |

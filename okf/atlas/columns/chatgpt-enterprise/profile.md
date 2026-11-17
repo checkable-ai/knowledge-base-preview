@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id chatgpt-enterprise"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 OpenAI ChatGPT Business (formerly Team), Enterprise and Edu workspaces, covering chat, projects, memory, GPTs, apps and custom MCP, ChatGPT Work and workspace agents, Codex, the Admin Console and the Compliance Platform.
@@ -27,8 +27,8 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 19 |
-| not-covered | 26 |
+| covered | 18 |
+| not-covered | 27 |
 | partial | 1 |
 
 | Verification state | Cells |
@@ -64,7 +64,7 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | [Harness](c2-5.md) | Runtime | covered | verified | yes |
 | [Agent Persistent Memory](c2-6.md) | Runtime | covered | verified | yes |
 | [Execution Containment & Kill Switch](c2-7.md) | Runtime | covered | verified | yes |
-| [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | covered | verified | yes |
+| [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | covered | verified | yes |
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | not-covered | verified | yes |

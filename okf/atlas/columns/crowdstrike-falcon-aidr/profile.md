@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id crowdstrike-falcon-aidr"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 CrowdStrike Falcon AI Detection and Response (Workforce and Agents subscriptions, GA December 2025) with Falcon Next-Gen SIEM, Falcon Next-Gen Identity Security agent identity features and AI Red Team Services. The AIDR docs state end of support on 30 November 2026 with capabilities continuing in Falcon Guardian, announced 1 September 2026, so both names belong to CrowdStrike and Guardian is the successor. Pangea origin not confirmed in pages read.
@@ -33,7 +33,8 @@ Column group: Security operations (SIEM, XDR). Facts are agent-run. Cells listed
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 4 |
+| verified | 42 |
 
 ## Products
 
@@ -51,10 +52,10 @@ Column group: Security operations (SIEM, XDR). Facts are agent-run. Cells listed
 | --- | --- | --- | --- | --- |
 | [Agent ID](c4-1.md) | Identity | not-covered | verified | yes |
 | [Credential Brokerage](c4-2.md) | Identity | not-covered | verified | yes |
-| [Delegation (OBO)](c4-3.md) | Identity | not-covered | verified | yes |
+| [Delegation (OBO)](c4-3.md) | Identity | not-covered | agent-checked | yes |
 | [A2A](c4-4.md) | Identity | not-covered | verified | yes |
 | [Agent Local Scopes](c1-1.md) | Authorisation | not-covered | verified | yes |
-| [Agent Remote Scopes](c1-2.md) | Authorisation | not-covered | verified | yes |
+| [Agent Remote Scopes](c1-2.md) | Authorisation | not-covered | agent-checked | yes |
 | [Human Approval](c1-3.md) | Authorisation | not-covered | verified | yes |
 | [Agent Provisioning](c1-4.md) | Authorisation | not-covered | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | out-of-scope | verified | yes |
@@ -63,7 +64,7 @@ Column group: Security operations (SIEM, XDR). Facts are agent-run. Cells listed
 | [Agent In-Session Memory](c2-4.md) | Runtime | out-of-scope | verified | yes |
 | [Harness](c2-5.md) | Runtime | out-of-scope | verified | yes |
 | [Agent Persistent Memory](c2-6.md) | Runtime | out-of-scope | verified | yes |
-| [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | verified | yes |
+| [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | agent-checked | yes |
 | [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
@@ -82,7 +83,7 @@ Column group: Security operations (SIEM, XDR). Facts are agent-run. Cells listed
 | [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | out-of-scope | verified | yes |
 | [AI Discovery](c7-9.md) | Agentic MLSecOps | covered | verified | yes |
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | not-covered | verified | yes |
-| [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | verified | yes |
+| [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | agent-checked | yes |
 | [Registration & Approval Workflows](c6-2.md) | Governance | not-covered | verified | yes |
 | [Posture & Reporting](c6-3.md) | Governance | covered | verified | yes |
 | [Policy Management](c6-4.md) | Governance | not-covered | verified | yes |

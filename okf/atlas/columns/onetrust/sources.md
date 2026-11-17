@@ -15,6 +15,10 @@ sources:
     resource: "https://www.onetrust.com/blog/third-party-risk-management/"
     locator: "registry entry"
     tier: null
+  - id: "confirm-6014a7bf2bca"
+    resource: "https://www.onetrust.com/solutions/ai-governance/ai-policy-management/"
+    locator: "registry entry"
+    tier: null
   - id: "onetrust-01"
     resource: "https://www.onetrust.com/solutions/ai-governance/"
     locator: "registry entry"
@@ -65,24 +69,32 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the OneTrust AI Governance cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the OneTrust AI Governance cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-3941f56f89b1
 
 - Title: Quoted by the confirm agents
 - URL: https://www.onetrust.com/blog/third-party-risk-management/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-12](c6-12.md)
+
+### confirm-6014a7bf2bca
+
+- Title: Quoted by the confirm agents
+- URL: https://www.onetrust.com/solutions/ai-governance/ai-policy-management/
+- Source tier: not yet rated
+- Checked: not recorded
+- Cited by: [c6-4](c6-4.md)
 
 ### onetrust-01
 
 - Title: AI Governance Software
 - URL: https://www.onetrust.com/solutions/ai-governance/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c5-2](c5-2.md), [c5-3](c5-3.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-11](c6-11.md), [c6-12](c6-12.md), [c6-2](c6-2.md), [c6-3](c6-3.md), [c6-4](c6-4.md), [c6-6](c6-6.md), [c6-7](c6-7.md), [c6-9](c6-9.md), [c7-3](c7-3.md)
 
@@ -90,7 +102,7 @@ Every source the OneTrust AI Governance cells cite, with its tier from the atlas
 
 - Title: AI Discovery and Registry
 - URL: https://www.onetrust.com/solutions/ai-governance/ai-discovery-and-registry/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-1](c4-1.md), [c6-1](c6-1.md), [c6-2](c6-2.md), [c6-5](c6-5.md), [c6-6](c6-6.md), [c6-8](c6-8.md), [c7-9](c7-9.md)
 
@@ -98,7 +110,7 @@ Every source the OneTrust AI Governance cells cite, with its tier from the atlas
 
 - Title: Runtime Controls
 - URL: https://www.onetrust.com/solutions/ai-governance/runtime-controls/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c4-1](c4-1.md), [c5-1](c5-1.md), [c5-2](c5-2.md)
 
@@ -106,7 +118,7 @@ Every source the OneTrust AI Governance cells cite, with its tier from the atlas
 
 - Title: OneTrust Expands AI Governance to Meet the Demands of Scalable, Real-Time AI
 - URL: https://www.onetrust.com/news/onetrust-expands-ai-governance-to-meet-the-demands-of-scalable-real-time-ai/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c6-4](c6-4.md), [c7-3](c7-3.md), [c7-8](c7-8.md), [c7-9](c7-9.md)
 
@@ -114,7 +126,7 @@ Every source the OneTrust AI Governance cells cite, with its tier from the atlas
 
 - Title: OneTrust Introduces CORIE to Govern AI Agents at Machine Speed
 - URL: https://www.onetrust.com/news/onetrust-introduces-corie-to-govern-ai-agents-at-machine-speed/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-3](c1-3.md), [c3-2](c3-2.md), [c5-1](c5-1.md), [c7-1](c7-1.md)
 
@@ -122,7 +134,7 @@ Every source the OneTrust AI Governance cells cite, with its tier from the atlas
 
 - Title: OneTrust Unveils Platform and Product Innovations to Govern AI at Enterprise Scale
 - URL: https://www.onetrust.com/news/onetrust-unveils-platform-and-product-innovations-to-govern-ai-at-enterprise-scale/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c5-5](c5-5.md), [c6-3](c6-3.md), [c7-1](c7-1.md)
 
@@ -130,7 +142,7 @@ Every source the OneTrust AI Governance cells cite, with its tier from the atlas
 
 - Title: AI Guard (developer documentation)
 - URL: https://developer.onetrust.com/onetrust/docs/ai-guard
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c7-8](c7-8.md)
 
@@ -138,7 +150,7 @@ Every source the OneTrust AI Governance cells cite, with its tier from the atlas
 
 - Title: Third-Party Management
 - URL: https://www.onetrust.com/solutions/third-party-management/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-12](c6-12.md)
 
@@ -146,7 +158,7 @@ Every source the OneTrust AI Governance cells cite, with its tier from the atlas
 
 - Title: EU AI Act Compliance
 - URL: https://www.onetrust.com/solutions/eu-ai-act-compliance/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c6-7](c6-7.md)
 
@@ -154,7 +166,7 @@ Every source the OneTrust AI Governance cells cite, with its tier from the atlas
 
 - Title: OneTrust AI Governance: Runtime controls
 - URL: https://www.onetrust.com/solutions/ai-governance/runtime-controls/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -162,7 +174,7 @@ Every source the OneTrust AI Governance cells cite, with its tier from the atlas
 
 - Title: OneTrust introduces CORIE to govern AI agents at machine speed
 - URL: https://www.onetrust.com/news/onetrust-introduces-corie-to-govern-ai-agents-at-machine-speed/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -170,6 +182,6 @@ Every source the OneTrust AI Governance cells cite, with its tier from the atlas
 
 - Title: OneTrust Trust Center
 - URL: https://www.onetrust.com/trust/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

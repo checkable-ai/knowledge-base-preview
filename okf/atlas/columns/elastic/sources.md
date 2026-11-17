@@ -39,8 +39,12 @@ sources:
     resource: "https://www.elastic.co/docs/explore-analyze/workflows/authoring-techniques/pass-data-handle-errors"
     locator: "registry entry"
     tier: null
-  - id: "confirm-a7392043246b"
-    resource: "https://www.elastic.co/security-labs/threat-command/elastic-advances-llm-security"
+  - id: "confirm-7d3516974173"
+    resource: "https://www.elastic.co/docs/reference/security/prebuilt-rules/rules/integrations/aws_bedrock/aws_bedrock_guardrails_multiple_violations_by_single_user"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-8b61ac4809a3"
+    resource: "https://www.elastic.co/docs/reference/kibana/connectors-kibana/elastic-managed-llm"
     locator: "registry entry"
     tier: null
   - id: "elastic-01"
@@ -181,16 +185,16 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Elastic cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Elastic cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-013d012aad83
 
 - Title: Quoted by the confirm agents
 - URL: https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/chat
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-1](c5-1.md)
 
@@ -198,7 +202,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Quoted by the confirm agents
 - URL: https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/glossary
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-6](c2-6.md)
 
@@ -206,7 +210,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Quoted by the confirm agents
 - URL: https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/collect-traces
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-4](c5-4.md)
 
@@ -214,7 +218,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Quoted by the confirm agents
 - URL: https://www.elastic.co/docs/explore-analyze/ai-features/elastic-agent-builder
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-5](c2-5.md)
 
@@ -222,7 +226,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Quoted by the confirm agents
 - URL: https://www.elastic.co/docs/reference/ingest-processor/htmlstrip-processor
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-8](c7-8.md)
 
@@ -230,7 +234,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Quoted by the confirm agents
 - URL: https://www.elastic.co/docs/reference/integrations/osquery_manager
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-9](c7-9.md)
 
@@ -238,23 +242,31 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Quoted by the confirm agents
 - URL: https://www.elastic.co/docs/explore-analyze/workflows/authoring-techniques/pass-data-handle-errors
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-1](c2-1.md)
 
-### confirm-a7392043246b
+### confirm-7d3516974173
 
 - Title: Quoted by the confirm agents
-- URL: https://www.elastic.co/security-labs/threat-command/elastic-advances-llm-security
-- Tier: not yet assigned
+- URL: https://www.elastic.co/docs/reference/security/prebuilt-rules/rules/integrations/aws_bedrock/aws_bedrock_guardrails_multiple_violations_by_single_user
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-2](c7-2.md)
+
+### confirm-8b61ac4809a3
+
+- Title: Quoted by the confirm agents
+- URL: https://www.elastic.co/docs/reference/kibana/connectors-kibana/elastic-managed-llm
+- Source tier: not yet rated
+- Checked: not recorded
+- Cited by: [c2-2](c2-2.md)
 
 ### elastic-01
 
 - Title: Controlling access at the document and field level
 - URL: https://www.elastic.co/docs/deploy-manage/users-roles/cluster-or-deployment-auth/controlling-access-at-document-field-level
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-3](c3-3.md), [c7-8](c7-8.md)
 
@@ -262,7 +274,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Elastic Agent Builder
 - URL: https://www.elastic.co/docs/solutions/search/elastic-agent-builder
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-5](c2-5.md), [c2-6](c2-6.md)
 
@@ -270,7 +282,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Agent Builder permissions and access control
 - URL: https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/permissions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c2-4](c2-4.md), [c4-3](c4-3.md)
 
@@ -278,7 +290,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Agent Builder A2A server
 - URL: https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/a2a-server
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-4](c4-4.md)
 
@@ -286,7 +298,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Agent Builder MCP tools
 - URL: https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/tools/mcp-tools
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c3-2](c3-2.md)
 
@@ -302,7 +314,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Elastic AI Assistant for Security
 - URL: https://www.elastic.co/docs/solutions/security/ai/ai-assistant
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c2-6](c2-6.md), [c3-3](c3-3.md), [c7-2](c7-2.md)
 
@@ -310,7 +322,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Submitting requests on behalf of other users
 - URL: https://www.elastic.co/docs/deploy-manage/users-roles/cluster-or-deployment-auth/submitting-requests-on-behalf-of-other-users
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md)
 
@@ -318,7 +330,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Elasticsearch API keys
 - URL: https://www.elastic.co/docs/deploy-manage/api-keys/elasticsearch-api-keys
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-1](c4-1.md), [c4-2](c4-2.md)
 
@@ -326,7 +338,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Index lifecycle management
 - URL: https://www.elastic.co/docs/manage-data/lifecycle/index-lifecycle-management
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md), [c7-8](c7-8.md)
 
@@ -334,7 +346,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Inference API
 - URL: https://www.elastic.co/docs/explore-analyze/elastic-inference/inference-api
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-1](c6-1.md)
 
@@ -342,7 +354,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Document level security for search connectors
 - URL: https://www.elastic.co/docs/reference/search-connectors/document-level-security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c7-8](c7-8.md)
 
@@ -350,7 +362,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Agent Builder custom tools
 - URL: https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/tools/custom-tools
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-3](c1-3.md), [c2-5](c2-5.md)
 
@@ -358,7 +370,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Agent Builder models
 - URL: https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/models
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md)
 
@@ -366,7 +378,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Agent Builder custom agents
 - URL: https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/custom-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c3-2](c3-2.md), [c4-1](c4-1.md), [c6-1](c6-1.md), [c6-6](c6-6.md)
 
@@ -374,7 +386,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Configure endpoint protection with Elastic Defend
 - URL: https://www.elastic.co/docs/solutions/security/configure-elastic-defend
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-4](c7-4.md)
 
@@ -382,7 +394,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Attack Discovery
 - URL: https://www.elastic.co/docs/solutions/security/ai/attack-discovery
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-2](c7-2.md)
 
@@ -390,7 +402,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Agent Builder limitations and known issues
 - URL: https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/limitations-known-issues
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c4-4](c4-4.md)
 
@@ -398,7 +410,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Elastic Workflows
 - URL: https://www.elastic.co/docs/explore-analyze/workflows
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md)
 
@@ -406,7 +418,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Agent Builder agents and workflows
 - URL: https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/agents-and-workflows
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md)
 
@@ -414,7 +426,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Elastic Trust Center
 - URL: https://www.elastic.co/trust
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md)
 
@@ -422,7 +434,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: MCP connector and action
 - URL: https://www.elastic.co/docs/reference/kibana/connectors-kibana/mcp-action-type
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -430,7 +442,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Agent Builder MCP server
 - URL: https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/mcp-server
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md)
 
@@ -438,7 +450,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Trust Center
 - URL: https://www.elastic.co/trust
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -446,7 +458,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: IRAP Protected Level assessment for Elastic Cloud achieved
 - URL: https://www.elastic.co/blog/achieving-irap-protected-level-assessment-elastic-cloud
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -454,7 +466,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Elastic Cloud Serverless achieves major compliance certifications
 - URL: https://www.elastic.co/blog/elastic-cloud-serverless-achieves-major-compliance-certifications
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -462,7 +474,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Isolate a host
 - URL: https://www.elastic.co/docs/solutions/security/endpoint-response-actions/isolate-host
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -470,7 +482,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Invalidate API key API
 - URL: https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-security-invalidate-api-key
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -478,7 +490,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: LLM and agentic AI observability
 - URL: https://www.elastic.co/docs/solutions/observability/applications/llm-observability
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c5-1](c5-1.md), [c5-2](c5-2.md), [c5-3](c5-3.md), [c5-4](c5-4.md)
 
@@ -486,7 +498,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Collect Agent Builder traces
 - URL: https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/collect-traces
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c5-1](c5-1.md), [c5-3](c5-3.md), [c7-1](c7-1.md)
 
@@ -494,7 +506,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Troubleshooting your Agents and Amazon Bedrock AgentCore with Elastic Observability
 - URL: https://www.elastic.co/observability-labs/blog/llm-agentic-ai-observability-amazon-bedrock-agentcore
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c5-2](c5-2.md), [c5-4](c5-4.md)
 
@@ -502,7 +514,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Observability and audit trails for Agent Builder in Elastic
 - URL: https://www.elastic.co/observability-labs/blog/ai-agent-observability-audit-trail
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c7-1](c7-1.md)
 
@@ -510,7 +522,7 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Anomaly detection
 - URL: https://www.elastic.co/docs/explore-analyze/machine-learning/anomaly-detection
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c5-2](c5-2.md), [c5-4](c5-4.md)
 
@@ -518,6 +530,6 @@ Every source the Elastic cells cite, with its tier from the atlas source registe
 
 - Title: Security event audit logging
 - URL: https://www.elastic.co/docs/deploy-manage/security/logging-configuration/security-event-audit-logging
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c7-1](c7-1.md)

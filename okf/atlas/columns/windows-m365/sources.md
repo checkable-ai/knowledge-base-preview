@@ -15,6 +15,10 @@ sources:
     resource: "https://learn.microsoft.com/en-us/entra/agent-id/identity-platform/agent-owners-sponsors-managers"
     locator: "registry entry"
     tier: 1
+  - id: "confirm-19e3b4c7c4a0"
+    resource: "https://learn.microsoft.com/en-us/copilot/manage/copilot-personalization-memory"
+    locator: "registry entry"
+    tier: null
   - id: "confirm-1b8a95751e65"
     resource: "https://learn.microsoft.com/en-us/microsoft-copilot-studio/flows-overview"
     locator: "registry entry"
@@ -25,6 +29,10 @@ sources:
     tier: null
   - id: "confirm-5655e396bceb"
     resource: "https://learn.microsoft.com/en-us/windows-365/enterprise/report-resource-performance"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-6442fe587b86"
+    resource: "https://learn.microsoft.com/en-us/purview/deploymentmodels/depmod-sc-agents-step2"
     locator: "registry entry"
     tier: null
   - id: "confirm-7231801d1d33"
@@ -201,24 +209,32 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Microsoft 365 Copilot cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### az-owner
 
 - Title: Entra agent owners and sponsors
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/identity-platform/agent-owners-sponsors-managers
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c6-6](c6-6.md)
+
+### confirm-19e3b4c7c4a0
+
+- Title: Quoted by the confirm agents
+- URL: https://learn.microsoft.com/en-us/copilot/manage/copilot-personalization-memory
+- Source tier: not yet rated
+- Checked: not recorded
+- Cited by: [c6-10](c6-10.md)
 
 ### confirm-1b8a95751e65
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/flows-overview
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-1](c5-1.md)
 
@@ -226,7 +242,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/microsoft-agent-365/admin/agent-details
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-5](c5-5.md)
 
@@ -234,15 +250,23 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/windows-365/enterprise/report-resource-performance
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-4](c5-4.md)
+
+### confirm-6442fe587b86
+
+- Title: Quoted by the confirm agents
+- URL: https://learn.microsoft.com/en-us/purview/deploymentmodels/depmod-sc-agents-step2
+- Source tier: not yet rated
+- Checked: not recorded
+- Cited by: [c7-8](c7-8.md)
 
 ### confirm-7231801d1d33
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/security-and-governance
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c4-3](c4-3.md)
 
@@ -250,7 +274,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/entra/id-protection/concept-risky-agents
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-2](c5-2.md)
 
@@ -258,7 +282,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/windows-365/agents/security-overview
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-7](c2-7.md)
 
@@ -266,7 +290,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/govern-agents-identities-overview
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-2](c1-2.md)
 
@@ -274,7 +298,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/purview/compliance-manager-improvement-actions
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-11](c6-11.md)
 
@@ -282,7 +306,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/harnesses-overview
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-1](c2-1.md), [c2-5](c2-5.md)
 
@@ -290,7 +314,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/authoring-select-agent-model
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-2](c2-2.md)
 
@@ -298,7 +322,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/copilot/plan/architecture-data-protection-auditing
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-3](c3-3.md)
 
@@ -306,7 +330,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/microsoft-agent-365/admin/agent-actions
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-4](c1-4.md), [c6-2](c6-2.md)
 
@@ -314,7 +338,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/purview/compliance-manager-assessments
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-3](c6-3.md)
 
@@ -322,7 +346,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Copilot Studio A2A
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/add-agent-agent-to-agent
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c3-4](c3-4.md), [c4-4](c4-4.md)
 
@@ -330,7 +354,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Copilot Studio Monitor
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/analytics-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c2-4](c2-4.md), [c5-3](c5-3.md), [c5-4](c5-4.md)
 
@@ -338,7 +362,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: M365 Copilot data protection architecture
 - URL: https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-architecture-data-protection-auditing
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c3-3](c3-3.md), [c7-8](c7-8.md)
 
@@ -346,7 +370,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Purview Copilot audit
 - URL: https://learn.microsoft.com/en-us/purview/audit-copilot
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c3-1](c3-1.md), [c6-11](c6-11.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -354,7 +378,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Copilot Studio new features
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/whats-new/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-07
 - Cited by: [c2-1](c2-1.md), [c2-5](c2-5.md)
 
@@ -362,7 +386,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Windows 365 for Agents security
 - URL: https://learn.microsoft.com/en-us/windows-365/agents/security-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-1](c1-1.md), [c2-3](c2-3.md), [c5-4](c5-4.md), [c7-4](c7-4.md)
 
@@ -370,7 +394,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Copilot Studio consumption
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/analytics-consumption
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c5-3](c5-3.md)
 
@@ -378,7 +402,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Copilot Studio maker credential restriction
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/configure-no-maker-authentication
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-2](c1-2.md)
 
@@ -386,7 +410,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Purview shadow AI discovery
 - URL: https://learn.microsoft.com/en-us/purview/deploymentmodels/depmod-data-leak-shadow-ai-step1
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c6-3](c6-3.md), [c7-2](c7-2.md), [c7-9](c7-9.md)
 
@@ -394,7 +418,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Copilot Studio agent evaluation
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/analytics-agent-evaluation-intro
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c5-1](c5-1.md), [c5-2](c5-2.md), [c7-10](c7-10.md), [c7-3](c7-3.md), [c7-5](c7-5.md)
 
@@ -402,7 +426,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Copilot Studio security and governance
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/security-and-governance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-4](c1-4.md), [c3-2](c3-2.md), [c3-3](c3-3.md), [c3-4](c3-4.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-12](c6-12.md), [c6-3](c6-3.md), [c6-4](c6-4.md), [c6-9](c6-9.md), [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -410,7 +434,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Copilot Studio agent identities
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/govern-agents-identities-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c3-2](c3-2.md), [c4-1](c4-1.md), [c4-2](c4-2.md), [c6-1](c6-1.md), [c6-6](c6-6.md)
 
@@ -418,7 +442,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Copilot Studio Memory preview
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/agents-experience/memory-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c2-6](c2-6.md), [c7-8](c7-8.md)
 
@@ -426,7 +450,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: M365 Copilot privacy and security
 - URL: https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-privacy
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c3-1](c3-1.md), [c6-12](c6-12.md), [c7-3](c7-3.md), [c7-6](c7-6.md)
 
@@ -434,7 +458,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Copilot Studio project security
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/sec-gov-phase3
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-4](c1-4.md), [c6-2](c6-2.md), [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -442,7 +466,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Purview AI retention
 - URL: https://learn.microsoft.com/en-us/purview/retention-policies-copilot
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c6-11](c6-11.md)
 
@@ -450,7 +474,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Copilot Studio computer-use supervision
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/human-supervision-computer-use
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-3](c1-3.md), [c5-1](c5-1.md)
 
@@ -458,7 +482,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Copilot Studio tool user authentication
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/configure-enduser-authentication
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-2](c1-2.md), [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -466,7 +490,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Windows agentic security
 - URL: https://learn.microsoft.com/en-us/windows/security/book/operating-system-agentic-security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c1-1](c1-1.md), [c2-3](c2-3.md), [c4-1](c4-1.md), [c7-4](c7-4.md)
 
@@ -474,7 +498,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Copilot Studio zoned governance
 - URL: https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/sec-gov-phase2
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c2-1](c2-1.md), [c6-2](c6-2.md), [c6-5](c6-5.md), [c6-7](c6-7.md)
 
@@ -482,7 +506,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Governance and lifecycle actions for agents in Microsoft 365 admin center
 - URL: https://learn.microsoft.com/en-us/microsoft-365/admin/manage/agent-actions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -490,7 +514,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Disable agent identities in your tenant
 - URL: https://learn.microsoft.com/en-us/entra/agent-id/disable-agent-identities
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -498,7 +522,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Data policies for Power Platform and Copilot Studio
 - URL: https://learn.microsoft.com/en-us/power-platform/admin/wp-data-loss-prevention
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -506,7 +530,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Microsoft Copilot guidance for sensitive and regulated customers
 - URL: https://learn.microsoft.com/en-us/compliance/anz/blueprint-copilot-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -514,7 +538,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Australian Government IRAP, Microsoft Compliance
 - URL: https://learn.microsoft.com/en-us/compliance/regulatory/offering-ccsl-irap-australia
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -522,7 +546,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: ISO/IEC 42001:2023, Microsoft Compliance
 - URL: https://learn.microsoft.com/en-us/compliance/regulatory/offering-iso-42001
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -530,7 +554,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: SOC 2 Type 2, Microsoft Compliance
 - URL: https://learn.microsoft.com/en-us/compliance/regulatory/offering-soc-2
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -538,7 +562,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Microsoft offers in-country data processing to 15 countries for Microsoft 365 Copilot
 - URL: https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/04/microsoft-offers-in-country-data-processing-to-15-countries-to-strengthen-sovereign-controls-for-microsoft-365-copilot/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md)
 
@@ -546,7 +570,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Data Residency for Microsoft 365 Copilot
 - URL: https://learn.microsoft.com/en-us/microsoft-365/enterprise/m365-dr-workload-copilot
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-10](c6-10.md)
 
@@ -554,7 +578,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Microsoft 365 data residency commitments
 - URL: https://learn.microsoft.com/en-us/microsoft-365/enterprise/m365-dr-commitments
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-10](c6-10.md)
 
@@ -562,7 +586,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Microsoft 365 data locations
 - URL: https://learn.microsoft.com/en-us/microsoft-365/enterprise/o365-data-locations
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-10](c6-10.md)
 
@@ -570,7 +594,7 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Learn about retention for Copilot and AI apps
 - URL: https://learn.microsoft.com/en-us/purview/retention-policies-copilot
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-10](c6-10.md)
 
@@ -578,6 +602,6 @@ Every source the Microsoft 365 Copilot cells cite, with its tier from the atlas 
 
 - Title: Data, privacy and security for Microsoft 365 Copilot
 - URL: https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-privacy
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-2](c2-2.md)

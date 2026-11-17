@@ -293,16 +293,16 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the ServiceNow cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the ServiceNow cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-02bba864fa43
 
 - Title: Quoted by the confirm agents
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/aict-discovering-ai-assets.html
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-5](c6-5.md)
 
@@ -310,7 +310,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Build Agent governance controls (Brazil)
 - URL: https://www.servicenow.com/docs/r/application-development/build-agent-governance.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c1-3](c1-3.md), [c4-1](c4-1.md), [c5-5](c5-5.md), [c6-7](c6-7.md), [c6-8](c6-8.md), [c7-4](c7-4.md)
 
@@ -318,7 +318,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: AI Control Tower: Explore approvals (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/ai-control-tower/explore-approvals.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c6-12](c6-12.md), [c6-2](c6-2.md), [c7-3](c7-3.md), [c7-6](c7-6.md)
 
@@ -326,7 +326,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Define security controls for AI agents (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/define-sec-controls-aia.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c4-3](c4-3.md)
 
@@ -334,7 +334,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Define security controls for AI agents (Zurich)
 - URL: https://www.servicenow.com/docs/r/zurich/intelligent-experiences/define-sec-controls-aia.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md)
 
@@ -342,7 +342,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Role masking in AI agents (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/aia-role-masking.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c4-3](c4-3.md)
 
@@ -350,7 +350,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Implement access control in AI Agent Studio (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/implement-aias-security-new.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c1-4](c1-4.md), [c4-3](c4-3.md), [c4-4](c4-4.md)
 
@@ -358,7 +358,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Create an AI ACL (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/create-ai-acl.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-5](c7-5.md)
 
@@ -366,7 +366,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Credential and dynamic parameter management (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/credential-storage.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -374,7 +374,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Agent2Agent Protocol (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/a2a-protocol.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-4](c4-4.md)
 
@@ -382,7 +382,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Set up A2A authentication (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/set-up-google-a2a.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md), [c4-4](c4-4.md)
 
@@ -390,7 +390,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: ServiceNow AI agents as secondary agents (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/a2a-secondary-agent.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-4](c4-4.md), [c7-1](c7-1.md)
 
@@ -398,7 +398,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: A2A API Key credential behavior (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/a2a-api-key-credential-behavior-new.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -406,7 +406,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Define security controls for MCP Servers (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/define-sec-mcp.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md)
 
@@ -414,7 +414,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: MCP Server with OAuth 2.1 (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/add-mcp-server-aoauth-2.1.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -422,7 +422,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Explore MCP Server Console (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/exploring-mcp-server-console.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md)
 
@@ -430,7 +430,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: MCP server approval playbook workflow (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/aict-mcp-server-approval-playbook-workflow.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-6](c7-6.md)
 
@@ -438,7 +438,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: View tools on the MCP server (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/view-tools-mcp-server.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md)
 
@@ -446,7 +446,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: AI Gateway (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/ai-gateway.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c3-3](c3-3.md), [c7-5](c7-5.md)
 
@@ -454,7 +454,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Managing your AI Gateway (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/managing-your-ai-gateway.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -462,7 +462,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Client registration and AI Gateway setup (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/client-registration.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md)
 
@@ -470,7 +470,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: AI Guardian (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/now-assist-guardian.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-3](c3-3.md), [c7-2](c7-2.md)
 
@@ -478,7 +478,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Export AI Guardian logs (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/export-now-assist-guardian-logs.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -486,7 +486,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Create a custom guardian (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/create-custom-guardian.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -494,7 +494,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Manage model version (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/manage-version.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-8](c6-8.md), [c7-3](c7-3.md)
 
@@ -502,7 +502,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Configure rate limiting for providers (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/generative-ai-controller/configure-rate-limit.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md)
 
@@ -510,7 +510,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Select the model provider for AI agents (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/select-aia-llm-new.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md)
 
@@ -518,7 +518,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Set up long-term memory (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/long-term-memory-aia-new.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-6](c2-6.md), [c6-10](c6-10.md)
 
@@ -526,7 +526,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Long-term memory categories for AI agents (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/aia-ltm-categories-new.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-6](c2-6.md)
 
@@ -534,7 +534,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Add tools and information (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/add-tool-aia-new.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c2-5](c2-5.md), [c5-1](c5-1.md)
 
@@ -542,7 +542,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Version control for AI agents (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/version-control.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-8](c6-8.md), [c7-1](c7-1.md)
 
@@ -550,7 +550,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Script tool (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/add-script-new.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-3](c2-3.md)
 
@@ -558,7 +558,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: View activity (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/view-aiw-activity-new.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md), [c7-1](c7-1.md)
 
@@ -566,7 +566,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Discover and manage AI assets (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/aict-discovering-ai-assets.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c7-8](c7-8.md), [c7-9](c7-9.md)
 
@@ -574,7 +574,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Govern AI assets (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/aict-governing-ai-assets.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c6-2](c6-2.md), [c6-3](c6-3.md), [c6-4](c6-4.md), [c6-6](c6-6.md), [c6-7](c6-7.md), [c6-9](c6-9.md)
 
@@ -582,7 +582,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Monitor AI assets (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/aict-monitoring-ai-systems.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md)
 
@@ -590,7 +590,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Measure AI systems (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/aict-measuring-ai-impact.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md)
 
@@ -598,7 +598,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Managed and unmanaged AI assets (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/disc-ai-managed-unmanaged.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-5](c6-5.md), [c6-7](c6-7.md), [c7-9](c7-9.md)
 
@@ -606,7 +606,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Address action items (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/aict-addressing-ai-action-items.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-9](c6-9.md)
 
@@ -614,7 +614,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Explore AI Control Tower (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/aict-exploring.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c6-12](c6-12.md), [c6-5](c6-5.md), [c6-6](c6-6.md), [c7-3](c7-3.md), [c7-9](c7-9.md)
 
@@ -622,7 +622,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Action approval flow in ServiceNow Cowork (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/action-approval-flow-cowork.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md)
 
@@ -630,7 +630,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Cowork environment and capability controls (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/environment-capability-controls.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c1-2](c1-2.md), [c2-3](c2-3.md), [c3-2](c3-2.md), [c7-4](c7-4.md)
 
@@ -638,7 +638,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Policy management and governance in ServiceNow Cowork (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/policy-management-cowork.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-5](c2-5.md), [c6-4](c6-4.md)
 
@@ -646,7 +646,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Set up TOTP authorization for sensitive actions (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/setup-totp-security.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md)
 
@@ -654,7 +654,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Set agent limits and safeguards (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/set-agent-limits-safeguards.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c5-1](c5-1.md)
 
@@ -662,7 +662,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Turn off local MCP servers (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/turn-off-local-mcp-servers.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c7-6](c7-6.md)
 
@@ -670,7 +670,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Trace evaluation for Cowork in AI Control Tower (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/cowork-trace-evaluation.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c7-1](c7-1.md)
 
@@ -678,7 +678,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: AI Control Tower data controls (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/data-controls.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md)
 
@@ -686,7 +686,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Configure Now Assist privacy policies (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/configure-privacy-policies.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c6-10](c6-10.md)
 
@@ -694,7 +694,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: AI Agent Analytics dashboard (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/ai-agent-dashboard.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-5](c2-5.md), [c5-3](c5-3.md), [c5-4](c5-4.md)
 
@@ -702,7 +702,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Usage, failure and latency notifications (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/config-aia-notifications-new.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-4](c5-4.md)
 
@@ -710,7 +710,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Evaluate an agentic AI asset (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/launch-aia-eval.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md)
 
@@ -718,7 +718,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Security and Privacy tab in AI Control Tower (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/ai-control-tower/security-privacy-tab.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c5-5](c5-5.md), [c6-3](c6-3.md), [c6-6](c6-6.md), [c7-2](c7-2.md)
 
@@ -726,7 +726,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Deactivate an agentic AI asset (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/deactivate-ai-asset-new.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md)
 
@@ -734,7 +734,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Publish AI agents (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/publish-ai-agents.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-2](c6-2.md)
 
@@ -742,7 +742,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Configure ServiceNow AI settings (Zurich)
 - URL: https://www.servicenow.com/docs/r/zurich/intelligent-experiences/aict-configure-servicenow-ai-settings.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md), [c6-12](c6-12.md)
 
@@ -750,7 +750,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Domain separation and AI Control Tower (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/aict-domain-separation.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-3](c6-3.md), [c7-2](c7-2.md)
 
@@ -758,7 +758,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Create AI asset change requests (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/ai-control-tower/create-ai-asset-change-request.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-8](c6-8.md), [c7-8](c7-8.md)
 
@@ -766,7 +766,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Working with MCP server records (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/working-with-mcp-server-records.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c6-5](c6-5.md)
 
@@ -774,7 +774,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Web search tool (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/add-web-search-new.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md)
 
@@ -782,7 +782,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: AI agents and agentic workflows (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/platai-ai-agents-agentic-workflows.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md)
 
@@ -790,7 +790,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: AI Inventory Intelligence Agent (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/inventory-intelligence-agent.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md)
 
@@ -798,7 +798,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Plan your AI strategy (Brazil)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/aict-planning-ai-strategy.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-5](c6-5.md)
 
@@ -806,7 +806,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Environment and capability controls (Cowork)
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/environment-capability-controls.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -814,7 +814,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Set agent limits and safeguards
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/set-agent-limits-safeguards.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -822,7 +822,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Deactivate an AI specialist in AI Agent Studio
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/deactivate-aiw-new-d36240e62107.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -830,7 +830,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Turn off local MCP servers
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/turn-off-local-mcp-servers.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -838,7 +838,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: Build Agent governance
 - URL: https://www.servicenow.com/docs/r/application-development/build-agent-governance.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -846,7 +846,7 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: AI Control Tower
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/aict-landing.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -854,6 +854,6 @@ Every source the ServiceNow cells cite, with its tier from the atlas source regi
 
 - Title: AI Admin Hub (Australia release)
 - URL: https://www.servicenow.com/docs/r/australia/intelligent-experiences/platform-now-assist-landing.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

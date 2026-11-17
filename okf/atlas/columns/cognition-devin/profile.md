@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id cognition-devin"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Cognition's autonomous cloud coding agent Devin (Teams, Enterprise, dedicated and federal deployments) plus Devin Desktop, the renamed Windsurf IDE, with its Cascade and Devin Local agents and the Devin CLI.
@@ -33,7 +33,8 @@ Column group: Coding agents. Facts are agent-run. Cells listed as eligible are t
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 3 |
+| verified | 43 |
 
 ## Products
 
@@ -57,9 +58,9 @@ Column group: Coding agents. Facts are agent-run. Cells listed as eligible are t
 | [Human Approval](c1-3.md) | Authorisation | covered | verified | yes |
 | [Agent Provisioning](c1-4.md) | Authorisation | not-covered | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | covered | verified | yes |
-| [Inference](c2-2.md) | Runtime | not-covered | verified | yes |
+| [Inference](c2-2.md) | Runtime | not-covered | agent-checked | yes |
 | [Execution Environment](c2-3.md) | Runtime | covered | verified | yes |
-| [Agent In-Session Memory](c2-4.md) | Runtime | not-covered | verified | yes |
+| [Agent In-Session Memory](c2-4.md) | Runtime | not-covered | agent-checked | yes |
 | [Harness](c2-5.md) | Runtime | covered | verified | yes |
 | [Agent Persistent Memory](c2-6.md) | Runtime | covered | verified | yes |
 | [Execution Containment & Kill Switch](c2-7.md) | Runtime | covered | verified | yes |
@@ -90,7 +91,7 @@ Column group: Coding agents. Facts are agent-run. Cells listed as eligible are t
 | [Risk Assessment & Classification](c6-7.md) | Governance | not-covered | verified | yes |
 | [Change & Release Governance](c6-8.md) | Governance | not-covered | verified | yes |
 | [Exceptions & Risk Acceptance](c6-9.md) | Governance | not-covered | verified | yes |
-| [Data Lifecycle Governance](c6-10.md) | Governance | not-covered | verified | yes |
+| [Data Lifecycle Governance](c6-10.md) | Governance | not-covered | agent-checked | yes |
 | [Assurance & Compliance Evidence](c6-11.md) | Governance | not-covered | verified | yes |
 | [Third-Party Governance](c6-12.md) | Governance | not-covered | verified | yes |
 | [Independent Assurance & Authorisation](c6-13.md) | Governance | covered | verified | yes |

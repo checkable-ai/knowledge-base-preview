@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id microsoft-defender-ai"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Microsoft Defender's security for AI capabilities, covering Defender for Cloud AI threat protection, AI security posture and AI model scanning, Defender XDR security for AI agents, Defender for Endpoint local AI agent discovery and runtime protection, Defender for Cloud Apps generative AI app governance and the Security Dashboard for AI. Purview DSPM and DLP, Entra Agent ID, Agent 365 and Sentinel are researched as separate subjects and appear here only where Defender depends on them.

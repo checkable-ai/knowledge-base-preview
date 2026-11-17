@@ -177,16 +177,16 @@ sources:
     tier: 2
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Oracle Cloud cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Oracle Cloud cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### oracle-02
 
 - Title: Enterprise AI Governance for OCI Generative AI
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai/governance.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md)
 
@@ -194,7 +194,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Enterprise AI Agents in OCI Generative AI
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai/agents.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-5](c2-5.md), [c4-1](c4-1.md), [c4-3](c4-3.md), [c6-5](c6-5.md)
 
@@ -202,7 +202,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Getting Access to Generative AI (IAM policies)
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai/iam-policies.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c7-8](c7-8.md)
 
@@ -210,7 +210,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Hosted Applications
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai/applications.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-3](c2-3.md), [c3-2](c3-2.md), [c4-4](c4-4.md), [c5-4](c5-4.md), [c7-4](c7-4.md), [c7-8](c7-8.md)
 
@@ -218,7 +218,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Projects
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai/projects.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c2-6](c2-6.md), [c6-10](c6-10.md), [c7-8](c7-8.md)
 
@@ -226,7 +226,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Guardrails for OCI Generative AI
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai/guardrails.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-2](c3-2.md), [c3-3](c3-3.md), [c5-2](c5-2.md), [c6-5](c6-5.md), [c6-8](c6-8.md), [c7-2](c7-2.md)
 
@@ -234,7 +234,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Limiting Model Inference Access with IAM Policies
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai/limit-model-access.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c6-12](c6-12.md), [c6-2](c6-2.md)
 
@@ -242,7 +242,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Responses API Tools
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai/tool-support.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c2-5](c2-5.md)
 
@@ -250,7 +250,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: OCI Responses API QuickStart
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai/get-started-agents.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c1-2](c1-2.md), [c1-3](c1-3.md), [c2-3](c2-3.md), [c3-2](c3-2.md), [c3-3](c3-3.md), [c4-2](c4-2.md), [c4-3](c4-3.md), [c7-4](c7-4.md)
 
@@ -258,7 +258,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Managing Routing Profiles
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai/routing-profile.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c6-10](c6-10.md)
 
@@ -266,7 +266,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Overview of Generative AI Agents Service
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai-agents/overview.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c4-4](c4-4.md), [c5-1](c5-1.md)
 
@@ -274,7 +274,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: API Endpoint Calling Tool Guidelines for Generative AI Agents
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai-agents/api-calling-tool-guidelines.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-3](c1-3.md), [c3-2](c3-2.md), [c4-2](c4-2.md)
 
@@ -282,7 +282,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Creating an Endpoint in Generative AI Agents
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai-agents/create-endpoint.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c3-3](c3-3.md), [c5-1](c5-1.md), [c7-1](c7-1.md)
 
@@ -290,7 +290,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: About Model Retirement
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai/about-retirement.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-5](c6-5.md)
 
@@ -298,7 +298,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Data Handling in Generative AI
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai/data-handling.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c5-2](c5-2.md), [c6-10](c6-10.md), [c6-12](c6-12.md), [c7-1](c7-1.md)
 
@@ -306,7 +306,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Metric Details in Generative AI
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai/metric-details.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md), [c5-4](c5-4.md)
 
@@ -314,7 +314,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Overview of Audit
 - URL: https://docs.oracle.com/en-us/iaas/Content/Audit/Concepts/auditoverview.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c6-8](c6-8.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -322,7 +322,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Audit Log Retention Period
 - URL: https://docs.oracle.com/en-us/iaas/Content/Audit/Tasks/settingretentionperiod.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c7-1](c7-1.md)
 
@@ -330,7 +330,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Cloud Guard
 - URL: https://docs.oracle.com/en-us/iaas/cloud-guard/using/index.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-3](c6-3.md), [c7-2](c7-2.md), [c7-4](c7-4.md)
 
@@ -338,7 +338,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Getting Access to Generative AI Agents
 - URL: https://docs.oracle.com/iaas/Content/generative-ai-agents/iam-policies.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-4](c1-4.md), [c2-4](c2-4.md), [c4-1](c4-1.md), [c6-1](c6-1.md)
 
@@ -346,7 +346,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Secret Rules (Secret Management Service)
 - URL: https://docs.oracle.com/en-us/iaas/Content/secret-management/Concepts/secret-rules.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -354,7 +354,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Cost Analysis Overview
 - URL: https://docs.oracle.com/en-us/iaas/Content/Billing/Concepts/costanalysisoverview.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md)
 
@@ -362,7 +362,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Setting up Authentication for Agentic Support
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai/app-authentication.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md)
 
@@ -370,7 +370,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Oracle Data Safe Overview
 - URL: https://docs.oracle.com/en-us/iaas/data-safe/doc/oracle-data-safe-overview.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c7-8](c7-8.md)
 
@@ -378,7 +378,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Compliance Documents Overview
 - URL: https://docs.oracle.com/en-us/iaas/Content/ComplianceDocuments/Concepts/compliancedocsoverview.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md)
 
@@ -386,7 +386,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: OCI Generative AI API Keys
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai/api-keys.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -394,7 +394,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Tagging Overview
 - URL: https://docs.oracle.com/en-us/iaas/Content/Tagging/Concepts/taggingoverview.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c6-6](c6-6.md)
 
@@ -402,7 +402,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Imported Models in Generative AI
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai/imported-models.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-12](c6-12.md)
 
@@ -410,7 +410,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: API-Level Permissions for Deployments
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai/deployment-permissions.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c6-8](c6-8.md)
 
@@ -418,7 +418,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: New Tools and Features in OCI Generative AI Agents (July 2025)
 - URL: https://docs.oracle.com/iaas/releasenotes/generative-ai-agents/features-2025-july.htm
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c4-4](c4-4.md)
 
@@ -426,7 +426,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Code Interpreter
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai/code-interpreter.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -434,7 +434,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Hosted Applications
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai/applications.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -442,7 +442,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Listing applications
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai/list-applications.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -450,7 +450,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Oracle Cloud for Australian Government and Defence
 - URL: https://www.oracle.com/au/government/govcloud/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -458,7 +458,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Oracle Strengthens Australia's Digital Economy with a New Government Cloud
 - URL: https://www.oracle.com/au/news/announcement/oracle-strengthens-australias-digital-economy-with-a-new-government-cloud-2023-08-07/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -466,7 +466,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Certified Service Providers
 - URL: https://www.hostingcertification.gov.au/certified-service-providers
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -474,7 +474,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Oracle Cloud Compliance
 - URL: https://www.oracle.com/au/corporate/cloud-compliance/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -482,7 +482,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Compliance Documents overview
 - URL: https://docs.oracle.com/en-us/iaas/Content/ComplianceDocuments/Concepts/compliancedocsoverview.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -490,7 +490,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Generative AI models by region
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai/model-endpoint-regions.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -498,7 +498,7 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Generative AI Agents overview
 - URL: https://docs.oracle.com/en-us/iaas/Content/generative-ai-agents/overview.htm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -506,6 +506,6 @@ Every source the Oracle Cloud cells cite, with its tier from the atlas source re
 
 - Title: Australia IRAP and Essential Eight for Oracle Cloud Applications
 - URL: https://www.oracle.com/au/corporate/irap-and-essential-eight-for-oracle-cloud-applications/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

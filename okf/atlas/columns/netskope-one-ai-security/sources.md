@@ -117,16 +117,16 @@ sources:
     tier: 2
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Netskope One AI Security cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Netskope One AI Security cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-f14c030f5a99
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.netskope.com/en/rate-limit
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-2](c2-2.md)
 
@@ -134,7 +134,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: AI Red Teaming
 - URL: https://docs.netskope.com/en/ai-red-teaming
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c6-3](c6-3.md), [c7-10](c7-10.md)
 
@@ -142,7 +142,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: Agentic Broker
 - URL: https://docs.netskope.com/en/agentic-broker
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c3-3](c3-3.md)
 
@@ -150,7 +150,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: App Catalog and Risk Assessment
 - URL: https://docs.netskope.com/en/app-catalog-and-risk-assessment
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-12](c6-12.md), [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -158,7 +158,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: Visibility into MCP Usage
 - URL: https://docs.netskope.com/en/visibility-into-mcp-usage
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md)
 
@@ -166,7 +166,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: Granular Control and Data Loss Prevention (DLP)
 - URL: https://docs.netskope.com/en/granular-control-and-data-loss-prevention-dlp
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c3-3](c3-3.md)
 
@@ -174,7 +174,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: Broad Access Control to Block all MCP Traffic with RTP
 - URL: https://docs.netskope.com/en/broad-access-control-to-block-all-mcp-traffic-with-rtp
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md)
 
@@ -182,7 +182,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: Agentic Broker Dashboard for Securing MCP
 - URL: https://docs.netskope.com/en/agentic-broker-dashboard-for-securing-mcp/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md), [c6-3](c6-3.md), [c7-1](c7-1.md), [c7-2](c7-2.md), [c7-9](c7-9.md)
 
@@ -190,7 +190,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: AI Gateway
 - URL: https://docs.netskope.com/en/ai-gateway
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -198,7 +198,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: AI Gateway Overview
 - URL: https://docs.netskope.com/en/ai-gateway-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -206,7 +206,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: MCP Gateway Overview
 - URL: https://docs.netskope.com/en/mcp-gateway-overview/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md), [c3-3](c3-3.md), [c4-2](c4-2.md), [c7-5](c7-5.md)
 
@@ -214,7 +214,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: Authentication Token and Group
 - URL: https://docs.netskope.com/en/authentication-token-and-group/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -222,7 +222,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: Rate Limit
 - URL: https://docs.netskope.com/en/rate-limit/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c5-3](c5-3.md)
 
@@ -230,7 +230,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: AI Gateway Policies
 - URL: https://docs.netskope.com/en/ai-gateway-policies/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -238,7 +238,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: AI Guardrails
 - URL: https://docs.netskope.com/en/ai-guardrails
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c7-2](c7-2.md)
 
@@ -246,7 +246,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: AI Security Guardrails Profile
 - URL: https://docs.netskope.com/en/ai-security-guardrails-profile
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -254,7 +254,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: AI Guardrails On Demand API
 - URL: https://docs.netskope.com/en/ai-guardrails-on-demand
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md)
 
@@ -262,7 +262,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: AI Security
 - URL: https://docs.netskope.com/en/ai-security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-12](c6-12.md), [c6-3](c6-3.md), [c7-6](c7-6.md), [c7-9](c7-9.md)
 
@@ -270,7 +270,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: Agent Action Control
 - URL: https://docs.netskope.com/en/agent-action-control
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c7-9](c7-9.md)
 
@@ -278,7 +278,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: Target Registry (Creating a Target)
 - URL: https://docs.netskope.com/en/creating-a-target
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c7-10](c7-10.md)
 
@@ -286,7 +286,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: Model Drifting
 - URL: https://docs.netskope.com/en/model-drifting
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md)
 
@@ -294,7 +294,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: Choosing Data Sets (Log Streaming)
 - URL: https://docs.netskope.com/en/choosing-data-sets
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-2](c7-2.md)
 
@@ -302,7 +302,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: Agent Action Control
 - URL: https://docs.netskope.com/en/agent-action-control
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -310,7 +310,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: Broad access control to block all MCP traffic with RTP
 - URL: https://docs.netskope.com/en/broad-access-control-to-block-all-mcp-traffic-with-rtp
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -318,7 +318,7 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: Security, Compliance and Assurance
 - URL: https://www.netskope.com/company/security-compliance-and-assurance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -326,6 +326,6 @@ Every source the Netskope One AI Security cells cite, with its tier from the atl
 
 - Title: Netskope Successfully Completes IRAP Assessment
 - URL: https://www.netskope.com/press-releases/netskope-successfully-completes-irap-assessment
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

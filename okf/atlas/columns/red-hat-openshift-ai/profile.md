@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id red-hat-openshift-ai"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Red Hat's self-managed platform for building, serving and running models and agents on OpenShift, covering OpenShift AI 3.5 (with 3.4 release notes), Red Hat AI Inference, OGX (formerly Llama Stack) and the Connectivity Link MCP gateway.

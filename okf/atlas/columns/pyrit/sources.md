@@ -61,16 +61,16 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Microsoft PyRIT cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Microsoft PyRIT cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### pyrit-02
 
 - Title: PyRIT documentation 1.1.0 home
 - URL: https://microsoft.github.io/PyRIT/1.1.0/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-10](c7-10.md)
 
@@ -78,7 +78,7 @@ Every source the Microsoft PyRIT cells cite, with its tier from the atlas source
 
 - Title: PyRIT Framework architecture
 - URL: https://microsoft.github.io/PyRIT/1.1.0/code/framework
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-10](c7-10.md)
 
@@ -86,7 +86,7 @@ Every source the Microsoft PyRIT cells cite, with its tier from the atlas source
 
 - Title: PyRIT Scanner
 - URL: https://microsoft.github.io/PyRIT/1.1.0/scanner/scanner
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-10](c7-10.md)
 
@@ -94,7 +94,7 @@ Every source the Microsoft PyRIT cells cite, with its tier from the atlas source
 
 - Title: PyRIT Memory
 - URL: https://microsoft.github.io/PyRIT/1.1.0/code/memory/memory
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md)
 
@@ -102,7 +102,7 @@ Every source the Microsoft PyRIT cells cite, with its tier from the atlas source
 
 - Title: CoPyRIT GUI
 - URL: https://microsoft.github.io/PyRIT/1.1.0/gui/gui
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md), [c6-11](c6-11.md)
 
@@ -110,7 +110,7 @@ Every source the Microsoft PyRIT cells cite, with its tier from the atlas source
 
 - Title: PyRIT Scenarios
 - URL: https://microsoft.github.io/PyRIT/1.1.0/code/scenarios/scenarios
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c6-3](c6-3.md)
 
@@ -118,7 +118,7 @@ Every source the Microsoft PyRIT cells cite, with its tier from the atlas source
 
 - Title: AI Red Teaming Agent (Microsoft Foundry concepts)
 - URL: https://learn.microsoft.com/en-us/azure/foundry/concepts/ai-red-teaming-agent
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md), [c5-2](c5-2.md), [c6-11](c6-11.md), [c6-3](c6-3.md), [c7-10](c7-10.md)
 
@@ -126,7 +126,7 @@ Every source the Microsoft PyRIT cells cite, with its tier from the atlas source
 
 - Title: Run AI Red Teaming Agent in the cloud (Microsoft Foundry SDK)
 - URL: https://learn.microsoft.com/en-us/azure/foundry/how-to/develop/run-ai-red-teaming-cloud
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c6-11](c6-11.md)
 
@@ -134,7 +134,7 @@ Every source the Microsoft PyRIT cells cite, with its tier from the atlas source
 
 - Title: PyRIT 1.1.0: Security
 - URL: https://microsoft.github.io/PyRIT/1.1.0/security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -142,7 +142,7 @@ Every source the Microsoft PyRIT cells cite, with its tier from the atlas source
 
 - Title: PyRIT 1.1.0: Prompt targets
 - URL: https://microsoft.github.io/PyRIT/1.1.0/code/targets/prompt-targets
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -150,7 +150,7 @@ Every source the Microsoft PyRIT cells cite, with its tier from the atlas source
 
 - Title: Run AI Red Teaming Agent in the cloud (Microsoft Foundry SDK)
 - URL: https://learn.microsoft.com/en-us/azure/foundry/how-to/develop/run-ai-red-teaming-cloud
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -158,6 +158,6 @@ Every source the Microsoft PyRIT cells cite, with its tier from the atlas source
 
 - Title: Azure compliance offering: Australia IRAP
 - URL: https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-australia-irap
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

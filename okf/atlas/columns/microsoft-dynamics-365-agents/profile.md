@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id microsoft-dynamics-365-agents"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Prebuilt agents in Dynamics 365 Sales, Customer Service, Contact Center, Field Service and finance and operations apps, plus the Dynamics 365 ERP MCP server, researched for what they add over Copilot Studio and Microsoft 365.
@@ -33,7 +33,8 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 1 |
+| verified | 45 |
 
 ## Products
 
@@ -58,7 +59,7 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | [Agent Provisioning](c1-4.md) | Authorisation | not-covered | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | not-covered | verified | yes |
 | [Inference](c2-2.md) | Runtime | not-covered | verified | yes |
-| [Execution Environment](c2-3.md) | Runtime | out-of-scope | verified | yes |
+| [Execution Environment](c2-3.md) | Runtime | out-of-scope | agent-checked | yes |
 | [Agent In-Session Memory](c2-4.md) | Runtime | not-covered | verified | yes |
 | [Harness](c2-5.md) | Runtime | not-covered | verified | yes |
 | [Agent Persistent Memory](c2-6.md) | Runtime | not-covered | verified | yes |

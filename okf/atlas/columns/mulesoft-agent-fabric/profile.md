@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id mulesoft-agent-fabric"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 MuleSoft's (Salesforce) Agent Fabric (Agent Registry and provider scanners, Agent Broker, Agent Visualizer, rogue agent detection and kill switch, external vault credentials) and Omni Gateway (Model Proxy, MCP, A2A and LLM policies), with the MCP Bridge, MCP and A2A connectors and Australia Cloud hosting. The Salesforce Agentforce column (salesforce) also holds earlier MuleSoft Agent Fabric findings for c3-4, c4-4, c5-5, c6-1 and c7-9.

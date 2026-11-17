@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id mistral"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 French frontier model maker. This research covers La Plateforme API (Mistral AI Studio), Le Chat Enterprise (now Vibe Chat and Work), the Agents and Conversations API, Mistral Workflows and self-deployment of open-weight models.
@@ -27,13 +27,14 @@ Column group: Frontier AI providers. Facts are agent-run. Cells listed as eligib
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 18 |
-| not-covered | 24 |
+| covered | 19 |
+| not-covered | 23 |
 | out-of-scope | 4 |
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 2 |
+| verified | 44 |
 
 ## Products
 
@@ -64,9 +65,9 @@ Column group: Frontier AI providers. Facts are agent-run. Cells listed as eligib
 | [Agent In-Session Memory](c2-4.md) | Runtime | covered | verified | yes |
 | [Harness](c2-5.md) | Runtime | covered | verified | yes |
 | [Agent Persistent Memory](c2-6.md) | Runtime | covered | verified | yes |
-| [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | verified | yes |
+| [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | agent-checked | yes |
 | [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
-| [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
+| [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | covered | verified | yes |
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [HITL](c5-1.md) | Observability & Explainability | covered | verified | yes |
@@ -86,7 +87,7 @@ Column group: Frontier AI providers. Facts are agent-run. Cells listed as eligib
 | [Asset Registries & Inventory](c6-1.md) | Governance | covered | verified | yes |
 | [Registration & Approval Workflows](c6-2.md) | Governance | covered | verified | yes |
 | [Posture & Reporting](c6-3.md) | Governance | not-covered | verified | yes |
-| [Policy Management](c6-4.md) | Governance | out-of-scope | verified | yes |
+| [Policy Management](c6-4.md) | Governance | out-of-scope | agent-checked | yes |
 | [AI Lifecycle Management](c6-5.md) | Governance | not-covered | verified | yes |
 | [Ownership & Accountability](c6-6.md) | Governance | covered | verified | yes |
 | [Risk Assessment & Classification](c6-7.md) | Governance | out-of-scope | verified | yes |

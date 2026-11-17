@@ -121,16 +121,16 @@ sources:
     tier: null
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Cloudera AI cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Cloudera AI cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### cloudera-ai-02
 
 - Title: Key features of Agent Studio
 - URL: https://docs.cloudera.com/machine-learning/cloud/use-ai-studios/topics/ml-agent-studio-key-features.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c5-3](c5-3.md), [c5-4](c5-4.md), [c6-5](c6-5.md)
 
@@ -138,7 +138,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Guardrails in Agent Studio
 - URL: https://docs.cloudera.com/machine-learning/1.5.5/use-ai-studios/topics/ml-guardrails.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-2](c3-2.md), [c3-3](c3-3.md)
 
@@ -154,7 +154,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Shared responsibility model for security in Cloudera AI Agent Studio
 - URL: https://docs.cloudera.com/machine-learning/1.5.5/use-ai-studios/topics/ml-shared-responsibility-model.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c1-2](c1-2.md), [c1-4](c1-4.md), [c2-3](c2-3.md), [c3-1](c3-1.md), [c3-2](c3-2.md), [c4-1](c4-1.md), [c4-2](c4-2.md), [c6-2](c6-2.md), [c7-4](c7-4.md)
 
@@ -162,7 +162,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Auditing in Agent Studio
 - URL: https://docs.cloudera.com/machine-learning/1.5.5/use-ai-studios/topics/ml-auditing-agent-studio.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -170,7 +170,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Model Context Protocol (MCP) integration guide
 - URL: https://docs.cloudera.com/machine-learning/cloud/use-ai-studios/topics/ml-mcp-integration-guide.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c2-5](c2-5.md), [c6-1](c6-1.md)
 
@@ -178,7 +178,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Cloudera AI Inference service Concepts
 - URL: https://docs.cloudera.com/machine-learning/cloud/ai-inference/topics/ml-caii-caii-concepts.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c5-4](c5-4.md), [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -186,7 +186,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Cloudera AI Inference service documentation index
 - URL: https://docs.cloudera.com/machine-learning/cloud/ai-inference/index.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-4](c5-4.md)
 
@@ -194,7 +194,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Using Cloudera AI Registry
 - URL: https://docs.cloudera.com/machine-learning/cloud/using-cloudera-ai-registry/topics/ml-using-model-registry.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c6-2](c6-2.md), [c6-6](c6-6.md), [c7-3](c7-3.md)
 
@@ -202,7 +202,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Model governance using Apache Atlas
 - URL: https://docs.cloudera.com/machine-learning/1.5.5/models/topics/ml-governance-using-atlas.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-3](c7-3.md), [c7-8](c7-8.md)
 
@@ -210,7 +210,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Security recommendations for Agent Studio
 - URL: https://docs.cloudera.com/machine-learning/cloud/use-ai-studios/topics/ml-agent-studio-security-recommendations.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c1-4](c1-4.md), [c4-3](c4-3.md)
 
@@ -218,7 +218,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Deploying workflows as model endpoints
 - URL: https://docs.cloudera.com/machine-learning/cloud/use-ai-studios/topics/ml-deploy-workflow-model-endpoint.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c4-1](c4-1.md)
 
@@ -226,7 +226,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Using resource management audit logs
 - URL: https://docs.cloudera.com/machine-learning/1.5.5/use-ai-studios/topics/ml-resource-management-audit-logs.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-8](c6-8.md), [c7-1](c7-1.md)
 
@@ -234,7 +234,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Managing Model Endpoint permissions using UI
 - URL: https://docs.cloudera.com/machine-learning/cloud/ai-inference/topics/ml-caii-manage-model-endpoint-permissions-ui.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-6](c6-6.md)
 
@@ -242,7 +242,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Monitoring user events
 - URL: https://docs.cloudera.com/machine-learning/1.5.5/site-administration/topics/ml-monitoring-user-events.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-2](c7-2.md)
 
@@ -250,7 +250,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Key Features (Cloudera AI Inference service 1.5.5)
 - URL: https://docs.cloudera.com/machine-learning/1.5.5/ai-inference/topics/ml-caii-key-features.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-8](c6-8.md)
 
@@ -258,7 +258,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Agentic workflows (Agent Studio key components)
 - URL: https://docs.cloudera.com/machine-learning/cloud/use-ai-studios/topics/ml-agent-studio-key-components.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-5](c2-5.md), [c4-4](c4-4.md)
 
@@ -266,7 +266,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Cloudera Data Services on Premises 1.5.5 SP3 Release Summary
 - URL: https://docs.cloudera.com/cdp-private-cloud-data-services/1.5.5/release-summaries/topics/announcement-202606-155-sp3.html
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c2-5](c2-5.md), [c6-10](c6-10.md)
 
@@ -274,7 +274,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Configuring quotas
 - URL: https://docs.cloudera.com/machine-learning/1.5.5/site-administration/topics/ml-quotas.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md)
 
@@ -282,7 +282,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: What's new in ML Runtimes version 2026.04.1
 - URL: https://docs.cloudera.com/machine-learning/cloud/runtimes-release-notes/topics/ml-runtimes-whats-new-2026-04-1.html
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c2-3](c2-3.md), [c7-4](c7-4.md)
 
@@ -290,7 +290,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Cloudera AI What's New (2026.05.1)
 - URL: https://docs.cloudera.com/machine-learning/cloud/release-notes/topics/ml-whats-new-2026-05-1.html
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md)
 
@@ -298,7 +298,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Agent Studio latest release notes (2.3.0)
 - URL: https://docs.cloudera.com/machine-learning/cloud/ai-studios-release-notes/topics/ml-ai-studios-relnotes-agent-studios-latest.html
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md)
 
@@ -306,7 +306,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Cloudera on Cloud: February 2026 Release Summary
 - URL: https://docs.cloudera.com/cdp-public-cloud/cloud/release-summaries/topics/announcement-202602.html
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c2-1](c2-1.md), [c5-2](c5-2.md), [c6-5](c6-5.md)
 
@@ -314,7 +314,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Shared responsibility model for Agent Studio
 - URL: https://docs.cloudera.com/machine-learning/1.5.5/use-ai-studios/topics/ml-shared-responsibility-model.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -322,7 +322,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Security recommendations for Agent Studio
 - URL: https://docs.cloudera.com/machine-learning/cloud/use-ai-studios/topics/ml-agent-studio-security-recommendations.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -330,7 +330,7 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Cloudera Trust Center
 - URL: https://trust.cloudera.com/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -338,6 +338,6 @@ Every source the Cloudera AI cells cite, with its tier from the atlas source reg
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.cloudera.com/machine-learning/1.5.5/use-ai-studios/topics/ml-shared-responsibility-model.html
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-5](c2-5.md)

@@ -117,16 +117,16 @@ sources:
     tier: null
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Cohere cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Cohere cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### cohere-01
 
 - Title: North 2: Enterprise AI without compromises
 - URL: https://cohere.com/blog/introducing-north-2
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-3](c1-3.md), [c1-4](c1-4.md), [c2-1](c2-1.md), [c2-5](c2-5.md), [c2-6](c2-6.md), [c3-1](c3-1.md), [c3-2](c3-2.md), [c3-3](c3-3.md), [c4-3](c4-3.md), [c5-1](c5-1.md), [c5-2](c5-2.md), [c5-3](c5-3.md), [c5-4](c5-4.md), [c6-8](c6-8.md), [c7-1](c7-1.md), [c7-4](c7-4.md), [c7-5](c7-5.md)
 
@@ -134,7 +134,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: North product page
 - URL: https://cohere.com/north
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c2-4](c2-4.md), [c2-6](c2-6.md), [c7-2](c7-2.md), [c7-8](c7-8.md)
 
@@ -142,7 +142,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: Private Deployment Overview
 - URL: https://docs.cohere.com/docs/private-deployment-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-3](c2-3.md)
 
@@ -150,7 +150,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: Enterprise Data Commitments
 - URL: https://cohere.com/enterprise-data-commitments
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md), [c7-1](c7-1.md)
 
@@ -158,7 +158,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: Cohere Trust Center
 - URL: https://trustcenter.cohere.com/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md), [c6-11](c6-11.md), [c6-12](c6-12.md), [c7-3](c7-3.md), [c7-5](c7-5.md)
 
@@ -166,7 +166,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: Security
 - URL: https://cohere.com/security
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c7-3](c7-3.md)
 
@@ -174,7 +174,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: Rate Limits
 - URL: https://docs.cohere.com/docs/rate-limits
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md)
 
@@ -182,7 +182,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: Deprecations
 - URL: https://docs.cohere.com/docs/deprecations
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -190,7 +190,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: Tool Use Overview
 - URL: https://docs.cohere.com/docs/tool-use-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-3](c2-3.md), [c2-4](c2-4.md), [c2-5](c2-5.md)
 
@@ -198,7 +198,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: Model Vault
 - URL: https://cohere.com/solutions/model-vault
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c5-4](c5-4.md), [c7-4](c7-4.md)
 
@@ -206,7 +206,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: Teams and Roles
 - URL: https://docs.cohere.com/reference/teams-and-roles
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c5-3](c5-3.md)
 
@@ -214,7 +214,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: Creating a security agent with Cohere North and Wiz
 - URL: https://cohere.com/blog/cohere-security-ai-agent-north-wiz
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c4-2](c4-2.md)
 
@@ -222,7 +222,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: North MCP Python SDK README
 - URL: https://github.com/cohere-ai/north-mcp-python-sdk
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c4-2](c4-2.md), [c4-3](c4-3.md), [c7-2](c7-2.md)
 
@@ -230,7 +230,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: North MCP Python SDK example: server_with_access_token.py
 - URL: https://github.com/cohere-ai/north-mcp-python-sdk/blob/main/examples/server_with_access_token.py
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -238,7 +238,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: North MCP Python SDK example: server_with_destructive_tools.py
 - URL: https://github.com/cohere-ai/north-mcp-python-sdk/blob/main/examples/server_with_destructive_tools.py
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md)
 
@@ -246,7 +246,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: Introducing North Automations: Intelligent workflow orchestration
 - URL: https://cohere.com/blog/introducing-north-automations-ai-workflows
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c6-8](c6-8.md)
 
@@ -254,7 +254,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: The Cohere Datasets API (and How to Use It)
 - URL: https://docs.cohere.com/docs/datasets
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-8](c7-8.md)
 
@@ -262,7 +262,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: Model Vault Home Page
 - URL: https://docs.cohere.com/docs/model-vault/vault-home
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md)
 
@@ -270,7 +270,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: Model Vault Overview
 - URL: https://docs.cohere.com/docs/model-vault
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md)
 
@@ -278,7 +278,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: Managing vaults, Model Vault
 - URL: https://docs.cohere.com/docs/model-vault/managing-vaults.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -286,7 +286,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: Private deployment overview
 - URL: https://docs.cohere.com/docs/private-deployment-overview.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -294,7 +294,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: Introducing North 2
 - URL: https://cohere.com/blog/introducing-north-2
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -302,7 +302,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: Cohere Trust Center
 - URL: https://trustcenter.cohere.com/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -310,7 +310,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: Model Vault
 - URL: https://docs.cohere.com/docs/model-vault.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -318,7 +318,7 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: Quoted by the confirm agents
 - URL: https://trustcenter.cohere.com/?format=html
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-13](c6-13.md)
 
@@ -326,6 +326,6 @@ Every source the Cohere cells cite, with its tier from the atlas source register
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.cohere.com/docs/model-vault/regions
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-2](c2-2.md)

@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id cyera"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Commercial data security platform covering DSPM, DLP, Access Trail, AI-SPM, AI Runtime Protection and Agent Guardian (formerly AI Guardian), plus Cyera Identity, the former Oasis NHI Security Cloud and Agentic Access Management, after Cyera closed the Oasis acquisition on 3 September 2026.

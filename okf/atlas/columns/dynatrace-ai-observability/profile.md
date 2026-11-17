@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id dynatrace-ai-observability"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Dynatrace's AI Observability app and supporting platform features (OpenTelemetry and OpenInference ingestion, dt-evals evaluations, AI coding agent monitoring, Grail storage, masking and audit logs) for tracing LLM, RAG and agent workloads.

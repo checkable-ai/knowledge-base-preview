@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id asd-ai-guidance"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Australian Signals Directorate guidance on AI and agentic AI, read with the AI controls in the Information Security Manual (September 2026 release) and the IRAP program used to assess services against it.

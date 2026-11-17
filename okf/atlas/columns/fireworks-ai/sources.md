@@ -129,16 +129,16 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Fireworks AI cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Fireworks AI cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### fireworks-ai-01
 
 - Title: Data Security
 - URL: https://docs.fireworks.ai/guides/security_compliance/data_security.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c6-12](c6-12.md), [c7-1](c7-1.md), [c7-4](c7-4.md), [c7-8](c7-8.md)
 
@@ -146,7 +146,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Zero Data Retention policy
 - URL: https://docs.fireworks.ai/accounts/zero-data-retention.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md), [c7-8](c7-8.md)
 
@@ -154,7 +154,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Data residency
 - URL: https://docs.fireworks.ai/accounts/data-residency.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md)
 
@@ -162,7 +162,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Audit & Access Logs
 - URL: https://docs.fireworks.ai/guides/security_compliance/audit_logs.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -170,7 +170,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Model access policy
 - URL: https://docs.fireworks.ai/accounts/model-access-policy.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c6-12](c6-12.md), [c6-2](c6-2.md)
 
@@ -178,7 +178,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Managing users
 - URL: https://docs.fireworks.ai/accounts/users.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c6-6](c6-6.md)
 
@@ -186,7 +186,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Service Accounts
 - URL: https://docs.fireworks.ai/accounts/service-accounts.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c4-1](c4-1.md), [c7-2](c7-2.md)
 
@@ -194,7 +194,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Nexus Spend Limits
 - URL: https://docs.fireworks.ai/nexus/usage-limits.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c5-3](c5-3.md), [c6-2](c6-2.md)
 
@@ -202,7 +202,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: FireRouter
 - URL: https://docs.fireworks.ai/nexus/firerouter.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c3-1](c3-1.md)
 
@@ -210,7 +210,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: FireConnect
 - URL: https://docs.fireworks.ai/nexus/fireconnect.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-5](c2-5.md)
 
@@ -218,7 +218,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Responses API
 - URL: https://docs.fireworks.ai/guides/response-api.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-4](c2-4.md), [c2-5](c2-5.md)
 
@@ -226,7 +226,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Custom SSO
 - URL: https://docs.fireworks.ai/accounts/sso.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md)
 
@@ -234,7 +234,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Create API Key (API reference)
 - URL: https://docs.fireworks.ai/api-reference/create-api-key.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c4-2](c4-2.md), [c6-6](c6-6.md)
 
@@ -242,7 +242,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Create secret (API reference)
 - URL: https://docs.fireworks.ai/api-reference/create-secret.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -250,7 +250,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Exporting Metrics
 - URL: https://docs.fireworks.ai/deployments/exporting-metrics.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-4](c5-4.md)
 
@@ -258,7 +258,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Usage & Cost Breakdown
 - URL: https://docs.fireworks.ai/accounts/exporting-usage-and-costs.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md)
 
@@ -266,7 +266,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Deployments
 - URL: https://docs.fireworks.ai/guides/ondemand-deployments.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-5](c6-5.md)
 
@@ -274,7 +274,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Serverless Rate Limits
 - URL: https://docs.fireworks.ai/serverless/rate-limits.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md)
 
@@ -282,7 +282,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Routers
 - URL: https://docs.fireworks.ai/deployments/routers.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -290,7 +290,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Nexus Provider Keys
 - URL: https://docs.fireworks.ai/nexus/provider-keys.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md), [c6-12](c6-12.md)
 
@@ -298,7 +298,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Evaluating Trained Models
 - URL: https://docs.fireworks.ai/fine-tuning/evaluating-fine-tuned-models.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c6-5](c6-5.md)
 
@@ -306,7 +306,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Nexus Usage and Cost
 - URL: https://docs.fireworks.ai/nexus/metrics.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md)
 
@@ -314,7 +314,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Zero Data Retention guide
 - URL: https://docs.fireworks.ai/guides/security_compliance/data_handling.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c6-10](c6-10.md)
 
@@ -322,7 +322,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Deployment Tags
 - URL: https://docs.fireworks.ai/deployments/deployment-tags.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c6-6](c6-6.md)
 
@@ -330,7 +330,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Fireworks docs index (llms.txt)
 - URL: https://docs.fireworks.ai/llms.txt
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md)
 
@@ -338,7 +338,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Spend Limits
 - URL: https://docs.fireworks.ai/nexus/usage-limits.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -346,7 +346,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Model access policy
 - URL: https://docs.fireworks.ai/accounts/model-access-policy.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -354,7 +354,7 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Delete API Key
 - URL: https://docs.fireworks.ai/api-reference/delete-api-key.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -362,6 +362,6 @@ Every source the Fireworks AI cells cite, with its tier from the atlas source re
 
 - Title: Data Security
 - URL: https://docs.fireworks.ai/guides/security_compliance/data_security.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

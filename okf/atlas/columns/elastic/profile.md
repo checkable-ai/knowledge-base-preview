@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id elastic"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Elastic makes Elasticsearch and Kibana, and this research covers Elasticsearch as a retrieval store with RBAC and document-level security, Elastic Agent Builder, Elastic Security for AI workloads and Elastic Observability LLM and agent monitoring (LLM integrations, the Amazon Bedrock AgentCore integration and Agent Builder traces).
@@ -27,12 +27,13 @@ Column group: Retrieval and search. Facts are agent-run. Cells listed as eligibl
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 15 |
-| not-covered | 31 |
+| covered | 16 |
+| not-covered | 30 |
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 2 |
+| verified | 44 |
 
 ## Products
 
@@ -57,7 +58,7 @@ Column group: Retrieval and search. Facts are agent-run. Cells listed as eligibl
 | [Human Approval](c1-3.md) | Authorisation | covered | verified | yes |
 | [Agent Provisioning](c1-4.md) | Authorisation | covered | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | covered | verified | yes |
-| [Inference](c2-2.md) | Runtime | not-covered | verified | yes |
+| [Inference](c2-2.md) | Runtime | covered | verified | yes |
 | [Execution Environment](c2-3.md) | Runtime | not-covered | verified | yes |
 | [Agent In-Session Memory](c2-4.md) | Runtime | not-covered | verified | yes |
 | [Harness](c2-5.md) | Runtime | covered | verified | yes |
@@ -68,7 +69,7 @@ Column group: Retrieval and search. Facts are agent-run. Cells listed as eligibl
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [HITL](c5-1.md) | Observability & Explainability | covered | verified | yes |
-| [Behavioural](c5-2.md) | Observability & Explainability | not-covered | verified | yes |
+| [Behavioural](c5-2.md) | Observability & Explainability | not-covered | agent-checked | yes |
 | [Cost & Yield](c5-3.md) | Observability & Explainability | not-covered | verified | yes |
 | [Infrastructure](c5-4.md) | Observability & Explainability | covered | verified | yes |
 | [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |
@@ -81,7 +82,7 @@ Column group: Retrieval and search. Facts are agent-run. Cells listed as eligibl
 | [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | covered | verified | yes |
 | [AI Discovery](c7-9.md) | Agentic MLSecOps | covered | verified | yes |
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | not-covered | verified | yes |
-| [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | verified | yes |
+| [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | agent-checked | yes |
 | [Registration & Approval Workflows](c6-2.md) | Governance | not-covered | verified | yes |
 | [Posture & Reporting](c6-3.md) | Governance | not-covered | verified | yes |
 | [Policy Management](c6-4.md) | Governance | not-covered | verified | yes |

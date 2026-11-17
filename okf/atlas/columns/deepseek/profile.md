@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id deepseek"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Chinese model lab (Hangzhou DeepSeek Artificial Intelligence Co., Ltd.). This research covers the DeepSeek API (deepseek-flash and deepseek-v4-pro), DeepSeek Harness and the open-weight V4 models. Its privacy policy says personal data is collected, processed and stored in the People's Republic of China, and the Open Platform terms are governed by PRC law. Australian PSPF Direction 001-2025 (Home Affairs, 4 February 2025) requires non-corporate Commonwealth entities to identify and remove all DeepSeek products, applications and web services and prevent their access, use or installation on government systems and devices, with exemptions limited to national security and regulatory functions. Open-source models deployed locally on a government system with mitigations fall outside the direction.

@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id microsoft-purview"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Microsoft's data security and compliance suite as it applies to Copilot, Agent 365, Copilot Studio, Foundry, Fabric data agents and third-party AI apps, covering Data Security Posture Management (current and DSPM for AI classic), Compliance Manager, Audit, DLP, Insider Risk Management, Communication Compliance, eDiscovery, Data Lifecycle Management, the Purview APIs and SDK, and Unified Catalog as documented on Microsoft Learn.
@@ -27,14 +27,15 @@ Column group: Data security for AI. Facts are agent-run. Cells listed as eligibl
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 9 |
+| covered | 7 |
 | not-covered | 14 |
 | out-of-scope | 22 |
-| partial | 1 |
+| partial | 3 |
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 2 |
+| verified | 44 |
 
 ## Products
 
@@ -73,12 +74,12 @@ Column group: Data security for AI. Facts are agent-run. Cells listed as eligibl
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | out-of-scope | verified | yes |
 | [HITL](c5-1.md) | Observability & Explainability | covered | verified | yes |
-| [Behavioural](c5-2.md) | Observability & Explainability | covered | verified | yes |
+| [Behavioural](c5-2.md) | Observability & Explainability | partial | agent-checked | yes |
 | [Cost & Yield](c5-3.md) | Observability & Explainability | out-of-scope | verified | yes |
 | [Infrastructure](c5-4.md) | Observability & Explainability | out-of-scope | verified | yes |
 | [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |
 | [Administrative Audit](c7-1.md) | Agentic MLSecOps | not-covered | verified | yes |
-| [SOC Telemetry](c7-2.md) | Agentic MLSecOps | covered | verified | yes |
+| [SOC Telemetry](c7-2.md) | Agentic MLSecOps | partial | agent-checked | yes |
 | [Model Assurance](c7-3.md) | Agentic MLSecOps | out-of-scope | verified | yes |
 | [Runtime Assurance](c7-4.md) | Agentic MLSecOps | out-of-scope | verified | yes |
 | [First-Party Tool Assurance](c7-5.md) | Agentic MLSecOps | out-of-scope | verified | yes |

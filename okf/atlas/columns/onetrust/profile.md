@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id onetrust"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 OneTrust's SaaS AI governance solution for AI inventory, risk assessment, policy and compliance automation, covering the AI Governance product, its runtime controls (AI Policy Engine, AI Guard SDK, CORIE) and the linked Third-Party Management module as documented on onetrust.com and developer.onetrust.com.
@@ -28,12 +28,13 @@ Column group: AI governance and risk. Facts are agent-run. Cells listed as eligi
 | Verdict | Cells |
 | --- | --- |
 | covered | 13 |
-| not-covered | 19 |
-| out-of-scope | 14 |
+| not-covered | 20 |
+| out-of-scope | 13 |
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 1 |
+| verified | 45 |
 
 ## Products
 
@@ -57,7 +58,7 @@ Column group: AI governance and risk. Facts are agent-run. Cells listed as eligi
 | [Human Approval](c1-3.md) | Authorisation | not-covered | verified | yes |
 | [Agent Provisioning](c1-4.md) | Authorisation | not-covered | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | out-of-scope | verified | yes |
-| [Inference](c2-2.md) | Runtime | out-of-scope | verified | yes |
+| [Inference](c2-2.md) | Runtime | not-covered | verified | yes |
 | [Execution Environment](c2-3.md) | Runtime | out-of-scope | verified | yes |
 | [Agent In-Session Memory](c2-4.md) | Runtime | out-of-scope | verified | yes |
 | [Harness](c2-5.md) | Runtime | out-of-scope | verified | yes |
@@ -89,7 +90,7 @@ Column group: AI governance and risk. Facts are agent-run. Cells listed as eligi
 | [Ownership & Accountability](c6-6.md) | Governance | covered | verified | yes |
 | [Risk Assessment & Classification](c6-7.md) | Governance | covered | verified | yes |
 | [Change & Release Governance](c6-8.md) | Governance | not-covered | verified | yes |
-| [Exceptions & Risk Acceptance](c6-9.md) | Governance | not-covered | verified | yes |
+| [Exceptions & Risk Acceptance](c6-9.md) | Governance | not-covered | agent-checked | yes |
 | [Data Lifecycle Governance](c6-10.md) | Governance | not-covered | verified | yes |
 | [Assurance & Compliance Evidence](c6-11.md) | Governance | covered | verified | yes |
 | [Third-Party Governance](c6-12.md) | Governance | covered | verified | yes |

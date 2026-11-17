@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id aucyber"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 AUCyber (formerly AUCloud, Sovereign Cloud Australia Pty Ltd) is an Australian managed cloud, cyber and AI provider. This research covers its Managed AI Services, VMware High Compliance Cloud and OpenStack hosting, managed SOC, and its resale of Prompt by SentinelOne. IRAP: the published letter from PCG Cyber (assessor David Milin, dated 16 December 2022) records an assessment against ISM June 2022 PROTECTED controls, run September to December 2022, scoped to the AUCloud portal and related infrastructure plus IaaS, BaaS, DRaaS, SOCaaS, M365 BaaS and DaaS. Managed AI Services is not named in that scope, and no later letter is published although the docs state a two-yearly cycle. Hosting Certification Framework: DTA certificate at Certified-Strategic level for facilities EC1, EC2, EC3, F1 and F2, with no date shown.
@@ -33,7 +33,8 @@ Column group: Australian sovereign hosting. Facts are agent-run. Cells listed as
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 3 |
+| verified | 43 |
 
 ## Products
 
@@ -76,8 +77,8 @@ Column group: Australian sovereign hosting. Facts are agent-run. Cells listed as
 | [SOC Telemetry](c7-2.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Model Assurance](c7-3.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Runtime Assurance](c7-4.md) | Agentic MLSecOps | not-covered | verified | yes |
-| [First-Party Tool Assurance](c7-5.md) | Agentic MLSecOps | out-of-scope | verified | yes |
-| [Third-Party Tool Assurance](c7-6.md) | Agentic MLSecOps | out-of-scope | verified | yes |
+| [First-Party Tool Assurance](c7-5.md) | Agentic MLSecOps | out-of-scope | agent-checked | yes |
+| [Third-Party Tool Assurance](c7-6.md) | Agentic MLSecOps | out-of-scope | agent-checked | yes |
 | [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [AI Discovery](c7-9.md) | Agentic MLSecOps | covered | verified | yes |
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | not-covered | verified | yes |
@@ -92,7 +93,7 @@ Column group: Australian sovereign hosting. Facts are agent-run. Cells listed as
 | [Exceptions & Risk Acceptance](c6-9.md) | Governance | out-of-scope | verified | yes |
 | [Data Lifecycle Governance](c6-10.md) | Governance | not-covered | verified | yes |
 | [Assurance & Compliance Evidence](c6-11.md) | Governance | not-covered | verified | yes |
-| [Third-Party Governance](c6-12.md) | Governance | out-of-scope | verified | yes |
+| [Third-Party Governance](c6-12.md) | Governance | out-of-scope | agent-checked | yes |
 | [Independent Assurance & Authorisation](c6-13.md) | Governance | covered | verified | yes |
 
 Sources are in the [source registry](sources.md).

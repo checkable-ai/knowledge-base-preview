@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id macquarie-technology-group"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Australian data centre, secure cloud and cyber provider (ASX: MAQ). This research covers Launch AI, the Macquarie Cloud Services sovereign model-as-a-service platform on Red Hat OpenShift, the Macquarie Government secure cloud (VMware-based PROTECTED Cloud), the Macquarie Government Azure practice with Azure Local for private model hosting (launched July 2026), and the managed SOC. IRAP: Macquarie Government states its services are IRAP assessed against PROTECTED controls and that the PROTECTED Cloud platform was assessed by an IRAP assessor for data up to PROTECTED, with the report available on request. No assessor, date or service list is published, and no page places Launch AI or Azure Local in that scope. Hosting Certification Framework: Macquarie states it is the only provider DTA Certified Strategic for both its data centres and cloud, and lists itself as a Federal Government Certified Strategic Hosting Provider. No certificate, date or facility list is published on the pages read.

@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id netskope-one-ai-security"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Netskope's AI security suite launched March 2026, covering Agentic Broker for MCP traffic, AI Guardrails, AI Gateway with MCP Gateway, AI Red Teaming and Agent Action Control (beta).
@@ -33,7 +33,8 @@ Column group: AI usage control (SASE, browser, DLP). Facts are agent-run. Cells 
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 1 |
+| verified | 45 |
 
 ## Products
 
@@ -50,7 +51,7 @@ Column group: AI usage control (SASE, browser, DLP). Facts are agent-run. Cells 
 | Control | Category | Verdict | State | Agent-eligible |
 | --- | --- | --- | --- | --- |
 | [Agent ID](c4-1.md) | Identity | not-covered | verified | yes |
-| [Credential Brokerage](c4-2.md) | Identity | not-covered | verified | yes |
+| [Credential Brokerage](c4-2.md) | Identity | not-covered | agent-checked | yes |
 | [Delegation (OBO)](c4-3.md) | Identity | not-covered | verified | yes |
 | [A2A](c4-4.md) | Identity | not-covered | verified | yes |
 | [Agent Local Scopes](c1-1.md) | Authorisation | out-of-scope | verified | yes |

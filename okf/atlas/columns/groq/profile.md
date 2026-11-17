@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id groq"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 GroqCloud is a hosted inference API on Groq's LPU hardware. This research covers the GroqCloud API, console, built-in tools and Remote MCP.

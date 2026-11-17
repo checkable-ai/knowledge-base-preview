@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id zenity"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Zenity is a third-party agent security platform covering posture, observability, runtime enforcement and detection and response for Copilot Studio, Agentforce, cloud-built and endpoint agents. This research covers the platform modules as described on zenity.io product pages.

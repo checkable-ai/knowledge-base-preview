@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id perplexity-enterprise"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Perplexity Enterprise Pro and Enterprise Max (answer engine, Computer agent, Memory and Brain, connectors and admin controls) and Comet for Enterprise, as documented in the Perplexity Help Center and changelog to October 2026. The Perplexity API, Agent API and the open-source Numbat project are out of scope. The answer engine is marked 1p because Perplexity makes and hosts its own Sonar models, while Computer and Comet are marked 3p because their documented default models come from third-party providers.

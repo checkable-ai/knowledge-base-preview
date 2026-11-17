@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id langsmith"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 LangChain's agent tracing, evaluation and deployment platform, covering LangSmith Cloud, BYOC and self-hosted, including Agent Server, the LLM Gateway (beta), Sandboxes, Engine and Fleet.
@@ -27,13 +27,14 @@ Column group: Observability and evaluation. Facts are agent-run. Cells listed as
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 18 |
+| covered | 19 |
 | not-covered | 20 |
-| out-of-scope | 8 |
+| out-of-scope | 7 |
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 7 |
+| verified | 39 |
 
 ## Products
 
@@ -50,7 +51,7 @@ Column group: Observability and evaluation. Facts are agent-run. Cells listed as
 | Control | Category | Verdict | State | Agent-eligible |
 | --- | --- | --- | --- | --- |
 | [Agent ID](c4-1.md) | Identity | not-covered | verified | yes |
-| [Credential Brokerage](c4-2.md) | Identity | not-covered | verified | yes |
+| [Credential Brokerage](c4-2.md) | Identity | covered | verified | yes |
 | [Delegation (OBO)](c4-3.md) | Identity | covered | verified | yes |
 | [A2A](c4-4.md) | Identity | not-covered | verified | yes |
 | [Agent Local Scopes](c1-1.md) | Authorisation | not-covered | verified | yes |
@@ -75,24 +76,24 @@ Column group: Observability and evaluation. Facts are agent-run. Cells listed as
 | [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |
 | [Administrative Audit](c7-1.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [SOC Telemetry](c7-2.md) | Agentic MLSecOps | not-covered | verified | yes |
-| [Model Assurance](c7-3.md) | Agentic MLSecOps | out-of-scope | verified | yes |
+| [Model Assurance](c7-3.md) | Agentic MLSecOps | out-of-scope | agent-checked | yes |
 | [Runtime Assurance](c7-4.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [First-Party Tool Assurance](c7-5.md) | Agentic MLSecOps | not-covered | verified | yes |
-| [Third-Party Tool Assurance](c7-6.md) | Agentic MLSecOps | out-of-scope | verified | yes |
-| [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | out-of-scope | verified | yes |
-| [AI Discovery](c7-9.md) | Agentic MLSecOps | out-of-scope | verified | yes |
+| [Third-Party Tool Assurance](c7-6.md) | Agentic MLSecOps | out-of-scope | agent-checked | yes |
+| [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | out-of-scope | agent-checked | yes |
+| [AI Discovery](c7-9.md) | Agentic MLSecOps | out-of-scope | agent-checked | yes |
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | covered | verified | yes |
 | [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | verified | yes |
 | [Registration & Approval Workflows](c6-2.md) | Governance | not-covered | verified | yes |
 | [Posture & Reporting](c6-3.md) | Governance | not-covered | verified | yes |
-| [Policy Management](c6-4.md) | Governance | out-of-scope | verified | yes |
+| [Policy Management](c6-4.md) | Governance | out-of-scope | agent-checked | yes |
 | [AI Lifecycle Management](c6-5.md) | Governance | not-covered | verified | yes |
 | [Ownership & Accountability](c6-6.md) | Governance | not-covered | verified | yes |
-| [Risk Assessment & Classification](c6-7.md) | Governance | out-of-scope | verified | yes |
+| [Risk Assessment & Classification](c6-7.md) | Governance | out-of-scope | agent-checked | yes |
 | [Change & Release Governance](c6-8.md) | Governance | not-covered | verified | yes |
-| [Exceptions & Risk Acceptance](c6-9.md) | Governance | out-of-scope | verified | yes |
+| [Exceptions & Risk Acceptance](c6-9.md) | Governance | not-covered | verified | yes |
 | [Data Lifecycle Governance](c6-10.md) | Governance | covered | verified | yes |
-| [Assurance & Compliance Evidence](c6-11.md) | Governance | out-of-scope | verified | yes |
+| [Assurance & Compliance Evidence](c6-11.md) | Governance | out-of-scope | agent-checked | yes |
 | [Third-Party Governance](c6-12.md) | Governance | not-covered | verified | yes |
 | [Independent Assurance & Authorisation](c6-13.md) | Governance | covered | verified | yes |
 

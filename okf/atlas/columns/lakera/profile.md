@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id lakera"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Lakera, acquired by Check Point Software Technologies (announced 16 September 2025, completed in Q4 2025 for about USD 190 million net cash), whose Guard and Red products are now documented as Check Point AI Guardrails and AI Agent Security, and Check Point AI Red Teaming.

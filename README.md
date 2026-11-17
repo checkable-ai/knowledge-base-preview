@@ -1,12 +1,12 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="docs/img/hero-dark.svg">
-    <img src="docs/img/hero-light.svg" width="100%" alt="Checkable AI knowledge base preview. Every AI vendor says its platform is secure. See what 116 of them document, control by control. 116 platforms, 46 controls, November 2026 edition.">
+    <img src="docs/img/hero-light.svg" width="100%" alt="Checkable AI knowledge base preview. Every AI vendor says its platform is secure. See what 139 of them document, control by control. 139 platforms, 46 controls, November 2026 edition.">
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/platforms-116-2f6b3a" alt="platforms: 116">
+  <img src="https://img.shields.io/badge/platforms-139-2f6b3a" alt="platforms: 139">
   <img src="https://img.shields.io/badge/controls-46-2f6b3a" alt="controls: 46">
   <img src="https://img.shields.io/badge/edition-November%202026-5f5753" alt="edition: November 2026">
   <img src="https://img.shields.io/badge/format-Open%20Knowledge%20Format%20v0.2-5f5753" alt="format: Open Knowledge Format v0.2">
@@ -21,15 +21,28 @@
 
 Your team wants to switch on an AI agent. The risk team asks three questions: who approves what it does, where the
 data goes and what gets logged. Every vendor answers "enterprise grade", in its own words, spread over dozens of
-pages. This repository puts 116 AI platforms and tools next to the same 46 security controls, with one plain page for
+pages. This repository puts 139 AI platforms and tools next to the same 46 security controls, with one plain page for
 each answer, drawn from the vendor's own documentation.
 
 > [!NOTE]
-> **Edition: November 2026.** The live [AI Stack Check](https://checkableai.com/stack-check/) is updated daily. The full knowledge base is available by enquiry.
+> **Edition: November 2026.** We recheck a core set of platforms daily. Every other platform is checked on demand. Each answer shows the date it was last checked. The live [AI Stack Check](https://checkableai.com/stack-check/) shows that date on every answer. The full knowledge base is available by enquiry.
 
 A verdict says what a vendor documents in public. It is not a test of your own tenant, licence or settings, so those
-are for you to confirm. Every record is drawn from the vendor's own public documentation and confirmed before it is
-published.
+are for you to confirm. Every record is drawn from public sources, in nearly all cases the vendor's own
+documentation, and names the sources it relies on. Its label says how far it has been checked:
+
+- `verification: "verified"` with `review: "approved"`: the agents checked the verdict, and a person at Checkable AI
+  accepted it. Most of these acceptances were made in bulk, after the person had reviewed the findings, rather than
+  one record at a time.
+- `verification: "agent-checked"` with `review: "pending"`: the agents checked the verdict the same way, and no person
+  has accepted it yet.
+- `verification: "contested"` with the verdict `escalated`: the agents did not agree, so it is not an answer yet. We
+  settle it.
+
+The agents check a `covered` or `partial` verdict by finding the quoted passage on the vendor's own page, or by two
+model families agreeing on it. A `not-covered` or `out-of-scope` verdict often has no passage to quote, because the
+vendor's documentation does not mention the control. There the check is that the documentation was read and two
+model families agreed it does not document the control, as at the date shown.
 
 > [!TIP]
 > Start with [`okf/atlas/columns/wiz/c6-1.md`](okf/atlas/columns/wiz/c6-1.md). It answers one question, whether Wiz
@@ -38,21 +51,36 @@ published.
 
 ## Free to read, the full knowledge base by enquiry
 
-This repository is free to read, copy and build on. It covers 116 platforms, from model makers and coding agents to
+This repository is free to read, copy and build on. It covers 139 platforms, from model makers and coding agents to
 cloud, identity, security and governance tools, which is enough to see how every record is made and to compare the
-platforms you use. The full knowledge base is available by enquiry, and our team reviews your stack against it after a
+platforms you use. The full knowledge base is available by enquiry, and we review your stack against it after a
 short assessment. **[Make an enquiry](https://checkableai.com/enquire/)** and tell us which AI tools you use.
+
+| | This edition | Full knowledge base, by enquiry |
+|---|---|---|
+| Platforms and tools | 139 | Every platform in this edition and many more |
+| Findings | 6,393 records, November 2026 edition | Findings for every platform researched so far, each with the evidence behind its answer |
+| Kept current | A snapshot, dated November 2026. Each record shows the date it was last checked | We recheck a core set of platforms daily. Every other platform is checked on demand. Each answer shows the date it was last checked. |
+| Review | You read the records yourself | We review your stack against the whole base after a short assessment |
+
+> [!IMPORTANT]
+> Keeping the full knowledge base current takes ongoing research, compute for the trust checks and our own review
+> of the findings, so the full stack review is a paid service.
+
+## Where this fits
+
+This repository is the public sample of Checkable AI's knowledge base. It is generated from the full knowledge base, so changes are made there and the sample is regenerated, never edited by hand. The free [AI Stack Check](https://checkableai.com/stack-check/) runs on a slice of the knowledge base, and paid assessments draw on the full knowledge base.
 
 <details>
 <summary><strong>What is in here</strong>: the folders and what each one holds</summary>
 
 | Folder | What it holds |
 | --- | --- |
-| `okf/atlas/columns/` | One folder per platform. Each has a profile, a list of its sources and one page per control |
+| `okf/atlas/columns/` | One folder per platform. Each has a profile, a list of its sources and one page per control. The folder name `okf/atlas/` is an older working name, kept so links to the pages keep working |
 | `okf/atlas/controls/` | One page per control: what it means, and how every platform in this edition answers it |
 | `okf/atlas/AGENTS.md` and `okf/atlas/rules/` | The rules an AI agent follows when it reads these pages |
 | `okf/atlas/retrieval-index.json` | One line of facts per page (verdict, state, sources), so a program can search without reading every page |
-| `web/atlas-sample.json` and `app/` | The data file and reference code for a sample viewer, our Ask the Atlas questionnaire |
+| `web/atlas-sample.json` and `app/` | The data file and reference code for a sample viewer, our knowledge base questionnaire |
 | `examples/` | A simulated freshness pull request: what happens when a vendor page changes |
 | `docs/` | A diagram of how the research loop runs, and the banner images |
 
@@ -67,7 +95,7 @@ Open any page under `okf/atlas/columns/`. The block at the top, between the two 
 Three lines matter most:
 
 - `verdict: "covered"` is the short answer. The other values are `partial`, `not-covered` and `out-of-scope`, and
-  `escalated` marks a finding that is with our team for a decision.
+  `escalated` marks a finding the agents did not agree on, which we settle.
 - `checked_on` is the day the vendor's pages were read. Products change, so the date matters.
 - `agent_eligible` says whether an agent may retrieve the page on the edition date. Every page stays open to read.
 
@@ -79,7 +107,7 @@ product is for or a real gap in it.
 </details>
 
 <details>
-<summary><strong>The app folder</strong>: reference code for the Ask the Atlas viewer</summary>
+<summary><strong>The app folder</strong>: reference code for the sample viewer</summary>
 
 `app/atlas.js` and `app/atlas.css` show how the viewer reads `web/atlas-sample.json`, routes a concern to the right
 controls and checks each citation against its record. The script was written for our own host page: it fetches
@@ -95,5 +123,5 @@ without it.
   <a href="https://checkableai.com/enquire/"><strong>Make an enquiry</strong></a>
 </p>
 
-MIT licence, copyright (c) 2026 M. Walker, see [LICENSE](LICENSE). Quoted vendor documentation stays under its
+Some names in the files still use an older working name, Atlas. [RENAMED.md](RENAMED.md) says what they mean. MIT licence, copyright (c) 2026 M. Walker, see [LICENSE](LICENSE). Quoted vendor documentation stays under its
 publishers' terms, see [NOTICE](NOTICE). To report a security matter, see [SECURITY.md](SECURITY.md).
