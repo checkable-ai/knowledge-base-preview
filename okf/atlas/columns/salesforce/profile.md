@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id salesforce"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Salesforce's hosted agent platform, covering Agentforce agents, the Einstein Trust Layer, Agentforce Testing Center, observability and related platform governance, with MuleSoft Agent Fabric where noted. The MuleSoft Agent Fabric and Omni Gateway column (mulesoft-agent-fabric) holds the fuller MuleSoft research.
@@ -33,7 +33,8 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 1 |
+| verified | 45 |
 
 ## Products
 
@@ -85,7 +86,7 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | [Asset Registries & Inventory](c6-1.md) | Governance | covered | verified | yes |
 | [Registration & Approval Workflows](c6-2.md) | Governance | not-covered | verified | yes |
 | [Posture & Reporting](c6-3.md) | Governance | not-covered | verified | yes |
-| [Policy Management](c6-4.md) | Governance | out-of-scope | verified | yes |
+| [Policy Management](c6-4.md) | Governance | out-of-scope | agent-checked | yes |
 | [AI Lifecycle Management](c6-5.md) | Governance | not-covered | verified | yes |
 | [Ownership & Accountability](c6-6.md) | Governance | not-covered | verified | yes |
 | [Risk Assessment & Classification](c6-7.md) | Governance | not-covered | verified | yes |

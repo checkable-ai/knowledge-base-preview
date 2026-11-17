@@ -14,7 +14,7 @@
     'How do we detect and stop prompt injection attacks against our agents?',
     'What audit evidence will we have of what an agent did?',
   ];
-  const VERDICT = { covered: 'Covered', partial: 'Partly covered', 'not-covered': 'Not covered', 'out-of-scope': 'Out of scope', escalated: 'With our team' };
+  const VERDICT = { covered: 'Covered', partial: 'Partly covered', 'not-covered': 'Not covered', 'out-of-scope': 'Out of scope', escalated: 'Escalated' };
   const RANK = { covered: 0, partial: 1, escalated: 2, 'not-covered': 3, 'out-of-scope': 4 };
   let D, byRecord, byControl, byPlatform, byGroup, runToken = 0;
 

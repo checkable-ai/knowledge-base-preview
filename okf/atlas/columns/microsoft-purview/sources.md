@@ -15,6 +15,10 @@ sources:
     resource: "https://learn.microsoft.com/en-us/purview/dlp-microsoft365-copilot-location-learn-about"
     locator: "registry entry"
     tier: null
+  - id: "confirm-19e3b4c7c4a0"
+    resource: "https://learn.microsoft.com/en-us/copilot/manage/copilot-personalization-memory"
+    locator: "registry entry"
+    tier: null
   - id: "confirm-c75c232b13a2"
     resource: "https://learn.microsoft.com/en-us/compliance/regulatory/offering-iso-27001"
     locator: "registry entry"
@@ -113,24 +117,32 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-137d628e65bf
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/purview/dlp-microsoft365-copilot-location-learn-about
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-3](c3-3.md)
+
+### confirm-19e3b4c7c4a0
+
+- Title: Quoted by the confirm agents
+- URL: https://learn.microsoft.com/en-us/copilot/manage/copilot-personalization-memory
+- Source tier: not yet rated
+- Checked: not recorded
+- Cited by: [c6-10](c6-10.md)
 
 ### confirm-c75c232b13a2
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/compliance/regulatory/offering-iso-27001
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-13](c6-13.md)
 
@@ -138,7 +150,7 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 
 - Title: Quoted by the confirm agents
 - URL: https://learn.microsoft.com/en-us/purview/data-security-posture-management-learn-about
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-8](c7-8.md)
 
@@ -146,7 +158,7 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 
 - Title: Microsoft Purview data security and compliance protections for Microsoft 365 Copilot and other generative AI apps
 - URL: https://learn.microsoft.com/en-us/purview/ai-microsoft-purview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c5-1](c5-1.md), [c6-10](c6-10.md), [c7-2](c7-2.md), [c7-9](c7-9.md)
 
@@ -154,7 +166,7 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 
 - Title: Build and manage assessments in Microsoft Purview Compliance Manager
 - URL: https://learn.microsoft.com/en-us/purview/compliance-manager-assessments
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c6-11](c6-11.md), [c6-12](c6-12.md), [c6-3](c6-3.md), [c6-4](c6-4.md), [c6-7](c6-7.md)
 
@@ -162,7 +174,7 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 
 - Title: Auditing data agent interactions in Microsoft Purview (preview)
 - URL: https://learn.microsoft.com/en-us/fabric/data-science/data-agent-purview-governance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md)
 
@@ -170,7 +182,7 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 
 - Title: Use Microsoft Purview to manage data security and compliance for AI agents
 - URL: https://learn.microsoft.com/en-us/purview/ai-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md)
 
@@ -178,7 +190,7 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 
 - Title: Use Microsoft Purview to manage data security and compliance for Microsoft Agent 365
 - URL: https://learn.microsoft.com/en-us/purview/ai-agent-365
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c4-1](c4-1.md), [c6-1](c6-1.md), [c6-6](c6-6.md), [c6-7](c6-7.md), [c7-1](c7-1.md)
 
@@ -186,7 +198,7 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 
 - Title: Learn about Microsoft Purview Data Security Posture Management (DSPM)
 - URL: https://learn.microsoft.com/en-us/purview/data-security-posture-management-learn-about
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-3](c6-3.md)
 
@@ -194,7 +206,7 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 
 - Title: Microsoft Purview DLP for Microsoft 365 Copilot and Cowork
 - URL: https://learn.microsoft.com/en-us/purview/dlp-microsoft365-copilot-location-learn-about
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-1](c3-1.md), [c3-2](c3-2.md)
 
@@ -202,7 +214,7 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 
 - Title: Develop and deploy secure and compliant Microsoft Foundry or custom AI apps
 - URL: https://learn.microsoft.com/en-us/purview/developer/secure-ai-with-purview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c3-3](c3-3.md)
 
@@ -210,7 +222,7 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 
 - Title: Audit logs for Copilot and AI applications
 - URL: https://learn.microsoft.com/en-us/purview/audit-copilot
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -218,7 +230,7 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 
 - Title: Data Security Posture Management for AI (classic)
 - URL: https://learn.microsoft.com/en-us/purview/dspm-for-ai
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c7-8](c7-8.md), [c7-9](c7-9.md)
 
@@ -226,7 +238,7 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 
 - Title: Learn about retention for Copilot and AI apps
 - URL: https://learn.microsoft.com/en-us/purview/retention-policies-copilot
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md)
 
@@ -234,7 +246,7 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 
 - Title: Working with improvement actions in Microsoft Purview Compliance Manager
 - URL: https://learn.microsoft.com/en-us/purview/compliance-manager-improvement-actions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c6-4](c6-4.md), [c6-6](c6-6.md), [c6-9](c6-9.md)
 
@@ -242,7 +254,7 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 
 - Title: Learn about Insider Risk Management policy templates
 - URL: https://learn.microsoft.com/en-us/purview/insider-risk-management-policy-templates
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md)
 
@@ -250,7 +262,7 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 
 - Title: Learn about auditing solutions in Microsoft Purview
 - URL: https://learn.microsoft.com/en-us/purview/audit-solutions-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -258,7 +270,7 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 
 - Title: Learn about Microsoft Purview Unified Catalog
 - URL: https://learn.microsoft.com/en-us/purview/unified-catalog
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-8](c7-8.md)
 
@@ -266,7 +278,7 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 
 - Title: Use Microsoft Purview to manage data security and compliance for Microsoft Foundry
 - URL: https://learn.microsoft.com/en-us/purview/ai-azure-foundry
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md)
 
@@ -274,7 +286,7 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 
 - Title: Microsoft Purview DLP for Microsoft 365 Copilot and Cowork
 - URL: https://learn.microsoft.com/en-us/purview/dlp-microsoft365-copilot-location-learn-about
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -282,7 +294,7 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 
 - Title: Use Microsoft Purview to manage data security and compliance for AI agents
 - URL: https://learn.microsoft.com/en-us/purview/ai-agents
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -290,7 +302,7 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 
 - Title: Australian Government Information Security Registered Assessor Program (IRAP), Microsoft Compliance
 - URL: https://learn.microsoft.com/en-us/compliance/regulatory/offering-irap-australia
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -298,7 +310,7 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 
 - Title: Australia IRAP, Azure Compliance
 - URL: https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-australia-irap
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -306,7 +318,7 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 
 - Title: System and Organization Controls (SOC) 2 Type 2, Azure Compliance
 - URL: https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-soc-2
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -314,6 +326,6 @@ Every source the Microsoft Purview (DSPM for AI, Compliance Manager) cells cite,
 
 - Title: ISO/IEC 42001:2023 Artificial Intelligence Management System Standards, Microsoft Compliance
 - URL: https://learn.microsoft.com/en-us/compliance/regulatory/offering-iso-42001
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

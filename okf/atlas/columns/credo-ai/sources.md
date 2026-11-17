@@ -97,16 +97,16 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Credo AI cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Credo AI cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-daf7e1a7a03a
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.sdk.credo.ai/core-concepts/models/
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-1](c6-1.md)
 
@@ -114,7 +114,7 @@ Every source the Credo AI cells cite, with its tier from the atlas source regist
 
 - Title: Credo AI product page
 - URL: https://www.credo.ai/product
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md), [c5-2](c5-2.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-11](c6-11.md), [c6-2](c6-2.md), [c6-3](c6-3.md), [c6-4](c6-4.md), [c6-7](c6-7.md), [c7-1](c7-1.md), [c7-10](c7-10.md), [c7-9](c7-9.md)
 
@@ -122,7 +122,7 @@ Every source the Credo AI cells cite, with its tier from the atlas source regist
 
 - Title: Vendor compliance solution
 - URL: https://www.credo.ai/solutions/vendor-compliance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c6-12](c6-12.md), [c6-3](c6-3.md)
 
@@ -130,7 +130,7 @@ Every source the Credo AI cells cite, with its tier from the atlas source regist
 
 - Title: SDK: Working with Policy Packs
 - URL: https://docs.sdk.credo.ai/core-concepts/policy-packs/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-4](c6-4.md)
 
@@ -138,7 +138,7 @@ Every source the Credo AI cells cite, with its tier from the atlas source regist
 
 - Title: SDK: Workflow
 - URL: https://docs.sdk.credo.ai/core-concepts/workflow/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-2](c6-2.md), [c6-5](c6-5.md)
 
@@ -146,7 +146,7 @@ Every source the Credo AI cells cite, with its tier from the atlas source regist
 
 - Title: SDK: Risks
 - URL: https://docs.sdk.credo.ai/core-concepts/risks/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-7](c6-7.md)
 
@@ -154,7 +154,7 @@ Every source the Credo AI cells cite, with its tier from the atlas source regist
 
 - Title: SDK: Use Cases
 - URL: https://docs.sdk.credo.ai/core-concepts/use-cases/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c6-5](c6-5.md)
 
@@ -162,7 +162,7 @@ Every source the Credo AI cells cite, with its tier from the atlas source regist
 
 - Title: SDK: Vendors
 - URL: https://docs.sdk.credo.ai/core-concepts/vendors/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-12](c6-12.md)
 
@@ -170,7 +170,7 @@ Every source the Credo AI cells cite, with its tier from the atlas source regist
 
 - Title: SDK: Working with Models
 - URL: https://docs.sdk.credo.ai/core-concepts/models/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-3](c7-3.md)
 
@@ -178,7 +178,7 @@ Every source the Credo AI cells cite, with its tier from the atlas source regist
 
 - Title: Credo AI Connect quickstart
 - URL: https://credo-connect.readthedocs.io/en/latest/notebooks/quickstart.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c6-3](c6-3.md), [c7-3](c7-3.md)
 
@@ -186,7 +186,7 @@ Every source the Credo AI cells cite, with its tier from the atlas source regist
 
 - Title: The era of AI agents has arrived (Agent Registry announcement)
 - URL: https://www.credo.ai/blog/the-era-of-ai-agents-has-arrived--and-your-governance-strategy-needs-to-catch-up
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c5-1](c5-1.md), [c5-2](c5-2.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c7-1](c7-1.md)
 
@@ -194,7 +194,7 @@ Every source the Credo AI cells cite, with its tier from the atlas source regist
 
 - Title: Announcing general availability of GAIA
 - URL: https://www.credo.ai/blog/announcing-general-availability-of-govern-ai-assistant-gaia-credo-ais-ai-governance-agent
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md), [c6-2](c6-2.md), [c6-7](c6-7.md)
 
@@ -210,7 +210,7 @@ Every source the Credo AI cells cite, with its tier from the atlas source regist
 
 - Title: Credo AI Product
 - URL: https://www.credo.ai/product
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c1-3](c1-3.md), [c2-7](c2-7.md), [c5-3](c5-3.md), [c6-13](c6-13.md)
 
@@ -218,7 +218,7 @@ Every source the Credo AI cells cite, with its tier from the atlas source regist
 
 - Title: SOC 2 Type II Compliance
 - URL: https://www.credo.ai/legal/soc-2-type-ii-compliance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -226,7 +226,7 @@ Every source the Credo AI cells cite, with its tier from the atlas source regist
 
 - Title: SDK data types: use case
 - URL: https://docs.sdk.credo.ai/api-reference/data-types/use-case
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-6](c6-6.md)
 
@@ -234,7 +234,7 @@ Every source the Credo AI cells cite, with its tier from the atlas source regist
 
 - Title: SDK API reference: use case controls
 - URL: https://docs.sdk.credo.ai/api-reference/use-cases/controls
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-6](c6-6.md)
 
@@ -242,7 +242,7 @@ Every source the Credo AI cells cite, with its tier from the atlas source regist
 
 - Title: SDK data types: risk
 - URL: https://docs.sdk.credo.ai/api-reference/data-types/risk
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-9](c6-9.md)
 
@@ -250,7 +250,7 @@ Every source the Credo AI cells cite, with its tier from the atlas source regist
 
 - Title: AI Governance Insights Hub
 - URL: https://www.credo.ai/products/ai-governance-insights-hub
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c5-3](c5-3.md)
 
@@ -258,7 +258,7 @@ Every source the Credo AI cells cite, with its tier from the atlas source regist
 
 - Title: The era of AI agents has arrived
 - URL: https://www.credo.ai/blog/the-era-of-ai-agents-has-arrived--and-your-governance-strategy-needs-to-catch-up
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c1-3](c1-3.md)
 
@@ -266,6 +266,6 @@ Every source the Credo AI cells cite, with its tier from the atlas source regist
 
 - Title: SDK data types: policy control
 - URL: https://docs.sdk.credo.ai/api-reference/data-types/policy-control
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-9](c6-9.md)

@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id forcepoint"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Forcepoint data security for AI: AI Data Security (launched 22 July 2026, with the AI Agent Gateway, AIDR and shadow AI controls rolling out over the following quarter), DSPM (formerly Getvisibility, with AI Mesh), Data Security Cloud DLP and Web Security, and ARIA. Method note: help.forcepoint.com has no AI Data Security documentation set, so agent features rest on forcepoint.com product pages and press releases. Admin docs and release notes for DSPM, Data Security Cloud, Web Security Cloud (to Portal 26.09) and DLP 10.4.x covering the last 12 months were read.

@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id promptfoo"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Promptfoo is an open-source LLM eval and red teaming tool with a commercial Enterprise platform, and this research covers the open-source CLI, ModelAudit, code scanning and documented Enterprise features including guardrails and MCP Proxy.

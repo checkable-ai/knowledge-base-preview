@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id arize"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Arize makes LLM and agent observability tools, and this research covers the Arize AX platform (SaaS and self-hosted) and the Phoenix project for tracing, evaluation and monitoring.
@@ -27,12 +27,13 @@ Column group: Observability and evaluation. Facts are agent-run. Cells listed as
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 4 |
-| not-covered | 42 |
+| covered | 8 |
+| not-covered | 38 |
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 5 |
+| verified | 41 |
 
 ## Products
 
@@ -49,23 +50,23 @@ Column group: Observability and evaluation. Facts are agent-run. Cells listed as
 | [Credential Brokerage](c4-2.md) | Identity | not-covered | verified | yes |
 | [Delegation (OBO)](c4-3.md) | Identity | not-covered | verified | yes |
 | [A2A](c4-4.md) | Identity | not-covered | verified | yes |
-| [Agent Local Scopes](c1-1.md) | Authorisation | not-covered | verified | yes |
-| [Agent Remote Scopes](c1-2.md) | Authorisation | not-covered | verified | yes |
+| [Agent Local Scopes](c1-1.md) | Authorisation | not-covered | agent-checked | yes |
+| [Agent Remote Scopes](c1-2.md) | Authorisation | not-covered | agent-checked | yes |
 | [Human Approval](c1-3.md) | Authorisation | not-covered | verified | yes |
-| [Agent Provisioning](c1-4.md) | Authorisation | not-covered | verified | yes |
+| [Agent Provisioning](c1-4.md) | Authorisation | covered | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | not-covered | verified | yes |
-| [Inference](c2-2.md) | Runtime | not-covered | verified | yes |
-| [Execution Environment](c2-3.md) | Runtime | not-covered | verified | yes |
-| [Agent In-Session Memory](c2-4.md) | Runtime | not-covered | verified | yes |
-| [Harness](c2-5.md) | Runtime | not-covered | verified | yes |
-| [Agent Persistent Memory](c2-6.md) | Runtime | not-covered | verified | yes |
+| [Inference](c2-2.md) | Runtime | not-covered | agent-checked | yes |
+| [Execution Environment](c2-3.md) | Runtime | covered | verified | yes |
+| [Agent In-Session Memory](c2-4.md) | Runtime | covered | verified | yes |
+| [Harness](c2-5.md) | Runtime | covered | verified | yes |
+| [Agent Persistent Memory](c2-6.md) | Runtime | not-covered | agent-checked | yes |
 | [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | verified | yes |
 | [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [HITL](c5-1.md) | Observability & Explainability | covered | verified | yes |
-| [Behavioural](c5-2.md) | Observability & Explainability | covered | verified | yes |
+| [Behavioural](c5-2.md) | Observability & Explainability | covered | agent-checked | yes |
 | [Cost & Yield](c5-3.md) | Observability & Explainability | not-covered | verified | yes |
 | [Infrastructure](c5-4.md) | Observability & Explainability | not-covered | verified | yes |
 | [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |

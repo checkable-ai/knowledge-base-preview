@@ -11,6 +11,14 @@ tags:
   - "ai-gateways"
   - "sources"
 sources:
+  - id: "confirm-2ae91aacd279"
+    resource: "https://developer.konghq.com/ai-management/roles-and-permissions/"
+    locator: "registry entry"
+    tier: null
+  - id: "confirm-44da611b609e"
+    resource: "https://developer.konghq.com/identity/token-vault/"
+    locator: "registry entry"
+    tier: null
   - id: "kong-ai-gateway-01"
     resource: "https://developer.konghq.com/ai-gateway/"
     locator: "registry entry"
@@ -153,16 +161,32 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Kong AI Gateway cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Kong AI Gateway cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### confirm-2ae91aacd279
+
+- Title: Quoted by the confirm agents
+- URL: https://developer.konghq.com/ai-management/roles-and-permissions/
+- Source tier: not yet rated
+- Checked: not recorded
+- Cited by: [c6-2](c6-2.md)
+
+### confirm-44da611b609e
+
+- Title: Quoted by the confirm agents
+- URL: https://developer.konghq.com/identity/token-vault/
+- Source tier: not yet rated
+- Checked: not recorded
+- Cited by: [c4-2](c4-2.md)
 
 ### kong-ai-gateway-01
 
 - Title: Kong AI Gateway
 - URL: https://developer.konghq.com/ai-gateway/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-1](c3-1.md), [c3-4](c3-4.md), [c5-4](c5-4.md)
 
@@ -170,7 +194,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: Kong Introduces MCP Registry (press release, 2 February 2026)
 - URL: https://www.konghq.com/company/press-room/press-release/kong-introduces-mcp-registry
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md), [c6-11](c6-11.md), [c6-12](c6-12.md), [c6-2](c6-2.md), [c6-6](c6-6.md)
 
@@ -178,7 +202,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: AI MCP Server entity
 - URL: https://developer.konghq.com/ai-gateway/entities/ai-mcp-server/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md)
 
@@ -186,7 +210,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: AI Auth Strategy entity
 - URL: https://developer.konghq.com/ai-gateway/entities/ai-auth-strategy/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md)
 
@@ -194,7 +218,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: Route A2A agent traffic through AI Gateway
 - URL: https://developer.konghq.com/ai-gateway/get-started-with-ai-agent/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-4](c4-4.md)
 
@@ -202,7 +226,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: AI PII Sanitizer policy
 - URL: https://developer.konghq.com/ai-gateway/policies/ai-sanitizer/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c6-10](c6-10.md)
 
@@ -210,7 +234,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: AI Rate Limiting Advanced policy
 - URL: https://developer.konghq.com/ai-gateway/policies/ai-rate-limiting-advanced/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -218,7 +242,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: AI Semantic Prompt Guard policy
 - URL: https://developer.konghq.com/ai-gateway/policies/ai-semantic-prompt-guard/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -226,7 +250,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: AI Agent entity
 - URL: https://developer.konghq.com/ai-gateway/entities/ai-agent/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-4](c3-4.md), [c4-1](c4-1.md), [c4-4](c4-4.md)
 
@@ -234,7 +258,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: AI Model entity
 - URL: https://developer.konghq.com/ai-gateway/entities/ai-model/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-8](c6-8.md)
 
@@ -242,7 +266,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: Model cost management
 - URL: https://developer.konghq.com/ai-gateway/model-cost-management/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md)
 
@@ -250,7 +274,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: AI Consumer Group entity
 - URL: https://developer.konghq.com/ai-gateway/entities/ai-consumer-group/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-4](c6-4.md)
 
@@ -258,7 +282,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: MCP Registries in Catalog
 - URL: https://developer.konghq.com/catalog/mcp-registry/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c6-2](c6-2.md)
 
@@ -266,7 +290,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: Konnect and Dev Portal audit logs
 - URL: https://developer.konghq.com/konnect-platform/audit-logs/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md), [c6-11](c6-11.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -274,7 +298,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: Identify AI Consumers with Kong Identity
 - URL: https://developer.konghq.com/ai-gateway/identify-ai-consumers-with-kong-identity/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c5-3](c5-3.md)
 
@@ -282,7 +306,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: Konnect Catalog
 - URL: https://developer.konghq.com/catalog/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-12](c6-12.md), [c6-3](c6-3.md)
 
@@ -290,7 +314,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: Monitor AI LLM metrics
 - URL: https://developer.konghq.com/ai-gateway/monitor-ai-llm-metrics/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md), [c5-4](c5-4.md)
 
@@ -298,7 +322,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: AI Gateway audit log reference
 - URL: https://developer.konghq.com/ai-gateway/ai-audit-log-reference/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -306,7 +330,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: MCP servers in Catalog
 - URL: https://developer.konghq.com/catalog/mcp-servers/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c6-3](c6-3.md), [c6-6](c6-6.md), [c6-8](c6-8.md)
 
@@ -314,7 +338,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: Agents in Catalog (beta)
 - URL: https://developer.konghq.com/catalog/agents/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md)
 
@@ -322,7 +346,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: AI MCP OAuth2 plugin
 - URL: https://developer.konghq.com/plugins/ai-mcp-oauth2/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -330,7 +354,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: AI MCP OAuth2 token exchange example
 - URL: https://developer.konghq.com/plugins/ai-mcp-oauth2/examples/token-exchange/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -338,7 +362,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: Konnect teams and roles
 - URL: https://developer.konghq.com/konnect-platform/teams-and-roles/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c6-2](c6-2.md)
 
@@ -346,7 +370,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: Manage AI Gateway with kongctl
 - URL: https://developer.konghq.com/ai-gateway/kongctl/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c6-4](c6-4.md), [c6-8](c6-8.md)
 
@@ -354,7 +378,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: AI RAG Injector plugin
 - URL: https://developer.konghq.com/plugins/ai-rag-injector/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c7-8](c7-8.md)
 
@@ -362,7 +386,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: AI LLM as Judge policy
 - URL: https://developer.konghq.com/ai-gateway/policies/ai-llm-as-judge/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md)
 
@@ -370,7 +394,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: Konnect geographic regions
 - URL: https://developer.konghq.com/konnect-platform/geos/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md)
 
@@ -378,7 +402,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: Secure External MCP Gateway cookbook
 - URL: https://developer.konghq.com/cookbooks/secure-external-mcp-gateway/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c7-5](c7-5.md)
 
@@ -386,7 +410,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: Kong AI Gateway product page
 - URL: https://konghq.com/products/kong-ai-gateway
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md)
 
@@ -394,7 +418,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: AI Gateway changelog
 - URL: https://developer.konghq.com/ai-gateway/changelog/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c4-2](c4-2.md), [c7-2](c7-2.md)
 
@@ -402,7 +426,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: AI Vault entity
 - URL: https://developer.konghq.com/ai-gateway/entities/ai-vault/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -410,7 +434,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: AI GCP Model Armor policy
 - URL: https://developer.konghq.com/ai-gateway/policies/ai-gcp-model-armor/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -418,7 +442,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: Konnect Catalog Classic
 - URL: https://developer.konghq.com/catalog-classic/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-3](c6-3.md)
 
@@ -426,7 +450,7 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: Control MCP tool access with AI Consumer and AI Consumer Group ACLs
 - URL: https://developer.konghq.com/ai-gateway/use-access-controls-for-mcp-tools/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -434,6 +458,6 @@ Every source the Kong AI Gateway cells cite, with its tier from the atlas source
 
 - Title: Kong Inc. Trust Center
 - URL: https://trust.konghq.com
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

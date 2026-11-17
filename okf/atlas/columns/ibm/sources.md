@@ -221,16 +221,16 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the IBM watsonx cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the IBM watsonx cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-144c99424c99
 
 - Title: Quoted by the confirm agents
 - URL: https://www.ibm.com/docs/en/watsonx/watson-orchestrate/base?topic=workflows-adding-user-activities
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-1](c5-1.md)
 
@@ -238,7 +238,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Quoted by the confirm agents
 - URL: https://www.ibm.com/new/announcements/new-in-ibm-watsonx-governance-govern-ai-agents-as-you-build-expand-accountability-and-streamline-compliance
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-11](c6-11.md)
 
@@ -246,7 +246,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Quoted by the confirm agents
 - URL: https://www.ibm.com/docs/en/watsonx/saas?topic=watsonx-security-foundation-models
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-2](c2-2.md)
 
@@ -254,7 +254,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Quoted by the confirm agents
 - URL: https://www.ibm.com/docs/en/watsonx/saas?topic=governing-ai
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-3](c6-3.md), [c6-5](c6-5.md), [c6-7](c6-7.md)
 
@@ -262,7 +262,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Quoted by the confirm agents
 - URL: https://www.ibm.com/docs/en/watsonx/w-and-w/2.4.x?topic=solution-model-risk-governance-workflows
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-2](c6-2.md)
 
@@ -270,7 +270,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Quoted by the confirm agents
 - URL: https://www.ibm.com/docs/en/watsonx/w-and-w/2.2.0?topic=ai-using-governed-agentic-catalog
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-1](c6-1.md)
 
@@ -278,7 +278,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Why use connections (watsonx Orchestrate ADK)
 - URL: https://developer.watson-orchestrate.ibm.com/connections/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-5](c2-5.md), [c3-3](c3-3.md), [c4-2](c4-2.md), [c4-3](c4-3.md), [c7-8](c7-8.md)
 
@@ -286,7 +286,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Credentials overview (watsonx Orchestrate)
 - URL: https://www.ibm.com/docs/en/SSAVQO/manage/credentials.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -294,7 +294,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: OAuth2 token lifecycle and required scopes
 - URL: https://developer.watson-orchestrate.ibm.com/connections/oauth2_token_lifecycle
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c4-2](c4-2.md)
 
@@ -302,7 +302,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Configuring SSO for Workday by using OAuth On-Behalf-Of flow
 - URL: https://developer.watson-orchestrate.ibm.com/tutorials/workday_sso_connections/sso-diagram-concepts
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-3](c4-3.md)
 
@@ -310,7 +310,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Connect to external agents
 - URL: https://developer.watson-orchestrate.ibm.com/agents/connect_agent
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c4-4](c4-4.md)
 
@@ -318,7 +318,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Managing controls
 - URL: https://developer.watson-orchestrate.ibm.com/controls/managing_controls
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-1](c3-1.md), [c3-2](c3-2.md), [c3-3](c3-3.md), [c3-4](c3-4.md), [c7-8](c7-8.md)
 
@@ -326,7 +326,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Plug-ins
 - URL: https://developer.watson-orchestrate.ibm.com/plugins/plugins
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c3-3](c3-3.md)
 
@@ -334,7 +334,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Configuring model policies (Public preview)
 - URL: https://developer.watson-orchestrate.ibm.com/llm/model_policies
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c3-1](c3-1.md)
 
@@ -342,7 +342,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Managing virtual models
 - URL: https://developer.watson-orchestrate.ibm.com/llm/managing_llm
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md)
 
@@ -350,7 +350,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Importing and deploying agents
 - URL: https://developer.watson-orchestrate.ibm.com/agents/import_agent
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c6-5](c6-5.md), [c6-8](c6-8.md)
 
@@ -358,7 +358,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Authoring native agents
 - URL: https://developer.watson-orchestrate.ibm.com/agents/build_agent
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c3-4](c3-4.md)
 
@@ -366,7 +366,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Authoring Python-Based Tools
 - URL: https://developer.watson-orchestrate.ibm.com/tools/create_tool
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c1-3](c1-3.md), [c2-3](c2-3.md), [c2-5](c2-5.md), [c7-4](c7-4.md), [c7-5](c7-5.md)
 
@@ -374,7 +374,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Importing remote MCP toolkits
 - URL: https://developer.watson-orchestrate.ibm.com/tools/toolkits/remote_mcp_toolkits
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md)
 
@@ -382,7 +382,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Importing local MCP toolkits
 - URL: https://developer.watson-orchestrate.ibm.com/tools/toolkits/local_mcp_toolkits
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-5](c2-5.md)
 
@@ -390,7 +390,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: User activity node
 - URL: https://developer.watson-orchestrate.ibm.com/tools/flows/user_activities_node
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c5-1](c5-1.md)
 
@@ -398,7 +398,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Traces overview
 - URL: https://developer.watson-orchestrate.ibm.com/traces/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-4](c5-4.md), [c7-1](c7-1.md)
 
@@ -406,7 +406,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Monitoring your LLMs with Langfuse
 - URL: https://developer.watson-orchestrate.ibm.com/llm/observability
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-2](c7-2.md)
 
@@ -414,7 +414,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: LLM agent vulnerability testing
 - URL: https://developer.watson-orchestrate.ibm.com/evaluate/llm_vulnerability
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-10](c7-10.md)
 
@@ -422,7 +422,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Evaluation framework overview
 - URL: https://developer.watson-orchestrate.ibm.com/evaluate/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md)
 
@@ -430,7 +430,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Context (SDK context compression)
 - URL: https://developer.watson-orchestrate.ibm.com/sdk/context
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md)
 
@@ -438,7 +438,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Workspaces overview
 - URL: https://developer.watson-orchestrate.ibm.com/workspaces/overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md)
 
@@ -446,7 +446,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Activity tracking events on IBM Cloud (watsonx Orchestrate)
 - URL: https://www.ibm.com/docs/en/SSAVQO/security/activity_tracker.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -454,7 +454,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Roles in IBM watsonx Orchestrate
 - URL: https://www.ibm.com/docs/en/watsonx/watson-orchestrate/base?topic=users-roles-watsonx-orchestrate
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c2-4](c2-4.md), [c6-10](c6-10.md)
 
@@ -462,7 +462,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Managing agent memory
 - URL: https://www.ibm.com/docs/en/watsonx/watson-orchestrate/base?topic=memory-managing-agent
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-6](c2-6.md), [c6-10](c6-10.md)
 
@@ -470,7 +470,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Agentic Control Plane
 - URL: https://www.ibm.com/docs/en/watsonx/watson-orchestrate/base?topic=operating-agentic-control-plane
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md), [c5-4](c5-4.md), [c5-5](c5-5.md), [c6-3](c6-3.md)
 
@@ -478,7 +478,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: New in IBM watsonx Orchestrate: Expanded third-party agent management and Agent Identities
 - URL: https://www.ibm.com/new/announcements/new-in-ibm-watsonx-orchestrate-expanded-third-party-agent-management-and-agent-identities
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c3-4](c3-4.md), [c4-1](c4-1.md), [c4-2](c4-2.md), [c5-2](c5-2.md), [c6-12](c6-12.md), [c7-1](c7-1.md), [c7-9](c7-9.md)
 
@@ -486,7 +486,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Using governed agentic catalog (watsonx.governance 2.2.x)
 - URL: https://www.ibm.com/docs/SSLSRPV_2.2.x/wsj/analyze-data/gov-agent-catalog.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c6-12](c6-12.md)
 
@@ -494,7 +494,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Managing agents and tools in the governed agentic catalog (watsonx.governance 2.2.x)
 - URL: https://www.ibm.com/docs/SSLSRPV_2.2.x/wsj/analyze-data/gov-agent-tool-agent-lifecycle.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-2](c6-2.md), [c6-5](c6-5.md)
 
@@ -502,7 +502,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Solution components in Governance console
 - URL: https://www.ibm.com/docs/en/SSLSRPV_latest/svc-watsonxgov/wxgov_reference.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c6-2](c6-2.md), [c6-4](c6-4.md), [c6-6](c6-6.md), [c6-7](c6-7.md)
 
@@ -510,7 +510,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Governing assets with watsonx.governance
 - URL: https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/xgov-overview.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md), [c6-11](c6-11.md), [c6-3](c6-3.md), [c6-5](c6-5.md), [c6-6](c6-6.md), [c6-7](c6-7.md), [c7-3](c7-3.md), [c7-8](c7-8.md)
 
@@ -518,7 +518,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: What's new and changed in watsonx.governance (2.2.x)
 - URL: https://ibm.com/docs/SSLSRPV_2.2.x/fixlist/watsonxgov-fixlist.html
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c6-11](c6-11.md), [c6-12](c6-12.md), [c6-4](c6-4.md), [c7-3](c7-3.md)
 
@@ -526,7 +526,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: What's new for watsonx as a Service
 - URL: https://www.ibm.com/docs/SSYOK8/wsj/getting-started/whats-new-wx.html
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c5-2](c5-2.md), [c6-11](c6-11.md), [c6-2](c6-2.md), [c7-10](c7-10.md), [c7-9](c7-9.md)
 
@@ -534,7 +534,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Model Gateway (watsonx.ai Python SDK 1.7.1)
 - URL: https://ibm.github.io/watsonx-ai-python-sdk/v1.7.1/model_gateway.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -542,7 +542,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Security and privacy for foundation models (watsonx.ai)
 - URL: https://www.ibm.com/docs/en/SSYOK8/wsj/analyze-data/fm-security.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md)
 
@@ -550,7 +550,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: wxO CI/CD Deployment Approach (Part 3)
 - URL: https://developer.watson-orchestrate.ibm.com/tutorials/ci_cd/deployment-cicd-approach-3
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-8](c6-8.md)
 
@@ -558,7 +558,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Switch current agent version of an environment to a new version (API)
 - URL: https://developer.watson-orchestrate.ibm.com/apis/agent-releases/switch-current-agent-version-of-an-environment-to-a-new-version
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-8](c6-8.md)
 
@@ -566,7 +566,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Get list of connections from all tools associated with an agent (API)
 - URL: https://developer.watson-orchestrate.ibm.com/apis/agents/get-list-of-connections-from-all-tools-associated-with-an-agent
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-5](c5-5.md)
 
@@ -574,7 +574,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Logging behavior for Python tools in watsonx Orchestrate
 - URL: https://developer.watson-orchestrate.ibm.com/tools/log_behavior
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md)
 
@@ -582,7 +582,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: MCP tools and integration considerations
 - URL: https://developer.watson-orchestrate.ibm.com/agents/agent_design/mcp_integration
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c1-3](c1-3.md)
 
@@ -590,7 +590,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Security and Privacy by Design (SPbD)
 - URL: https://developer.watson-orchestrate.ibm.com/notices/spbd
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-4](c7-4.md)
 
@@ -598,7 +598,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Create a Python tool
 - URL: https://developer.watson-orchestrate.ibm.com/tools/create_tool
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -606,7 +606,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Cancel an Orchestrate assistant run (API)
 - URL: https://developer.watson-orchestrate.ibm.com/apis/orchestrate-agent/cancel-an-orchestrate-assistant-run
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -614,7 +614,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Undeploy a released agent (API)
 - URL: https://developer.watson-orchestrate.ibm.com/apis/agent-releases/undeploy-a-released-agent
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -622,7 +622,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: IBM Cloud IRAP compliance
 - URL: https://www.ibm.com/cloud/compliance/irap
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -630,7 +630,7 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Regional availability of services and features (watsonx)
 - URL: https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/regional-datactr.html?context=wx
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -638,6 +638,6 @@ Every source the IBM watsonx cells cite, with its tier from the atlas source reg
 
 - Title: Certified service providers, Hosting Certification Framework
 - URL: https://www.hostingcertification.gov.au/certified-service-providers
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id splunk-enterprise-security"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Cisco's Splunk SIEM (ES 8.7, Essentials and Premier editions) with Splunk SOAR, UEBA, Splunk Security Content, its AI agents and Security AI Assistant, the Splunk MCP Server ES tools, and the Observability Cloud AI Agent Monitoring and AI Security Monitoring features that feed agent telemetry into Splunk.
@@ -33,7 +33,8 @@ Column group: Security operations (SIEM, XDR). Facts are agent-run. Cells listed
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 8 |
+| verified | 38 |
 
 ## Products
 
@@ -57,13 +58,13 @@ Column group: Security operations (SIEM, XDR). Facts are agent-run. Cells listed
 | [Agent Local Scopes](c1-1.md) | Authorisation | not-covered | verified | yes |
 | [Agent Remote Scopes](c1-2.md) | Authorisation | covered | verified | yes |
 | [Human Approval](c1-3.md) | Authorisation | covered | verified | yes |
-| [Agent Provisioning](c1-4.md) | Authorisation | not-covered | verified | yes |
+| [Agent Provisioning](c1-4.md) | Authorisation | not-covered | agent-checked | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | not-covered | verified | yes |
 | [Inference](c2-2.md) | Runtime | not-covered | verified | yes |
 | [Execution Environment](c2-3.md) | Runtime | not-covered | verified | yes |
-| [Agent In-Session Memory](c2-4.md) | Runtime | out-of-scope | verified | yes |
-| [Harness](c2-5.md) | Runtime | not-covered | verified | yes |
-| [Agent Persistent Memory](c2-6.md) | Runtime | out-of-scope | verified | yes |
+| [Agent In-Session Memory](c2-4.md) | Runtime | out-of-scope | agent-checked | yes |
+| [Harness](c2-5.md) | Runtime | not-covered | agent-checked | yes |
+| [Agent Persistent Memory](c2-6.md) | Runtime | out-of-scope | agent-checked | yes |
 | [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | verified | yes |
 | [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
@@ -79,21 +80,21 @@ Column group: Security operations (SIEM, XDR). Facts are agent-run. Cells listed
 | [Model Assurance](c7-3.md) | Agentic MLSecOps | out-of-scope | verified | yes |
 | [Runtime Assurance](c7-4.md) | Agentic MLSecOps | out-of-scope | verified | yes |
 | [First-Party Tool Assurance](c7-5.md) | Agentic MLSecOps | out-of-scope | verified | yes |
-| [Third-Party Tool Assurance](c7-6.md) | Agentic MLSecOps | out-of-scope | verified | yes |
+| [Third-Party Tool Assurance](c7-6.md) | Agentic MLSecOps | out-of-scope | agent-checked | yes |
 | [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | out-of-scope | verified | yes |
 | [AI Discovery](c7-9.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | out-of-scope | verified | yes |
 | [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | verified | yes |
 | [Registration & Approval Workflows](c6-2.md) | Governance | out-of-scope | verified | yes |
-| [Posture & Reporting](c6-3.md) | Governance | not-covered | verified | yes |
-| [Policy Management](c6-4.md) | Governance | out-of-scope | verified | yes |
+| [Posture & Reporting](c6-3.md) | Governance | not-covered | agent-checked | yes |
+| [Policy Management](c6-4.md) | Governance | out-of-scope | agent-checked | yes |
 | [AI Lifecycle Management](c6-5.md) | Governance | not-covered | verified | yes |
 | [Ownership & Accountability](c6-6.md) | Governance | not-covered | verified | yes |
 | [Risk Assessment & Classification](c6-7.md) | Governance | not-covered | verified | yes |
 | [Change & Release Governance](c6-8.md) | Governance | out-of-scope | verified | yes |
 | [Exceptions & Risk Acceptance](c6-9.md) | Governance | out-of-scope | verified | yes |
 | [Data Lifecycle Governance](c6-10.md) | Governance | not-covered | verified | yes |
-| [Assurance & Compliance Evidence](c6-11.md) | Governance | not-covered | verified | yes |
+| [Assurance & Compliance Evidence](c6-11.md) | Governance | not-covered | agent-checked | yes |
 | [Third-Party Governance](c6-12.md) | Governance | out-of-scope | verified | yes |
 | [Independent Assurance & Authorisation](c6-13.md) | Governance | covered | verified | yes |
 

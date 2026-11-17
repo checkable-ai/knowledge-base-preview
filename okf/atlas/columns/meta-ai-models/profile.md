@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id meta-ai-models"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Meta's hosted Meta Model API (Muse Spark, Muse Image, Muse Voice Transcribe, SAM 3.1), the Muse Code agent CLI, the open-weight Llama and Muse Glimmer models, and the Purple Llama safeguard tools (Llama Guard, Prompt Guard, LlamaFirewall, CodeShield, CyberSecEval).
@@ -27,13 +27,15 @@ Column group: Frontier AI providers. Facts are agent-run. Cells listed as eligib
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 11 |
-| not-covered | 29 |
+| covered | 9 |
+| not-covered | 28 |
 | out-of-scope | 6 |
+| partial | 3 |
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 3 |
+| verified | 43 |
 
 ## Products
 
@@ -59,18 +61,18 @@ Column group: Frontier AI providers. Facts are agent-run. Cells listed as eligib
 | [Human Approval](c1-3.md) | Authorisation | covered | verified | yes |
 | [Agent Provisioning](c1-4.md) | Authorisation | not-covered | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | covered | verified | yes |
-| [Inference](c2-2.md) | Runtime | not-covered | verified | yes |
+| [Inference](c2-2.md) | Runtime | partial | verified | yes |
 | [Execution Environment](c2-3.md) | Runtime | covered | verified | yes |
 | [Agent In-Session Memory](c2-4.md) | Runtime | covered | verified | yes |
 | [Harness](c2-5.md) | Runtime | covered | verified | yes |
 | [Agent Persistent Memory](c2-6.md) | Runtime | covered | verified | yes |
-| [Execution Containment & Kill Switch](c2-7.md) | Runtime | covered | verified | yes |
+| [Execution Containment & Kill Switch](c2-7.md) | Runtime | partial | agent-checked | yes |
 | [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
-| [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
+| [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | not-covered | agent-checked | yes |
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | covered | verified | yes |
 | [HITL](c5-1.md) | Observability & Explainability | not-covered | verified | yes |
-| [Behavioural](c5-2.md) | Observability & Explainability | covered | verified | yes |
+| [Behavioural](c5-2.md) | Observability & Explainability | partial | verified | yes |
 | [Cost & Yield](c5-3.md) | Observability & Explainability | not-covered | verified | yes |
 | [Infrastructure](c5-4.md) | Observability & Explainability | not-covered | verified | yes |
 | [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |
@@ -80,7 +82,7 @@ Column group: Frontier AI providers. Facts are agent-run. Cells listed as eligib
 | [Runtime Assurance](c7-4.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [First-Party Tool Assurance](c7-5.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Third-Party Tool Assurance](c7-6.md) | Agentic MLSecOps | not-covered | verified | yes |
-| [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | out-of-scope | verified | yes |
+| [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | out-of-scope | agent-checked | yes |
 | [AI Discovery](c7-9.md) | Agentic MLSecOps | out-of-scope | verified | yes |
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | verified | yes |

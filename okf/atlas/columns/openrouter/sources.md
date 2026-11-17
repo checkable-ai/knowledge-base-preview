@@ -11,6 +11,10 @@ tags:
   - "model-hosting"
   - "sources"
 sources:
+  - id: "confirm-004424a3a690"
+    resource: "https://openrouter.ai/docs/guides/features/zdr"
+    locator: "registry entry"
+    tier: null
   - id: "confirm-237f6dbe16a0"
     resource: "https://openrouter.ai/docs/guides/privacy/data-collection"
     locator: "registry entry"
@@ -97,16 +101,24 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the OpenRouter cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the OpenRouter cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+
+### confirm-004424a3a690
+
+- Title: Quoted by the confirm agents
+- URL: https://openrouter.ai/docs/guides/features/zdr
+- Source tier: not yet rated
+- Checked: not recorded
+- Cited by: [c2-2](c2-2.md)
 
 ### confirm-237f6dbe16a0
 
 - Title: Quoted by the confirm agents
 - URL: https://openrouter.ai/docs/guides/privacy/data-collection
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-10](c6-10.md)
 
@@ -114,7 +126,7 @@ Every source the OpenRouter cells cite, with its tier from the atlas source regi
 
 - Title: Quoted by the confirm agents
 - URL: https://openrouter.ai/docs/guides/features/guardrails
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c3-1](c3-1.md)
 
@@ -122,7 +134,7 @@ Every source the OpenRouter cells cite, with its tier from the atlas source regi
 
 - Title: Guardrails
 - URL: https://openrouter.ai/docs/guides/features/guardrails.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c1-2](c1-2.md), [c2-7](c2-7.md), [c3-1](c3-1.md), [c3-3](c3-3.md), [c5-3](c5-3.md), [c6-12](c6-12.md), [c6-2](c6-2.md), [c6-4](c6-4.md)
 
@@ -130,7 +142,7 @@ Every source the OpenRouter cells cite, with its tier from the atlas source regi
 
 - Title: Data Collection
 - URL: https://openrouter.ai/docs/guides/privacy/data-collection.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-10](c6-10.md)
 
@@ -138,7 +150,7 @@ Every source the OpenRouter cells cite, with its tier from the atlas source regi
 
 - Title: Zero Data Retention
 - URL: https://openrouter.ai/docs/guides/features/zdr.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md), [c6-12](c6-12.md)
 
@@ -146,7 +158,7 @@ Every source the OpenRouter cells cite, with its tier from the atlas source regi
 
 - Title: Management API Keys
 - URL: https://openrouter.ai/docs/guides/overview/auth/management-api-keys.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c1-4](c1-4.md), [c2-7](c2-7.md), [c4-2](c4-2.md)
 
@@ -154,7 +166,7 @@ Every source the OpenRouter cells cite, with its tier from the atlas source regi
 
 - Title: Security settings
 - URL: https://openrouter.ai/docs/guides/overview/auth/security-settings.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c4-2](c4-2.md)
 
@@ -162,7 +174,7 @@ Every source the OpenRouter cells cite, with its tier from the atlas source regi
 
 - Title: SCIM Group Mappings
 - URL: https://openrouter.ai/docs/guides/features/scim-mappings.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c1-4](c1-4.md), [c7-1](c7-1.md)
 
@@ -170,7 +182,7 @@ Every source the OpenRouter cells cite, with its tier from the atlas source regi
 
 - Title: Workload Identity Federation
 - URL: https://openrouter.ai/docs/guides/overview/auth/workload-identity-federation.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md), [c4-1](c4-1.md), [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -178,7 +190,7 @@ Every source the OpenRouter cells cite, with its tier from the atlas source regi
 
 - Title: Workspaces
 - URL: https://openrouter.ai/docs/guides/features/workspaces.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c3-1](c3-1.md), [c4-1](c4-1.md), [c6-4](c6-4.md)
 
@@ -186,7 +198,7 @@ Every source the OpenRouter cells cite, with its tier from the atlas source regi
 
 - Title: Broadcast
 - URL: https://openrouter.ai/docs/guides/features/broadcast.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c4-1](c4-1.md), [c4-3](c4-3.md), [c5-4](c5-4.md), [c7-2](c7-2.md)
 
@@ -194,7 +206,7 @@ Every source the OpenRouter cells cite, with its tier from the atlas source regi
 
 - Title: In-Region Routing
 - URL: https://openrouter.ai/docs/guides/features/in-region-routing.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-2](c2-2.md)
 
@@ -202,7 +214,7 @@ Every source the OpenRouter cells cite, with its tier from the atlas source regi
 
 - Title: Presets
 - URL: https://openrouter.ai/docs/guides/features/presets.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-8](c6-8.md)
 
@@ -210,7 +222,7 @@ Every source the OpenRouter cells cite, with its tier from the atlas source regi
 
 - Title: Prompt Injection Detection
 - URL: https://openrouter.ai/docs/guides/features/guardrails/prompt-injection.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c3-1](c3-1.md), [c7-2](c7-2.md)
 
@@ -218,7 +230,7 @@ Every source the OpenRouter cells cite, with its tier from the atlas source regi
 
 - Title: Tool Approval and State Persistence
 - URL: https://openrouter.ai/docs/agent-sdk/call-model/tool-approval-state.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c1-3](c1-3.md), [c2-1](c2-1.md), [c2-4](c2-4.md), [c2-5](c2-5.md)
 
@@ -226,7 +238,7 @@ Every source the OpenRouter cells cite, with its tier from the atlas source regi
 
 - Title: Logs
 - URL: https://openrouter.ai/docs/guides/features/logs.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c5-3](c5-3.md), [c5-4](c5-4.md), [c7-1](c7-1.md)
 
@@ -234,7 +246,7 @@ Every source the OpenRouter cells cite, with its tier from the atlas source regi
 
 - Title: Private Endpoints
 - URL: https://openrouter.ai/docs/guides/routing/private-endpoints.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c1-4](c1-4.md), [c2-2](c2-2.md), [c6-2](c6-2.md)
 
@@ -242,7 +254,7 @@ Every source the OpenRouter cells cite, with its tier from the atlas source regi
 
 - Title: Model Fallbacks
 - URL: https://openrouter.ai/docs/guides/routing/model-fallbacks.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-1](c2-1.md), [c2-2](c2-2.md)
 
@@ -250,7 +262,7 @@ Every source the OpenRouter cells cite, with its tier from the atlas source regi
 
 - Title: Sovereign AI
 - URL: https://openrouter.ai/docs/guides/features/sovereign-ai.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-10](c6-10.md), [c6-13](c6-13.md)
 
@@ -258,7 +270,7 @@ Every source the OpenRouter cells cite, with its tier from the atlas source regi
 
 - Title: OpenRouter Trust Center
 - URL: https://trust.openrouter.ai/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -266,6 +278,6 @@ Every source the OpenRouter cells cite, with its tier from the atlas source regi
 
 - Title: OpenRouter documentation index
 - URL: https://openrouter.ai/docs/_llms/docs.txt
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-5](c2-5.md)

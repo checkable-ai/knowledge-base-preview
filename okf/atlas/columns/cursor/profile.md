@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id cursor"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 AI code editor by Anysphere with local IDE and CLI agents and Cloud Agents, covering Teams and Enterprise admin, security and telemetry controls.

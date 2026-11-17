@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id microsoft-sentinel"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Microsoft cloud SIEM and SOAR run from the Defender portal, and this research covers Sentinel SIEM, the Sentinel data lake and graph, and the Sentinel MCP server, with Defender XDR and Purview noted only where they feed Sentinel.
@@ -33,7 +33,8 @@ Column group: Security operations (SIEM, XDR). Facts are agent-run. Cells listed
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 1 |
+| verified | 45 |
 
 ## Products
 
@@ -81,7 +82,7 @@ Column group: Security operations (SIEM, XDR). Facts are agent-run. Cells listed
 | [AI Discovery](c7-9.md) | Agentic MLSecOps | covered | verified | yes |
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | out-of-scope | verified | yes |
 | [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | verified | yes |
-| [Registration & Approval Workflows](c6-2.md) | Governance | out-of-scope | verified | yes |
+| [Registration & Approval Workflows](c6-2.md) | Governance | out-of-scope | agent-checked | yes |
 | [Posture & Reporting](c6-3.md) | Governance | not-covered | verified | yes |
 | [Policy Management](c6-4.md) | Governance | out-of-scope | verified | yes |
 | [AI Lifecycle Management](c6-5.md) | Governance | out-of-scope | verified | yes |

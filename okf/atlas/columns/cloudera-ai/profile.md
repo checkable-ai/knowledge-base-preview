@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id cloudera-ai"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Cloudera AI (formerly Cloudera Machine Learning) on Cloudera on Cloud and Data Services on premises 1.5.5, covering Agent Studio (2.2.0 to 3.0.0), Cloudera AI Inference service, Cloudera AI Registry and the Cloudera AI Workbench controls that apply to them.
@@ -32,7 +32,8 @@ Column group: Data and AI platforms. Facts are agent-run. Cells listed as eligib
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 1 |
+| verified | 45 |
 
 ## Products
 
@@ -69,7 +70,7 @@ Column group: Data and AI platforms. Facts are agent-run. Cells listed as eligib
 | [HITL](c5-1.md) | Observability & Explainability | not-covered | verified | yes |
 | [Behavioural](c5-2.md) | Observability & Explainability | not-covered | verified | yes |
 | [Cost & Yield](c5-3.md) | Observability & Explainability | not-covered | verified | yes |
-| [Infrastructure](c5-4.md) | Observability & Explainability | not-covered | verified | yes |
+| [Infrastructure](c5-4.md) | Observability & Explainability | not-covered | agent-checked | yes |
 | [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |
 | [Administrative Audit](c7-1.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [SOC Telemetry](c7-2.md) | Agentic MLSecOps | not-covered | verified | yes |

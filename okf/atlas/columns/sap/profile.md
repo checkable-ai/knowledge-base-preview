@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id sap"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 SAP's enterprise AI stack, covering Joule and Joule Agents (content-based, Joule Studio and bring-your-own A2A agents), SAP AI Core with the generative AI hub and orchestration service, SAP AI Launchpad, and the governance layer SAP describes for agents (SAP Agent Gateway, SAP AI Agent Hub on SAP LeanIX).
@@ -32,7 +32,8 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 2 |
+| verified | 44 |
 
 ## Products
 
@@ -51,7 +52,7 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | [Agent ID](c4-1.md) | Identity | not-covered | verified | yes |
 | [Credential Brokerage](c4-2.md) | Identity | not-covered | verified | yes |
 | [Delegation (OBO)](c4-3.md) | Identity | not-covered | verified | yes |
-| [A2A](c4-4.md) | Identity | not-covered | verified | yes |
+| [A2A](c4-4.md) | Identity | not-covered | agent-checked | yes |
 | [Agent Local Scopes](c1-1.md) | Authorisation | not-covered | verified | yes |
 | [Agent Remote Scopes](c1-2.md) | Authorisation | not-covered | verified | yes |
 | [Human Approval](c1-3.md) | Authorisation | not-covered | verified | yes |
@@ -66,7 +67,7 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | covered | verified | yes |
 | [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
-| [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
+| [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | not-covered | agent-checked | yes |
 | [HITL](c5-1.md) | Observability & Explainability | not-covered | verified | yes |
 | [Behavioural](c5-2.md) | Observability & Explainability | not-covered | verified | yes |
 | [Cost & Yield](c5-3.md) | Observability & Explainability | not-covered | verified | yes |

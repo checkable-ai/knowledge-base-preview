@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id upguard"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 UpGuard's cyber risk posture platform, covering Vendor Risk, Breach Risk, User Risk (shadow AI and human risk), Trust Exchange and Risk Automations, as documented at October 2026.

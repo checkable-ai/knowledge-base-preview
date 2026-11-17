@@ -181,16 +181,16 @@ sources:
     tier: null
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Cisco AI Defense cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Cisco AI Defense cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### cisco-ai-defense-03
 
 - Title: Guardrails and Rules
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/105473.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md)
 
@@ -198,7 +198,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Policies for Runtime Protection
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/105495.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-4](c6-4.md)
 
@@ -206,7 +206,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Set up Runtime for Gateway Interception
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/105487.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md)
 
@@ -214,7 +214,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Set up Runtime for the Inspection API
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/105486.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md)
 
@@ -222,7 +222,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Monitor AI Threats and Events
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/105476.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md)
 
@@ -230,7 +230,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: View AI Runtime Events
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/169233.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md)
 
@@ -238,7 +238,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: MCP Scanning
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/168859.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md), [c6-12](c6-12.md), [c6-2](c6-2.md), [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -246,7 +246,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: MCP Runtime Guardrails
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/168860.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c3-2](c3-2.md)
 
@@ -254,7 +254,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Model Scanning
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/140209.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c7-3](c7-3.md)
 
@@ -262,7 +262,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: AI Bill of Materials
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/171092.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-3](c7-3.md), [c7-4](c7-4.md)
 
@@ -270,7 +270,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: AI Inventory
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/169322.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c7-9](c7-9.md)
 
@@ -278,7 +278,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: AI Red Teaming
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/97395.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c6-11](c6-11.md), [c7-10](c7-10.md)
 
@@ -286,7 +286,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: AI Red Teaming Targets
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/170179.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-10](c7-10.md)
 
@@ -294,7 +294,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: AI Defense Release Notes
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/168305.dita
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c2-5](c2-5.md), [c3-1](c3-1.md), [c3-2](c3-2.md), [c4-3](c4-3.md), [c5-2](c5-2.md), [c5-5](c5-5.md), [c6-1](c6-1.md), [c6-2](c6-2.md), [c6-3](c6-3.md), [c6-6](c6-6.md), [c6-8](c6-8.md), [c7-10](c7-10.md), [c7-2](c7-2.md), [c7-5](c7-5.md), [c7-6](c7-6.md), [c7-9](c7-9.md)
 
@@ -302,7 +302,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Data Handling in AI Defense
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/172843.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md), [c6-10](c6-10.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -310,7 +310,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: ServiceNow AI Control Tower Integration
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/171020.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-1](c6-1.md), [c6-11](c6-11.md), [c6-3](c6-3.md), [c7-8](c7-8.md)
 
@@ -318,7 +318,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Splunk Integration
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/97376.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-2](c7-2.md)
 
@@ -326,7 +326,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Log Export to SIEM via OpenTelemetry
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/171169.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-2](c7-2.md)
 
@@ -334,7 +334,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Users
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/97361.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c6-4](c6-4.md)
 
@@ -342,7 +342,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Projects
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/170600.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-6](c6-6.md), [c6-7](c6-7.md)
 
@@ -350,7 +350,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Policy Studio
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/171224.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-4](c6-4.md), [c6-8](c6-8.md)
 
@@ -358,7 +358,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: DLP Profiles
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/169818.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md)
 
@@ -366,7 +366,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Track AI Application Use
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/97364.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-9](c7-9.md)
 
@@ -374,7 +374,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Secure Access Integration
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/97375.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-3](c3-3.md), [c6-12](c6-12.md)
 
@@ -382,7 +382,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: AI Defense FAQ
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/97372.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-1](c3-1.md), [c4-3](c4-3.md), [c5-1](c5-1.md), [c5-3](c5-3.md)
 
@@ -390,7 +390,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Set Up OAuth to Authenticate Your Workloads
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/171190.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-1](c4-1.md)
 
@@ -398,7 +398,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Gemini Enterprise Agent Cloud Integration
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/171171.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md)
 
@@ -406,7 +406,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Multicloud Defense Visibility
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/105470.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-9](c7-9.md)
 
@@ -414,7 +414,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: CLI Reference
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/161349.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-3](c7-3.md)
 
@@ -438,7 +438,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Understanding Standard Red Teaming Results
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/170183.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-3](c6-3.md), [c6-7](c6-7.md)
 
@@ -446,7 +446,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Set up Runtime for Gateway Interception
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/105487.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -454,7 +454,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Policies for Runtime Protection
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/105495.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -462,7 +462,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: MCP Runtime Guardrails
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/168860.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -470,7 +470,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Data Handling in AI Defense
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/172843.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -478,7 +478,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: AI Defense FAQ
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/97372.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -486,7 +486,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Regional Points of Presence
 - URL: https://securitydocs.cisco.com/docs/ai-def/user/160640.dita
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -494,7 +494,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Quoted by the confirm agents
 - URL: https://www.cisco.com/c/en/us/customer-success/video/demo/cisco-ai-defense-mcp-runtime.html
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c1-2](c1-2.md)
 
@@ -502,7 +502,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Quoted by the confirm agents
 - URL: https://www.cisco.com/site/us/en/products/security/secure-access/ai-access/index.html
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c7-9](c7-9.md)
 
@@ -510,7 +510,7 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Quoted by the confirm agents
 - URL: https://blogs.cisco.com/ai/know-your-ai-stack-introducing-ai-bom-in-cisco-ai-defense
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-1](c6-1.md)
 
@@ -518,6 +518,6 @@ Every source the Cisco AI Defense cells cite, with its tier from the atlas sourc
 
 - Title: Quoted by the confirm agents
 - URL: https://www.cisco.com/c/en/us/products/collateral/security/ai-defense/ai-defense-ds.html
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c6-3](c6-3.md), [c7-2](c7-2.md)

@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id github"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Copilot cloud agent, CLI, SDK and enterprise controls. Repository, client, sandbox and policy boundaries differ.
@@ -27,8 +27,8 @@ Column group: Coding agents. Facts are agent-run. Cells listed as eligible are t
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 16 |
-| not-covered | 30 |
+| covered | 15 |
+| not-covered | 31 |
 
 | Verification state | Cells |
 | --- | --- |
@@ -84,7 +84,7 @@ Column group: Coding agents. Facts are agent-run. Cells listed as eligible are t
 | [AI Lifecycle Management](c6-5.md) | Governance | not-covered | verified | yes |
 | [Ownership & Accountability](c6-6.md) | Governance | not-covered | verified | yes |
 | [Risk Assessment & Classification](c6-7.md) | Governance | not-covered | verified | yes |
-| [Change & Release Governance](c6-8.md) | Governance | covered | verified | yes |
+| [Change & Release Governance](c6-8.md) | Governance | not-covered | verified | yes |
 | [Exceptions & Risk Acceptance](c6-9.md) | Governance | not-covered | verified | yes |
 | [Data Lifecycle Governance](c6-10.md) | Governance | covered | verified | yes |
 | [Assurance & Compliance Evidence](c6-11.md) | Governance | not-covered | verified | yes |

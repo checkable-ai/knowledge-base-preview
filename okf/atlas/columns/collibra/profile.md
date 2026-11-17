@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id collibra"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Collibra AI Command Center (formerly Collibra AI Governance) on the Collibra Platform, covering the AI registry, assessments, lifecycle tracker, AI Trust Score, Control Tower AI controls, Edge AI platform integrations, and the announced Agent Contracts and Guardian Agents.

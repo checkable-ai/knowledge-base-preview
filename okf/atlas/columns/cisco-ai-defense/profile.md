@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id cisco-ai-defense"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Cisco AI Defense SaaS and hybrid, covering AI Inventory, AI Red Teaming (formerly Validation, and the free Explorer Edition), Runtime Protection, Supply Chain Security and the Secure Access AI Access integration. Astrix identity features are outside scope as Cisco is placing them in Identity Intelligence, Duo and Secure Access.

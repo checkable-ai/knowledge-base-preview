@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id chrome-enterprise-premium"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Google's paid enterprise browser security tier, researched with the Chrome Enterprise Core policies and Gemini in Chrome enterprise controls it relies on, from release notes Chrome 141 to 156.
@@ -33,7 +33,8 @@ Column group: AI usage control (SASE, browser, DLP). Facts are agent-run. Cells 
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 1 |
+| verified | 45 |
 
 ## Products
 
@@ -49,7 +50,7 @@ Column group: AI usage control (SASE, browser, DLP). Facts are agent-run. Cells 
 | --- | --- | --- | --- | --- |
 | [Agent ID](c4-1.md) | Identity | not-covered | verified | yes |
 | [Credential Brokerage](c4-2.md) | Identity | not-covered | verified | yes |
-| [Delegation (OBO)](c4-3.md) | Identity | not-covered | verified | yes |
+| [Delegation (OBO)](c4-3.md) | Identity | not-covered | agent-checked | yes |
 | [A2A](c4-4.md) | Identity | not-covered | verified | yes |
 | [Agent Local Scopes](c1-1.md) | Authorisation | not-covered | verified | yes |
 | [Agent Remote Scopes](c1-2.md) | Authorisation | not-covered | verified | yes |

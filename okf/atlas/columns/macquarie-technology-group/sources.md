@@ -65,16 +65,16 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Macquarie Technology Group (Macquarie Government and Cloud Services) cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Macquarie Technology Group (Macquarie Government and Cloud Services) cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### macquarie-technology-group-02
 
 - Title: Launch AI, Macquarie Cloud Services
 - URL: https://www.macquariecloudservices.com/data-ai/launch-ai/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-4](c1-4.md), [c2-2](c2-2.md), [c2-3](c2-3.md), [c3-1](c3-1.md), [c3-3](c3-3.md), [c4-1](c4-1.md), [c4-2](c4-2.md), [c5-3](c5-3.md), [c5-4](c5-4.md), [c6-10](c6-10.md), [c6-5](c6-5.md), [c7-1](c7-1.md), [c7-3](c7-3.md), [c7-4](c7-4.md)
 
@@ -82,7 +82,7 @@ Every source the Macquarie Technology Group (Macquarie Government and Cloud Serv
 
 - Title: Data and AI, Macquarie Cloud Services
 - URL: https://www.macquariecloudservices.com/data-ai/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-7](c6-7.md), [c7-8](c7-8.md)
 
@@ -90,7 +90,7 @@ Every source the Macquarie Technology Group (Macquarie Government and Cloud Serv
 
 - Title: Certifications and Accreditations (IRAP), Macquarie Government
 - URL: https://www.macquariegovernment.com/why-us/certifications-and-accreditations-irap/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md), [c7-4](c7-4.md)
 
@@ -98,7 +98,7 @@ Every source the Macquarie Technology Group (Macquarie Government and Cloud Serv
 
 - Title: PROTECTED Cloud, Macquarie Government
 - URL: https://www.macquariegovernment.com/cyber-security/secure-cloud/protected-cloud/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-3](c2-3.md), [c6-10](c6-10.md), [c7-4](c7-4.md)
 
@@ -106,7 +106,7 @@ Every source the Macquarie Technology Group (Macquarie Government and Cloud Serv
 
 - Title: Secure Cloud, Macquarie Government
 - URL: https://www.macquariegovernment.com/cyber-security/secure-cloud/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md), [c7-8](c7-8.md)
 
@@ -114,7 +114,7 @@ Every source the Macquarie Technology Group (Macquarie Government and Cloud Serv
 
 - Title: Security Operations Centre, Macquarie Government
 - URL: https://www.macquariegovernment.com/security-operations-centre/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-2](c7-2.md)
 
@@ -122,7 +122,7 @@ Every source the Macquarie Technology Group (Macquarie Government and Cloud Serv
 
 - Title: Macquarie Government launches secure Microsoft Azure practice for state and federal agencies
 - URL: https://www.macquariegovernment.com/blog/macquarie-government-launches-microsoft-azure-practice-for-state-federal-agencies/
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md)
 
@@ -130,7 +130,7 @@ Every source the Macquarie Technology Group (Macquarie Government and Cloud Serv
 
 - Title: Compliance, Macquarie Cloud Services
 - URL: https://www.macquariecloudservices.com/why-us/compliance/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-11](c6-11.md)
 
@@ -138,7 +138,7 @@ Every source the Macquarie Technology Group (Macquarie Government and Cloud Serv
 
 - Title: Managed SOC, Macquarie Cloud Services
 - URL: https://www.macquariecloudservices.com/cyber-security/managed-soc/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c7-2](c7-2.md)
 
@@ -146,7 +146,7 @@ Every source the Macquarie Technology Group (Macquarie Government and Cloud Serv
 
 - Title: Launch AI
 - URL: https://www.macquariecloudservices.com/data-ai/launch-ai/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -154,7 +154,7 @@ Every source the Macquarie Technology Group (Macquarie Government and Cloud Serv
 
 - Title: Certifications and accreditations: IRAP
 - URL: https://www.macquariegovernment.com/why-us/certifications-and-accreditations-irap/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -162,7 +162,7 @@ Every source the Macquarie Technology Group (Macquarie Government and Cloud Serv
 
 - Title: Compliance
 - URL: https://www.macquariecloudservices.com/why-us/compliance/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -170,6 +170,6 @@ Every source the Macquarie Technology Group (Macquarie Government and Cloud Serv
 
 - Title: Hosting Certification Framework: Certified Service Providers
 - URL: https://www.hostingcertification.gov.au/certified-service-providers
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

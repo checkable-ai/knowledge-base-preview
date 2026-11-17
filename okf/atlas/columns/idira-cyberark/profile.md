@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id idira-cyberark"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Palo Alto Networks identity security platform built on CyberArk (acquisition completed 11 February 2026), researched for Secure AI Agents (Managed AI agents, Identity Broker, MCP server inventory, AI agent access policies), the Discovery and Context AI agents inventory, Secure Infrastructure Access ZSP database access, Secrets Manager SaaS with Secure Workload Access, and the open-source Agent Guard.
@@ -33,7 +33,8 @@ Column group: Identity, access and secrets. Facts are agent-run. Cells listed as
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 1 |
+| verified | 45 |
 
 ## Products
 
@@ -64,7 +65,7 @@ Column group: Identity, access and secrets. Facts are agent-run. Cells listed as
 | [Harness](c2-5.md) | Runtime | out-of-scope | verified | yes |
 | [Agent Persistent Memory](c2-6.md) | Runtime | out-of-scope | verified | yes |
 | [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | verified | yes |
-| [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
+| [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | not-covered | agent-checked | yes |
 | [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | not-covered | verified | yes |

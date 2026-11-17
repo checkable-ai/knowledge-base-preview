@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id wiz"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Cloud security platform, a Google company since March 2026, researched for its AI security offerings: the AI Application Protection Platform (AI-APP) with AI-SPM and AI inventory, Wiz Defend with the Runtime Sensor, the Sensor for Developer Workstations, Wiz Code, Wiz Workflows and the Blue, Green and Red agents, from public wiz.io pages because docs.wiz.io requires a login.

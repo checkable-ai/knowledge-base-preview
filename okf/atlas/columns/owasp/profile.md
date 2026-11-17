@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id owasp"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 OWASP Foundation guidance for generative and agentic AI risks, covering the 2026 Top 10 for LLM Applications, the Top 10 for Agentic Applications 2026, the Agent Control Standard v0.1.0 and the third-party MCP server guide.

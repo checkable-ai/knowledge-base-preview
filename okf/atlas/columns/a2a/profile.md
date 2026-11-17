@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id a2a"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Open protocol for authenticated communication between agents, covering the v1.0.0 specification and the enterprise, discovery and task lifecycle guides on a2a-protocol.org.

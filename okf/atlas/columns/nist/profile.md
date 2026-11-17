@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id nist"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 The NIST AI Risk Management Framework 1.0 (NIST AI 100-1, January 2023) and its Generative AI Profile (NIST AI 600-1, July 2024), voluntary US guidance read here as a reference column. NIST says the RMF 1.0 is being revised under the White House AI Action Plan.

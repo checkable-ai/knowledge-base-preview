@@ -89,16 +89,16 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Google Security Operations cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Google Security Operations cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-054fee4e0e8f
 
 - Title: Quoted by the confirm agents
 - URL: https://docs.cloud.google.com/chronicle/docs/secops/triage-investigation-agent
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c5-1](c5-1.md), [c5-3](c5-3.md)
 
@@ -106,7 +106,7 @@ Every source the Google Security Operations cells cite, with its tier from the a
 
 - Title: Configure MCP (Use the Google SecOps MCP server)
 - URL: https://docs.cloud.google.com/chronicle/docs/secops/use-google-secops-mcp
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c4-1](c4-1.md), [c4-3](c4-3.md)
 
@@ -114,7 +114,7 @@ Every source the Google Security Operations cells cite, with its tier from the a
 
 - Title: Triage alerts with the Triage Agent
 - URL: https://docs.cloud.google.com/chronicle/docs/secops/triage-agent
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c5-1](c5-1.md), [c5-3](c5-3.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
 
@@ -122,7 +122,7 @@ Every source the Google Security Operations cells cite, with its tier from the a
 
 - Title: Gemini in Google SecOps overview
 - URL: https://docs.cloud.google.com/chronicle/docs/secops/gemini-chronicle
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c5-3](c5-3.md), [c6-10](c6-10.md)
 
@@ -130,7 +130,7 @@ Every source the Google Security Operations cells cite, with its tier from the a
 
 - Title: Embed AI agents in playbooks
 - URL: https://docs.cloud.google.com/chronicle/docs/soar/respond/working-with-playbooks/agentic-automation
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c2-1](c2-1.md), [c2-2](c2-2.md), [c4-3](c4-3.md), [c5-1](c5-1.md)
 
@@ -138,7 +138,7 @@ Every source the Google Security Operations cells cite, with its tier from the a
 
 - Title: Assign approval links in actions
 - URL: https://docs.cloud.google.com/chronicle/docs/soar/respond/working-with-playbooks/assign-approval-links-in-actions
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md)
 
@@ -146,7 +146,7 @@ Every source the Google Security Operations cells cite, with its tier from the a
 
 - Title: Manage audit logs
 - URL: https://docs.cloud.google.com/chronicle/docs/reference/audit-logging
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md)
 
@@ -154,7 +154,7 @@ Every source the Google Security Operations cells cite, with its tier from the a
 
 - Title: Configure SIEM data retention
 - URL: https://docs.cloud.google.com/chronicle/docs/about/data-retention
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md), [c7-1](c7-1.md)
 
@@ -162,7 +162,7 @@ Every source the Google Security Operations cells cite, with its tier from the a
 
 - Title: Supported log types and default parsers
 - URL: https://docs.cloud.google.com/chronicle/docs/reference/default-parsers
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c7-2](c7-2.md)
 
@@ -170,7 +170,7 @@ Every source the Google Security Operations cells cite, with its tier from the a
 
 - Title: Data RBAC overview
 - URL: https://docs.cloud.google.com/chronicle/docs/administration/datarbac-overview
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c7-2](c7-2.md)
 
@@ -178,7 +178,7 @@ Every source the Google Security Operations cells cite, with its tier from the a
 
 - Title: Configure compliance
 - URL: https://docs.cloud.google.com/chronicle/docs/secops/compliance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c6-10](c6-10.md)
 
@@ -186,7 +186,7 @@ Every source the Google Security Operations cells cite, with its tier from the a
 
 - Title: Use the Detection Engineering Agent to evaluate threat coverage
 - URL: https://docs.cloud.google.com/chronicle/docs/secops/agentic-detection-engineering
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md)
 
@@ -194,7 +194,7 @@ Every source the Google Security Operations cells cite, with its tier from the a
 
 - Title: Overview of Risk Analytics for UEBA category
 - URL: https://docs.cloud.google.com/chronicle/docs/detection/risk-analytics-ueba-category
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md)
 
@@ -202,7 +202,7 @@ Every source the Google Security Operations cells cite, with its tier from the a
 
 - Title: Overview of the Cloud Threats category
 - URL: https://docs.cloud.google.com/chronicle/docs/detection/cloud-threats-category
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c7-2](c7-2.md)
 
@@ -210,7 +210,7 @@ Every source the Google Security Operations cells cite, with its tier from the a
 
 - Title: Triage alerts with the Triage Agent
 - URL: https://docs.cloud.google.com/chronicle/docs/secops/triage-agent
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md), [c6-13](c6-13.md)
 
@@ -218,7 +218,7 @@ Every source the Google Security Operations cells cite, with its tier from the a
 
 - Title: Embed AI agents in playbooks
 - URL: https://docs.cloud.google.com/chronicle/docs/soar/respond/working-with-playbooks/agentic-automation
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -226,7 +226,7 @@ Every source the Google Security Operations cells cite, with its tier from the a
 
 - Title: Use the Google SecOps MCP server
 - URL: https://docs.cloud.google.com/chronicle/docs/secops/use-google-secops-mcp
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -234,7 +234,7 @@ Every source the Google Security Operations cells cite, with its tier from the a
 
 - Title: Supported compliance standards
 - URL: https://docs.cloud.google.com/chronicle/docs/secops/compliance
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -242,6 +242,6 @@ Every source the Google Security Operations cells cite, with its tier from the a
 
 - Title: Google Cloud IRAP compliance
 - URL: https://cloud.google.com/security/compliance/irap
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)

@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id f5-ai-guardrails"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 F5 AI Security Platform products from the CalypsoAI acquisition (closed September 2025): AI Guardrails and AI Red Team (generally available January 2026, SaaS and self-hosted), plus the F5 AI Gateway with Model Gateway and MCP Gateway as announced in August 2026.
@@ -27,13 +27,14 @@ Column group: AI security. Facts are agent-run. Cells listed as eligible are the
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 4 |
-| not-covered | 30 |
+| covered | 6 |
+| not-covered | 28 |
 | out-of-scope | 12 |
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| agent-checked | 2 |
+| verified | 44 |
 
 ## Products
 
@@ -64,7 +65,7 @@ Column group: AI security. Facts are agent-run. Cells listed as eligible are the
 | [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | verified | yes |
 | [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | covered | verified | yes |
 | [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
-| [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
+| [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [HITL](c5-1.md) | Observability & Explainability | covered | verified | yes |
 | [Behavioural](c5-2.md) | Observability & Explainability | not-covered | verified | yes |
@@ -82,9 +83,9 @@ Column group: AI security. Facts are agent-run. Cells listed as eligible are the
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | covered | verified | yes |
 | [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | verified | yes |
 | [Registration & Approval Workflows](c6-2.md) | Governance | not-covered | verified | yes |
-| [Posture & Reporting](c6-3.md) | Governance | not-covered | verified | yes |
+| [Posture & Reporting](c6-3.md) | Governance | not-covered | agent-checked | yes |
 | [Policy Management](c6-4.md) | Governance | not-covered | verified | yes |
-| [AI Lifecycle Management](c6-5.md) | Governance | out-of-scope | verified | yes |
+| [AI Lifecycle Management](c6-5.md) | Governance | out-of-scope | agent-checked | yes |
 | [Ownership & Accountability](c6-6.md) | Governance | not-covered | verified | yes |
 | [Risk Assessment & Classification](c6-7.md) | Governance | out-of-scope | verified | yes |
 | [Change & Release Governance](c6-8.md) | Governance | not-covered | verified | yes |
@@ -92,6 +93,6 @@ Column group: AI security. Facts are agent-run. Cells listed as eligible are the
 | [Data Lifecycle Governance](c6-10.md) | Governance | not-covered | verified | yes |
 | [Assurance & Compliance Evidence](c6-11.md) | Governance | not-covered | verified | yes |
 | [Third-Party Governance](c6-12.md) | Governance | out-of-scope | verified | yes |
-| [Independent Assurance & Authorisation](c6-13.md) | Governance | not-covered | verified | yes |
+| [Independent Assurance & Authorisation](c6-13.md) | Governance | covered | verified | yes |
 
 Sources are in the [source registry](sources.md).

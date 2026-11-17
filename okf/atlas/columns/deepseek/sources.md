@@ -157,16 +157,16 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the DeepSeek cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the DeepSeek cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### confirm-b73fa76d977c
 
 - Title: Quoted by the confirm agents
 - URL: https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/subsystems/sandbox.md
-- Tier: not yet assigned
+- Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-7](c2-7.md)
 
@@ -174,7 +174,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: DeepSeek API Docs: Your First API Call
 - URL: https://api-docs.deepseek.com/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-5](c2-5.md)
 
@@ -182,7 +182,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: Models and Pricing
 - URL: https://api-docs.deepseek.com/quick_start/pricing
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c5-3](c5-3.md)
 
@@ -190,7 +190,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: Rate Limit and Isolation
 - URL: https://api-docs.deepseek.com/quick_start/rate_limit
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c2-4](c2-4.md), [c3-1](c3-1.md)
 
@@ -198,7 +198,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: Token and Token Usage
 - URL: https://api-docs.deepseek.com/quick_start/token_usage
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-3](c5-3.md)
 
@@ -206,7 +206,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: Tool Calls guide
 - URL: https://api-docs.deepseek.com/guides/tool_calls
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md)
 
@@ -214,7 +214,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: Context Caching guide
 - URL: https://api-docs.deepseek.com/guides/kv_cache
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-4](c2-4.md), [c6-10](c6-10.md)
 
@@ -222,7 +222,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: Anthropic API compatibility guide
 - URL: https://api-docs.deepseek.com/guides/anthropic_api
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-3](c2-3.md)
 
@@ -230,7 +230,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: Agent integrations: Claude Code
 - URL: https://api-docs.deepseek.com/quick_start/agent_integrations/claude_code
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c3-2](c3-2.md)
 
@@ -238,7 +238,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: DeepSeek API Change Log
 - URL: https://api-docs.deepseek.com/updates
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md)
 
@@ -246,7 +246,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: DeepSeek Privacy Policy
 - URL: https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md)
 
@@ -254,7 +254,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: DeepSeek Open Platform Terms of Service
 - URL: https://cdn.deepseek.com/policies/en-US/deepseek-open-platform-terms-of-service.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-2](c2-2.md), [c4-2](c4-2.md), [c6-10](c6-10.md)
 
@@ -262,7 +262,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: DeepSeek Service Status
 - URL: https://status.deepseek.com/
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-4](c5-4.md)
 
@@ -270,7 +270,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: DeepSeek-V4-Pro model card
 - URL: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-3](c7-3.md)
 
@@ -278,7 +278,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: DeepSeek Harness README
 - URL: https://github.com/deepseek-ai/deepseek-harness
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-5](c2-5.md)
 
@@ -286,7 +286,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: DeepSeek Harness SAFETY.md
 - URL: https://github.com/deepseek-ai/deepseek-harness/blob/master/SAFETY.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c2-3](c2-3.md), [c2-5](c2-5.md)
 
@@ -294,7 +294,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: DeepSeek Harness: Process Sandbox
 - URL: https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/subsystems/sandbox.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c2-3](c2-3.md)
 
@@ -302,7 +302,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: DeepSeek Harness: User Approval
 - URL: https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/subsystems/approval.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-3](c1-3.md), [c5-1](c5-1.md), [c7-1](c7-1.md)
 
@@ -310,7 +310,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: DeepSeek Harness: Permission Presets
 - URL: https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/subsystems/permission-presets.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md)
 
@@ -318,7 +318,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: DeepSeek Harness: User Credentials
 - URL: https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/subsystems/credentials.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-2](c4-2.md)
 
@@ -326,7 +326,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: DeepSeek Harness: MCP
 - URL: https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/subsystems/mcp.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md)
 
@@ -334,7 +334,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: DeepSeek Harness: Session Persistence
 - URL: https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/subsystems/persistence.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c2-4](c2-4.md), [c2-6](c2-6.md), [c7-1](c7-1.md)
 
@@ -342,7 +342,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: DeepSeek Harness: Subagent
 - URL: https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/subsystems/subagent.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md), [c4-4](c4-4.md)
 
@@ -350,7 +350,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: DeepSeek Harness: Agent Teams
 - URL: https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/subsystems/agent-team.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c4-4](c4-4.md)
 
@@ -358,7 +358,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: DeepSeek Harness: Tool Schema Catalog
 - URL: https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/tool-catalog.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-1](c1-1.md), [c2-1](c2-1.md), [c5-1](c5-1.md)
 
@@ -366,7 +366,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: DeepSeek Harness: Tool Execution Pipeline
 - URL: https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/tool-execution-pipeline.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c1-2](c1-2.md), [c2-1](c2-1.md), [c2-5](c2-5.md), [c3-2](c3-2.md), [c7-1](c7-1.md)
 
@@ -374,7 +374,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: DeepSeek Harness: Run DSH behind a network proxy
 - URL: https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/user/guide/network-proxy.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-3](c2-3.md)
 
@@ -382,7 +382,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: DeepSeek Harness: OTel reporting
 - URL: https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/subsystems/otel.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-4](c5-4.md), [c7-2](c7-2.md)
 
@@ -390,7 +390,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: DeepSeek Harness: Connect a third-party memory MCP server
 - URL: https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/user/guide/mcp-memory.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-6](c2-6.md), [c4-2](c4-2.md)
 
@@ -406,7 +406,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: Process Sandbox (DeepSeek Harness docs)
 - URL: https://deepseek-harness.github.io/deepseek-harness/en/reference/subsystems/sandbox.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -414,7 +414,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: Permission Presets (DeepSeek Harness docs)
 - URL: https://deepseek-harness.github.io/deepseek-harness/en/reference/subsystems/permission-presets.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -422,7 +422,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: Safety (DeepSeek Harness repository)
 - URL: https://github.com/deepseek-ai/deepseek-harness/blob/master/SAFETY.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)
 
@@ -430,7 +430,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: DeepSeek Privacy Policy
 - URL: https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -438,7 +438,7 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: PSPF Direction 001-2025, DeepSeek Products, Applications and Web Services
 - URL: https://www.protectivesecurity.gov.au/system/files/2025-02/PSPF-Direction-001-2025_1.pdf
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-13](c6-13.md)
 
@@ -446,6 +446,6 @@ Every source the DeepSeek cells cite, with its tier from the atlas source regist
 
 - Title: Approval (DeepSeek Harness docs)
 - URL: https://deepseek-harness.github.io/deepseek-harness/en/reference/subsystems/approval.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-7](c2-7.md)

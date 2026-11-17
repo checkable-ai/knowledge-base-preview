@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id nvidia"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 NVIDIA AI Enterprise software for self-hosted inference and agents. This research covers NIM microservices and NIM Operator, NeMo Guardrails, NeMo Agent Toolkit and NVIDIA security guidance.

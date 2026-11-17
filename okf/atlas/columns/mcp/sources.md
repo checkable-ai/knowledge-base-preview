@@ -81,16 +81,16 @@ sources:
     tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
-Every source the Model Context Protocol cells cite, with its tier from the atlas source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
+Every source the Model Context Protocol cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
 ### mcp-01
 
 - Title: Specification (revision 2026-07-28)
 - URL: https://modelcontextprotocol.io/specification/2026-07-28/index.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c1-3](c1-3.md), [c2-5](c2-5.md), [c3-3](c3-3.md)
 
@@ -98,7 +98,7 @@ Every source the Model Context Protocol cells cite, with its tier from the atlas
 
 - Title: Key Changes (revision 2026-07-28 changelog)
 - URL: https://modelcontextprotocol.io/specification/2026-07-28/changelog.md
-- Tier: 2
+- Source tier: 2
 - Checked: 2026-10-18
 - Cited by: [c1-4](c1-4.md), [c2-1](c2-1.md), [c2-4](c2-4.md), [c3-2](c3-2.md), [c4-1](c4-1.md), [c5-5](c5-5.md)
 
@@ -106,7 +106,7 @@ Every source the Model Context Protocol cells cite, with its tier from the atlas
 
 - Title: Authorization
 - URL: https://modelcontextprotocol.io/specification/2026-07-28/basic/authorization/index.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c1-2](c1-2.md), [c1-4](c1-4.md), [c4-1](c4-1.md), [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -114,7 +114,7 @@ Every source the Model Context Protocol cells cite, with its tier from the atlas
 
 - Title: Authorization Security Considerations
 - URL: https://modelcontextprotocol.io/specification/2026-07-28/basic/authorization/security-considerations.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c4-2](c4-2.md), [c4-3](c4-3.md)
 
@@ -122,7 +122,7 @@ Every source the Model Context Protocol cells cite, with its tier from the atlas
 
 - Title: Tools
 - URL: https://modelcontextprotocol.io/specification/2026-07-28/server/tools.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c1-3](c1-3.md), [c2-4](c2-4.md), [c2-5](c2-5.md), [c3-2](c3-2.md), [c5-5](c5-5.md), [c7-1](c7-1.md)
 
@@ -130,7 +130,7 @@ Every source the Model Context Protocol cells cite, with its tier from the atlas
 
 - Title: Elicitation
 - URL: https://modelcontextprotocol.io/specification/2026-07-28/client/elicitation.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c1-3](c1-3.md), [c4-2](c4-2.md)
 
@@ -138,7 +138,7 @@ Every source the Model Context Protocol cells cite, with its tier from the atlas
 
 - Title: Cancellation
 - URL: https://modelcontextprotocol.io/specification/2026-07-28/basic/patterns/cancellation.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-1](c2-1.md)
 
@@ -146,7 +146,7 @@ Every source the Model Context Protocol cells cite, with its tier from the atlas
 
 - Title: Base protocol overview
 - URL: https://modelcontextprotocol.io/specification/2026-07-28/basic/index.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c5-4](c5-4.md), [c7-2](c7-2.md)
 
@@ -154,7 +154,7 @@ Every source the Model Context Protocol cells cite, with its tier from the atlas
 
 - Title: Security Best Practices
 - URL: https://modelcontextprotocol.io/docs/2026-07-28/tutorials/security/security_best_practices.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c1-2](c1-2.md), [c2-3](c2-3.md), [c2-4](c2-4.md)
 
@@ -162,7 +162,7 @@ Every source the Model Context Protocol cells cite, with its tier from the atlas
 
 - Title: Local Server Security
 - URL: https://modelcontextprotocol.io/docs/2026-07-28/tutorials/security/local-server-security.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c1-1](c1-1.md), [c2-3](c2-3.md), [c2-7](c2-7.md), [c6-12](c6-12.md), [c6-2](c6-2.md), [c6-8](c6-8.md), [c7-2](c7-2.md), [c7-4](c7-4.md), [c7-5](c7-5.md), [c7-6](c7-6.md), [c7-9](c7-9.md)
 
@@ -170,7 +170,7 @@ Every source the Model Context Protocol cells cite, with its tier from the atlas
 
 - Title: Enterprise-Managed Authorization extension
 - URL: https://modelcontextprotocol.io/extensions/auth/enterprise-managed-authorization.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c1-4](c1-4.md), [c2-7](c2-7.md), [c4-3](c4-3.md), [c6-2](c6-2.md)
 
@@ -178,7 +178,7 @@ Every source the Model Context Protocol cells cite, with its tier from the atlas
 
 - Title: OAuth Client Credentials extension
 - URL: https://modelcontextprotocol.io/extensions/auth/oauth-client-credentials.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c4-1](c4-1.md)
 
@@ -186,7 +186,7 @@ Every source the Model Context Protocol cells cite, with its tier from the atlas
 
 - Title: Tasks extension
 - URL: https://modelcontextprotocol.io/extensions/tasks/overview.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c2-1](c2-1.md)
 
@@ -194,7 +194,7 @@ Every source the Model Context Protocol cells cite, with its tier from the atlas
 
 - Title: The MCP Registry
 - URL: https://modelcontextprotocol.io/registry/about.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-1](c6-1.md), [c6-6](c6-6.md), [c7-5](c7-5.md), [c7-6](c7-6.md)
 
@@ -202,7 +202,7 @@ Every source the Model Context Protocol cells cite, with its tier from the atlas
 
 - Title: The MCP Registry Moderation Policy
 - URL: https://modelcontextprotocol.io/registry/moderation-policy.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c7-6](c7-6.md)
 
@@ -210,7 +210,7 @@ Every source the Model Context Protocol cells cite, with its tier from the atlas
 
 - Title: Versioning Published MCP Servers
 - URL: https://modelcontextprotocol.io/registry/versioning.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c6-8](c6-8.md)
 
@@ -218,6 +218,6 @@ Every source the Model Context Protocol cells cite, with its tier from the atlas
 
 - Title: Roots
 - URL: https://modelcontextprotocol.io/specification/2026-07-28/client/roots.md
-- Tier: 1
+- Source tier: 1
 - Checked: 2026-10-18
 - Cited by: [c1-1](c1-1.md)

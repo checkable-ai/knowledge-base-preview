@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id microsoft-agent-365"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Microsoft control plane to inventory, govern and secure agents, covering the Agent 365 registry and tools in the Microsoft 365 admin center, Entra Agent ID, Defender security for AI, Purview for Agent 365 and the Agent 365 SDK and CLI.

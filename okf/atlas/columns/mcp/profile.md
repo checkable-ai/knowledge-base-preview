@@ -16,7 +16,7 @@ sources:
     locator: "platforms, id mcp"
 generated:
   by: "process:offerings-atlas-ingest"
-  at: "2026-11-08T00:00:00+10:00"
+  at: "2026-11-18T00:00:00+10:00"
 ---
 
 Open protocol for connecting LLM hosts to tool and data servers, covering specification revision 2026-07-28, its official authorisation and tasks extensions, the security guides and the MCP Registry.
