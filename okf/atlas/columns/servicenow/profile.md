@@ -27,12 +27,12 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 13 |
+| covered | 10 |
 | not-covered | 33 |
 
 | Verification state | Cells |
 | --- | --- |
-| verified | 46 |
+| verified | 43 |
 
 ## Products
 
@@ -57,7 +57,6 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | [Human Approval](c1-3.md) | Authorisation | not-covered | verified | yes |
 | [Agent Provisioning](c1-4.md) | Authorisation | covered | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | not-covered | verified | yes |
-| [Inference](c2-2.md) | Runtime | covered | verified | yes |
 | [Execution Environment](c2-3.md) | Runtime | not-covered | verified | yes |
 | [Agent In-Session Memory](c2-4.md) | Runtime | not-covered | verified | yes |
 | [Harness](c2-5.md) | Runtime | covered | verified | yes |
@@ -81,11 +80,9 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [AI Discovery](c7-9.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | not-covered | verified | yes |
-| [Asset Registries & Inventory](c6-1.md) | Governance | covered | verified | yes |
 | [Registration & Approval Workflows](c6-2.md) | Governance | covered | verified | yes |
 | [Posture & Reporting](c6-3.md) | Governance | covered | verified | yes |
 | [Policy Management](c6-4.md) | Governance | not-covered | verified | yes |
-| [AI Lifecycle Management](c6-5.md) | Governance | covered | verified | yes |
 | [Ownership & Accountability](c6-6.md) | Governance | covered | verified | yes |
 | [Risk Assessment & Classification](c6-7.md) | Governance | covered | verified | yes |
 | [Change & Release Governance](c6-8.md) | Governance | not-covered | verified | yes |

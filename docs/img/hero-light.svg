@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400" role="img" aria-labelledby="t d">
 <title id="t">Checkable AI knowledge base preview. Every AI vendor says its platform is secure. See what 139 of them document, control by control.</title>
-<desc id="d">A constellation of 139 AI platforms around 46 security controls in 7 areas. A thread joins a platform to a control wherever its documentation covers it, 1386 threads in all, from the November 2026 edition.</desc>
+<desc id="d">A constellation of 139 AI platforms around 46 security controls in 7 areas. A thread joins a platform to a control wherever its documentation covers it, 1380 threads in all, from the November 2026 edition.</desc>
 <rect width="1280" height="400" fill="#fbfaf8"/>
 <circle cx="1022" cy="204" r="230" fill="none" stroke="#1d1a19" stroke-width="1.5" opacity="0.07"/>
 <circle cx="1022" cy="204" r="300" fill="none" stroke="#1d1a19" stroke-width="1.5" opacity="0.07"/>
@@ -110,7 +110,6 @@
 <path d="M1073.4 46.9Q1038.6 192.4 1044.5 309.6"/>
 <path d="M1073.4 46.9Q1009.4 166.0 914.7 192.1"/>
 <path d="M1073.4 46.9Q1023.0 146.8 975.0 106.8"/>
-<path d="M1073.4 46.9Q1030.8 144.5 1009.8 96.7"/>
 <path d="M1073.4 46.9Q1009.6 172.6 915.4 221.4"/>
 <path d="M1080.5 49.4Q1052.0 151.7 1097.0 126.3"/>
 <path d="M1080.5 49.4Q1053.9 153.7 1105.2 135.2"/>
@@ -313,7 +312,6 @@
 <path d="M1160.6 113.9Q1062.3 161.2 1062.4 103.8"/>
 <path d="M1160.6 113.9Q1058.2 207.5 1044.5 309.6"/>
 <path d="M1160.6 113.9Q1042.6 161.9 975.0 106.8"/>
-<path d="M1160.6 113.9Q1050.4 159.6 1009.8 96.7"/>
 <path d="M1160.6 113.9Q1029.5 178.4 916.7 180.2"/>
 <path d="M1164.5 120.3Q1070.9 167.7 1097.0 126.3"/>
 <path d="M1164.5 120.3Q1072.8 169.7 1105.2 135.2"/>
@@ -498,7 +496,6 @@
 <path d="M1187.0 213.3Q1068.2 183.6 1062.4 103.8"/>
 <path d="M1187.0 213.3Q1070.7 184.7 1073.3 109.0"/>
 <path d="M1187.0 213.3Q1064.2 229.9 1044.5 309.6"/>
-<path d="M1187.0 213.3Q1061.5 230.3 1032.6 311.5"/>
 <path d="M1187.0 213.3Q1056.1 230.2 1008.4 311.1"/>
 <path d="M1187.0 213.3Q1035.0 203.4 914.7 192.1"/>
 <path d="M1187.0 213.3Q1056.4 182.0 1009.8 96.7"/>
@@ -513,15 +510,12 @@
 <path d="M1186.4 220.8Q1035.6 214.4 918.0 233.2"/>
 <path d="M1185.5 228.2Q1075.7 192.0 1097.0 126.3"/>
 <path d="M1185.5 228.2Q1080.5 198.5 1118.5 155.4"/>
-<path d="M1185.5 228.2Q1083.0 207.5 1129.6 195.2"/>
 <path d="M1185.5 228.2Q1082.3 215.6 1126.5 231.2"/>
 <path d="M1185.5 228.2Q1081.5 218.2 1122.8 242.8"/>
 <path d="M1185.5 228.2Q1058.4 233.7 1020.5 312.0"/>
 <path d="M1185.5 228.2Q1055.7 233.5 1008.4 311.1"/>
-<path d="M1185.5 228.2Q1034.6 206.8 914.7 192.1"/>
 <path d="M1185.5 228.2Q1035.1 204.1 916.7 180.2"/>
 <path d="M1185.5 228.2Q1035.8 201.5 920.0 168.5"/>
-<path d="M1185.5 228.2Q1038.2 196.5 930.5 146.7"/>
 <path d="M1185.5 228.2Q1039.8 194.3 937.5 136.8"/>
 <path d="M1185.5 228.2Q1041.6 192.3 945.5 127.8"/>
 <path d="M1184.2 235.6Q1055.7 187.0 1009.8 96.7"/>

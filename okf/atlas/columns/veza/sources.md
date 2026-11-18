@@ -111,6 +111,34 @@ sources:
     resource: "https://docs.veza.com/4yItIzMvkpAvMVFAamTf/features/insights/remediation-log.md"
     locator: "registry entry"
     tier: 1
+  - id: "veza-od-c1-4"
+    resource: "https://veza.com/product/access-authz/"
+    locator: "registry entry"
+    tier: 1
+  - id: "veza-od-c4-1"
+    resource: "https://veza.com/product/ai-agent-security/"
+    locator: "registry entry"
+    tier: 1
+  - id: "veza-od-c6-11"
+    resource: "https://veza.com/product/access-authz/"
+    locator: "registry entry"
+    tier: 1
+  - id: "veza-od-c6-7"
+    resource: "https://veza.com/blog/using-veza-ai-agent-security-to-discover-and-manage-shadow-ai/"
+    locator: "registry entry"
+    tier: 1
+  - id: "veza-od-c7-1"
+    resource: "https://veza.com/product/access-authz/"
+    locator: "registry entry"
+    tier: 1
+  - id: "veza-od-c7-2"
+    resource: "https://veza.com/product/access-intelligence/"
+    locator: "registry entry"
+    tier: 1
+  - id: "veza-od-c7-8"
+    resource: "https://veza.com/blog/ai-agents-privileged-workforce-ispm/"
+    locator: "registry entry"
+    tier: 1
 generated:
   by: "process:offerings-atlas-ingest"
   at: "2026-11-18T00:00:00+10:00"
@@ -124,7 +152,7 @@ Every source the Veza cells cite, with its tier from the knowledge base's source
 - URL: https://docs.veza.com/4yItIzMvkpAvMVFAamTf/features/ai-agent-security
 - Source tier: not yet rated
 - Checked: not recorded
-- Cited by: [c1-2](c1-2.md), [c7-2](c7-2.md), [c7-8](c7-8.md)
+- Cited by: [c1-2](c1-2.md)
 
 ### veza-04
 
@@ -317,3 +345,59 @@ Every source the Veza cells cite, with its tier from the knowledge base's source
 - Source tier: 1
 - Checked: 2026-11-18
 - Cited by: [c1-2](c1-2.md), [c2-7](c2-7.md), [c6-11](c6-11.md), [c7-1](c7-1.md)
+
+### veza-od-c1-4
+
+- Title: Veza / Access AuthZ overview
+- URL: https://veza.com/product/access-authz/
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c1-4](c1-4.md)
+
+### veza-od-c4-1
+
+- Title: Veza / Key Features
+- URL: https://veza.com/product/ai-agent-security/
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c4-1](c4-1.md)
+
+### veza-od-c6-11
+
+- Title: Veza / Key Capabilities
+- URL: https://veza.com/product/access-authz/
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c6-11](c6-11.md)
+
+### veza-od-c6-7
+
+- Title: Veza / Phase 3: Governance via the AI Agent Access Security Dashboard
+- URL: https://veza.com/blog/using-veza-ai-agent-security-to-discover-and-manage-shadow-ai/
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c6-7](c6-7.md)
+
+### veza-od-c7-1
+
+- Title: Veza / Key Capabilities
+- URL: https://veza.com/product/access-authz/
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c7-1](c7-1.md)
+
+### veza-od-c7-2
+
+- Title: Veza / Key Features
+- URL: https://veza.com/product/access-intelligence/
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c7-2](c7-2.md)
+
+### veza-od-c7-8
+
+- Title: Veza / three-layer architecture
+- URL: https://veza.com/blog/ai-agents-privileged-workforce-ispm/
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c7-8](c7-8.md)

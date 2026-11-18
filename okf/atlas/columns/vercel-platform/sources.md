@@ -11,8 +11,8 @@ tags:
   - "production-tools"
   - "sources"
 sources:
-  - id: "confirm-0950ad001758"
-    resource: "https://vercel.com/docs/agent/pr-review"
+  - id: "confirm-085df79a3cec"
+    resource: "https://vercel.com/docs/deployment-protection/methods-to-bypass-deployment-protection/trusted-sources"
     locator: "registry entry"
     tier: null
   - id: "confirm-1c500ae654f0"
@@ -41,10 +41,6 @@ sources:
     tier: null
   - id: "confirm-ea956133e6c8"
     resource: "https://vercel.com/docs/workflows"
-    locator: "registry entry"
-    tier: null
-  - id: "confirm-ef21b88e289f"
-    resource: "https://vercel.com/docs/security/deployment-protection/methods-to-bypass-deployment-protection/trusted-sources"
     locator: "registry entry"
     tier: null
   - id: "confirm-f0f2486bb8fe"
@@ -178,13 +174,13 @@ generated:
 
 Every source the Vercel (platform and Vercel Agent) cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
 
-### confirm-0950ad001758
+### confirm-085df79a3cec
 
 - Title: Quoted by the confirm agents
-- URL: https://vercel.com/docs/agent/pr-review
+- URL: https://vercel.com/docs/deployment-protection/methods-to-bypass-deployment-protection/trusted-sources
 - Source tier: not yet rated
 - Checked: not recorded
-- Cited by: [c5-2](c5-2.md)
+- Cited by: [c3-4](c3-4.md), [c4-4](c4-4.md)
 
 ### confirm-1c500ae654f0
 
@@ -241,14 +237,6 @@ Every source the Vercel (platform and Vercel Agent) cells cite, with its tier fr
 - Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-1](c2-1.md)
-
-### confirm-ef21b88e289f
-
-- Title: Quoted by the confirm agents
-- URL: https://vercel.com/docs/security/deployment-protection/methods-to-bypass-deployment-protection/trusted-sources
-- Source tier: not yet rated
-- Checked: not recorded
-- Cited by: [c3-4](c3-4.md), [c4-4](c4-4.md)
 
 ### confirm-f0f2486bb8fe
 

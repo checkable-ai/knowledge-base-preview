@@ -28,14 +28,14 @@ Column group: AI in production tools. Facts are agent-run. Cells listed as eligi
 | Verdict | Cells |
 | --- | --- |
 | covered | 13 |
-| escalated | 2 |
+| escalated | 3 |
 | not-covered | 23 |
-| partial | 8 |
+| partial | 7 |
 
 | Verification state | Cells |
 | --- | --- |
-| contested | 2 |
-| verified | 44 |
+| contested | 3 |
+| verified | 43 |
 
 ## Products
 
@@ -68,7 +68,7 @@ Column group: AI in production tools. Facts are agent-run. Cells listed as eligi
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | partial | verified | yes |
 | [HITL](c5-1.md) | Observability & Explainability | covered | verified | yes |
-| [Behavioural](c5-2.md) | Observability & Explainability | partial | verified | yes |
+| [Behavioural](c5-2.md) | Observability & Explainability | escalated | contested | no |
 | [Cost & Yield](c5-3.md) | Observability & Explainability | partial | verified | yes |
 | [Infrastructure](c5-4.md) | Observability & Explainability | covered | verified | yes |
 | [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |

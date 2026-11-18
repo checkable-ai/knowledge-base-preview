@@ -155,6 +155,14 @@ sources:
     resource: "https://docs.snowflake.com/en/sql-reference/local/ai_observability_events"
     locator: "registry entry"
     tier: 1
+  - id: "snowflake-od-c3-1"
+    resource: "https://docs.snowflake.com/user-guide/snowflake-cortex/cortex-ai-gateway"
+    locator: "registry entry"
+    tier: 1
+  - id: "snowflake-od-c3-2"
+    resource: "https://docs.snowflake.com/user-guide/snowflake-cortex/cortex-ai-gateway"
+    locator: "registry entry"
+    tier: 1
   - id: "snowflake-r18-01"
     resource: "https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-ai-gateway"
     locator: "registry entry"
@@ -513,6 +521,22 @@ Every source the Snowflake cells cite, with its tier from the knowledge base's s
 - Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-4](c5-4.md), [c6-10](c6-10.md), [c7-2](c7-2.md)
+
+### snowflake-od-c3-1
+
+- Title: Snowflake / Cortex AI Gateway overview, Cost management
+- URL: https://docs.snowflake.com/user-guide/snowflake-cortex/cortex-ai-gateway
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c3-1](c3-1.md)
+
+### snowflake-od-c3-2
+
+- Title: Snowflake / Cortex AI Gateway overview, Tools (Preview)
+- URL: https://docs.snowflake.com/user-guide/snowflake-cortex/cortex-ai-gateway
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c3-2](c3-2.md)
 
 ### snowflake-r18-01
 

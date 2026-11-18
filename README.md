@@ -46,7 +46,7 @@ short assessment. **[Make an enquiry](https://checkableai.com/enquire/)** and te
 | | This edition | Full knowledge base, by enquiry |
 |---|---|---|
 | Platforms and tools | 139 | Every platform in this edition and many more |
-| Findings | 6,393 records, November 2026 edition | Findings for every platform researched so far, each with the evidence behind its answer |
+| Findings | 6,390 records, November 2026 edition | Findings for every platform researched so far, each with the evidence behind its answer |
 | Kept current | A snapshot, dated November 2026. Each record shows the date it was last checked | We recheck a core set of platforms daily. Every other platform is checked on demand. Each answer shows the date it was last checked. Every change is reviewed by our team. |
 | Review | You read the records yourself | Our team reviews your stack against the whole base after a short assessment |
 

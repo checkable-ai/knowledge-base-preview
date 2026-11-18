@@ -28,8 +28,9 @@ Column group: Security operations (SIEM, XDR). Facts are agent-run. Cells listed
 | Verdict | Cells |
 | --- | --- |
 | covered | 6 |
-| not-covered | 26 |
+| not-covered | 25 |
 | out-of-scope | 14 |
+| partial | 1 |
 
 | Verification state | Cells |
 | --- | --- |
@@ -70,7 +71,7 @@ Column group: Security operations (SIEM, XDR). Facts are agent-run. Cells listed
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | out-of-scope | verified | yes |
 | [HITL](c5-1.md) | Observability & Explainability | covered | verified | yes |
-| [Behavioural](c5-2.md) | Observability & Explainability | not-covered | verified | yes |
+| [Behavioural](c5-2.md) | Observability & Explainability | partial | verified | yes |
 | [Cost & Yield](c5-3.md) | Observability & Explainability | not-covered | verified | yes |
 | [Infrastructure](c5-4.md) | Observability & Explainability | covered | verified | yes |
 | [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |

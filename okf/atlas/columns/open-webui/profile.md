@@ -28,14 +28,14 @@ Column group: Self-hosted and hybrid. Facts are agent-run. Cells listed as eligi
 | Verdict | Cells |
 | --- | --- |
 | covered | 9 |
-| escalated | 9 |
+| escalated | 10 |
 | not-covered | 18 |
-| partial | 10 |
+| partial | 9 |
 
 | Verification state | Cells |
 | --- | --- |
-| contested | 9 |
-| verified | 37 |
+| contested | 10 |
+| verified | 36 |
 
 ## Products
 
@@ -50,7 +50,7 @@ Column group: Self-hosted and hybrid. Facts are agent-run. Cells listed as eligi
 | Control | Category | Verdict | State | Agent-eligible |
 | --- | --- | --- | --- | --- |
 | [Agent ID](c4-1.md) | Identity | not-covered | verified | yes |
-| [Credential Brokerage](c4-2.md) | Identity | partial | verified | yes |
+| [Credential Brokerage](c4-2.md) | Identity | escalated | contested | no |
 | [Delegation (OBO)](c4-3.md) | Identity | covered | verified | yes |
 | [A2A](c4-4.md) | Identity | not-covered | verified | yes |
 | [Agent Local Scopes](c1-1.md) | Authorisation | covered | verified | yes |

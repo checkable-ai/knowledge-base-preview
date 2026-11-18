@@ -91,6 +91,10 @@ sources:
     resource: "https://help.splunk.com/en/splunk-observability-cloud/observability-for-ai/splunk-ai-agent-monitoring/set-up-ai-agent-monitoring/instrumentation-side-evaluations"
     locator: "registry entry"
     tier: 1
+  - id: "splunk-enterprise-security-od-c5-2"
+    resource: "https://www.splunk.com/en_us/about-splunk/splunk-data-security-and-privacy/responsible-ai-for-splunk-security-ai-assistant-agentic-capabilities.html"
+    locator: "registry entry"
+    tier: 1
   - id: "splunk-enterprise-security-r18-01"
     resource: "https://help.splunk.com/en/splunk-enterprise-security-8/administer/8.6/ai-assistant-in-security-and-agentic-capabilities/setting-up-the-triage-agent-in-splunk-enterprise-security"
     locator: "registry entry"
@@ -277,6 +281,14 @@ Every source the Splunk Enterprise Security cells cite, with its tier from the k
 - Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c7-1](c7-1.md)
+
+### splunk-enterprise-security-od-c5-2
+
+- Title: Splunk Enterprise Security / Responsible AI, evaluation
+- URL: https://www.splunk.com/en_us/about-splunk/splunk-data-security-and-privacy/responsible-ai-for-splunk-security-ai-assistant-agentic-capabilities.html
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c5-2](c5-2.md)
 
 ### splunk-enterprise-security-r18-01
 

@@ -28,8 +28,9 @@ Column group: Data security for AI. Facts are agent-run. Cells listed as eligibl
 | Verdict | Cells |
 | --- | --- |
 | covered | 7 |
-| not-covered | 29 |
+| not-covered | 27 |
 | out-of-scope | 10 |
+| partial | 2 |
 
 | Verification state | Cells |
 | --- | --- |
@@ -67,7 +68,7 @@ Column group: Data security for AI. Facts are agent-run. Cells listed as eligibl
 | [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | verified | yes |
 | [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
-| [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
+| [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | partial | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | out-of-scope | verified | yes |
 | [HITL](c5-1.md) | Observability & Explainability | not-covered | verified | yes |
 | [Behavioural](c5-2.md) | Observability & Explainability | not-covered | verified | yes |
@@ -92,7 +93,7 @@ Column group: Data security for AI. Facts are agent-run. Cells listed as eligibl
 | [Risk Assessment & Classification](c6-7.md) | Governance | covered | verified | yes |
 | [Change & Release Governance](c6-8.md) | Governance | not-covered | verified | yes |
 | [Exceptions & Risk Acceptance](c6-9.md) | Governance | not-covered | verified | yes |
-| [Data Lifecycle Governance](c6-10.md) | Governance | not-covered | verified | yes |
+| [Data Lifecycle Governance](c6-10.md) | Governance | partial | verified | yes |
 | [Assurance & Compliance Evidence](c6-11.md) | Governance | covered | verified | yes |
 | [Third-Party Governance](c6-12.md) | Governance | not-covered | verified | yes |
 | [Independent Assurance & Authorisation](c6-13.md) | Governance | not-covered | verified | yes |

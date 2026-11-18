@@ -23,24 +23,8 @@ sources:
     resource: "https://docs.mulesoft.com/general/af-get-started"
     locator: "registry entry"
     tier: null
-  - id: "confirm-655839919dd4"
-    resource: "https://trailhead.salesforce.com/content/learn/modules/reasoning-in-artificial-intelligence/discover-the-atlas-reasoning-engine"
-    locator: "registry entry"
-    tier: null
-  - id: "confirm-68cf53558ce6"
-    resource: "https://trailhead.salesforce.com/content/learn/modules/agentforce-agent-testing/trust-your-agents"
-    locator: "registry entry"
-    tier: null
-  - id: "confirm-7802c4baee6e"
-    resource: "https://engineering.salesforce.com/how-agentic-memory-enables-durable-reliable-ai-agents-across-millions-of-enterprise-users/"
-    locator: "registry entry"
-    tier: null
   - id: "confirm-7a504faabcaf"
     resource: "https://docs.mulesoft.com/agent-network/latest/af-a2a-agent-network"
-    locator: "registry entry"
-    tier: null
-  - id: "confirm-8966293d4fc9"
-    resource: "https://trailhead.salesforce.com/content/learn/projects/deploy-agent-authentication/learn-about-authentication-for-topics-and-actions"
     locator: "registry entry"
     tier: null
   - id: "confirm-9af2303898bf"
@@ -203,6 +187,70 @@ sources:
     resource: "https://developer.salesforce.com/docs/ai/agentforce/guide/trust.html"
     locator: "registry entry"
     tier: 1
+  - id: "salesforce-od-c1-2"
+    resource: "https://trailhead.salesforce.com/content/learn/modules/mcp-for-agentforce-quick-look/discover-mcp-for-agentforce"
+    locator: "registry entry"
+    tier: 1
+  - id: "salesforce-od-c1-3"
+    resource: "https://architect.salesforce.com/docs/architect/fundamentals/guide/agentic-patterns.html"
+    locator: "registry entry"
+    tier: 1
+  - id: "salesforce-od-c2-1"
+    resource: "https://engineering.salesforce.com/agentforces-agent-graph-toward-guided-determinism-with-hybrid-reasoning/"
+    locator: "registry entry"
+    tier: 1
+  - id: "salesforce-od-c2-4"
+    resource: "https://www.salesforce.com/agentforce/levels-of-determinism/"
+    locator: "registry entry"
+    tier: 1
+  - id: "salesforce-od-c2-5"
+    resource: "https://www.salesforce.com/agentforce/levels-of-determinism/"
+    locator: "registry entry"
+    tier: 1
+  - id: "salesforce-od-c2-6"
+    resource: "https://www.salesforce.com/blog/agentforce-memory-update/"
+    locator: "registry entry"
+    tier: 1
+  - id: "salesforce-od-c3-3"
+    resource: "https://www.salesforce.com/agentforce/how-it-works/"
+    locator: "registry entry"
+    tier: 1
+  - id: "salesforce-od-c4-1"
+    resource: "https://architect.salesforce.com/docs/architect/well-architected/guide/agentic-enterprise.html"
+    locator: "registry entry"
+    tier: 1
+  - id: "salesforce-od-c4-3"
+    resource: "https://www.salesforce.com/blog/connect-agentforce-external-mcp-servers/"
+    locator: "registry entry"
+    tier: 1
+  - id: "salesforce-od-c5-2"
+    resource: "https://trailhead.salesforce.com/content/learn/modules/agentforce-agent-testing/trust-your-agents"
+    locator: "registry entry"
+    tier: 1
+  - id: "salesforce-od-c5-3"
+    resource: "https://www.salesforce.com/agentforce/observability/"
+    locator: "registry entry"
+    tier: 1
+  - id: "salesforce-od-c6-10"
+    resource: "https://trailhead.salesforce.com/content/learn/modules/the-einstein-trust-layer/follow-the-response-journey"
+    locator: "registry entry"
+    tier: 1
+  - id: "salesforce-od-c6-11"
+    resource: "https://www.salesforce.com/agentforce/how-it-works/"
+    locator: "registry entry"
+    tier: 1
+  - id: "salesforce-od-c6-2"
+    resource: "https://trailhead.salesforce.com/content/learn/modules/mcp-for-agentforce-quick-look/discover-mcp-for-agentforce"
+    locator: "registry entry"
+    tier: 1
+  - id: "salesforce-od-c6-8"
+    resource: "https://architect.salesforce.com/docs/architect/fundamentals/guide/agent-development-lifecycle.html"
+    locator: "registry entry"
+    tier: 1
+  - id: "salesforce-od-c7-1"
+    resource: "https://trailhead.salesforce.com/content/learn/modules/the-einstein-trust-layer/follow-the-response-journey"
+    locator: "registry entry"
+    tier: 1
   - id: "salesforce-r18-01"
     resource: "https://compliance.salesforce.com/en/categories/irap"
     locator: "registry entry"
@@ -258,30 +306,6 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 - Checked: not recorded
 - Cited by: [c6-1](c6-1.md)
 
-### confirm-655839919dd4
-
-- Title: Quoted by the confirm agents
-- URL: https://trailhead.salesforce.com/content/learn/modules/reasoning-in-artificial-intelligence/discover-the-atlas-reasoning-engine
-- Source tier: not yet rated
-- Checked: not recorded
-- Cited by: [c1-2](c1-2.md), [c2-5](c2-5.md)
-
-### confirm-68cf53558ce6
-
-- Title: Quoted by the confirm agents
-- URL: https://trailhead.salesforce.com/content/learn/modules/agentforce-agent-testing/trust-your-agents
-- Source tier: not yet rated
-- Checked: not recorded
-- Cited by: [c5-2](c5-2.md)
-
-### confirm-7802c4baee6e
-
-- Title: Quoted by the confirm agents
-- URL: https://engineering.salesforce.com/how-agentic-memory-enables-durable-reliable-ai-agents-across-millions-of-enterprise-users/
-- Source tier: not yet rated
-- Checked: not recorded
-- Cited by: [c2-6](c2-6.md)
-
 ### confirm-7a504faabcaf
 
 - Title: Quoted by the confirm agents
@@ -289,14 +313,6 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 - Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c4-4](c4-4.md)
-
-### confirm-8966293d4fc9
-
-- Title: Quoted by the confirm agents
-- URL: https://trailhead.salesforce.com/content/learn/projects/deploy-agent-authentication/learn-about-authentication-for-topics-and-actions
-- Source tier: not yet rated
-- Checked: not recorded
-- Cited by: [c4-3](c4-3.md)
 
 ### confirm-9af2303898bf
 
@@ -617,6 +633,134 @@ Every source the Salesforce Agentforce cells cite, with its tier from the knowle
 - Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-1](c5-1.md)
+
+### salesforce-od-c1-2
+
+- Title: Salesforce Agentforce / A Trusted Way to Work with Third-Party Servers
+- URL: https://trailhead.salesforce.com/content/learn/modules/mcp-for-agentforce-quick-look/discover-mcp-for-agentforce
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c1-2](c1-2.md)
+
+### salesforce-od-c1-3
+
+- Title: Salesforce Agentforce / Agent anatomy, Actions
+- URL: https://architect.salesforce.com/docs/architect/fundamentals/guide/agentic-patterns.html
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c1-3](c1-3.md)
+
+### salesforce-od-c2-1
+
+- Title: Salesforce Agentforce / Orchestration
+- URL: https://engineering.salesforce.com/agentforces-agent-graph-toward-guided-determinism-with-hybrid-reasoning/
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c2-1](c2-1.md)
+
+### salesforce-od-c2-4
+
+- Title: Salesforce Agentforce / Reasoning Engine considerations
+- URL: https://www.salesforce.com/agentforce/levels-of-determinism/
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c2-4](c2-4.md)
+
+### salesforce-od-c2-5
+
+- Title: Salesforce Agentforce / Action Execution
+- URL: https://www.salesforce.com/agentforce/levels-of-determinism/
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c2-5](c2-5.md)
+
+### salesforce-od-c2-6
+
+- Title: Salesforce Agentforce / Agentforce Memory
+- URL: https://www.salesforce.com/blog/agentforce-memory-update/
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c2-6](c2-6.md)
+
+### salesforce-od-c3-3
+
+- Title: Salesforce Agentforce / How secure is Agentforce
+- URL: https://www.salesforce.com/agentforce/how-it-works/
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c3-3](c3-3.md)
+
+### salesforce-od-c4-1
+
+- Title: Salesforce Agentforce / Trust
+- URL: https://architect.salesforce.com/docs/architect/well-architected/guide/agentic-enterprise.html
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c4-1](c4-1.md)
+
+### salesforce-od-c4-3
+
+- Title: Salesforce Agentforce / Resolve identity through the Salesforce per-user mechanism
+- URL: https://www.salesforce.com/blog/connect-agentforce-external-mcp-servers/
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c4-3](c4-3.md)
+
+### salesforce-od-c5-2
+
+- Title: Salesforce Agentforce / Automated Testing
+- URL: https://trailhead.salesforce.com/content/learn/modules/agentforce-agent-testing/trust-your-agents
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c5-2](c5-2.md)
+
+### salesforce-od-c5-3
+
+- Title: Salesforce Agentforce / Consumption and Cost Data
+- URL: https://www.salesforce.com/agentforce/observability/
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c5-3](c5-3.md)
+
+### salesforce-od-c6-10
+
+- Title: Salesforce Agentforce / The Prompt Journey, Zero Data Retention
+- URL: https://trailhead.salesforce.com/content/learn/modules/the-einstein-trust-layer/follow-the-response-journey
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c6-10](c6-10.md)
+
+### salesforce-od-c6-11
+
+- Title: Salesforce Agentforce / How secure is Agentforce
+- URL: https://www.salesforce.com/agentforce/how-it-works/
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c6-11](c6-11.md)
+
+### salesforce-od-c6-2
+
+- Title: Salesforce Agentforce / A Trusted Way to Work with Third-Party Servers
+- URL: https://trailhead.salesforce.com/content/learn/modules/mcp-for-agentforce-quick-look/discover-mcp-for-agentforce
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c6-2](c6-2.md)
+
+### salesforce-od-c6-8
+
+- Title: Salesforce Agentforce / Deployment
+- URL: https://architect.salesforce.com/docs/architect/fundamentals/guide/agent-development-lifecycle.html
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c6-8](c6-8.md)
+
+### salesforce-od-c7-1
+
+- Title: Salesforce Agentforce / Audit Trail
+- URL: https://trailhead.salesforce.com/content/learn/modules/the-einstein-trust-layer/follow-the-response-journey
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c7-1](c7-1.md)
 
 ### salesforce-r18-01
 

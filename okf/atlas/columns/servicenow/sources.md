@@ -11,10 +11,6 @@ tags:
   - "enterprise-agents"
   - "sources"
 sources:
-  - id: "confirm-02bba864fa43"
-    resource: "https://www.servicenow.com/docs/r/intelligent-experiences/aict-discovering-ai-assets.html"
-    locator: "registry entry"
-    tier: null
   - id: "servicenow-01"
     resource: "https://www.servicenow.com/docs/r/application-development/build-agent-governance.html"
     locator: "registry entry"
@@ -113,10 +109,6 @@ sources:
     tier: 1
   - id: "servicenow-27"
     resource: "https://www.servicenow.com/docs/r/intelligent-experiences/generative-ai-controller/configure-rate-limit.html"
-    locator: "registry entry"
-    tier: 1
-  - id: "servicenow-28"
-    resource: "https://www.servicenow.com/docs/r/intelligent-experiences/select-aia-llm-new.html"
     locator: "registry entry"
     tier: 1
   - id: "servicenow-29"
@@ -243,24 +235,8 @@ sources:
     resource: "https://www.servicenow.com/docs/r/intelligent-experiences/ai-control-tower/create-ai-asset-change-request.html"
     locator: "registry entry"
     tier: 1
-  - id: "servicenow-60"
-    resource: "https://www.servicenow.com/docs/r/intelligent-experiences/working-with-mcp-server-records.html"
-    locator: "registry entry"
-    tier: 1
-  - id: "servicenow-61"
-    resource: "https://www.servicenow.com/docs/r/intelligent-experiences/add-web-search-new.html"
-    locator: "registry entry"
-    tier: 1
   - id: "servicenow-62"
     resource: "https://www.servicenow.com/docs/r/intelligent-experiences/platai-ai-agents-agentic-workflows.html"
-    locator: "registry entry"
-    tier: 1
-  - id: "servicenow-63"
-    resource: "https://www.servicenow.com/docs/r/intelligent-experiences/inventory-intelligence-agent.html"
-    locator: "registry entry"
-    tier: 1
-  - id: "servicenow-64"
-    resource: "https://www.servicenow.com/docs/r/intelligent-experiences/aict-planning-ai-strategy.html"
     locator: "registry entry"
     tier: 1
   - id: "servicenow-r18-01"
@@ -297,14 +273,6 @@ generated:
 ---
 
 Every source the ServiceNow cells cite, with its tier from the knowledge base's source register. Tier 1 and 2 sources can verify a claim within their subject. Tier 3 can only hold it as provisional.
-
-### confirm-02bba864fa43
-
-- Title: Quoted by the confirm agents
-- URL: https://www.servicenow.com/docs/r/intelligent-experiences/aict-discovering-ai-assets.html
-- Source tier: not yet rated
-- Checked: not recorded
-- Cited by: [c6-5](c6-5.md)
 
 ### servicenow-01
 
@@ -496,7 +464,7 @@ Every source the ServiceNow cells cite, with its tier from the knowledge base's 
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/manage-version.html
 - Source tier: 1
 - Checked: 2026-10-09
-- Cited by: [c2-2](c2-2.md), [c6-8](c6-8.md), [c7-3](c7-3.md)
+- Cited by: [c6-8](c6-8.md), [c7-3](c7-3.md)
 
 ### servicenow-27
 
@@ -504,15 +472,7 @@ Every source the ServiceNow cells cite, with its tier from the knowledge base's 
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/generative-ai-controller/configure-rate-limit.html
 - Source tier: 1
 - Checked: 2026-10-09
-- Cited by: [c2-2](c2-2.md), [c3-1](c3-1.md)
-
-### servicenow-28
-
-- Title: Select the model provider for AI agents (Brazil)
-- URL: https://www.servicenow.com/docs/r/intelligent-experiences/select-aia-llm-new.html
-- Source tier: 1
-- Checked: 2026-10-09
-- Cited by: [c2-2](c2-2.md)
+- Cited by: [c3-1](c3-1.md)
 
 ### servicenow-29
 
@@ -568,7 +528,7 @@ Every source the ServiceNow cells cite, with its tier from the knowledge base's 
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/aict-discovering-ai-assets.html
 - Source tier: 1
 - Checked: 2026-10-09
-- Cited by: [c6-1](c6-1.md), [c7-8](c7-8.md), [c7-9](c7-9.md)
+- Cited by: [c7-8](c7-8.md), [c7-9](c7-9.md)
 
 ### servicenow-36
 
@@ -600,7 +560,7 @@ Every source the ServiceNow cells cite, with its tier from the knowledge base's 
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/disc-ai-managed-unmanaged.html
 - Source tier: 1
 - Checked: 2026-10-09
-- Cited by: [c6-5](c6-5.md), [c6-7](c6-7.md), [c7-9](c7-9.md)
+- Cited by: [c6-7](c6-7.md), [c7-9](c7-9.md)
 
 ### servicenow-40
 
@@ -616,7 +576,7 @@ Every source the ServiceNow cells cite, with its tier from the knowledge base's 
 - URL: https://www.servicenow.com/docs/r/intelligent-experiences/aict-exploring.html
 - Source tier: 1
 - Checked: 2026-10-09
-- Cited by: [c4-1](c4-1.md), [c6-12](c6-12.md), [c6-5](c6-5.md), [c6-6](c6-6.md), [c7-3](c7-3.md), [c7-9](c7-9.md)
+- Cited by: [c4-1](c4-1.md), [c6-12](c6-12.md), [c6-6](c6-6.md), [c7-3](c7-3.md), [c7-9](c7-9.md)
 
 ### servicenow-42
 
@@ -744,7 +704,7 @@ Every source the ServiceNow cells cite, with its tier from the knowledge base's 
 - URL: https://www.servicenow.com/docs/r/zurich/intelligent-experiences/aict-configure-servicenow-ai-settings.html
 - Source tier: 1
 - Checked: 2026-10-09
-- Cited by: [c2-2](c2-2.md), [c6-10](c6-10.md), [c6-12](c6-12.md)
+- Cited by: [c6-10](c6-10.md), [c6-12](c6-12.md)
 
 ### servicenow-58
 
@@ -762,22 +722,6 @@ Every source the ServiceNow cells cite, with its tier from the knowledge base's 
 - Checked: 2026-10-09
 - Cited by: [c6-8](c6-8.md), [c7-8](c7-8.md)
 
-### servicenow-60
-
-- Title: Working with MCP server records (Brazil)
-- URL: https://www.servicenow.com/docs/r/intelligent-experiences/working-with-mcp-server-records.html
-- Source tier: 1
-- Checked: 2026-10-09
-- Cited by: [c6-1](c6-1.md), [c6-5](c6-5.md)
-
-### servicenow-61
-
-- Title: Web search tool (Brazil)
-- URL: https://www.servicenow.com/docs/r/intelligent-experiences/add-web-search-new.html
-- Source tier: 1
-- Checked: 2026-10-09
-- Cited by: [c2-2](c2-2.md)
-
 ### servicenow-62
 
 - Title: AI agents and agentic workflows (Brazil)
@@ -785,22 +729,6 @@ Every source the ServiceNow cells cite, with its tier from the knowledge base's 
 - Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c2-1](c2-1.md)
-
-### servicenow-63
-
-- Title: AI Inventory Intelligence Agent (Brazil)
-- URL: https://www.servicenow.com/docs/r/intelligent-experiences/inventory-intelligence-agent.html
-- Source tier: 1
-- Checked: 2026-10-09
-- Cited by: [c6-1](c6-1.md)
-
-### servicenow-64
-
-- Title: Plan your AI strategy (Brazil)
-- URL: https://www.servicenow.com/docs/r/intelligent-experiences/aict-planning-ai-strategy.html
-- Source tier: 1
-- Checked: 2026-10-09
-- Cited by: [c6-5](c6-5.md)
 
 ### servicenow-r18-01
 
