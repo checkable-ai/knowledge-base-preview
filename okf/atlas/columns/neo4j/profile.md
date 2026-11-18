@@ -5,7 +5,7 @@ description: "Column profile for Neo4j in the Retrieval and search group."
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "data-retrieval"

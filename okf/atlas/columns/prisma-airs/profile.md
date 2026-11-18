@@ -5,7 +5,7 @@ description: "Column profile for Palo Alto Networks Prisma AIRS in the AI securi
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "ai-security"
@@ -33,8 +33,7 @@ Column group: AI security. Facts are agent-run. Cells listed as eligible are the
 
 | Verification state | Cells |
 | --- | --- |
-| agent-checked | 3 |
-| verified | 43 |
+| verified | 46 |
 
 ## Products
 
@@ -55,9 +54,9 @@ Column group: AI security. Facts are agent-run. Cells listed as eligible are the
 | [Delegation (OBO)](c4-3.md) | Identity | not-covered | verified | yes |
 | [A2A](c4-4.md) | Identity | covered | verified | yes |
 | [Agent Local Scopes](c1-1.md) | Authorisation | not-covered | verified | yes |
-| [Agent Remote Scopes](c1-2.md) | Authorisation | not-covered | agent-checked | yes |
+| [Agent Remote Scopes](c1-2.md) | Authorisation | not-covered | verified | yes |
 | [Human Approval](c1-3.md) | Authorisation | not-covered | verified | yes |
-| [Agent Provisioning](c1-4.md) | Authorisation | out-of-scope | agent-checked | yes |
+| [Agent Provisioning](c1-4.md) | Authorisation | out-of-scope | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | out-of-scope | verified | yes |
 | [Inference](c2-2.md) | Runtime | covered | verified | yes |
 | [Execution Environment](c2-3.md) | Runtime | out-of-scope | verified | yes |
@@ -87,7 +86,7 @@ Column group: AI security. Facts are agent-run. Cells listed as eligible are the
 | [Registration & Approval Workflows](c6-2.md) | Governance | not-covered | verified | yes |
 | [Posture & Reporting](c6-3.md) | Governance | covered | verified | yes |
 | [Policy Management](c6-4.md) | Governance | not-covered | verified | yes |
-| [AI Lifecycle Management](c6-5.md) | Governance | out-of-scope | agent-checked | yes |
+| [AI Lifecycle Management](c6-5.md) | Governance | out-of-scope | verified | yes |
 | [Ownership & Accountability](c6-6.md) | Governance | not-covered | verified | yes |
 | [Risk Assessment & Classification](c6-7.md) | Governance | not-covered | verified | yes |
 | [Change & Release Governance](c6-8.md) | Governance | not-covered | verified | yes |

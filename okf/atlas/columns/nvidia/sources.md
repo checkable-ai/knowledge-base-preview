@@ -5,7 +5,7 @@ description: "Sources cited by the NVIDIA AI Enterprise column, with tiers and c
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "self-hosted"

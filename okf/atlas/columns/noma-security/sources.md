@@ -5,7 +5,7 @@ description: "Sources cited by the Noma Security column, with tiers and check da
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "ai-security"

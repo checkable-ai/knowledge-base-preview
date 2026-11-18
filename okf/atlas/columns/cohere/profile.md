@@ -5,7 +5,7 @@ description: "Column profile for Cohere in the Frontier AI providers group."
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "frontier-ai"

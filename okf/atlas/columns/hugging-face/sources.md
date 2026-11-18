@@ -5,7 +5,7 @@ description: "Sources cited by the Hugging Face Hub and Enterprise Hub column, w
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "model-hosting"

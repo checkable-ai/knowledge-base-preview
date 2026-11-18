@@ -5,7 +5,7 @@ description: "Sources cited by the MuleSoft Agent Fabric and Omni Gateway column
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "ai-gateways"

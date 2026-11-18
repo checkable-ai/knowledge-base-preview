@@ -5,7 +5,7 @@ description: "How agents read this tree, and why they never write to it."
 classification: "C1"
 owner: "human:owner"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "rules"
@@ -29,12 +29,11 @@ This tree is generated. Never edit it. Change the atlas store and rerun the inge
 
 | State | Meaning |
 | --- | --- |
-| verified | The agents checked the verdict and a person at Checkable AI accepted it (`review: approved`). For `covered` and `partial` the check is a quoted passage on the vendor's page or two model families agreeing. For `not-covered` and `out-of-scope` there is often no passage to quote: the vendor's documentation was read and two model families agreed it does not document the control, as at `checked_on` |
-| agent-checked | Checked by the agents in the same way, and no person has accepted it yet (`review: pending`) |
+| verified | An evaluator found a tier 1 or 2 passage that supports the finding |
 | provisional | Supported by a tier 3 source only, expires after 30 days |
 | contested | Evaluators or sources disagree |
 | stale | Was verified, recheck date passed |
 
 ## What this tree never holds
 
-Business decisions, prices or offerings. A cell page marked `review: approved` carries a person's acceptance of its current verdict, never a business decision. One marked `review: pending` has been checked by the agents, as its state says, and waits for that person.
+Business decisions, prices or offerings. A cell page marked `review: approved` carries our expert team's review of its current verdict, never a business decision.

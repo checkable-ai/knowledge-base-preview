@@ -5,7 +5,7 @@ description: "Sources cited by the Microsoft 365 Copilot column, with tiers and 
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "enterprise-agents"

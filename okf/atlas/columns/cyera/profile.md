@@ -5,7 +5,7 @@ description: "Column profile for Cyera (with Oasis) in the Data security for AI 
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "data-security"

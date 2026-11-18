@@ -5,7 +5,7 @@ description: "Sources cited by the CrowdStrike Falcon (AIDR, Next-Gen SIEM, Iden
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "secops"

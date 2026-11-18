@@ -5,7 +5,7 @@ description: "Sources cited by the Appian Agent Studio column, with tiers and ch
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "workflow-automation"

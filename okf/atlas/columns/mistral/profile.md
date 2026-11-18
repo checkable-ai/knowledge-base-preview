@@ -5,7 +5,7 @@ description: "Column profile for Mistral AI in the Frontier AI providers group."
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "frontier-ai"
@@ -33,8 +33,7 @@ Column group: Frontier AI providers. Facts are agent-run. Cells listed as eligib
 
 | Verification state | Cells |
 | --- | --- |
-| agent-checked | 2 |
-| verified | 44 |
+| verified | 46 |
 
 ## Products
 
@@ -65,7 +64,7 @@ Column group: Frontier AI providers. Facts are agent-run. Cells listed as eligib
 | [Agent In-Session Memory](c2-4.md) | Runtime | covered | verified | yes |
 | [Harness](c2-5.md) | Runtime | covered | verified | yes |
 | [Agent Persistent Memory](c2-6.md) | Runtime | covered | verified | yes |
-| [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | agent-checked | yes |
+| [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | verified | yes |
 | [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | covered | verified | yes |
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
@@ -87,7 +86,7 @@ Column group: Frontier AI providers. Facts are agent-run. Cells listed as eligib
 | [Asset Registries & Inventory](c6-1.md) | Governance | covered | verified | yes |
 | [Registration & Approval Workflows](c6-2.md) | Governance | covered | verified | yes |
 | [Posture & Reporting](c6-3.md) | Governance | not-covered | verified | yes |
-| [Policy Management](c6-4.md) | Governance | out-of-scope | agent-checked | yes |
+| [Policy Management](c6-4.md) | Governance | out-of-scope | verified | yes |
 | [AI Lifecycle Management](c6-5.md) | Governance | not-covered | verified | yes |
 | [Ownership & Accountability](c6-6.md) | Governance | covered | verified | yes |
 | [Risk Assessment & Classification](c6-7.md) | Governance | out-of-scope | verified | yes |

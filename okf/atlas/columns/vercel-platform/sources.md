@@ -5,7 +5,7 @@ description: "Sources cited by the Vercel (platform and Vercel Agent) column, wi
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "production-tools"

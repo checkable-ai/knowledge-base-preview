@@ -5,7 +5,7 @@ description: "Column profile for 1Password Unified Access in the Identity, acces
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "identity"

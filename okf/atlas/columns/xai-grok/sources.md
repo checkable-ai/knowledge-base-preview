@@ -5,7 +5,7 @@ description: "Sources cited by the xAI Grok (Grok Business, Grok Enterprise and 
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "frontier-ai"

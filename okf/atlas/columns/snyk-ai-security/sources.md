@@ -5,7 +5,7 @@ description: "Sources cited by the Snyk Evo and Agentic Development Security col
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "ai-security"

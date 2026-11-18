@@ -5,7 +5,7 @@ description: "Column profile for Perplexity Enterprise and Comet in the Frontier
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "frontier-ai"

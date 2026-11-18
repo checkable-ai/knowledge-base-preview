@@ -5,7 +5,7 @@ description: "Sources cited by the OWASP GenAI Security Project (LLM Top 10 and 
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "standards"

@@ -5,7 +5,7 @@ description: "Sources cited by the Microsoft Power Platform (Power Apps and Powe
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "app-builders"

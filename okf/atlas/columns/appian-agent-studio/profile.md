@@ -5,7 +5,7 @@ description: "Column profile for Appian Agent Studio in the Workflow automation 
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "workflow-automation"

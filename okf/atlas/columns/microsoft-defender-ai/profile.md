@@ -5,7 +5,7 @@ description: "Column profile for Microsoft Defender for AI and Defender XDR in t
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "secops"

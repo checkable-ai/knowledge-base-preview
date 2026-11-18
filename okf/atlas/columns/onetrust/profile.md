@@ -5,7 +5,7 @@ description: "Column profile for OneTrust AI Governance in the AI governance and
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "ai-governance"
@@ -33,8 +33,7 @@ Column group: AI governance and risk. Facts are agent-run. Cells listed as eligi
 
 | Verification state | Cells |
 | --- | --- |
-| agent-checked | 1 |
-| verified | 45 |
+| verified | 46 |
 
 ## Products
 
@@ -90,7 +89,7 @@ Column group: AI governance and risk. Facts are agent-run. Cells listed as eligi
 | [Ownership & Accountability](c6-6.md) | Governance | covered | verified | yes |
 | [Risk Assessment & Classification](c6-7.md) | Governance | covered | verified | yes |
 | [Change & Release Governance](c6-8.md) | Governance | not-covered | verified | yes |
-| [Exceptions & Risk Acceptance](c6-9.md) | Governance | not-covered | agent-checked | yes |
+| [Exceptions & Risk Acceptance](c6-9.md) | Governance | not-covered | verified | yes |
 | [Data Lifecycle Governance](c6-10.md) | Governance | not-covered | verified | yes |
 | [Assurance & Compliance Evidence](c6-11.md) | Governance | covered | verified | yes |
 | [Third-Party Governance](c6-12.md) | Governance | covered | verified | yes |

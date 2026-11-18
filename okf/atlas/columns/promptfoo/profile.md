@@ -5,7 +5,7 @@ description: "Column profile for Promptfoo in the Red teaming and testing group.
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "red-team"

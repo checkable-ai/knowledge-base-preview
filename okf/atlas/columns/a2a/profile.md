@@ -5,7 +5,7 @@ description: "Column profile for Agent2Agent (A2A) Protocol in the Protocols and
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "standards"

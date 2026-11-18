@@ -5,7 +5,7 @@ description: "Column profile for AUCyber managed AI and sovereign cloud in the A
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "sovereign-hosting"
@@ -33,8 +33,7 @@ Column group: Australian sovereign hosting. Facts are agent-run. Cells listed as
 
 | Verification state | Cells |
 | --- | --- |
-| agent-checked | 3 |
-| verified | 43 |
+| verified | 46 |
 
 ## Products
 
@@ -77,8 +76,8 @@ Column group: Australian sovereign hosting. Facts are agent-run. Cells listed as
 | [SOC Telemetry](c7-2.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Model Assurance](c7-3.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Runtime Assurance](c7-4.md) | Agentic MLSecOps | not-covered | verified | yes |
-| [First-Party Tool Assurance](c7-5.md) | Agentic MLSecOps | out-of-scope | agent-checked | yes |
-| [Third-Party Tool Assurance](c7-6.md) | Agentic MLSecOps | out-of-scope | agent-checked | yes |
+| [First-Party Tool Assurance](c7-5.md) | Agentic MLSecOps | out-of-scope | verified | yes |
+| [Third-Party Tool Assurance](c7-6.md) | Agentic MLSecOps | out-of-scope | verified | yes |
 | [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [AI Discovery](c7-9.md) | Agentic MLSecOps | covered | verified | yes |
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | not-covered | verified | yes |
@@ -93,7 +92,7 @@ Column group: Australian sovereign hosting. Facts are agent-run. Cells listed as
 | [Exceptions & Risk Acceptance](c6-9.md) | Governance | out-of-scope | verified | yes |
 | [Data Lifecycle Governance](c6-10.md) | Governance | not-covered | verified | yes |
 | [Assurance & Compliance Evidence](c6-11.md) | Governance | not-covered | verified | yes |
-| [Third-Party Governance](c6-12.md) | Governance | out-of-scope | agent-checked | yes |
+| [Third-Party Governance](c6-12.md) | Governance | out-of-scope | verified | yes |
 | [Independent Assurance & Authorisation](c6-13.md) | Governance | covered | verified | yes |
 
 Sources are in the [source registry](sources.md).

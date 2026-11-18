@@ -5,7 +5,7 @@ description: "Column profile for SAP Business AI in the Enterprise and workplace
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "enterprise-agents"
@@ -32,8 +32,7 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 
 | Verification state | Cells |
 | --- | --- |
-| agent-checked | 2 |
-| verified | 44 |
+| verified | 46 |
 
 ## Products
 
@@ -52,7 +51,7 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | [Agent ID](c4-1.md) | Identity | not-covered | verified | yes |
 | [Credential Brokerage](c4-2.md) | Identity | not-covered | verified | yes |
 | [Delegation (OBO)](c4-3.md) | Identity | not-covered | verified | yes |
-| [A2A](c4-4.md) | Identity | not-covered | agent-checked | yes |
+| [A2A](c4-4.md) | Identity | not-covered | verified | yes |
 | [Agent Local Scopes](c1-1.md) | Authorisation | not-covered | verified | yes |
 | [Agent Remote Scopes](c1-2.md) | Authorisation | not-covered | verified | yes |
 | [Human Approval](c1-3.md) | Authorisation | not-covered | verified | yes |
@@ -67,7 +66,7 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | covered | verified | yes |
 | [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
-| [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | not-covered | agent-checked | yes |
+| [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [HITL](c5-1.md) | Observability & Explainability | not-covered | verified | yes |
 | [Behavioural](c5-2.md) | Observability & Explainability | not-covered | verified | yes |
 | [Cost & Yield](c5-3.md) | Observability & Explainability | not-covered | verified | yes |

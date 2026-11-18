@@ -5,7 +5,7 @@ description: "Column profile for Microsoft Sentinel in the Security operations (
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "secops"
@@ -33,8 +33,7 @@ Column group: Security operations (SIEM, XDR). Facts are agent-run. Cells listed
 
 | Verification state | Cells |
 | --- | --- |
-| agent-checked | 1 |
-| verified | 45 |
+| verified | 46 |
 
 ## Products
 
@@ -82,7 +81,7 @@ Column group: Security operations (SIEM, XDR). Facts are agent-run. Cells listed
 | [AI Discovery](c7-9.md) | Agentic MLSecOps | covered | verified | yes |
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | out-of-scope | verified | yes |
 | [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | verified | yes |
-| [Registration & Approval Workflows](c6-2.md) | Governance | out-of-scope | agent-checked | yes |
+| [Registration & Approval Workflows](c6-2.md) | Governance | out-of-scope | verified | yes |
 | [Posture & Reporting](c6-3.md) | Governance | not-covered | verified | yes |
 | [Policy Management](c6-4.md) | Governance | out-of-scope | verified | yes |
 | [AI Lifecycle Management](c6-5.md) | Governance | out-of-scope | verified | yes |

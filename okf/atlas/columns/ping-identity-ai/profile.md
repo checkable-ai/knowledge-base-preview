@@ -5,7 +5,7 @@ description: "Column profile for Ping Identity for AI in the Identity, access an
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "identity"

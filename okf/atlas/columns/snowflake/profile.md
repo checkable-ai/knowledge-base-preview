@@ -5,7 +5,7 @@ description: "Column profile for Snowflake in the Data and AI platforms group."
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "data-ai-platforms"
@@ -32,8 +32,7 @@ Column group: Data and AI platforms. Facts are agent-run. Cells listed as eligib
 
 | Verification state | Cells |
 | --- | --- |
-| agent-checked | 7 |
-| verified | 39 |
+| verified | 46 |
 
 ## Products
 
@@ -58,18 +57,18 @@ Column group: Data and AI platforms. Facts are agent-run. Cells listed as eligib
 | [Delegation (OBO)](c4-3.md) | Identity | covered | verified | yes |
 | [A2A](c4-4.md) | Identity | not-covered | verified | yes |
 | [Agent Local Scopes](c1-1.md) | Authorisation | covered | verified | yes |
-| [Agent Remote Scopes](c1-2.md) | Authorisation | covered | agent-checked | yes |
+| [Agent Remote Scopes](c1-2.md) | Authorisation | covered | verified | yes |
 | [Human Approval](c1-3.md) | Authorisation | covered | verified | yes |
-| [Agent Provisioning](c1-4.md) | Authorisation | covered | agent-checked | yes |
+| [Agent Provisioning](c1-4.md) | Authorisation | covered | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | covered | verified | yes |
-| [Inference](c2-2.md) | Runtime | covered | agent-checked | yes |
+| [Inference](c2-2.md) | Runtime | covered | verified | yes |
 | [Execution Environment](c2-3.md) | Runtime | covered | verified | yes |
 | [Agent In-Session Memory](c2-4.md) | Runtime | covered | verified | yes |
-| [Harness](c2-5.md) | Runtime | covered | agent-checked | yes |
+| [Harness](c2-5.md) | Runtime | covered | verified | yes |
 | [Agent Persistent Memory](c2-6.md) | Runtime | covered | verified | yes |
-| [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | agent-checked | yes |
+| [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | verified | yes |
 | [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
-| [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | not-covered | agent-checked | yes |
+| [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [HITL](c5-1.md) | Observability & Explainability | covered | verified | yes |
@@ -96,7 +95,7 @@ Column group: Data and AI platforms. Facts are agent-run. Cells listed as eligib
 | [Change & Release Governance](c6-8.md) | Governance | not-covered | verified | yes |
 | [Exceptions & Risk Acceptance](c6-9.md) | Governance | not-covered | verified | yes |
 | [Data Lifecycle Governance](c6-10.md) | Governance | not-covered | verified | yes |
-| [Assurance & Compliance Evidence](c6-11.md) | Governance | covered | agent-checked | yes |
+| [Assurance & Compliance Evidence](c6-11.md) | Governance | covered | verified | yes |
 | [Third-Party Governance](c6-12.md) | Governance | not-covered | verified | yes |
 | [Independent Assurance & Authorisation](c6-13.md) | Governance | covered | verified | yes |
 

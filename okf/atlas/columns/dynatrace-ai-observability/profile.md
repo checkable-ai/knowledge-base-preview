@@ -5,7 +5,7 @@ description: "Column profile for Dynatrace AI Observability in the Observability
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "observability"

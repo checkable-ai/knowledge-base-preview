@@ -5,7 +5,7 @@ description: "Column profile for Heidi Health AI Care Partner in the Enterprise 
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "enterprise-agents"

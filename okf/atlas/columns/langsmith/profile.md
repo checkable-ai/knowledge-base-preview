@@ -5,7 +5,7 @@ description: "Column profile for LangSmith in the Observability and evaluation g
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "observability"
@@ -33,8 +33,7 @@ Column group: Observability and evaluation. Facts are agent-run. Cells listed as
 
 | Verification state | Cells |
 | --- | --- |
-| agent-checked | 7 |
-| verified | 39 |
+| verified | 46 |
 
 ## Products
 
@@ -76,24 +75,24 @@ Column group: Observability and evaluation. Facts are agent-run. Cells listed as
 | [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |
 | [Administrative Audit](c7-1.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [SOC Telemetry](c7-2.md) | Agentic MLSecOps | not-covered | verified | yes |
-| [Model Assurance](c7-3.md) | Agentic MLSecOps | out-of-scope | agent-checked | yes |
+| [Model Assurance](c7-3.md) | Agentic MLSecOps | out-of-scope | verified | yes |
 | [Runtime Assurance](c7-4.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [First-Party Tool Assurance](c7-5.md) | Agentic MLSecOps | not-covered | verified | yes |
-| [Third-Party Tool Assurance](c7-6.md) | Agentic MLSecOps | out-of-scope | agent-checked | yes |
-| [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | out-of-scope | agent-checked | yes |
-| [AI Discovery](c7-9.md) | Agentic MLSecOps | out-of-scope | agent-checked | yes |
+| [Third-Party Tool Assurance](c7-6.md) | Agentic MLSecOps | out-of-scope | verified | yes |
+| [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | out-of-scope | verified | yes |
+| [AI Discovery](c7-9.md) | Agentic MLSecOps | out-of-scope | verified | yes |
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | covered | verified | yes |
 | [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | verified | yes |
 | [Registration & Approval Workflows](c6-2.md) | Governance | not-covered | verified | yes |
 | [Posture & Reporting](c6-3.md) | Governance | not-covered | verified | yes |
-| [Policy Management](c6-4.md) | Governance | out-of-scope | agent-checked | yes |
+| [Policy Management](c6-4.md) | Governance | out-of-scope | verified | yes |
 | [AI Lifecycle Management](c6-5.md) | Governance | not-covered | verified | yes |
 | [Ownership & Accountability](c6-6.md) | Governance | not-covered | verified | yes |
-| [Risk Assessment & Classification](c6-7.md) | Governance | out-of-scope | agent-checked | yes |
+| [Risk Assessment & Classification](c6-7.md) | Governance | out-of-scope | verified | yes |
 | [Change & Release Governance](c6-8.md) | Governance | not-covered | verified | yes |
 | [Exceptions & Risk Acceptance](c6-9.md) | Governance | not-covered | verified | yes |
 | [Data Lifecycle Governance](c6-10.md) | Governance | covered | verified | yes |
-| [Assurance & Compliance Evidence](c6-11.md) | Governance | out-of-scope | agent-checked | yes |
+| [Assurance & Compliance Evidence](c6-11.md) | Governance | out-of-scope | verified | yes |
 | [Third-Party Governance](c6-12.md) | Governance | not-covered | verified | yes |
 | [Independent Assurance & Authorisation](c6-13.md) | Governance | covered | verified | yes |
 

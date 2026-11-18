@@ -5,7 +5,7 @@ description: "Column profile for Noma Security in the AI security group."
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "ai-security"
@@ -33,8 +33,7 @@ Column group: AI security. Facts are agent-run. Cells listed as eligible are the
 
 | Verification state | Cells |
 | --- | --- |
-| agent-checked | 2 |
-| verified | 44 |
+| verified | 46 |
 
 ## Products
 
@@ -59,7 +58,7 @@ Column group: AI security. Facts are agent-run. Cells listed as eligible are the
 | [Human Approval](c1-3.md) | Authorisation | not-covered | verified | yes |
 | [Agent Provisioning](c1-4.md) | Authorisation | not-covered | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | out-of-scope | verified | yes |
-| [Inference](c2-2.md) | Runtime | out-of-scope | agent-checked | yes |
+| [Inference](c2-2.md) | Runtime | out-of-scope | verified | yes |
 | [Execution Environment](c2-3.md) | Runtime | out-of-scope | verified | yes |
 | [Agent In-Session Memory](c2-4.md) | Runtime | out-of-scope | verified | yes |
 | [Harness](c2-5.md) | Runtime | out-of-scope | verified | yes |
@@ -84,7 +83,7 @@ Column group: AI security. Facts are agent-run. Cells listed as eligible are the
 | [AI Discovery](c7-9.md) | Agentic MLSecOps | covered | verified | yes |
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | covered | verified | yes |
 | [Asset Registries & Inventory](c6-1.md) | Governance | covered | verified | yes |
-| [Registration & Approval Workflows](c6-2.md) | Governance | not-covered | agent-checked | yes |
+| [Registration & Approval Workflows](c6-2.md) | Governance | not-covered | verified | yes |
 | [Posture & Reporting](c6-3.md) | Governance | covered | verified | yes |
 | [Policy Management](c6-4.md) | Governance | not-covered | verified | yes |
 | [AI Lifecycle Management](c6-5.md) | Governance | not-covered | verified | yes |

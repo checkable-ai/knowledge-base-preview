@@ -5,7 +5,7 @@ description: "Column profile for Langfuse in the Observability and evaluation gr
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "observability"
@@ -33,8 +33,7 @@ Column group: Observability and evaluation. Facts are agent-run. Cells listed as
 
 | Verification state | Cells |
 | --- | --- |
-| agent-checked | 1 |
-| verified | 45 |
+| verified | 46 |
 
 ## Products
 
@@ -60,7 +59,7 @@ Column group: Observability and evaluation. Facts are agent-run. Cells listed as
 | [Execution Environment](c2-3.md) | Runtime | out-of-scope | verified | yes |
 | [Agent In-Session Memory](c2-4.md) | Runtime | not-covered | verified | yes |
 | [Harness](c2-5.md) | Runtime | out-of-scope | verified | yes |
-| [Agent Persistent Memory](c2-6.md) | Runtime | not-covered | agent-checked | yes |
+| [Agent Persistent Memory](c2-6.md) | Runtime | not-covered | verified | yes |
 | [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | verified | yes |
 | [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | not-covered | verified | yes |

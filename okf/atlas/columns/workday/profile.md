@@ -5,7 +5,7 @@ description: "Column profile for Workday AI in the Enterprise and workplace agen
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "enterprise-agents"

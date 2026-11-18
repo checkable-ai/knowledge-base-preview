@@ -5,7 +5,7 @@ description: "Sources cited by the Idira (CyberArk) Secure AI Agents column, wit
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "identity"

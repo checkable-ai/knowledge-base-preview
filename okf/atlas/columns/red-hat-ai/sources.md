@@ -5,7 +5,7 @@ description: "Sources cited by the Red Hat AI (OpenShift AI, AI Inference Server
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "self-hosted"

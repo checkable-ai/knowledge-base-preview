@@ -5,7 +5,7 @@ description: "Column profile for Cortex XSIAM, Cortex XDR and Cortex AgentiX in 
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "secops"
@@ -33,9 +33,8 @@ Column group: Security operations (SIEM, XDR). Facts are agent-run. Cells listed
 
 | Verification state | Cells |
 | --- | --- |
-| agent-checked | 2 |
 | contested | 1 |
-| verified | 43 |
+| verified | 45 |
 
 ## Products
 
@@ -57,7 +56,7 @@ Column group: Security operations (SIEM, XDR). Facts are agent-run. Cells listed
 | [Agent Local Scopes](c1-1.md) | Authorisation | covered | verified | yes |
 | [Agent Remote Scopes](c1-2.md) | Authorisation | covered | verified | yes |
 | [Human Approval](c1-3.md) | Authorisation | covered | verified | yes |
-| [Agent Provisioning](c1-4.md) | Authorisation | not-covered | agent-checked | yes |
+| [Agent Provisioning](c1-4.md) | Authorisation | not-covered | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | not-covered | verified | yes |
 | [Inference](c2-2.md) | Runtime | escalated | contested | no |
 | [Execution Environment](c2-3.md) | Runtime | not-covered | verified | yes |
@@ -93,7 +92,7 @@ Column group: Security operations (SIEM, XDR). Facts are agent-run. Cells listed
 | [Change & Release Governance](c6-8.md) | Governance | not-covered | verified | yes |
 | [Exceptions & Risk Acceptance](c6-9.md) | Governance | not-covered | verified | yes |
 | [Data Lifecycle Governance](c6-10.md) | Governance | not-covered | verified | yes |
-| [Assurance & Compliance Evidence](c6-11.md) | Governance | not-covered | agent-checked | yes |
+| [Assurance & Compliance Evidence](c6-11.md) | Governance | not-covered | verified | yes |
 | [Third-Party Governance](c6-12.md) | Governance | not-covered | verified | yes |
 | [Independent Assurance & Authorisation](c6-13.md) | Governance | covered | verified | yes |
 

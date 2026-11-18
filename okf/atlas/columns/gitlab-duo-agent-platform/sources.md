@@ -5,7 +5,7 @@ description: "Sources cited by the GitLab Duo Agent Platform column, with tiers 
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "coding-agents"

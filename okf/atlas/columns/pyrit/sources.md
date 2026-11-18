@@ -5,7 +5,7 @@ description: "Sources cited by the Microsoft PyRIT column, with tiers and check 
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "red-team"

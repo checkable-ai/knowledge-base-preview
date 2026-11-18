@@ -5,7 +5,7 @@ description: "Sources cited by the OpenAI Codex column, with tiers and check dat
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "coding-agents"

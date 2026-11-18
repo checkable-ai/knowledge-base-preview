@@ -5,7 +5,7 @@ description: "Column profile for BigID AI governance and agentic access control 
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "data-security"

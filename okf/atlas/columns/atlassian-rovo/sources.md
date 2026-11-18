@@ -5,7 +5,7 @@ description: "Sources cited by the Atlassian Rovo column, with tiers and check d
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "enterprise-agents"
