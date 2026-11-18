@@ -29,8 +29,8 @@ Column group: Identity, access and secrets. Facts are agent-run. Cells listed as
 | --- | --- |
 | covered | 6 |
 | escalated | 8 |
-| not-covered | 27 |
-| partial | 5 |
+| not-covered | 24 |
+| partial | 8 |
 
 | Verification state | Cells |
 | --- | --- |
@@ -59,7 +59,7 @@ Column group: Identity, access and secrets. Facts are agent-run. Cells listed as
 | [Agent Local Scopes](c1-1.md) | Authorisation | escalated | contested | no |
 | [Agent Remote Scopes](c1-2.md) | Authorisation | covered | verified | yes |
 | [Human Approval](c1-3.md) | Authorisation | not-covered | verified | yes |
-| [Agent Provisioning](c1-4.md) | Authorisation | not-covered | verified | yes |
+| [Agent Provisioning](c1-4.md) | Authorisation | partial | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | escalated | contested | no |
 | [Inference](c2-2.md) | Runtime | escalated | contested | no |
 | [Execution Environment](c2-3.md) | Runtime | escalated | contested | no |
@@ -76,7 +76,7 @@ Column group: Identity, access and secrets. Facts are agent-run. Cells listed as
 | [Cost & Yield](c5-3.md) | Observability & Explainability | not-covered | verified | yes |
 | [Infrastructure](c5-4.md) | Observability & Explainability | not-covered | verified | yes |
 | [Connectivity](c5-5.md) | Observability & Explainability | covered | verified | yes |
-| [Administrative Audit](c7-1.md) | Agentic MLSecOps | not-covered | verified | yes |
+| [Administrative Audit](c7-1.md) | Agentic MLSecOps | partial | verified | yes |
 | [SOC Telemetry](c7-2.md) | Agentic MLSecOps | partial | verified | yes |
 | [Model Assurance](c7-3.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Runtime Assurance](c7-4.md) | Agentic MLSecOps | not-covered | verified | yes |
@@ -91,7 +91,7 @@ Column group: Identity, access and secrets. Facts are agent-run. Cells listed as
 | [Policy Management](c6-4.md) | Governance | not-covered | verified | yes |
 | [AI Lifecycle Management](c6-5.md) | Governance | not-covered | verified | yes |
 | [Ownership & Accountability](c6-6.md) | Governance | covered | verified | yes |
-| [Risk Assessment & Classification](c6-7.md) | Governance | not-covered | verified | yes |
+| [Risk Assessment & Classification](c6-7.md) | Governance | partial | verified | yes |
 | [Change & Release Governance](c6-8.md) | Governance | not-covered | verified | yes |
 | [Exceptions & Risk Acceptance](c6-9.md) | Governance | escalated | contested | no |
 | [Data Lifecycle Governance](c6-10.md) | Governance | not-covered | verified | yes |

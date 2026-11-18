@@ -27,9 +27,9 @@ Column group: Frontier AI providers. Facts are agent-run. Cells listed as eligib
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 17 |
+| covered | 16 |
 | not-covered | 28 |
-| partial | 1 |
+| partial | 2 |
 
 | Verification state | Cells |
 | --- | --- |
@@ -91,6 +91,6 @@ Column group: Frontier AI providers. Facts are agent-run. Cells listed as eligib
 | [Data Lifecycle Governance](c6-10.md) | Governance | covered | verified | yes |
 | [Assurance & Compliance Evidence](c6-11.md) | Governance | not-covered | verified | yes |
 | [Third-Party Governance](c6-12.md) | Governance | not-covered | verified | yes |
-| [Independent Assurance & Authorisation](c6-13.md) | Governance | covered | verified | yes |
+| [Independent Assurance & Authorisation](c6-13.md) | Governance | partial | verified | yes |
 
 Sources are in the [source registry](sources.md).

@@ -83,6 +83,14 @@ sources:
     resource: "https://bigid.com/data-activity-monitoring/"
     locator: "registry entry"
     tier: 1
+  - id: "bigid-od-c3-3"
+    resource: "https://home.bigid.com/download-mcp-server-for-ai"
+    locator: "registry entry"
+    tier: 1
+  - id: "bigid-od-c6-10"
+    resource: "https://home.bigid.com/download-data-and-ai-solution-brief"
+    locator: "registry entry"
+    tier: 1
   - id: "bigid-r18-01"
     resource: "https://bigid.com/solutions/ai-agent-governance/"
     locator: "registry entry"
@@ -261,6 +269,22 @@ Every source the BigID AI governance and agentic access control cells cite, with
 - Source tier: 1
 - Checked: 2026-10-09
 - Cited by: [c5-2](c5-2.md), [c7-1](c7-1.md), [c7-2](c7-2.md)
+
+### bigid-od-c3-3
+
+- Title: BigID AI governance and agentic access control / BigID MCP Server for AI (solution brief landing page)
+- URL: https://home.bigid.com/download-mcp-server-for-ai
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c3-3](c3-3.md)
+
+### bigid-od-c6-10
+
+- Title: BigID AI governance and agentic access control / Connect the Dots in Data and AI Through Governance, Context, and Control (solution brief landing page)
+- URL: https://home.bigid.com/download-data-and-ai-solution-brief
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c6-10](c6-10.md)
 
 ### bigid-r18-01
 

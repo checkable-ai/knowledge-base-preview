@@ -227,6 +227,10 @@ sources:
     resource: "https://help.openai.com/en/articles/20001535-manage-chatgpt-desktop-browser-policies-with-mdm"
     locator: "registry entry"
     tier: 1
+  - id: "chatgpt-enterprise-od-c6-13"
+    resource: "https://trust.openai.com/"
+    locator: "registry entry"
+    tier: 1
   - id: "confirm-05d46e263670"
     resource: "https://learn.chatgpt.com/docs/agent-approvals-security"
     locator: "registry entry"
@@ -245,10 +249,6 @@ sources:
     tier: null
   - id: "confirm-88565b69257a"
     resource: "https://learn.chatgpt.com/docs/enterprise/workspace-model-availability"
-    locator: "registry entry"
-    tier: null
-  - id: "confirm-98a78578754b"
-    resource: "https://trust.openai.com/"
     locator: "registry entry"
     tier: null
   - id: "confirm-df27bad23271"
@@ -702,6 +702,14 @@ Every source the ChatGPT business plans cells cite, with its tier from the knowl
 - Checked: 2026-10-21
 - Cited by: [c7-5](c7-5.md)
 
+### chatgpt-enterprise-od-c6-13
+
+- Title: ChatGPT business plans / Overview
+- URL: https://trust.openai.com/
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c6-13](c6-13.md)
+
 ### confirm-05d46e263670
 
 - Title: Quoted by the confirm agents
@@ -741,14 +749,6 @@ Every source the ChatGPT business plans cells cite, with its tier from the knowl
 - Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-2](c2-2.md)
-
-### confirm-98a78578754b
-
-- Title: Quoted by the confirm agents
-- URL: https://trust.openai.com/
-- Source tier: not yet rated
-- Checked: not recorded
-- Cited by: [c6-13](c6-13.md)
 
 ### confirm-df27bad23271
 

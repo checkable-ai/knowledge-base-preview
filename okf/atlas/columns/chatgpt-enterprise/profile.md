@@ -27,9 +27,9 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 
 | Verdict | Cells |
 | --- | --- |
-| covered | 18 |
+| covered | 17 |
 | not-covered | 27 |
-| partial | 1 |
+| partial | 2 |
 
 | Verification state | Cells |
 | --- | --- |
@@ -94,6 +94,6 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | [Data Lifecycle Governance](c6-10.md) | Governance | covered | verified | yes |
 | [Assurance & Compliance Evidence](c6-11.md) | Governance | not-covered | verified | yes |
 | [Third-Party Governance](c6-12.md) | Governance | not-covered | verified | yes |
-| [Independent Assurance & Authorisation](c6-13.md) | Governance | covered | verified | yes |
+| [Independent Assurance & Authorisation](c6-13.md) | Governance | partial | verified | yes |
 
 Sources are in the [source registry](sources.md).

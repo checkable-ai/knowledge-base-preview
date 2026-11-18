@@ -19,10 +19,6 @@ sources:
     resource: "https://developers.openai.com/api/docs/guides/data-residency"
     locator: "registry entry"
     tier: null
-  - id: "confirm-98a78578754b"
-    resource: "https://trust.openai.com/"
-    locator: "registry entry"
-    tier: null
   - id: "confirm-9c17bb90d9fd"
     resource: "https://developers.openai.com/api/docs/guides/safety-checks/misalignment-monitoring"
     locator: "registry entry"
@@ -119,6 +115,10 @@ sources:
     resource: "https://developers.openai.com/api/docs/guides/agents-api/tools/vaults"
     locator: "registry entry"
     tier: 1
+  - id: "openai-od-c6-13"
+    resource: "https://trust.openai.com/"
+    locator: "registry entry"
+    tier: 1
   - id: "openai-r18-01"
     resource: "https://developers.openai.com/codex/sandboxing"
     locator: "registry entry"
@@ -173,14 +173,6 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 - Source tier: not yet rated
 - Checked: not recorded
 - Cited by: [c2-2](c2-2.md)
-
-### confirm-98a78578754b
-
-- Title: Quoted by the confirm agents
-- URL: https://trust.openai.com/
-- Source tier: not yet rated
-- Checked: not recorded
-- Cited by: [c6-13](c6-13.md)
 
 ### confirm-9c17bb90d9fd
 
@@ -373,6 +365,14 @@ Every source the OpenAI cells cite, with its tier from the knowledge base's sour
 - Source tier: 1
 - Checked: 2026-10-07
 - Cited by: [c4-2](c4-2.md)
+
+### openai-od-c6-13
+
+- Title: OpenAI / Trust Portal Updates, ISO/IEC 27001 certificate
+- URL: https://trust.openai.com/
+- Source tier: 1
+- Checked: 2026-11-18
+- Cited by: [c6-13](c6-13.md)
 
 ### openai-r18-01
 
