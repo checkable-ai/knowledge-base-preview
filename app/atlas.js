@@ -14,7 +14,7 @@
     'How do we detect and stop prompt injection attacks against our agents?',
     'What audit evidence will we have of what an agent did?',
   ];
-  const VERDICT = { covered: 'Covered', partial: 'Partly covered', 'not-covered': 'Not covered', 'out-of-scope': 'Out of scope', escalated: 'Escalated' };
+  const VERDICT = { covered: 'Covered', partial: 'Partly covered', 'not-covered': 'Not covered', 'out-of-scope': 'Out of scope', escalated: 'With our team' };
   const RANK = { covered: 0, partial: 1, escalated: 2, 'not-covered': 3, 'out-of-scope': 4 };
   let D, byRecord, byControl, byPlatform, byGroup, runToken = 0;
 
@@ -247,7 +247,7 @@
     card.innerHTML = `<button type="button" class="close" aria-label="Close the record">×</button>
       <p class="group-name">${esc(byGroup.get(p.group)?.name || '')}</p><h3>${esc(shortName(p.name))}: ${esc(c.name)}</h3>
       <p><span class="tag ${esc(r.verdict)}">${esc(VERDICT[r.verdict])}</span> <span class="tag${r.basis === 'agent-verified' ? ' verified' : ''}">${esc(r.basis.replace('-', ' '))}</span></p>
-      <p><strong>Control.</strong> ${esc(c.definition)}</p><p>${esc(plain(r.answer))}</p>
+      <p class="review-label">${esc(r.review_label)}</p><p><strong>Control.</strong> ${esc(c.definition)}</p><p>${esc(plain(r.answer))}</p>
       ${r.gaps ? `<p><strong>Gaps.</strong> ${esc(plain(r.gaps))}</p>` : ''}
       ${r.evidence?.length ? `<p><strong>Evaluator proof.</strong> Quoted verbatim from the stored page and checked as an exact substring:</p>` + r.evidence.map(e => `<blockquote>${esc(e.passage)}</blockquote><p><code>${esc(e.url)}</code><br>fetched ${esc(e.fetched_at)}, sha256 ${esc(e.sha256)}</p>`).join('') : ''}
       ${r.sources.length ? `<p><strong>Sources.</strong></p><ul class="plain">${r.sources.map(u => `<li><a href="${esc(u)}" target="_blank" rel="noopener noreferrer">${esc(u)}</a></li>`).join('')}</ul>` : ''}

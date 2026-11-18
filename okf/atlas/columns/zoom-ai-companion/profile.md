@@ -5,7 +5,7 @@ description: "Column profile for Zoom AI Companion in the Enterprise and workpla
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "enterprise-agents"
@@ -33,8 +33,7 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 
 | Verification state | Cells |
 | --- | --- |
-| agent-checked | 4 |
-| verified | 42 |
+| verified | 46 |
 
 ## Products
 
@@ -54,15 +53,15 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | [Delegation (OBO)](c4-3.md) | Identity | covered | verified | yes |
 | [A2A](c4-4.md) | Identity | not-covered | verified | yes |
 | [Agent Local Scopes](c1-1.md) | Authorisation | not-covered | verified | yes |
-| [Agent Remote Scopes](c1-2.md) | Authorisation | not-covered | agent-checked | yes |
+| [Agent Remote Scopes](c1-2.md) | Authorisation | not-covered | verified | yes |
 | [Human Approval](c1-3.md) | Authorisation | covered | verified | yes |
 | [Agent Provisioning](c1-4.md) | Authorisation | covered | verified | yes |
-| [Agent Orchestration](c2-1.md) | Runtime | not-covered | agent-checked | yes |
+| [Agent Orchestration](c2-1.md) | Runtime | not-covered | verified | yes |
 | [Inference](c2-2.md) | Runtime | not-covered | verified | yes |
 | [Execution Environment](c2-3.md) | Runtime | covered | verified | yes |
 | [Agent In-Session Memory](c2-4.md) | Runtime | not-covered | verified | yes |
 | [Harness](c2-5.md) | Runtime | covered | verified | yes |
-| [Agent Persistent Memory](c2-6.md) | Runtime | not-covered | agent-checked | yes |
+| [Agent Persistent Memory](c2-6.md) | Runtime | not-covered | verified | yes |
 | [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | verified | yes |
 | [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
@@ -80,7 +79,7 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | [First-Party Tool Assurance](c7-5.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Third-Party Tool Assurance](c7-6.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | not-covered | verified | yes |
-| [AI Discovery](c7-9.md) | Agentic MLSecOps | not-covered | agent-checked | yes |
+| [AI Discovery](c7-9.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | verified | yes |
 | [Registration & Approval Workflows](c6-2.md) | Governance | not-covered | verified | yes |

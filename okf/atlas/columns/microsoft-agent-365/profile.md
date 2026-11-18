@@ -5,7 +5,7 @@ description: "Column profile for Microsoft Agent 365 in the Enterprise and workp
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "enterprise-agents"

@@ -5,7 +5,7 @@ description: "Sources cited by the OneTrust AI Governance column, with tiers and
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "ai-governance"

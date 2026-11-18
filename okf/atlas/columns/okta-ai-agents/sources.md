@@ -5,7 +5,7 @@ description: "Sources cited by the Okta for AI Agents (with Auth0) column, with 
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "identity"

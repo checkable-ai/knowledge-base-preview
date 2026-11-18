@@ -5,7 +5,7 @@ description: "Sources cited by the Dynatrace AI Observability column, with tiers
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "observability"

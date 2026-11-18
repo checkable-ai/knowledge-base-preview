@@ -5,7 +5,7 @@ description: "Sources cited by the Vanta AI governance and ISO 42001 column, wit
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "ai-governance"

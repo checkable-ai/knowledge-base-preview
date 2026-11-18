@@ -5,7 +5,7 @@ description: "Sources cited by the NEXTDC sovereign AI campuses column, with tie
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "sovereign-hosting"

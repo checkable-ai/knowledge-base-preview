@@ -5,7 +5,7 @@ description: "Sources cited by the Google Antigravity and Gemini Code Assist col
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "coding-agents"

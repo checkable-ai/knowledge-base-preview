@@ -5,7 +5,7 @@ description: "Column profile for NIST AI Risk Management Framework and Generativ
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "standards"

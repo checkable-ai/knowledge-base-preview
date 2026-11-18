@@ -5,7 +5,7 @@ description: "Sources cited by the AUCyber managed AI and sovereign cloud column
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "sovereign-hosting"

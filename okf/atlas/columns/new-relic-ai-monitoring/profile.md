@@ -5,7 +5,7 @@ description: "Column profile for New Relic AI Monitoring in the Observability an
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "observability"

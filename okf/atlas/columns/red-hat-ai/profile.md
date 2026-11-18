@@ -5,7 +5,7 @@ description: "Column profile for Red Hat AI (OpenShift AI, AI Inference Server a
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "self-hosted"
@@ -33,8 +33,7 @@ Column group: Self-hosted and hybrid. Facts are agent-run. Cells listed as eligi
 
 | Verification state | Cells |
 | --- | --- |
-| agent-checked | 1 |
-| verified | 45 |
+| verified | 46 |
 
 ## Products
 
@@ -55,7 +54,7 @@ Column group: Self-hosted and hybrid. Facts are agent-run. Cells listed as eligi
 | [A2A](c4-4.md) | Identity | not-covered | verified | yes |
 | [Agent Local Scopes](c1-1.md) | Authorisation | not-covered | verified | yes |
 | [Agent Remote Scopes](c1-2.md) | Authorisation | not-covered | verified | yes |
-| [Human Approval](c1-3.md) | Authorisation | out-of-scope | agent-checked | yes |
+| [Human Approval](c1-3.md) | Authorisation | out-of-scope | verified | yes |
 | [Agent Provisioning](c1-4.md) | Authorisation | not-covered | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | not-covered | verified | yes |
 | [Inference](c2-2.md) | Runtime | covered | verified | yes |

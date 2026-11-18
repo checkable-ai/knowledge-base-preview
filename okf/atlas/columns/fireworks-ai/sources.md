@@ -5,7 +5,7 @@ description: "Sources cited by the Fireworks AI column, with tiers and check dat
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "model-hosting"

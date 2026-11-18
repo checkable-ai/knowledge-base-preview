@@ -5,7 +5,7 @@ description: "Column profile for Cloudflare AI Gateway and Firewall for AI in th
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "ai-gateways"

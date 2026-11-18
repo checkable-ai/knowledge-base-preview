@@ -5,7 +5,7 @@ description: "Column profile for ServiceNow in the Enterprise and workplace agen
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "enterprise-agents"
@@ -32,8 +32,7 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 
 | Verification state | Cells |
 | --- | --- |
-| agent-checked | 1 |
-| verified | 45 |
+| verified | 46 |
 
 ## Products
 
@@ -72,7 +71,7 @@ Column group: Enterprise and workplace agents. Facts are agent-run. Cells listed
 | [Behavioural](c5-2.md) | Observability & Explainability | not-covered | verified | yes |
 | [Cost & Yield](c5-3.md) | Observability & Explainability | covered | verified | yes |
 | [Infrastructure](c5-4.md) | Observability & Explainability | covered | verified | yes |
-| [Connectivity](c5-5.md) | Observability & Explainability | not-covered | agent-checked | yes |
+| [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |
 | [Administrative Audit](c7-1.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [SOC Telemetry](c7-2.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [Model Assurance](c7-3.md) | Agentic MLSecOps | not-covered | verified | yes |

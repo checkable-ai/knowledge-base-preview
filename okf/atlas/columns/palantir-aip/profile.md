@@ -5,7 +5,7 @@ description: "Column profile for Palantir AIP in the Data and AI platforms group
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "data-ai-platforms"

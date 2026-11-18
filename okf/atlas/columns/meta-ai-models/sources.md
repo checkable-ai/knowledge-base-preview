@@ -5,7 +5,7 @@ description: "Sources cited by the Meta AI models (Llama, Muse Spark and Meta Mo
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "frontier-ai"

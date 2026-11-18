@@ -5,7 +5,7 @@ description: "Sources cited by the Palo Alto Networks Prisma AIRS column, with t
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "ai-security"

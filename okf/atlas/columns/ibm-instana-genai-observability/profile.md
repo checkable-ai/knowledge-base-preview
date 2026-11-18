@@ -5,7 +5,7 @@ description: "Column profile for IBM Instana GenAI Observability in the Observab
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "observability"

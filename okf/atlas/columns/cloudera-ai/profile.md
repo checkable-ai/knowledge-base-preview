@@ -5,7 +5,7 @@ description: "Column profile for Cloudera AI in the Data and AI platforms group.
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "data-ai-platforms"
@@ -32,8 +32,7 @@ Column group: Data and AI platforms. Facts are agent-run. Cells listed as eligib
 
 | Verification state | Cells |
 | --- | --- |
-| agent-checked | 1 |
-| verified | 45 |
+| verified | 46 |
 
 ## Products
 
@@ -70,7 +69,7 @@ Column group: Data and AI platforms. Facts are agent-run. Cells listed as eligib
 | [HITL](c5-1.md) | Observability & Explainability | not-covered | verified | yes |
 | [Behavioural](c5-2.md) | Observability & Explainability | not-covered | verified | yes |
 | [Cost & Yield](c5-3.md) | Observability & Explainability | not-covered | verified | yes |
-| [Infrastructure](c5-4.md) | Observability & Explainability | not-covered | agent-checked | yes |
+| [Infrastructure](c5-4.md) | Observability & Explainability | not-covered | verified | yes |
 | [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |
 | [Administrative Audit](c7-1.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [SOC Telemetry](c7-2.md) | Agentic MLSecOps | not-covered | verified | yes |

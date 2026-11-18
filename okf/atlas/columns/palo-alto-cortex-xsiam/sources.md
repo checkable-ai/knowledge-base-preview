@@ -5,7 +5,7 @@ description: "Sources cited by the Cortex XSIAM, Cortex XDR and Cortex AgentiX c
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "secops"

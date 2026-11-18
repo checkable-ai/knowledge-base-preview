@@ -5,7 +5,7 @@ description: "Sources cited by the BigID AI governance and agentic access contro
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "data-security"

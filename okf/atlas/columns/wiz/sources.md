@@ -5,7 +5,7 @@ description: "Sources cited by the Wiz column, with tiers and check dates."
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "ai-security"

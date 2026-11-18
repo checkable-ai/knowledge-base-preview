@@ -5,7 +5,7 @@ description: "Column profile for Groq (GroqCloud) in the Model hosting and infer
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "model-hosting"

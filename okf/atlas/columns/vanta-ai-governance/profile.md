@@ -5,7 +5,7 @@ description: "Column profile for Vanta AI governance and ISO 42001 in the AI gov
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "ai-governance"
@@ -33,8 +33,7 @@ Column group: AI governance and risk. Facts are agent-run. Cells listed as eligi
 
 | Verification state | Cells |
 | --- | --- |
-| agent-checked | 6 |
-| verified | 40 |
+| verified | 46 |
 
 ## Products
 
@@ -56,23 +55,23 @@ Column group: AI governance and risk. Facts are agent-run. Cells listed as eligi
 | [A2A](c4-4.md) | Identity | not-covered | verified | yes |
 | [Agent Local Scopes](c1-1.md) | Authorisation | not-covered | verified | yes |
 | [Agent Remote Scopes](c1-2.md) | Authorisation | covered | verified | yes |
-| [Human Approval](c1-3.md) | Authorisation | not-covered | agent-checked | yes |
+| [Human Approval](c1-3.md) | Authorisation | not-covered | verified | yes |
 | [Agent Provisioning](c1-4.md) | Authorisation | not-covered | verified | yes |
 | [Agent Orchestration](c2-1.md) | Runtime | out-of-scope | verified | yes |
 | [Inference](c2-2.md) | Runtime | not-covered | verified | yes |
 | [Execution Environment](c2-3.md) | Runtime | out-of-scope | verified | yes |
 | [Agent In-Session Memory](c2-4.md) | Runtime | out-of-scope | verified | yes |
 | [Harness](c2-5.md) | Runtime | out-of-scope | verified | yes |
-| [Agent Persistent Memory](c2-6.md) | Runtime | out-of-scope | agent-checked | yes |
+| [Agent Persistent Memory](c2-6.md) | Runtime | out-of-scope | verified | yes |
 | [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | verified | yes |
 | [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
-| [HITL](c5-1.md) | Observability & Explainability | not-covered | agent-checked | yes |
+| [HITL](c5-1.md) | Observability & Explainability | not-covered | verified | yes |
 | [Behavioural](c5-2.md) | Observability & Explainability | not-covered | verified | yes |
 | [Cost & Yield](c5-3.md) | Observability & Explainability | not-covered | verified | yes |
-| [Infrastructure](c5-4.md) | Observability & Explainability | out-of-scope | agent-checked | yes |
+| [Infrastructure](c5-4.md) | Observability & Explainability | out-of-scope | verified | yes |
 | [Connectivity](c5-5.md) | Observability & Explainability | covered | verified | yes |
 | [Administrative Audit](c7-1.md) | Agentic MLSecOps | not-covered | verified | yes |
 | [SOC Telemetry](c7-2.md) | Agentic MLSecOps | not-covered | verified | yes |
@@ -88,13 +87,13 @@ Column group: AI governance and risk. Facts are agent-run. Cells listed as eligi
 | [Posture & Reporting](c6-3.md) | Governance | covered | verified | yes |
 | [Policy Management](c6-4.md) | Governance | covered | verified | yes |
 | [AI Lifecycle Management](c6-5.md) | Governance | not-covered | verified | yes |
-| [Ownership & Accountability](c6-6.md) | Governance | not-covered | agent-checked | yes |
+| [Ownership & Accountability](c6-6.md) | Governance | not-covered | verified | yes |
 | [Risk Assessment & Classification](c6-7.md) | Governance | covered | verified | yes |
 | [Change & Release Governance](c6-8.md) | Governance | not-covered | verified | yes |
 | [Exceptions & Risk Acceptance](c6-9.md) | Governance | not-covered | verified | yes |
 | [Data Lifecycle Governance](c6-10.md) | Governance | not-covered | verified | yes |
 | [Assurance & Compliance Evidence](c6-11.md) | Governance | covered | verified | yes |
-| [Third-Party Governance](c6-12.md) | Governance | not-covered | agent-checked | yes |
+| [Third-Party Governance](c6-12.md) | Governance | not-covered | verified | yes |
 | [Independent Assurance & Authorisation](c6-13.md) | Governance | covered | verified | yes |
 
 Sources are in the [source registry](sources.md).

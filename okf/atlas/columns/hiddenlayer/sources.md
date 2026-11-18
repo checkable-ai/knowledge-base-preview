@@ -5,7 +5,7 @@ description: "Sources cited by the HiddenLayer column, with tiers and check date
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "ai-security"

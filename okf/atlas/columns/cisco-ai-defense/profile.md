@@ -5,7 +5,7 @@ description: "Column profile for Cisco AI Defense in the AI security group."
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "ai-security"

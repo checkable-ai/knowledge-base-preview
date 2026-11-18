@@ -5,7 +5,7 @@ description: "Sources cited by the Prisma Browser and Prisma SASE AI Access Secu
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "ai-usage-control"

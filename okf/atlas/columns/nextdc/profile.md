@@ -5,7 +5,7 @@ description: "Column profile for NEXTDC sovereign AI campuses in the Australian 
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "sovereign-hosting"

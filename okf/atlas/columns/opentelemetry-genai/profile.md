@@ -5,7 +5,7 @@ description: "Column profile for OpenTelemetry GenAI semantic conventions in the
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "observability"

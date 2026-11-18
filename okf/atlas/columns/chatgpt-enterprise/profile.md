@@ -5,7 +5,7 @@ description: "Column profile for ChatGPT business plans in the Enterprise and wo
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "enterprise-agents"

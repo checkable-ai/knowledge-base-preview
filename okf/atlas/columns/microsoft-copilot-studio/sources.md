@@ -5,7 +5,7 @@ description: "Sources cited by the Microsoft Copilot Studio column, with tiers a
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "enterprise-agents"

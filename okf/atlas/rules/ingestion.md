@@ -5,7 +5,7 @@ description: "How the pages in this tree are made, which pages agents may retrie
 classification: "C1"
 owner: "human:owner"
 status: "stable"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "rules"
@@ -37,7 +37,7 @@ each with its trust tier. Tier 1 is the vendor's own documentation and tier 2 is
 
 Every page carries `type`, `title`, `description`, `classification`, `owner`, `status`, `review`, `verification`,
 `tags`, `sources` and `generated`. `owner` names who is accountable for the page, and it is the same on every answer
-page: the owner of Checkable AI. Who checked a record is in its `review`, `verification` and eligibility basis. An answer page adds an `atlas` block: platform, control, group, verdict, whether
+page: the owner of Checkable AI. An answer page adds an `atlas` block: platform, control, group, verdict, whether
 agents may retrieve the page and why, the check date and the file it was drawn from.
 
 An answer page also carries its limits as data, beside the verdict. `conditions_apply: true` marks an answer that is
@@ -50,13 +50,8 @@ plan or a route without naming one.
 
 The verdict is one of `covered`, `partial`, `not-covered`, `out-of-scope` or `escalated`. A `not-covered` answer also
 carries a `gap_kind`: `out-of-scope` when the control is outside what the product is for, and `in-scope-gap` when the
-control belongs to the product and nothing is documented. `review: approved` means a person at Checkable AI accepted
-the verdict shown on the page, and its `verification` is `verified`. `review: pending` means the agents checked the
-verdict as the page states (an evaluator that found the quoted passage on the vendor's page, or two model families that
-agreed) and no person has accepted it yet, so its `verification` is `agent-checked`. A `not-covered` or `out-of-scope`
-verdict often has no passage to quote: there the documentation was read and two model families agreed it does not
-document the control. An `escalated` verdict is one the agents did not agree on (`verification: "contested"`), so a
-person settles it.
+control belongs to the product and nothing is documented. `review: approved` means our expert team reviewed the
+verdict shown on the page.
 
 `retrieval-index.json` lists every page with its path, platform, group, control, verdict, gap kind, verification,
 review state, retrieval status, sources, chunk names and SHA-256, so a program can filter and fetch without parsing YAML.

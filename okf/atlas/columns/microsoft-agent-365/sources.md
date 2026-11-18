@@ -5,7 +5,7 @@ description: "Sources cited by the Microsoft Agent 365 column, with tiers and ch
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "enterprise-agents"

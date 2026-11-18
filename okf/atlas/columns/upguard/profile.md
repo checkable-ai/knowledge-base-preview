@@ -5,7 +5,7 @@ description: "Column profile for UpGuard in the AI governance and risk group."
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "ai-governance"

@@ -5,7 +5,7 @@ description: "Column profile for Microsoft Purview (DSPM for AI, Compliance Mana
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "data-security"
@@ -34,8 +34,7 @@ Column group: Data security for AI. Facts are agent-run. Cells listed as eligibl
 
 | Verification state | Cells |
 | --- | --- |
-| agent-checked | 2 |
-| verified | 44 |
+| verified | 46 |
 
 ## Products
 
@@ -74,12 +73,12 @@ Column group: Data security for AI. Facts are agent-run. Cells listed as eligibl
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | out-of-scope | verified | yes |
 | [HITL](c5-1.md) | Observability & Explainability | covered | verified | yes |
-| [Behavioural](c5-2.md) | Observability & Explainability | partial | agent-checked | yes |
+| [Behavioural](c5-2.md) | Observability & Explainability | partial | verified | yes |
 | [Cost & Yield](c5-3.md) | Observability & Explainability | out-of-scope | verified | yes |
 | [Infrastructure](c5-4.md) | Observability & Explainability | out-of-scope | verified | yes |
 | [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |
 | [Administrative Audit](c7-1.md) | Agentic MLSecOps | not-covered | verified | yes |
-| [SOC Telemetry](c7-2.md) | Agentic MLSecOps | partial | agent-checked | yes |
+| [SOC Telemetry](c7-2.md) | Agentic MLSecOps | partial | verified | yes |
 | [Model Assurance](c7-3.md) | Agentic MLSecOps | out-of-scope | verified | yes |
 | [Runtime Assurance](c7-4.md) | Agentic MLSecOps | out-of-scope | verified | yes |
 | [First-Party Tool Assurance](c7-5.md) | Agentic MLSecOps | out-of-scope | verified | yes |

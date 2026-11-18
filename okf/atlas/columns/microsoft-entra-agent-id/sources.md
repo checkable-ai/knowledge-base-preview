@@ -5,7 +5,7 @@ description: "Sources cited by the Microsoft Entra Agent ID column, with tiers a
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "identity"

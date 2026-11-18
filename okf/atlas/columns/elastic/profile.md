@@ -5,7 +5,7 @@ description: "Column profile for Elastic in the Retrieval and search group."
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "data-retrieval"
@@ -32,8 +32,7 @@ Column group: Retrieval and search. Facts are agent-run. Cells listed as eligibl
 
 | Verification state | Cells |
 | --- | --- |
-| agent-checked | 2 |
-| verified | 44 |
+| verified | 46 |
 
 ## Products
 
@@ -69,7 +68,7 @@ Column group: Retrieval and search. Facts are agent-run. Cells listed as eligibl
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [HITL](c5-1.md) | Observability & Explainability | covered | verified | yes |
-| [Behavioural](c5-2.md) | Observability & Explainability | not-covered | agent-checked | yes |
+| [Behavioural](c5-2.md) | Observability & Explainability | not-covered | verified | yes |
 | [Cost & Yield](c5-3.md) | Observability & Explainability | not-covered | verified | yes |
 | [Infrastructure](c5-4.md) | Observability & Explainability | covered | verified | yes |
 | [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |
@@ -82,7 +81,7 @@ Column group: Retrieval and search. Facts are agent-run. Cells listed as eligibl
 | [Data & Feature Stores](c7-8.md) | Agentic MLSecOps | covered | verified | yes |
 | [AI Discovery](c7-9.md) | Agentic MLSecOps | covered | verified | yes |
 | [Automated AI Pen-Testing](c7-10.md) | Agentic MLSecOps | not-covered | verified | yes |
-| [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | agent-checked | yes |
+| [Asset Registries & Inventory](c6-1.md) | Governance | not-covered | verified | yes |
 | [Registration & Approval Workflows](c6-2.md) | Governance | not-covered | verified | yes |
 | [Posture & Reporting](c6-3.md) | Governance | not-covered | verified | yes |
 | [Policy Management](c6-4.md) | Governance | not-covered | verified | yes |

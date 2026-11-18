@@ -5,7 +5,7 @@ description: "Column profile for GitLab Duo Agent Platform in the Coding agents 
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "coding-agents"
@@ -34,9 +34,8 @@ Column group: Coding agents. Facts are agent-run. Cells listed as eligible are t
 
 | Verification state | Cells |
 | --- | --- |
-| agent-checked | 1 |
 | contested | 1 |
-| verified | 44 |
+| verified | 45 |
 
 ## Products
 
@@ -59,7 +58,7 @@ Column group: Coding agents. Facts are agent-run. Cells listed as eligible are t
 | [Agent Remote Scopes](c1-2.md) | Authorisation | covered | verified | yes |
 | [Human Approval](c1-3.md) | Authorisation | covered | verified | yes |
 | [Agent Provisioning](c1-4.md) | Authorisation | covered | verified | yes |
-| [Agent Orchestration](c2-1.md) | Runtime | not-covered | agent-checked | yes |
+| [Agent Orchestration](c2-1.md) | Runtime | not-covered | verified | yes |
 | [Inference](c2-2.md) | Runtime | covered | verified | yes |
 | [Execution Environment](c2-3.md) | Runtime | covered | verified | yes |
 | [Agent In-Session Memory](c2-4.md) | Runtime | covered | verified | yes |

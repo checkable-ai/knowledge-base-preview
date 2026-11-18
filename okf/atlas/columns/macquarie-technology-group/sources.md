@@ -5,7 +5,7 @@ description: "Sources cited by the Macquarie Technology Group (Macquarie Governm
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "sovereign-hosting"

@@ -5,7 +5,7 @@ description: "Sources cited by the Zscaler AI Security (with SPLX) column, with 
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "ai-usage-control"

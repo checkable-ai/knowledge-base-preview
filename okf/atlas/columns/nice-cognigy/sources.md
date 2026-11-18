@@ -5,7 +5,7 @@ description: "Sources cited by the NiCE Cognigy column, with tiers and check dat
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "enterprise-agents"

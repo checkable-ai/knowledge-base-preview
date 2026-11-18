@@ -5,7 +5,7 @@ description: "Column profile for HashiCorp Vault in the Identity, access and sec
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "identity"
@@ -32,8 +32,7 @@ Column group: Identity, access and secrets. Facts are agent-run. Cells listed as
 
 | Verification state | Cells |
 | --- | --- |
-| agent-checked | 3 |
-| verified | 42 |
+| verified | 45 |
 
 ## Products
 
@@ -49,7 +48,7 @@ Column group: Identity, access and secrets. Facts are agent-run. Cells listed as
 | Control | Category | Verdict | State | Agent-eligible |
 | --- | --- | --- | --- | --- |
 | [Agent ID](c4-1.md) | Identity | not-covered | verified | yes |
-| [Credential Brokerage](c4-2.md) | Identity | covered | agent-checked | yes |
+| [Credential Brokerage](c4-2.md) | Identity | covered | verified | yes |
 | [Delegation (OBO)](c4-3.md) | Identity | covered | verified | yes |
 | [A2A](c4-4.md) | Identity | not-covered | verified | yes |
 | [Agent Local Scopes](c1-1.md) | Authorisation | not-covered | verified | yes |
@@ -60,10 +59,10 @@ Column group: Identity, access and secrets. Facts are agent-run. Cells listed as
 | [Inference](c2-2.md) | Runtime | not-covered | verified | yes |
 | [Execution Environment](c2-3.md) | Runtime | not-covered | verified | yes |
 | [Agent In-Session Memory](c2-4.md) | Runtime | not-covered | verified | yes |
-| [Harness](c2-5.md) | Runtime | not-covered | agent-checked | yes |
+| [Harness](c2-5.md) | Runtime | not-covered | verified | yes |
 | [Agent Persistent Memory](c2-6.md) | Runtime | not-covered | verified | yes |
 | [Execution Containment & Kill Switch](c2-7.md) | Runtime | not-covered | verified | yes |
-| [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | not-covered | agent-checked | yes |
+| [Model Gateway](c3-1.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Tool Gateway](c3-2.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | not-covered | verified | yes |

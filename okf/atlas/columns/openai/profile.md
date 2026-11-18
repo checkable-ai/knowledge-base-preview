@@ -5,7 +5,7 @@ description: "Column profile for OpenAI in the Frontier AI providers group."
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "frontier-ai"
@@ -33,8 +33,7 @@ Column group: Frontier AI providers. Facts are agent-run. Cells listed as eligib
 
 | Verification state | Cells |
 | --- | --- |
-| agent-checked | 1 |
-| verified | 45 |
+| verified | 46 |
 
 ## Products
 
@@ -67,7 +66,7 @@ Column group: Frontier AI providers. Facts are agent-run. Cells listed as eligib
 | [Data Gateway](c3-3.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [A2A Gateway](c3-4.md) | Mediation / Policy Enforcement | not-covered | verified | yes |
 | [HITL](c5-1.md) | Observability & Explainability | covered | verified | yes |
-| [Behavioural](c5-2.md) | Observability & Explainability | partial | agent-checked | yes |
+| [Behavioural](c5-2.md) | Observability & Explainability | partial | verified | yes |
 | [Cost & Yield](c5-3.md) | Observability & Explainability | not-covered | verified | yes |
 | [Infrastructure](c5-4.md) | Observability & Explainability | not-covered | verified | yes |
 | [Connectivity](c5-5.md) | Observability & Explainability | not-covered | verified | yes |

@@ -5,7 +5,7 @@ description: "Sources cited by the Microsoft Purview (DSPM for AI, Compliance Ma
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "data-security"

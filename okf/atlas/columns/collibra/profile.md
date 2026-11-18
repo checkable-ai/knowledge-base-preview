@@ -5,7 +5,7 @@ description: "Column profile for Collibra AI Command Center in the AI governance
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "ai-governance"

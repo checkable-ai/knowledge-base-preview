@@ -5,7 +5,7 @@ description: "Sources cited by the Heidi Health AI Care Partner column, with tie
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "enterprise-agents"

@@ -5,7 +5,7 @@ description: "Sources cited by the Zoom AI Companion column, with tiers and chec
 classification: "C1"
 owner: "agent:curator"
 status: "draft"
-review: "pending"
+review: "approved"
 verification: "not applicable"
 tags:
   - "enterprise-agents"
